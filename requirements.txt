@@ -1,0 +1,23 @@
+# Configuration
+python-dotenv>=1.0,<2
+
+# Collecte Wikidata / Wikipédia
+requests>=2.32,<3
+beautifulsoup4>=4.12,<5
+
+# Extraction LLM et validation JSON
+groq>=0.31,<1
+jsonschema>=4.23,<5
+
+# Base de données graphe
+neo4j>=5.26,<6
+
+# API et validation des requêtes
+fastapi>=0.115,<1
+uvicorn[standard]>=0.30,<1
+pydantic>=2.9,<3
+
+# Traitement des tableaux et interface Streamlit
+pandas>=2.2,<3
+streamlit>=1.40,<2
+pyvis>=0.3.2,<0.4

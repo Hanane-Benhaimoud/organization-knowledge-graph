@@ -1,0 +1,668 @@
+{
+  "document_id": "wikipedia_en_Q16725802",
+  "wikidata_id": "Q16725802",
+  "entity_label": "OpenPOWER Foundation",
+  "entity_type": "organization",
+  "seed_categories": [],
+  "source": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/OpenPOWER_Foundation",
+  "revision_id": 1381764744,
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1381764744",
+  "pageid": 41692369,
+  "title": "OpenPOWER Foundation",
+  "language": "en",
+  "collected_at": "2026-10-28T21:59:39.359982+00:00",
+  "content": {
+    "sections": [
+      {
+        "heading": "Introduction",
+        "text": "The OpenPOWER Foundation is a collaboration around Power ISA -based products initiated by IBM and announced as the \"OpenPOWER Consortium\" on August 6, 2013. IBM said it would open up technology surrounding its Power Architecture offerings, such as processor specifications, firmware, and software, for licensing, and use a collaborative development model with its partners, while keeping control of the Power instruction set.\nThe stated goal was to enable the server vendor ecosystem to build its own customized server, networking, and storage hardware for data centers and cloud computing .\nSince August 2019, the governing body for the Power ISA instruction set has been the OpenPOWER Foundation, and IBM allows its patents to be used royalty-free\nfor compliant implementations. Processors based on IBM's IP can be fabricated at foundries other than IBM's and combined with other hardware of the integrator's choice. [ citation needed ]\nOn August 20, 2019, IBM announced that the OpenPOWER Foundation would become part of the Linux Foundation ."
+      },
+      {
+        "heading": "Openness",
+        "text": "IBM described the project as \"open\" in three ways:\nIBM would license the microprocessor technology openly : licensees could see the blueprints for the processor and its software, and hire IBM or other companies to manufacture processors or other related chips. Members would follow an open-collaboration business model, sharing innovations with each other and collaborating on development projects. The initiative would use open-source software such as the Linux operating system."
+      },
+      {
+        "heading": "Power Architecture",
+        "text": "OpenPower Foundation also releases Documentation on the Power Architecture.\nSome relevant documents are the Power ISA and Power Architecture Platform Reference ."
+      },
+      {
+        "heading": "Hardware",
+        "text": "At launch, IBM said it would offer the POWER8 chip technology and later iterations under the OpenPOWER initiative, and that earlier designs were also available for licensing. Partners are required to contribute intellectual property to the OpenPOWER Foundation to be able to gain high level status. [ citation needed ]\nThe POWER8 processor architecture includes facilities for integration into custom designs. [ citation needed ] Its memory controllers are generic, intended to support future memory technologies. [ citation needed ] Its CAPI (Coherent Accelerator Processor Interface) expansion bus provides coherent memory addressing for the processor and external coprocessors such as GPUs , ASICs and FPGAs . [ citation needed ]\nNvidia announced it would contribute its interconnect technology, NVLink , intended to connect Nvidia's Pascal -based graphics processors to POWER processors. [ better source needed ]"
+      },
+      {
+        "heading": "Open source",
+        "text": "In August 2019, IBM released the Microwatt processor core, a basic single-issue, in-order implementation of the Power ISA v.3.0 intended as a reference design for OpenPOWER. It is open source and published on GitHub . Later, Chiselwatt joined in as a second open source implementation.\nIn June 2020, IBM released the A2I core under a similar open source license and followed up with the A2O core in September 2020.\nAt the OpenPOWER Summit NA 2020, the Libre-SOC project presented its plans for a fully open-source hybrid CPU/GPU based on the OpenPOWER ISA. It adhered to the Power ISA 3.0 instruction set and could be run on field-programmable gate array boards. In a mailing list message dated June 23, 2024, project lead Luke Kenneth Casson Leighton described the project as \"effectively terminated\"."
+      },
+      {
+        "heading": "Software",
+        "text": "At launch, the OpenPOWER initiative was to include firmware , the KVM hypervisor , and little endian Linux operating system. The foundation has a site on GitHub for the software it releases as open source. By July 2014, it had released firmware to boot Linux.\nSUSE included support for Power8 in their enterprise Linux distribution SUSE Linux Enterprise Server version 12 (release 27 October 2014).\nCanonical Ltd. supports the architecture in Ubuntu Server from version 16.04 LTS.\nFreeBSD has also been reported to have preliminary support for the architecture.\nCollabora Online , an online office suite based on LibreOffice, announced support for the OpenPOWER ppc64le architecture in October 2022. Collabora provided Ubuntu 20.04 packages and Docker images for the architecture, and the German provider 21unity offered it with Nextcloud Enterprise on its OpenPOWER-based cloud."
+      },
+      {
+        "heading": "Members",
+        "text": "Google , Tyan , Nvidia , and Mellanox are founding members of the OpenPOWER Foundation. At launch, Nvidia planned to pair its graphics processors with Power processors, and Mellanox to integrate its server adapters with Power chips. Tyan was reported to be working on servers using POWER8 and Google said the consortium had \"the potential to establish Power architecture as a viable option\" for applications in its data centers. Altera announced support for OpenPOWER in November 2013 with their FPGA offerings and OpenCL software.\nOn January 19, 2014, the Suzhou PowerCore Technology Company and the Research Institute of Jiangsu Industrial Technology announced that they will join the OpenPOWER Foundation and license POWER8 technologies to promote and help build systems around and design custom made processors for use in big data and cloud computing applications. On February 12, 2014, Samsung Electronics joined. As of March 2014, additional members are Altera , Fusion-io , Hynix , Micron , Servergy, and Xilinx . As of April 2014, Canonical , Chuanghe Mobile, Emulex , Hitachi , Inspur , Jülich Research Centre , Oregon State University , Teamsun, Unisource Technology Inc, and ZTE are listed as members at various levels. As of December 2014, Rackspace , Avnet , Lawrence Livermore National Laboratory , Sandia National Laboratories , Tsinghua University , Nallatech , Bull , QLogic , and Bloombase have joined, totaling about 80 members.\nAt the first annual OpenPOWER Summit 2015, the organization announced that there were 113 members, including Wistron , Cirrascale , and PMC-Sierra .\nBy late 2016, the OpenPOWER Foundation had more than 250 members. [ citation needed ]\nAs of July 2020, the OpenPOWER Foundation reported that it had 350-plus members."
+      },
+      {
+        "heading": "Reception",
+        "text": "In 2020, HPCwire wrote that building an ecosystem had proved hard, that IBM being the only Power chip supplier sometimes made OpenPOWER \"seem like just another IBM venture\" (a view it called \"probably unfair\"), and that after \"insufficient market traction\" IBM appeared to be deemphasizing its bet on OpenPOWER. IBM's Power10 processors need closed-source firmware for memory and PCI Express , which The Register reported in 2022 left Raptor Computing Systems, a maker of POWER workstations with fully open firmware, unable to adopt them."
+      },
+      {
+        "heading": "See also",
+        "text": "IBM OpenPower – a line of POWER5 based Power Systems machines running Linux PowerOpen Environment List of open-source hardware projects Open Compute Project OpenBMC OpenSPARC"
+      },
+      {
+        "heading": "External links",
+        "text": "OpenPOWER's home page OpenPOWER on GitHub OpenPower Cores on GitHub"
+      }
+    ],
+    "full_text": "Introduction\nThe OpenPOWER Foundation is a collaboration around Power ISA -based products initiated by IBM and announced as the \"OpenPOWER Consortium\" on August 6, 2013. IBM said it would open up technology surrounding its Power Architecture offerings, such as processor specifications, firmware, and software, for licensing, and use a collaborative development model with its partners, while keeping control of the Power instruction set.\nThe stated goal was to enable the server vendor ecosystem to build its own customized server, networking, and storage hardware for data centers and cloud computing .\nSince August 2019, the governing body for the Power ISA instruction set has been the OpenPOWER Foundation, and IBM allows its patents to be used royalty-free\nfor compliant implementations. Processors based on IBM's IP can be fabricated at foundries other than IBM's and combined with other hardware of the integrator's choice. [ citation needed ]\nOn August 20, 2019, IBM announced that the OpenPOWER Foundation would become part of the Linux Foundation .\n\nOpenness\nIBM described the project as \"open\" in three ways:\nIBM would license the microprocessor technology openly : licensees could see the blueprints for the processor and its software, and hire IBM or other companies to manufacture processors or other related chips. Members would follow an open-collaboration business model, sharing innovations with each other and collaborating on development projects. The initiative would use open-source software such as the Linux operating system.\n\nPower Architecture\nOpenPower Foundation also releases Documentation on the Power Architecture.\nSome relevant documents are the Power ISA and Power Architecture Platform Reference .\n\nHardware\nAt launch, IBM said it would offer the POWER8 chip technology and later iterations under the OpenPOWER initiative, and that earlier designs were also available for licensing. Partners are required to contribute intellectual property to the OpenPOWER Foundation to be able to gain high level status. [ citation needed ]\nThe POWER8 processor architecture includes facilities for integration into custom designs. [ citation needed ] Its memory controllers are generic, intended to support future memory technologies. [ citation needed ] Its CAPI (Coherent Accelerator Processor Interface) expansion bus provides coherent memory addressing for the processor and external coprocessors such as GPUs , ASICs and FPGAs . [ citation needed ]\nNvidia announced it would contribute its interconnect technology, NVLink , intended to connect Nvidia's Pascal -based graphics processors to POWER processors. [ better source needed ]\n\nOpen source\nIn August 2019, IBM released the Microwatt processor core, a basic single-issue, in-order implementation of the Power ISA v.3.0 intended as a reference design for OpenPOWER. It is open source and published on GitHub . Later, Chiselwatt joined in as a second open source implementation.\nIn June 2020, IBM released the A2I core under a similar open source license and followed up with the A2O core in September 2020.\nAt the OpenPOWER Summit NA 2020, the Libre-SOC project presented its plans for a fully open-source hybrid CPU/GPU based on the OpenPOWER ISA. It adhered to the Power ISA 3.0 instruction set and could be run on field-programmable gate array boards. In a mailing list message dated June 23, 2024, project lead Luke Kenneth Casson Leighton described the project as \"effectively terminated\".\n\nSoftware\nAt launch, the OpenPOWER initiative was to include firmware , the KVM hypervisor , and little endian Linux operating system. The foundation has a site on GitHub for the software it releases as open source. By July 2014, it had released firmware to boot Linux.\nSUSE included support for Power8 in their enterprise Linux distribution SUSE Linux Enterprise Server version 12 (release 27 October 2014).\nCanonical Ltd. supports the architecture in Ubuntu Server from version 16.04 LTS.\nFreeBSD has also been reported to have preliminary support for the architecture.\nCollabora Online , an online office suite based on LibreOffice, announced support for the OpenPOWER ppc64le architecture in October 2022. Collabora provided Ubuntu 20.04 packages and Docker images for the architecture, and the German provider 21unity offered it with Nextcloud Enterprise on its OpenPOWER-based cloud.\n\nMembers\nGoogle , Tyan , Nvidia , and Mellanox are founding members of the OpenPOWER Foundation. At launch, Nvidia planned to pair its graphics processors with Power processors, and Mellanox to integrate its server adapters with Power chips. Tyan was reported to be working on servers using POWER8 and Google said the consortium had \"the potential to establish Power architecture as a viable option\" for applications in its data centers. Altera announced support for OpenPOWER in November 2013 with their FPGA offerings and OpenCL software.\nOn January 19, 2014, the Suzhou PowerCore Technology Company and the Research Institute of Jiangsu Industrial Technology announced that they will join the OpenPOWER Foundation and license POWER8 technologies to promote and help build systems around and design custom made processors for use in big data and cloud computing applications. On February 12, 2014, Samsung Electronics joined. As of March 2014, additional members are Altera , Fusion-io , Hynix , Micron , Servergy, and Xilinx . As of April 2014, Canonical , Chuanghe Mobile, Emulex , Hitachi , Inspur , Jülich Research Centre , Oregon State University , Teamsun, Unisource Technology Inc, and ZTE are listed as members at various levels. As of December 2014, Rackspace , Avnet , Lawrence Livermore National Laboratory , Sandia National Laboratories , Tsinghua University , Nallatech , Bull , QLogic , and Bloombase have joined, totaling about 80 members.\nAt the first annual OpenPOWER Summit 2015, the organization announced that there were 113 members, including Wistron , Cirrascale , and PMC-Sierra .\nBy late 2016, the OpenPOWER Foundation had more than 250 members. [ citation needed ]\nAs of July 2020, the OpenPOWER Foundation reported that it had 350-plus members.\n\nReception\nIn 2020, HPCwire wrote that building an ecosystem had proved hard, that IBM being the only Power chip supplier sometimes made OpenPOWER \"seem like just another IBM venture\" (a view it called \"probably unfair\"), and that after \"insufficient market traction\" IBM appeared to be deemphasizing its bet on OpenPOWER. IBM's Power10 processors need closed-source firmware for memory and PCI Express , which The Register reported in 2022 left Raptor Computing Systems, a maker of POWER workstations with fully open firmware, unable to adopt them.\n\nSee also\nIBM OpenPower – a line of POWER5 based Power Systems machines running Linux PowerOpen Environment List of open-source hardware projects Open Compute Project OpenBMC OpenSPARC\n\nExternal links\nOpenPOWER's home page OpenPOWER on GitHub OpenPower Cores on GitHub"
+  },
+  "references": [
+    {
+      "url": "https://www.hpcwire.com/2020/07/02/openpower-reboot-new-director-new-silicon-partners-leveraging-linux-foundation-connections/",
+      "label": "\"OpenPOWER Reboot – New Director, New Silicon Partners, Leveraging Linux Foundation Connections\""
+    },
+    {
+      "url": "https://openpowerfoundation.org/boardofdirectors/",
+      "label": "\"Board of Directors\""
+    },
+    {
+      "url": "http://www.nextplatform.com/2020/06/01/openpower-puts-open-source-software-guru-in-charge/",
+      "label": "\"OpenPower Puts Open Source Software Guru In Charge\""
+    },
+    {
+      "url": "https://web.archive.org/web/20130810083136/http://www.anandtech.com/show/7204/ibm-offers-power-technology-for-licensing-forms-openpower-consortium",
+      "label": "\"IBM Offers POWER Technology for Licensing, Forms OpenPOWER Consortium\""
+    },
+    {
+      "url": "https://www.anandtech.com/show/7204/ibm-offers-power-technology-for-licensing-forms-openpower-consortium",
+      "label": "the original"
+    },
+    {
+      "url": "https://www.theregister.co.uk/2013/08/06/ibm_opens_up_power_chips_armstyle_to_take_on_chipzilla/",
+      "label": "\"IBM opens up Power chips, ARM-style, to take on Chipzilla\""
+    },
+    {
+      "url": "https://web.archive.org/web/20160909231043/http://asmarterplanet.com/blog/2013/08/open-and-collaborative-development-is-the-future-of-cloud-computing.html",
+      "label": "\"Open and Collaborative Development is the Future of Cloud Computing\""
+    },
+    {
+      "url": "https://asmarterplanet.com/blog/2013/08/open-and-collaborative-development-is-the-future-of-cloud-computing.html",
+      "label": "the original"
+    },
+    {
+      "url": "https://www.zdnet.com/article/ibms-openpower-consortium-with-nvidia-google-aims-to-advance-datacenter/",
+      "label": "\"IBM's OpenPower consortium with Nvidia, Google aims to advance datacenter\""
+    },
+    {
+      "url": "https://openpowerfoundation.org/final-draft-of-the-power-isa-eula-released/",
+      "label": "Final draft of Power ISA EULA"
+    },
+    {
+      "url": "https://openpowerfoundation.org/the-next-step-in-the-openpower-foundation-journey/",
+      "label": "\"OpenPOWER Foundation | The Next Step in the OpenPOWER Foundation Journey\""
+    },
+    {
+      "url": "https://openpowerfoundation.org/technical/resource-catalog/",
+      "label": "OpenPower Foundation Resource Catalog"
+    },
+    {
+      "url": "https://www.itjungle.com/2013/08/12/tfh081213-story01/",
+      "label": "\"IBM Forms OpenPower Consortium, Breathes New Life Into Power\""
+    },
+    {
+      "url": "https://newsfactor.com/",
+      "label": "\"NewsFactor\""
+    },
+    {
+      "url": "https://www.talospace.com/2019/08/day-2-keynote-and-openpower-blows-doors.html",
+      "label": "Day 2 keynote and OpenPOWER blows the doors off: Royalty-free, open soft-core (RISC-V sweating gallons)"
+    },
+    {
+      "url": "https://github.com/antonblanchard/chiselwatt",
+      "label": "Chiselwatt's page on Github"
+    },
+    {
+      "url": "https://github.com/openpower-cores/a2i",
+      "label": "\"A2I on GitHub\""
+    },
+    {
+      "url": "https://openpowerfoundation.org/openpower-foundation-introduces-ibm-hardware-and-software-contributions-at-openpower-summit-2020/",
+      "label": "OpenPOWER Foundation introduces IBM hardware and software contributions at OpenPOWER summit 2020"
+    },
+    {
+      "url": "https://www.phoronix.com/scan.php?page=news_item&px=Libre-SOC-2020",
+      "label": "Libre-SOC Still Persevering To Be A Hybrid CPU/GPU That's 100% Open-Source"
+    },
+    {
+      "url": "https://lists.libre-soc.org/pipermail/libre-soc-dev/2024-June/006348.html",
+      "label": "\"[Libre-soc-dev] I do not condone Luke's claims about RED Semi\""
+    },
+    {
+      "url": "https://www.enterpriseai.news/2014/07/15/open-sourced-bios-helps-power8-compete-x86/",
+      "label": "\"Open Sourced BIOS Helps Power8 Compete With X86\""
+    },
+    {
+      "url": "https://web.archive.org/web/20230204151937/https://www.suse.com/c/suse-linux-enterprise-12-ibm-power8/",
+      "label": "\"SUSE Linux Enterprise 12 and IBM POWER8\""
+    },
+    {
+      "url": "https://www.suse.com/c/suse-linux-enterprise-12-ibm-power8/",
+      "label": "the original"
+    },
+    {
+      "url": "https://www.zdnet.com/article/ibm-intros-next-gen-power8-microprocessor-servers-along-with-openpower-roadmap/",
+      "label": "\"IBM intros next-gen Power8 microprocessor, servers along with OpenPower roadmap\""
+    },
+    {
+      "url": "https://adrianchadd.blogspot.com/2015/02/freebsd-on-power8-its-alive.html",
+      "label": "\"Adrian Chadd's Ramblings: FreeBSD on the POWER8: it's alive!\""
+    },
+    {
+      "url": "https://web.archive.org/web/20170829073731/https://wiki.freebsd.org/POWER8",
+      "label": "\"FreeBSD Wiki: POWER8\""
+    },
+    {
+      "url": "https://wiki.freebsd.org/POWER8",
+      "label": "the original"
+    },
+    {
+      "url": "https://www.collaboraoffice.com/press-releases/collabora-online-unlocks-the-openpower-architecture/",
+      "label": "\"Collabora Online Unlocks the OpenPOWER Architecture\""
+    },
+    {
+      "url": "https://web.archive.org/web/20190822091831/https://www.pcworld.idg.com.au/article/524768/ibm_new_power8_doubles_performance_watson_chip/",
+      "label": "\"IBM's new Power8 doubles performance of Watson chip\""
+    },
+    {
+      "url": "https://www.pcworld.idg.com.au/article/524768/ibm_new_power8_doubles_performance_watson_chip/",
+      "label": "the original"
+    },
+    {
+      "url": "https://www.wsj.com/articles/SB10001424127887323420604578650412719931232",
+      "label": "\"IBM Gets Allies to Chip Away at Intel\""
+    },
+    {
+      "url": "http://www.abc27.com/story/23996554/altera-brings-fpga-based-acceleration-to-ibm-power-systems-and-announces-support-for-openpower-consortium",
+      "label": "\"Altera Brings FPGA-based Acceleration to IBM Power Systems and Announces Support for OpenPOWER Consortium - abc27 WHTM\""
+    },
+    {
+      "url": "https://web.archive.org/web/20140123072817/http://www-03.ibm.com/press/us/en/pressrelease/42980.wss",
+      "label": "\"China Tech Groups Embrace IBM POWER Technology\""
+    },
+    {
+      "url": "https://www-03.ibm.com/press/us/en/pressrelease/42980.wss",
+      "label": "the original"
+    },
+    {
+      "url": "https://www.itprotoday.com/",
+      "label": "\"IT Pro\""
+    },
+    {
+      "url": "https://web.archive.org/web/20140223013437/http://www-03.ibm.com/press/us/en/pressrelease/43195.wss",
+      "label": "\"Samsung Electronics Joins OpenPOWER Foundation\""
+    },
+    {
+      "url": "https://www-03.ibm.com/press/us/en/pressrelease/43195.wss",
+      "label": "the original"
+    },
+    {
+      "url": "https://www.pcworld.com/article/2097300/samsung-joins-ibm-google-in-openpower-alliance.html",
+      "label": "\"Samsung joins IBM, Google in OpenPower alliance\""
+    },
+    {
+      "url": "https://openpowerfoundation.org/membership/current-members/",
+      "label": "\"Current members\""
+    },
+    {
+      "url": "https://web.archive.org/web/20220117062401/https://openpowerfoundation.org/openpower-tops-off-first-year-with-80-members-worldwide-and-12-systems-under-development/",
+      "label": "\"OpenPOWER Foundation | OpenPOWER Gains Momentum Heading into Second Year\""
+    },
+    {
+      "url": "https://openpowerfoundation.org/openpower-tops-off-first-year-with-80-members-worldwide-and-12-systems-under-development/",
+      "label": "the original"
+    },
+    {
+      "url": "https://www.theregister.com/2022/03/01/proprietary_firmware_blobs/",
+      "label": "\"Concern over growing reach of proprietary firmware BLOBs\""
+    },
+    {
+      "url": "https://www.phoronix.com/news/POWER10-Blobs-Raptor",
+      "label": "\"Binary Blobs Continue To Prove Challenging For POWER10 Plus Very Expensive Motherboards\""
+    }
+  ],
+  "outgoing_links": [
+    {
+      "title": "Altera",
+      "url": "https://en.wikipedia.org/wiki/Altera"
+    },
+    {
+      "title": "Apache Derby",
+      "url": "https://en.wikipedia.org/wiki/Apache_Derby"
+    },
+    {
+      "title": "Application-specific integrated circuit",
+      "url": "https://en.wikipedia.org/wiki/Application-specific_integrated_circuit"
+    },
+    {
+      "title": "Avnet",
+      "url": "https://en.wikipedia.org/wiki/Avnet"
+    },
+    {
+      "title": "Big data",
+      "url": "https://en.wikipedia.org/wiki/Big_data"
+    },
+    {
+      "title": "Canonical (company)",
+      "url": "https://en.wikipedia.org/wiki/Canonical_%28company%29"
+    },
+    {
+      "title": "Canonical Ltd.",
+      "url": "https://en.wikipedia.org/wiki/Canonical_Ltd."
+    },
+    {
+      "title": "Carbon Design System",
+      "url": "https://en.wikipedia.org/wiki/Carbon_Design_System"
+    },
+    {
+      "title": "Cgidev2",
+      "url": "https://en.wikipedia.org/wiki/Cgidev2"
+    },
+    {
+      "title": "Cirrascale Cloud Services",
+      "url": "https://en.wikipedia.org/wiki/Cirrascale_Cloud_Services"
+    },
+    {
+      "title": "Cloud computing",
+      "url": "https://en.wikipedia.org/wiki/Cloud_computing"
+    },
+    {
+      "title": "Coherent Accelerator Processor Interface",
+      "url": "https://en.wikipedia.org/wiki/Coherent_Accelerator_Processor_Interface"
+    },
+    {
+      "title": "Collabora Online",
+      "url": "https://en.wikipedia.org/wiki/Collabora_Online"
+    },
+    {
+      "title": "Common Public License",
+      "url": "https://en.wikipedia.org/wiki/Common_Public_License"
+    },
+    {
+      "title": "Data center",
+      "url": "https://en.wikipedia.org/wiki/Data_center"
+    },
+    {
+      "title": "EGL (programming language)",
+      "url": "https://en.wikipedia.org/wiki/EGL_%28programming_language%29"
+    },
+    {
+      "title": "Eclipse (software)",
+      "url": "https://en.wikipedia.org/wiki/Eclipse_%28software%29"
+    },
+    {
+      "title": "Eclipse Che",
+      "url": "https://en.wikipedia.org/wiki/Eclipse_Che"
+    },
+    {
+      "title": "Eclipse Foundation",
+      "url": "https://en.wikipedia.org/wiki/Eclipse_Foundation"
+    },
+    {
+      "title": "Emulex",
+      "url": "https://en.wikipedia.org/wiki/Emulex"
+    },
+    {
+      "title": "Executive director",
+      "url": "https://en.wikipedia.org/wiki/Executive_director"
+    },
+    {
+      "title": "FPGA",
+      "url": "https://en.wikipedia.org/wiki/FPGA"
+    },
+    {
+      "title": "Fedora Linux",
+      "url": "https://en.wikipedia.org/wiki/Fedora_Linux"
+    },
+    {
+      "title": "Fedora Project",
+      "url": "https://en.wikipedia.org/wiki/Fedora_Project"
+    },
+    {
+      "title": "Field-programmable gate array",
+      "url": "https://en.wikipedia.org/wiki/Field-programmable_gate_array"
+    },
+    {
+      "title": "Firmware",
+      "url": "https://en.wikipedia.org/wiki/Firmware"
+    },
+    {
+      "title": "Forschungszentrum Jülich",
+      "url": "https://en.wikipedia.org/wiki/Forschungszentrum_J%C3%BClich"
+    },
+    {
+      "title": "FreeBSD",
+      "url": "https://en.wikipedia.org/wiki/FreeBSD"
+    },
+    {
+      "title": "Free and open-source software",
+      "url": "https://en.wikipedia.org/wiki/Free_and_open-source_software"
+    },
+    {
+      "title": "Fusion-io",
+      "url": "https://en.wikipedia.org/wiki/Fusion-io"
+    },
+    {
+      "title": "GPU",
+      "url": "https://en.wikipedia.org/wiki/GPU"
+    },
+    {
+      "title": "GitHub",
+      "url": "https://en.wikipedia.org/wiki/GitHub"
+    },
+    {
+      "title": "Google",
+      "url": "https://en.wikipedia.org/wiki/Google"
+    },
+    {
+      "title": "Groupe Bull",
+      "url": "https://en.wikipedia.org/wiki/Groupe_Bull"
+    },
+    {
+      "title": "HElib",
+      "url": "https://en.wikipedia.org/wiki/HElib"
+    },
+    {
+      "title": "Hitachi",
+      "url": "https://en.wikipedia.org/wiki/Hitachi"
+    },
+    {
+      "title": "Hypervisor",
+      "url": "https://en.wikipedia.org/wiki/Hypervisor"
+    },
+    {
+      "title": "IBM",
+      "url": "https://en.wikipedia.org/wiki/IBM"
+    },
+    {
+      "title": "IBM A2",
+      "url": "https://en.wikipedia.org/wiki/IBM_A2"
+    },
+    {
+      "title": "IBM OpenPower",
+      "url": "https://en.wikipedia.org/wiki/IBM_OpenPower"
+    },
+    {
+      "title": "IBM Power Systems",
+      "url": "https://en.wikipedia.org/wiki/IBM_Power_Systems"
+    },
+    {
+      "title": "IBM Public License",
+      "url": "https://en.wikipedia.org/wiki/IBM_Public_License"
+    },
+    {
+      "title": "Inspur",
+      "url": "https://en.wikipedia.org/wiki/Inspur"
+    },
+    {
+      "title": "Instruction set architecture",
+      "url": "https://en.wikipedia.org/wiki/Instruction_set_architecture"
+    },
+    {
+      "title": "Intellectual property",
+      "url": "https://en.wikipedia.org/wiki/Intellectual_property"
+    },
+    {
+      "title": "K42",
+      "url": "https://en.wikipedia.org/wiki/K42"
+    },
+    {
+      "title": "Kernel-based Virtual Machine",
+      "url": "https://en.wikipedia.org/wiki/Kernel-based_Virtual_Machine"
+    },
+    {
+      "title": "Kitura",
+      "url": "https://en.wikipedia.org/wiki/Kitura"
+    },
+    {
+      "title": "Lawrence Livermore National Laboratory",
+      "url": "https://en.wikipedia.org/wiki/Lawrence_Livermore_National_Laboratory"
+    },
+    {
+      "title": "Linux",
+      "url": "https://en.wikipedia.org/wiki/Linux"
+    },
+    {
+      "title": "Linux Foundation",
+      "url": "https://en.wikipedia.org/wiki/Linux_Foundation"
+    },
+    {
+      "title": "Linux Technology Center",
+      "url": "https://en.wikipedia.org/wiki/Linux_Technology_Center"
+    },
+    {
+      "title": "Linux on IBM Z",
+      "url": "https://en.wikipedia.org/wiki/Linux_on_IBM_Z"
+    },
+    {
+      "title": "List of open-source hardware projects",
+      "url": "https://en.wikipedia.org/wiki/List_of_open-source_hardware_projects"
+    },
+    {
+      "title": "Little endian",
+      "url": "https://en.wikipedia.org/wiki/Little_endian"
+    },
+    {
+      "title": "Mellanox",
+      "url": "https://en.wikipedia.org/wiki/Mellanox"
+    },
+    {
+      "title": "Micron Technology",
+      "url": "https://en.wikipedia.org/wiki/Micron_Technology"
+    },
+    {
+      "title": "NVIDIA",
+      "url": "https://en.wikipedia.org/wiki/NVIDIA"
+    },
+    {
+      "title": "NVLink",
+      "url": "https://en.wikipedia.org/wiki/NVLink"
+    },
+    {
+      "title": "Nallatech",
+      "url": "https://en.wikipedia.org/wiki/Nallatech"
+    },
+    {
+      "title": "NetRexx",
+      "url": "https://en.wikipedia.org/wiki/NetRexx"
+    },
+    {
+      "title": "Node-RED",
+      "url": "https://en.wikipedia.org/wiki/Node-RED"
+    },
+    {
+      "title": "Nvidia",
+      "url": "https://en.wikipedia.org/wiki/Nvidia"
+    },
+    {
+      "title": "Object REXX",
+      "url": "https://en.wikipedia.org/wiki/Object_REXX"
+    },
+    {
+      "title": "Open-source software",
+      "url": "https://en.wikipedia.org/wiki/Open-source_software"
+    },
+    {
+      "title": "OpenAFS",
+      "url": "https://en.wikipedia.org/wiki/OpenAFS"
+    },
+    {
+      "title": "OpenBMC",
+      "url": "https://en.wikipedia.org/wiki/OpenBMC"
+    },
+    {
+      "title": "OpenCL",
+      "url": "https://en.wikipedia.org/wiki/OpenCL"
+    },
+    {
+      "title": "OpenJ9",
+      "url": "https://en.wikipedia.org/wiki/OpenJ9"
+    },
+    {
+      "title": "OpenPOWER Microwatt",
+      "url": "https://en.wikipedia.org/wiki/OpenPOWER_Microwatt"
+    },
+    {
+      "title": "OpenSPARC",
+      "url": "https://en.wikipedia.org/wiki/OpenSPARC"
+    },
+    {
+      "title": "Open Compute Project",
+      "url": "https://en.wikipedia.org/wiki/Open_Compute_Project"
+    },
+    {
+      "title": "Open Invention Network",
+      "url": "https://en.wikipedia.org/wiki/Open_Invention_Network"
+    },
+    {
+      "title": "Open Mainframe Project",
+      "url": "https://en.wikipedia.org/wiki/Open_Mainframe_Project"
+    },
+    {
+      "title": "Open Source Security Foundation",
+      "url": "https://en.wikipedia.org/wiki/Open_Source_Security_Foundation"
+    },
+    {
+      "title": "Oregon State University",
+      "url": "https://en.wikipedia.org/wiki/Oregon_State_University"
+    },
+    {
+      "title": "PCI Express",
+      "url": "https://en.wikipedia.org/wiki/PCI_Express"
+    },
+    {
+      "title": "PMC-Sierra",
+      "url": "https://en.wikipedia.org/wiki/PMC-Sierra"
+    },
+    {
+      "title": "POWER5",
+      "url": "https://en.wikipedia.org/wiki/POWER5"
+    },
+    {
+      "title": "POWER8",
+      "url": "https://en.wikipedia.org/wiki/POWER8"
+    },
+    {
+      "title": "Pascal (microarchitecture)",
+      "url": "https://en.wikipedia.org/wiki/Pascal_%28microarchitecture%29"
+    },
+    {
+      "title": "Postfix (software)",
+      "url": "https://en.wikipedia.org/wiki/Postfix_%28software%29"
+    },
+    {
+      "title": "Power.org",
+      "url": "https://en.wikipedia.org/wiki/Power.org"
+    },
+    {
+      "title": "Power10",
+      "url": "https://en.wikipedia.org/wiki/Power10"
+    },
+    {
+      "title": "PowerLinux",
+      "url": "https://en.wikipedia.org/wiki/PowerLinux"
+    },
+    {
+      "title": "PowerOpen Environment",
+      "url": "https://en.wikipedia.org/wiki/PowerOpen_Environment"
+    },
+    {
+      "title": "Power Architecture Platform Reference",
+      "url": "https://en.wikipedia.org/wiki/Power_Architecture_Platform_Reference"
+    },
+    {
+      "title": "Power ISA",
+      "url": "https://en.wikipedia.org/wiki/Power_ISA"
+    },
+    {
+      "title": "QLogic",
+      "url": "https://en.wikipedia.org/wiki/QLogic"
+    },
+    {
+      "title": "Qiskit",
+      "url": "https://en.wikipedia.org/wiki/Qiskit"
+    },
+    {
+      "title": "Rackspace",
+      "url": "https://en.wikipedia.org/wiki/Rackspace"
+    },
+    {
+      "title": "Red Hat Enterprise Linux",
+      "url": "https://en.wikipedia.org/wiki/Red_Hat_Enterprise_Linux"
+    },
+    {
+      "title": "Rexx",
+      "url": "https://en.wikipedia.org/wiki/Rexx"
+    },
+    {
+      "title": "SHARE (computing)",
+      "url": "https://en.wikipedia.org/wiki/SHARE_%28computing%29"
+    },
+    {
+      "title": "SK Hynix",
+      "url": "https://en.wikipedia.org/wiki/SK_Hynix"
+    },
+    {
+      "title": "SUSE Linux Enterprise Server",
+      "url": "https://en.wikipedia.org/wiki/SUSE_Linux_Enterprise_Server"
+    },
+    {
+      "title": "SUSE S.A.",
+      "url": "https://en.wikipedia.org/wiki/SUSE_S.A."
+    },
+    {
+      "title": "Samsung Electronics",
+      "url": "https://en.wikipedia.org/wiki/Samsung_Electronics"
+    },
+    {
+      "title": "Sandia National Laboratories",
+      "url": "https://en.wikipedia.org/wiki/Sandia_National_Laboratories"
+    },
+    {
+      "title": "Software Testing Automation Framework",
+      "url": "https://en.wikipedia.org/wiki/Software_Testing_Automation_Framework"
+    },
+    {
+      "title": "The Register",
+      "url": "https://en.wikipedia.org/wiki/The_Register"
+    },
+    {
+      "title": "Tsinghua University",
+      "url": "https://en.wikipedia.org/wiki/Tsinghua_University"
+    },
+    {
+      "title": "Tyan",
+      "url": "https://en.wikipedia.org/wiki/Tyan"
+    },
+    {
+      "title": "Ubuntu",
+      "url": "https://en.wikipedia.org/wiki/Ubuntu"
+    },
+    {
+      "title": "Wistron",
+      "url": "https://en.wikipedia.org/wiki/Wistron"
+    },
+    {
+      "title": "X10 (programming language)",
+      "url": "https://en.wikipedia.org/wiki/X10_%28programming_language%29"
+    },
+    {
+      "title": "Xilinx",
+      "url": "https://en.wikipedia.org/wiki/Xilinx"
+    },
+    {
+      "title": "ZTE",
+      "url": "https://en.wikipedia.org/wiki/ZTE"
+    }
+  ]
+}

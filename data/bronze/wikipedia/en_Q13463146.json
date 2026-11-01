@@ -1,0 +1,1092 @@
+{
+  "document_id": "wikipedia_en_Q13463146",
+  "wikidata_id": "Q13463146",
+  "entity_label": "Loon",
+  "entity_type": "organization",
+  "seed_categories": [],
+  "source": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Loon_LLC",
+  "revision_id": 1370182859,
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1370182859",
+  "pageid": 39681342,
+  "title": "Loon LLC",
+  "language": "en",
+  "collected_at": "2026-10-28T21:58:38.076269+00:00",
+  "content": {
+    "sections": [
+      {
+        "heading": "Introduction",
+        "text": "Loon LLC was an Alphabet Inc. subsidiary working on providing Internet access to rural and remote areas. The company used high-altitude balloons in the stratosphere at an altitude of 18 km (11 mi) to 25 km (16 mi) to create an aerial wireless network with up to 1 Mbit/s speeds. Named in reference to the balloons used, Project Loon began as a research and development project by X (formerly Google X) in 2011, but later spun out into a separate company in July 2018.\nThe balloons were maneuvered by adjusting their altitude in the stratosphere to float to a wind layer with the desired speed and direction, using wind data from the National Oceanic and Atmospheric Administration (NOAA). Users of the service connected to the balloon network using a special Internet antenna attached to their building. The signal traveled through the balloon network from balloon to balloon, then to a ground-based station connected to an Internet service provider (ISP), then into the global Internet.\nIn January 2021, Alphabet announced that the company would be shut down due to lack of profitability."
+      },
+      {
+        "heading": "Declined business acquisition",
+        "text": "In 2008, Google considered contracting with or acquiring Space Data Corp., a company that sends balloons carrying small base stations about 20 mi (32 km) up in the air for providing connectivity to truckers and oil companies in the southern United States, but did not do so."
+      },
+      {
+        "heading": "Internal project and the public announcement",
+        "text": "Unofficial development on the project began in 2011 under incubation in Google X with a series of trial runs in California 's Central Valley . The project was officially announced as a Google project on June 14, 2013."
+      },
+      {
+        "heading": "First launches",
+        "text": "On June 16, 2013, Google launched about 30 balloons in New Zealand in coordination with the country's Civil Aviation Authority from the Tekapo area in the South Island . About 50 local users in and around Christchurch and the Canterbury region tested connections to the aerial network using special antennas. After this initial trial, Google planned on sending up 300 balloons around the world at the 40th parallel south that would provide coverage to New Zealand, Australia, Chile, and Argentina. Google hoped to eventually have thousands of balloons flying in the stratosphere ."
+      },
+      {
+        "heading": "Testing and practical implementations",
+        "text": "The first person to connect and receive Internet access from one of the Loon balloons was Charles Nimmo, a farmer and entrepreneur in Leeston, New Zealand. Nimmo was one of 50 people in the area around Christchurch who agreed to be a pilot tester for Loon. The New Zealand farmer lived in a rural location that was unable to get broadband access to the Internet. The town's residents used a satellite Internet service in 2009, but found that the service could incur costs of up to $1000 per month.\nLocals participating in the testing were not made aware of the details, other than that it had potential ability to deliver Internet connectivity, but allowed project workers to attach a basketball-sized receiver resembling a giant bright-red party balloon to an outside wall of their property in order to connect to the network.\nThe technology designed in the project could allow countries to avoid using expensive fiber cable that would have to be installed underground to allow users to connect to the Internet. Alphabet felt this would greatly increase Internet usage in developing countries in regions such as Africa and Southeast Asia that can not afford to lay underground fiber cable."
+      },
+      {
+        "heading": "New partners and further implementations",
+        "text": "In May 2014, Google X laboratories director Eric \"Astro\" Teller announced that, rather than negotiate a section of bandwidth that was free for them worldwide, they would instead become a temporary base station that could be leased by the mobile operators of the country it was crossing over. This was based on work done by the Access Field Development Director, Kai Wulff, who was involved in fiber and broadband roll-outs in Emerging Markets from the early 2000s.\nIn May and June of 2014, Google tested its balloon-powered Internet access venture in Piauí, Brazil , marking its first LTE experiments and launch near the equator.\nIn 2014, Google partnered with France 's Centre national d'études spatiales ( CNES ) on the project.\nOn July 28, 2015, Google signed an agreement with officials of Information and Communication Technology Agency (ICTA) – Sri Lanka , to launch the technology on a mass scale. As a result, by March 2016, Sri Lanka would be the second country in the world to get full coverage of Internet using LTE , after Vatican City . [ needs update ]"
+      },
+      {
+        "heading": "Laser links tested",
+        "text": "In February 2016, Google announced it had achieved a stable laser communication connection between two balloons over a distance of 62 miles (100 km). The connection was stable over many hours during both day and nighttime, reaching a data rate of 155 Mbit/s.\nOn February 25, 2016, Google started testing their autolauncher, named \"Chicken Little\", at former naval station Roosevelt Roads in Ceiba, Puerto Rico ."
+      },
+      {
+        "heading": "Patent disagreement",
+        "text": "In May 2017, Space Data started proceedings for patent infringement. Google settled the case in July 2019."
+      },
+      {
+        "heading": "Support for Puerto Rico",
+        "text": "On October 6, 2017, Google filed an application with the Federal Communications Commission (FCC), and cleared it the same day, with authorization to start immediately to provide emergency LTE coverage to Puerto Rico in the aftermath of Hurricane Maria . The plan allowed 30 balloons to relay communication between ground terminals connected to people's handsets. Google would have to install over-the-air (OTA) updates to allow Band 8 (900 MHz) operations and at the end of the authorization, a separate OTA update would disable this operation. Puerto Rico Governor Ricardo Rosselló announced at a press conference on October 8, 2017, the launch of Google's Loon Project on the Caribbean island, following its approval by the FCC.\nOn October 9, 2017, multiple balloons were spotted near Puerto Rico via Flightradar24 . That same month, it was reported that the project had spun off into its own company, Loon Inc; however, it was clarified that it still remained as a project at X, until July 2018. On November 9, 2017, it was reported that Google had launched several balloons from Nevada and positioned them over Puerto Rico as part of an effort to bring 100,000 people online."
+      },
+      {
+        "heading": "Independent entity",
+        "text": "On July 11, 2018, X , Google's R&D facility, announced that Loon was \"graduating\", becoming an Alphabet subsidiary in its own right rather than a project of X. As part of its first commercial agreement with Telkom Kenya , Loon pledged to bring Internet access to some of Kenya's most inaccessible regions, to be live in 2019.\nOn April 26, 2019, Loon formed a partnership with and received funding from Softbank ."
+      },
+      {
+        "heading": "Notable milestones",
+        "text": "On July 23, 2019, Loon announced that its balloon fleet had collectively reached one million hours of stratospheric flight. In an article on the Medium website, Loon's CTO Sal Candido explained some of the navigational techniques the autonomous balloons employed, such as tacking, loitering, and figure 8s, to deliver Internet service in the most efficient way possible.\nIn October 2020, atmospheric scientists Pedram Hassanzadeh ( Rice University ), Aditi Sheshadri ( Stanford University ), Edwin Gerber ( New York University ) and M. Joan Alexander (NorthWest Research Associates) received funding from the U.S. National Science Foundation to use high-resolution data collected by the Loon balloons intended to examine gravity waves in the stratosphere to improve climate and weather modeling.\nOn October 28, 2020, Loon claimed a record duration flight of 312 days for a balloon (HBAL703) launched from Puerto Rico in May 2019 which landed in Baja, Mexico in March 2020."
+      },
+      {
+        "heading": "Project closure",
+        "text": "On January 21, 2021, it was announced that Loon would be shut down. In his announcement, Teller said \"Sadly, despite the team's groundbreaking technical achievements over the last 9 years […] the road to commercial viability has proven much longer and riskier than hoped.\" A Wired article about the shutdown noted that Internet availability in areas the project intended to target had increased from 75% to 93% in the last 10 years, with most of the population in remaining areas unable to afford a 4G phone. Its pilot service in Kenya would be shut down in March 2021 but the company said it would pledge $10 million to support nonprofits and businesses in Kenya dedicated to \"connectivity, Internet, entrepreneurship and education.\""
+      },
+      {
+        "heading": "Connectivity",
+        "text": "The system aimed to bring Internet access to remote and rural areas poorly served by existing provisions, and to improve communication during natural disasters to affected regions.\nThe balloons used patch antennas —which are directional antennas —to transmit signals to ground stations or LTE users. Some smartphones with Google SIM cards could use Google Internet services. The infrastructure was based on LTE; the eNodeB component (the equivalent of the \"base station\" that talks directly to handsets) was carried in the balloon.\nInitially, the balloons communicated using unlicensed 2.4 and 5.8 GHz ISM bands , and Google claimed that the setup allowed it to deliver \"speeds comparable to 3G \" to users, but they then switched to LTE with cellular spectrum by cooperating with local telecommunication operators. It is unclear how technologies that rely on short communications times (low latency pings ), such as VoIP , might need to be modified to work in an environment similar to mobile phones where the signal may have to relay through multiple balloons before reaching the wider Internet. Google also experimented with laser communication technology to interconnect balloons at high altitude and achieved a data rate of 155 Mbit/s over a distance of 100 km (62 mi)."
+      },
+      {
+        "heading": "Stratospheric balloons",
+        "text": "Loon deployed its high-altitude balloon network into the stratosphere , at altitudes between 18 km and 25 km. The company stated that this particular altitude layer of the stratosphere is advantageous because of its low wind speeds, which are usually recorded between 5 mph and 20 mph (10 km/h to 30 km/h). The layer is also an area of minimal turbulence . The company said it was able to model the seasonal, longitudinal and latitudinal wind speed variations, allowing them to adjust the placements of their balloons.\nLoon claimed it could control the latitudinal and longitudinal position of its high-altitude balloons by changing their altitude. They did this by adjusting the volume and density of internal gas (which is composed of either helium, hydrogen or another lighter-than-air substance), which allowed the balloon's variable buoyancy system to control the altitude. Additionally, Google had indicated that the balloons were possibly constructed from materials like metalized Mylar, BoPET , or a highly flexible latex or rubber material such as chloroprene."
+      },
+      {
+        "heading": "Balloons and their electronics",
+        "text": "The balloon envelopes used in the project were designed and made by Raven Aerostar , and were based on the Raven Aerostar Super Pressure Balloon. The balloons were composed of polyethylene plastic about 0.076 mm (0.0030 in) thick. The balloons were superpressure balloons filled with helium , standing 15 m (49 ft) across and 12 m (39 ft) tall when fully inflated. They carried a custom air pump system dubbed the \"Croce\" that pumped in or released air to ballast the balloon and control its altitude. A small box weighing 10 kg (22 lb) containing each balloon's electronic equipment hung underneath the inflated envelope. This box contained circuit boards that controlled the system, radio antennas and a Ubiquiti Networks 'Rocket M2' to communicate with other balloons and with Internet antennas on the ground, and batteries to store solar power so the balloons could operate during the night. Each balloon's electronics were powered by an array of solar panels that sat between the envelope and the hardware. In full sun, the panels produced 100 watts of power, which was sufficient to keep the unit running while also charging a battery for use at night. A parachute, called Raven Aerostar Payload Recovery Parachute, was attached to the top of the envelope to allow for a controlled descent, landing and payload recovery when a balloon was ready to be taken out of service. In the case of an unexpected failure, the parachute deploys automatically. When taken out of service, the balloon was guided to an easily reached location, and the helium was vented into the atmosphere. The balloons typically had a maximum life of about 100 days, although Google claimed that its tweaked design could have enabled them to stay aloft for closer to 200 days.\nThe balloons were equipped with ADS-B transponders and thus could be publicly tracked by searching for the call sign \"HBAL\"."
+      },
+      {
+        "heading": "Ground stations",
+        "text": "The prototype ground stations used a Ubiquiti Networks 'Rocket M5' radio and a custom patch antenna to connect to the balloons at a height of 20 km (12 mi). Some reports called Google's project the Google Balloon Internet ."
+      },
+      {
+        "heading": "Key people",
+        "text": "Key people involved in the project included Rich DeVaul, chief technical architect, who is also an expert on wearable technology ; Mike Cassidy , a project leader; and Cyrus Behroozi, a networking and telecommunication lead."
+      },
+      {
+        "heading": "Legacy",
+        "text": "Some of the technology and methods developed by Loon LLC live on as telecommunications infrastructure in Africa. Project Taara, which started its pan-African rollout in Kenya, continues to provide reliable high-speed Internet to the unconnected and under-connected. It is also serving as of 2021 to bridge a \"particularly stubborn connectivity gap\" of 3.0 miles (4.8 km) between Brazzaville, Republic of the Congo and Kinshasa, Democratic Republic of Congo , across the Congo River . It was wryly noted that while there are many, many areas worldwide with clear climates which could be served by this technology, foggy San Francisco would not be an ideal location."
+      },
+      {
+        "heading": "Incidents",
+        "text": "On May 29, 2014, a Loon balloon crashed into power lines in Washington , United States. On June 20, 2014, New Zealand officials briefly scrambled emergency services personnel when a Loon balloon came down. In November 2014, a South African farmer found a crashed Loon balloon in the Karoo desert between Strydenburg and Britstown . On April 23, 2015, a Loon balloon crashed in a field near Bragg City, Missouri . On September 12, 2015, a Loon balloon crashed in the front lawn of a residence on Rancho Hills, Chino Hills, California . On February 17, 2016, a Loon balloon crashed in the tea-growing region of Gampola , Sri Lanka while carrying out tests. On April 7, 2016, a Loon balloon landed on a farm in Dundee, KwaZulu-Natal , South Africa. On April 22, 2016, a Loon balloon crashed in a field in the Ñeembucú Department , Paraguay. On August 22, 2016, a Loon balloon landed on a ranch in Formosa, Argentina about 40 km West of the Capital of Formosa. On August 26, 2016, a Loon balloon landed northwest of Madison, South Dakota . On January 9, 2017, a Loon Balloon crashed in Sieyic, near Changuinola , Bocas del Toro province , Panama . On January 8, 2017 and January 10, 2017, two Loon Balloons landed at 10 km E of Cerro Chato & 40 km NNW of Mariscala , Uruguay. On February 17, 2017 a Loon Balloon crashed in Buriti dos Montes , Brazil. On March 14, 2017, a Loon Balloon crashed in San Luis, Tolima , Colombia. On March 19, 2017, a Loon Balloon crashed in Tacuarembó , Uruguay. On August 9, 2017, a Loon Balloon crashed in a reedbed in Olmos, Lambayeque, Peru . On December 30, 2017, a Loon Balloon crashed in Nthambiro, Igembe Central, Meru County , Kenya. On March 1, 2021, a Loon Ballon crashed into a tree in Tocantins, Brazil."
+      },
+      {
+        "heading": "Reception",
+        "text": "Loon has generally been well received, although Square Kilometre Array (SKA) project developers and astronomers have raised concerns that the lower of the two ISM bands that Loon used (2.4 GHz) would interfere with the mid-band frequency range (0.5 GHz–3 GHz) used in their project.\nConcerns have been raised about international political issues such as spectrum allocation, national airspace control, overflight right charges, and Internet censorship."
+      },
+      {
+        "heading": "See also",
+        "text": "Alliance for Affordable Internet Atmospheric satellite Geostationary balloon satellite Google Fiber Google Free Zone High-altitude balloon Internet.org List of countries by number of Internet users Mobile broadband modem O3b Networks Outernet Raven Industries Starlink (satellite constellation) Stratovision"
+      },
+      {
+        "heading": "External links",
+        "text": "Official website Loon LLC's channel on YouTube The Untold Story of Google's Quest to Bring the Internet Everywhere—By Balloon — Wired \"Sri Lanka inks deal for Google Loon broadband floating 'telecom towers ' \""
+      }
+    ],
+    "full_text": "Introduction\nLoon LLC was an Alphabet Inc. subsidiary working on providing Internet access to rural and remote areas. The company used high-altitude balloons in the stratosphere at an altitude of 18 km (11 mi) to 25 km (16 mi) to create an aerial wireless network with up to 1 Mbit/s speeds. Named in reference to the balloons used, Project Loon began as a research and development project by X (formerly Google X) in 2011, but later spun out into a separate company in July 2018.\nThe balloons were maneuvered by adjusting their altitude in the stratosphere to float to a wind layer with the desired speed and direction, using wind data from the National Oceanic and Atmospheric Administration (NOAA). Users of the service connected to the balloon network using a special Internet antenna attached to their building. The signal traveled through the balloon network from balloon to balloon, then to a ground-based station connected to an Internet service provider (ISP), then into the global Internet.\nIn January 2021, Alphabet announced that the company would be shut down due to lack of profitability.\n\nDeclined business acquisition\nIn 2008, Google considered contracting with or acquiring Space Data Corp., a company that sends balloons carrying small base stations about 20 mi (32 km) up in the air for providing connectivity to truckers and oil companies in the southern United States, but did not do so.\n\nInternal project and the public announcement\nUnofficial development on the project began in 2011 under incubation in Google X with a series of trial runs in California 's Central Valley . The project was officially announced as a Google project on June 14, 2013.\n\nFirst launches\nOn June 16, 2013, Google launched about 30 balloons in New Zealand in coordination with the country's Civil Aviation Authority from the Tekapo area in the South Island . About 50 local users in and around Christchurch and the Canterbury region tested connections to the aerial network using special antennas. After this initial trial, Google planned on sending up 300 balloons around the world at the 40th parallel south that would provide coverage to New Zealand, Australia, Chile, and Argentina. Google hoped to eventually have thousands of balloons flying in the stratosphere .\n\nTesting and practical implementations\nThe first person to connect and receive Internet access from one of the Loon balloons was Charles Nimmo, a farmer and entrepreneur in Leeston, New Zealand. Nimmo was one of 50 people in the area around Christchurch who agreed to be a pilot tester for Loon. The New Zealand farmer lived in a rural location that was unable to get broadband access to the Internet. The town's residents used a satellite Internet service in 2009, but found that the service could incur costs of up to $1000 per month.\nLocals participating in the testing were not made aware of the details, other than that it had potential ability to deliver Internet connectivity, but allowed project workers to attach a basketball-sized receiver resembling a giant bright-red party balloon to an outside wall of their property in order to connect to the network.\nThe technology designed in the project could allow countries to avoid using expensive fiber cable that would have to be installed underground to allow users to connect to the Internet. Alphabet felt this would greatly increase Internet usage in developing countries in regions such as Africa and Southeast Asia that can not afford to lay underground fiber cable.\n\nNew partners and further implementations\nIn May 2014, Google X laboratories director Eric \"Astro\" Teller announced that, rather than negotiate a section of bandwidth that was free for them worldwide, they would instead become a temporary base station that could be leased by the mobile operators of the country it was crossing over. This was based on work done by the Access Field Development Director, Kai Wulff, who was involved in fiber and broadband roll-outs in Emerging Markets from the early 2000s.\nIn May and June of 2014, Google tested its balloon-powered Internet access venture in Piauí, Brazil , marking its first LTE experiments and launch near the equator.\nIn 2014, Google partnered with France 's Centre national d'études spatiales ( CNES ) on the project.\nOn July 28, 2015, Google signed an agreement with officials of Information and Communication Technology Agency (ICTA) – Sri Lanka , to launch the technology on a mass scale. As a result, by March 2016, Sri Lanka would be the second country in the world to get full coverage of Internet using LTE , after Vatican City . [ needs update ]\n\nLaser links tested\nIn February 2016, Google announced it had achieved a stable laser communication connection between two balloons over a distance of 62 miles (100 km). The connection was stable over many hours during both day and nighttime, reaching a data rate of 155 Mbit/s.\nOn February 25, 2016, Google started testing their autolauncher, named \"Chicken Little\", at former naval station Roosevelt Roads in Ceiba, Puerto Rico .\n\nPatent disagreement\nIn May 2017, Space Data started proceedings for patent infringement. Google settled the case in July 2019.\n\nSupport for Puerto Rico\nOn October 6, 2017, Google filed an application with the Federal Communications Commission (FCC), and cleared it the same day, with authorization to start immediately to provide emergency LTE coverage to Puerto Rico in the aftermath of Hurricane Maria . The plan allowed 30 balloons to relay communication between ground terminals connected to people's handsets. Google would have to install over-the-air (OTA) updates to allow Band 8 (900 MHz) operations and at the end of the authorization, a separate OTA update would disable this operation. Puerto Rico Governor Ricardo Rosselló announced at a press conference on October 8, 2017, the launch of Google's Loon Project on the Caribbean island, following its approval by the FCC.\nOn October 9, 2017, multiple balloons were spotted near Puerto Rico via Flightradar24 . That same month, it was reported that the project had spun off into its own company, Loon Inc; however, it was clarified that it still remained as a project at X, until July 2018. On November 9, 2017, it was reported that Google had launched several balloons from Nevada and positioned them over Puerto Rico as part of an effort to bring 100,000 people online.\n\nIndependent entity\nOn July 11, 2018, X , Google's R&D facility, announced that Loon was \"graduating\", becoming an Alphabet subsidiary in its own right rather than a project of X. As part of its first commercial agreement with Telkom Kenya , Loon pledged to bring Internet access to some of Kenya's most inaccessible regions, to be live in 2019.\nOn April 26, 2019, Loon formed a partnership with and received funding from Softbank .\n\nNotable milestones\nOn July 23, 2019, Loon announced that its balloon fleet had collectively reached one million hours of stratospheric flight. In an article on the Medium website, Loon's CTO Sal Candido explained some of the navigational techniques the autonomous balloons employed, such as tacking, loitering, and figure 8s, to deliver Internet service in the most efficient way possible.\nIn October 2020, atmospheric scientists Pedram Hassanzadeh ( Rice University ), Aditi Sheshadri ( Stanford University ), Edwin Gerber ( New York University ) and M. Joan Alexander (NorthWest Research Associates) received funding from the U.S. National Science Foundation to use high-resolution data collected by the Loon balloons intended to examine gravity waves in the stratosphere to improve climate and weather modeling.\nOn October 28, 2020, Loon claimed a record duration flight of 312 days for a balloon (HBAL703) launched from Puerto Rico in May 2019 which landed in Baja, Mexico in March 2020.\n\nProject closure\nOn January 21, 2021, it was announced that Loon would be shut down. In his announcement, Teller said \"Sadly, despite the team's groundbreaking technical achievements over the last 9 years […] the road to commercial viability has proven much longer and riskier than hoped.\" A Wired article about the shutdown noted that Internet availability in areas the project intended to target had increased from 75% to 93% in the last 10 years, with most of the population in remaining areas unable to afford a 4G phone. Its pilot service in Kenya would be shut down in March 2021 but the company said it would pledge $10 million to support nonprofits and businesses in Kenya dedicated to \"connectivity, Internet, entrepreneurship and education.\"\n\nConnectivity\nThe system aimed to bring Internet access to remote and rural areas poorly served by existing provisions, and to improve communication during natural disasters to affected regions.\nThe balloons used patch antennas —which are directional antennas —to transmit signals to ground stations or LTE users. Some smartphones with Google SIM cards could use Google Internet services. The infrastructure was based on LTE; the eNodeB component (the equivalent of the \"base station\" that talks directly to handsets) was carried in the balloon.\nInitially, the balloons communicated using unlicensed 2.4 and 5.8 GHz ISM bands , and Google claimed that the setup allowed it to deliver \"speeds comparable to 3G \" to users, but they then switched to LTE with cellular spectrum by cooperating with local telecommunication operators. It is unclear how technologies that rely on short communications times (low latency pings ), such as VoIP , might need to be modified to work in an environment similar to mobile phones where the signal may have to relay through multiple balloons before reaching the wider Internet. Google also experimented with laser communication technology to interconnect balloons at high altitude and achieved a data rate of 155 Mbit/s over a distance of 100 km (62 mi).\n\nStratospheric balloons\nLoon deployed its high-altitude balloon network into the stratosphere , at altitudes between 18 km and 25 km. The company stated that this particular altitude layer of the stratosphere is advantageous because of its low wind speeds, which are usually recorded between 5 mph and 20 mph (10 km/h to 30 km/h). The layer is also an area of minimal turbulence . The company said it was able to model the seasonal, longitudinal and latitudinal wind speed variations, allowing them to adjust the placements of their balloons.\nLoon claimed it could control the latitudinal and longitudinal position of its high-altitude balloons by changing their altitude. They did this by adjusting the volume and density of internal gas (which is composed of either helium, hydrogen or another lighter-than-air substance), which allowed the balloon's variable buoyancy system to control the altitude. Additionally, Google had indicated that the balloons were possibly constructed from materials like metalized Mylar, BoPET , or a highly flexible latex or rubber material such as chloroprene.\n\nBalloons and their electronics\nThe balloon envelopes used in the project were designed and made by Raven Aerostar , and were based on the Raven Aerostar Super Pressure Balloon. The balloons were composed of polyethylene plastic about 0.076 mm (0.0030 in) thick. The balloons were superpressure balloons filled with helium , standing 15 m (49 ft) across and 12 m (39 ft) tall when fully inflated. They carried a custom air pump system dubbed the \"Croce\" that pumped in or released air to ballast the balloon and control its altitude. A small box weighing 10 kg (22 lb) containing each balloon's electronic equipment hung underneath the inflated envelope. This box contained circuit boards that controlled the system, radio antennas and a Ubiquiti Networks 'Rocket M2' to communicate with other balloons and with Internet antennas on the ground, and batteries to store solar power so the balloons could operate during the night. Each balloon's electronics were powered by an array of solar panels that sat between the envelope and the hardware. In full sun, the panels produced 100 watts of power, which was sufficient to keep the unit running while also charging a battery for use at night. A parachute, called Raven Aerostar Payload Recovery Parachute, was attached to the top of the envelope to allow for a controlled descent, landing and payload recovery when a balloon was ready to be taken out of service. In the case of an unexpected failure, the parachute deploys automatically. When taken out of service, the balloon was guided to an easily reached location, and the helium was vented into the atmosphere. The balloons typically had a maximum life of about 100 days, although Google claimed that its tweaked design could have enabled them to stay aloft for closer to 200 days.\nThe balloons were equipped with ADS-B transponders and thus could be publicly tracked by searching for the call sign \"HBAL\".\n\nGround stations\nThe prototype ground stations used a Ubiquiti Networks 'Rocket M5' radio and a custom patch antenna to connect to the balloons at a height of 20 km (12 mi). Some reports called Google's project the Google Balloon Internet .\n\nKey people\nKey people involved in the project included Rich DeVaul, chief technical architect, who is also an expert on wearable technology ; Mike Cassidy , a project leader; and Cyrus Behroozi, a networking and telecommunication lead.\n\nLegacy\nSome of the technology and methods developed by Loon LLC live on as telecommunications infrastructure in Africa. Project Taara, which started its pan-African rollout in Kenya, continues to provide reliable high-speed Internet to the unconnected and under-connected. It is also serving as of 2021 to bridge a \"particularly stubborn connectivity gap\" of 3.0 miles (4.8 km) between Brazzaville, Republic of the Congo and Kinshasa, Democratic Republic of Congo , across the Congo River . It was wryly noted that while there are many, many areas worldwide with clear climates which could be served by this technology, foggy San Francisco would not be an ideal location.\n\nIncidents\nOn May 29, 2014, a Loon balloon crashed into power lines in Washington , United States. On June 20, 2014, New Zealand officials briefly scrambled emergency services personnel when a Loon balloon came down. In November 2014, a South African farmer found a crashed Loon balloon in the Karoo desert between Strydenburg and Britstown . On April 23, 2015, a Loon balloon crashed in a field near Bragg City, Missouri . On September 12, 2015, a Loon balloon crashed in the front lawn of a residence on Rancho Hills, Chino Hills, California . On February 17, 2016, a Loon balloon crashed in the tea-growing region of Gampola , Sri Lanka while carrying out tests. On April 7, 2016, a Loon balloon landed on a farm in Dundee, KwaZulu-Natal , South Africa. On April 22, 2016, a Loon balloon crashed in a field in the Ñeembucú Department , Paraguay. On August 22, 2016, a Loon balloon landed on a ranch in Formosa, Argentina about 40 km West of the Capital of Formosa. On August 26, 2016, a Loon balloon landed northwest of Madison, South Dakota . On January 9, 2017, a Loon Balloon crashed in Sieyic, near Changuinola , Bocas del Toro province , Panama . On January 8, 2017 and January 10, 2017, two Loon Balloons landed at 10 km E of Cerro Chato & 40 km NNW of Mariscala , Uruguay. On February 17, 2017 a Loon Balloon crashed in Buriti dos Montes , Brazil. On March 14, 2017, a Loon Balloon crashed in San Luis, Tolima , Colombia. On March 19, 2017, a Loon Balloon crashed in Tacuarembó , Uruguay. On August 9, 2017, a Loon Balloon crashed in a reedbed in Olmos, Lambayeque, Peru . On December 30, 2017, a Loon Balloon crashed in Nthambiro, Igembe Central, Meru County , Kenya. On March 1, 2021, a Loon Ballon crashed into a tree in Tocantins, Brazil.\n\nReception\nLoon has generally been well received, although Square Kilometre Array (SKA) project developers and astronomers have raised concerns that the lower of the two ISM bands that Loon used (2.4 GHz) would interfere with the mid-band frequency range (0.5 GHz–3 GHz) used in their project.\nConcerns have been raised about international political issues such as spectrum allocation, national airspace control, overflight right charges, and Internet censorship.\n\nSee also\nAlliance for Affordable Internet Atmospheric satellite Geostationary balloon satellite Google Fiber Google Free Zone High-altitude balloon Internet.org List of countries by number of Internet users Mobile broadband modem O3b Networks Outernet Raven Industries Starlink (satellite constellation) Stratovision\n\nExternal links\nOfficial website Loon LLC's channel on YouTube The Untold Story of Google's Quest to Bring the Internet Everywhere—By Balloon — Wired \"Sri Lanka inks deal for Google Loon broadband floating 'telecom towers ' \""
+  },
+  "references": [
+    {
+      "url": "https://www.wired.com/business/2013/06/google_internet_balloons/all/google.com/loon",
+      "label": "\"How Google Will Use High-Flying Balloons to Deliver Internet to the Hinterlands\""
+    },
+    {
+      "url": "https://web.archive.org/web/20130617220246/http://www.google.com/hostednews/afp/article/ALeqM5jzP2DG8WdyTFsRBXkX5IHRDod8UA?docId=CNG.1e0cb853eae78a4ee2a211df3413fa9a.01",
+      "label": "\"Google to beam Internet from balloons\""
+    },
+    {
+      "url": "https://www.google.com/hostednews/afp/article/ALeqM5jzP2DG8WdyTFsRBXkX5IHRDod8UA?docId=CNG.1e0cb853eae78a4ee2a211df3413fa9a.01",
+      "label": "the original"
+    },
+    {
+      "url": "http://www.nzherald.co.nz/internet/news/article.cfm?c_id=137&objectid=10890750",
+      "label": "\"Google launches Project Loon\""
+    },
+    {
+      "url": "https://techcrunch.com/2013/06/14/google-x-announces-project-loon-balloon-powered-internet-for-rural-remote-and-underserved-areas/",
+      "label": "\"Google X Announces Project Loon: Balloon-Powered Internet For Rural, Remote And Underserved Areas\""
+    },
+    {
+      "url": "https://www.inc.com/thomas-koulopoulos/the-moonshot-to-create-next-google.html",
+      "label": "\"The Moonshot to Create the Next Google\""
+    },
+    {
+      "url": "https://mashable.com/article/alphabet-loon-shutting-down/",
+      "label": "\"Alphabet gives up on balloon-powered internet\""
+    },
+    {
+      "url": "https://www.theverge.com/2021/1/21/22243484/alphabet-google-shutting-down-loon-internet-balloon-company-x",
+      "label": "\"Alphabet is shutting down Loon, its internet balloon company\""
+    },
+    {
+      "url": "https://www.businessinsider.com/google-loon-failure-investors-happy-sundar-pichai-moonshots-strategy-2021-1",
+      "label": "\"Google's balloon project Loon crashed, but some investors are happy with CEO Sundar Pichai putting limits on money-burning 'moonshots' \""
+    },
+    {
+      "url": "https://www.cnn.com/2021/01/22/tech/loon-project-alphabet-google-intl-hnk/index.html",
+      "label": "\"Alphabet is shutting down Loon, its ambitious internet balloon venture\""
+    },
+    {
+      "url": "https://www.wired.com/story/the-lawsuit-that-could-pop-alphabets-project-loon-balloons",
+      "label": "\"A Lawsuit Has Alphabet's Project Loon In Jeopardy | Backchannel\""
+    },
+    {
+      "url": "https://web.archive.org/web/20080223105103/http://online.wsj.com/public/article/SB120347353988378955.html",
+      "label": "\"Floating a New Idea For Going Wireless, Parachute Included\""
+    },
+    {
+      "url": "https://www.wsj.com/articles/SB120347353988378955",
+      "label": "the original"
+    },
+    {
+      "url": "https://web.archive.org/web/20130618165212/http://www.bigstory.ap.org/article/google-begins-launching-internet-beaming-balloons",
+      "label": "\"Google launches Internet-beaming balloons\""
+    },
+    {
+      "url": "http://bigstory.ap.org/article/google-begins-launching-internet-beaming-balloons",
+      "label": "the original"
+    },
+    {
+      "url": "https://thenextweb.com/news/google-celebrates-project-loons-birthday-first-lte-experiments-launch-near-equator",
+      "label": "\"Google Marks Project Loon Birthday with First LTE Experiments\""
+    },
+    {
+      "url": "http://aviationweek.com/space/google-france-partner-balloon-powered-internet",
+      "label": "\"Google, France Partner on Balloon-Powered Internet\""
+    },
+    {
+      "url": "https://web.archive.org/web/20141214160826/http://aviationweek.com/space/google-france-partner-balloon-powered-internet",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.ibtimes.co.uk/google-project-loon-provide-free-wifi-across-sri-lanka-1513136",
+      "label": "\"Google Project Loon to provide free Internet across Sri Lanka\""
+    },
+    {
+      "url": "https://www.wired.com/2016/02/google-shot-laser-60-miles-just-send-copy-real-genius/",
+      "label": "\"Google Laser-Beams the Film Real Genius 60 Miles Between Balloons\""
+    },
+    {
+      "url": "https://www.engadget.com/2016/02/26/project-loon-autolauncher-peurto-rico/",
+      "label": "\"Project Loon shows off autolauncher at work in Puerto Rico\""
+    },
+    {
+      "url": "https://www.law360.com/articles/1183150",
+      "label": "\"Google Settles Balloon IP Suit Ahead Of Trial\""
+    },
+    {
+      "url": "https://twitter.com/DrSalted/status/917498260293550087",
+      "label": "\".@Google 's parent company Alphabet gets FCC approval to fly 30 Project Loon balloons over Puerto Rico & provide LTE coverage. Google's balloons can be tracked via their ADS-B transponders on websites such as @flightradar24 https://www.flightradar24.com/multiview/f252d5c,f229cff,f2599b6,f25bf29,f25fb17,f26d9de … #GOOGL #PuertoRico #HuracanMaria\""
+    },
+    {
+      "url": "https://www.engadget.com/2017/10/13/alphabet-loon-inc-internet-balloons/",
+      "label": "\"Alphabet may have spun out Project Loon into its own company (update: Alphabet responds)\""
+    },
+    {
+      "url": "http://www.popularmechanics.com/technology/infrastructure/news/a28990/project-loon-internet-balloons-puerto-rico/",
+      "label": "\"Project Loon Launches Balloons\""
+    },
+    {
+      "url": "https://web.archive.org/web/20180717085500/https://www.wired.com/story/alphabet-google-x-innovation-loon-wing-graduation/",
+      "label": "\"INSIDE X, THE MOONSHOT FACTORY RACING TO BUILD THE NEXT GOOGLE\""
+    },
+    {
+      "url": "https://www.wired.com/story/alphabet-google-x-innovation-loon-wing-graduation/",
+      "label": "the original"
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/technology-44886803",
+      "label": "\"Google's balloons to deliver net to Kenya\""
+    },
+    {
+      "url": "https://www.cnbc.com/2018/07/20/googles-loon-to-bring-4g-to-remote-areas-of-kenya--via-balloon.html",
+      "label": "\"Google's Loon to bring 4G to remote areas of Kenya – via balloon\""
+    },
+    {
+      "url": "https://techcrunch.com/2019/04/24/alphabet-spinout-loon-grabs-125m-from-softbank/",
+      "label": "\"Internet connectivity projects unite as Alphabet spinout Loon grabs $125M from SoftBank's HAPSMobile\""
+    },
+    {
+      "url": "https://medium.com/loon-for-all/1-million-hours-of-stratospheric-flight-f7af7ae728ac",
+      "label": "\"1 Million Hours of Stratospheric Flight\""
+    },
+    {
+      "url": "https://www.eurekalert.org/pub_releases/2020-10/ru-lro101220.php",
+      "label": "\"Literal rise of the internet enables new climate science\""
+    },
+    {
+      "url": "https://medium.com/loon-for-all/312-days-in-the-stratosphere-5c50bd233ec5",
+      "label": "\"312 Days in the Stratosphere\""
+    },
+    {
+      "url": "https://blog.x.company/loons-final-flight-e9d699123a96",
+      "label": "\"Loon's final flight\""
+    },
+    {
+      "url": "https://web.archive.org/web/20210122020301/https://blog.x.company/loons-final-flight-e9d699123a96",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.wired.com/story/plaintext-alphabet-pops-loons-balloons/",
+      "label": "\"Exclusive: Alphabet Is Grounding Loon—but Won't Call It a Failure\""
+    },
+    {
+      "url": "https://search.worldcat.org/issn/1059-1028",
+      "label": "1059-1028"
+    },
+    {
+      "url": "https://news.cnet.com/8301-17938_105-57589464-1/meet-googles-project-loon-balloon-powered-net-access/",
+      "label": "\"Meet Google's 'Project Loon:' Balloon-powered 'net access\""
+    },
+    {
+      "url": "https://arstechnica.com/information-technology/2013/06/google-flies-internet-balloons-in-stratosphere-for-a-network-in-the-sky/",
+      "label": "\"Google flies Internet balloons in stratosphere for a \"network in the sky\" \""
+    },
+    {
+      "url": "https://www.google.com/loon/how/",
+      "label": "\"How Loon Works\""
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=HOndhtfIXSY",
+      "label": "\"- YouTube\""
+    },
+    {
+      "url": "https://www.newscientist.com/article/dn23721-googles-project-loon-to-float-the-internet-on-balloons.html",
+      "label": "\"Google's Project Loon to float the internet on balloons\""
+    },
+    {
+      "url": "http://researchweb.watson.ibm.com/people/a/archan/milcom2001b.pdf",
+      "label": "\"Hierarchical Mobility Management for VoIP Traffic\""
+    },
+    {
+      "url": "https://web.archive.org/web/20201212081440/https://xedknowledge.com/Coverstory_Demo.aspx?id=qJZ85UM6v6RmN6IFBF+t1Q==",
+      "label": "\"Project Loon\""
+    },
+    {
+      "url": "https://xedknowledge.com/Coverstory_Demo.aspx?id=qJZ85UM6v6RmN6IFBF+t1Q==",
+      "label": "the original"
+    },
+    {
+      "url": "https://web.archive.org/web/20130617063829/http://ravenaerostar.com/about/project-loon-raven-aerostar-google",
+      "label": "\"Project Loon: Raven Aerostar - Google Collaboration\""
+    },
+    {
+      "url": "http://ravenaerostar.com/about/project-loon-raven-aerostar-google",
+      "label": "the original"
+    },
+    {
+      "url": "https://web.archive.org/web/20191204202837/https://ravenaerostar.com/about/loon",
+      "label": "\"Loon - Raven Aerostar\""
+    },
+    {
+      "url": "https://ravenaerostar.com/about/loon",
+      "label": "the original"
+    },
+    {
+      "url": "https://web.archive.org/web/20131007120826/https://plus.google.com/+ProjectLoon/videos",
+      "label": "\"Ask Away: How do the balloons move up and down?\""
+    },
+    {
+      "url": "https://plus.google.com/+ProjectLoon/videos",
+      "label": "the original"
+    },
+    {
+      "url": "http://community.ubnt.com/t5/The-Lounge/Internet-for-all/m-p/491445#M24270",
+      "label": "\"Re: Internet for all\""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/technology-22905199",
+      "label": "\"Google tests balloons to beam internet from near space\""
+    },
+    {
+      "url": "https://arstechnica.com/information-technology/2015/03/google-balloons-cell-towers-in-the-sky-can-serve-4g-to-a-whole-state/",
+      "label": "\"Google balloons, \"cell towers in the sky,\" can serve 4G to a whole state\""
+    },
+    {
+      "url": "https://www.flightradar24.com/blog/keep-your-eye-on-the-hbal-tracking-project-loon-balloons/",
+      "label": "\"Keep Your Eye on the HBAL—Tracking Project Loon Balloons\""
+    },
+    {
+      "url": "https://www.cbsnews.com/news/googles-ambitious-internet-balloons-soar-above-new-zealand/",
+      "label": "\"Google's ambitious Internet balloons soar above New Zealand\""
+    },
+    {
+      "url": "https://web.archive.org/web/20130615185152/http://www.nbcnews.com/technology/google-begins-launching-internet-beaming-balloons-6C10331940",
+      "label": "\"Google begins launching Internet-beaming balloons\""
+    },
+    {
+      "url": "http://www.nbcnews.com/technology/google-begins-launching-internet-beaming-balloons-6C10331940",
+      "label": "the original"
+    },
+    {
+      "url": "https://x.company/projects/taara/",
+      "label": "\"Taara - X, the moonshot factory\""
+    },
+    {
+      "url": "https://qz.com/africa/1961328/why-googles-loon-internet-balloon-project-crash-landed/",
+      "label": "\"Google's ambitious Loon internet balloon project has crash-landed\""
+    },
+    {
+      "url": "https://qz.com/africa/1931111/googles-project-taara-to-deliver-fast-speed-internet-to-africans/",
+      "label": "\"Google is working on delivering super-fast internet in Africa with experimental light beams\""
+    },
+    {
+      "url": "https://www.bbc.com/news/technology-58583600",
+      "label": "\"High-speed internet via airborne beams of light\""
+    },
+    {
+      "url": "https://techcrunch.com/2014/06/03/one-of-googles-project-loon-balloons-crashed-into-power-lines-in-washington-state/",
+      "label": "\"One of Google's Project Loon balloons crashed into power lines in Washington state\""
+    },
+    {
+      "url": "https://www.theregister.co.uk/2014/06/20/thats_no_plane_wreck_thats_a_google_wifi_balloon/",
+      "label": "\"That's no plane wreck, that's a Google Wi-Fi balloon: unplanned splashdown scrambles New Zealand emergency services\""
+    },
+    {
+      "url": "https://www.telegraph.co.uk/news/worldnews/africaandindianocean/southafrica/11243440/South-African-sheep-farmer-discovers-downed-Google-Loon-balloon-crashed-in-Karoo-Desert.html",
+      "label": "\"South African sheep farmer discovers downed Google Loon balloon crashed in Karoo Desert\""
+    },
+    {
+      "url": "https://web.archive.org/web/20150429180433/http://www.kctv5.com/story/28906631/device-known-as-google-loon-lands-in-missouri",
+      "label": "\"Device known as 'Google Loon' lands in Missouri\""
+    },
+    {
+      "url": "http://www.kctv5.com/story/28906631/device-known-as-google-loon-lands-in-missouri",
+      "label": "the original"
+    },
+    {
+      "url": "http://phys.org/news/2016-02-google-internet-balloon-sri-lanka.html",
+      "label": "\"Google's Internet balloon 'crashes' in Sri Lanka test flight\""
+    },
+    {
+      "url": "http://mybroadband.co.za/vb/showthread.php/810406-Project-Loon-Balloon-found-on-farm-in-KZN",
+      "label": "'Project Loon' Balloon found on farm in KZN"
+    },
+    {
+      "url": "https://www.abc.com.py/ciencia/globo-vino-de-nueva-zelanda-1473302.html",
+      "label": "\"Globo de Google aterrizó bajo control - Ciencia - ABC Color\""
+    },
+    {
+      "url": "http://www.ultimahora.com/globo-google-cae-un-esteral-neembucu-n985467.html",
+      "label": "\"Globo de Google cae a un esteral de Ñeembucú\""
+    },
+    {
+      "url": "https://www.clarin.com/sociedad/Cayo-globo-Google-Formosa_0_S10YBDYc.html",
+      "label": "\"Cayó un globo de Google en un campo de las modelos Maglietti\""
+    },
+    {
+      "url": "https://www.prensa.com/provincias/Investigan-satelite-comunidad-Bocas-Toro_0_4663783603.html",
+      "label": "\"Proyecto Loon in Bocas del Toro\""
+    },
+    {
+      "url": "https://www.oficinadanet.com.br/post/18437-balao-do-project-loon-cai-no-interior-do-piaui",
+      "label": "\"Balão do Project Loon cai no interior do Piauí\""
+    },
+    {
+      "url": "https://www.standardmedia.co.ke/business/article/2001264534/google-internet-balloon-equipment-plunges-into-igembe-meru",
+      "label": "\"Google device plunges into a miraa farm in Igembe Central, Meru prompting talk of aliens\""
+    },
+    {
+      "url": "https://g1.globo.com/to/tocantins/noticia/2021/03/02/balao-com-equipamentos-tecnologicos-fica-pendurado-em-arvore-apos-cair-no-jalapao.ghtml",
+      "label": "\"Balão com equipamentos tecnológicos fica pendurado em árvore após cair no Jalapão\""
+    },
+    {
+      "url": "https://www.theregister.co.uk/2013/06/17/google_launches_broadband_balloons_astrophysics_frets/print.html",
+      "label": "\"Google launches broadband balloons, radio astronomy frets\""
+    },
+    {
+      "url": "https://www.forbes.com/sites/timworstall/2013/06/23/googles-project-loon-problem-international-bureaucracy/",
+      "label": "\"Google's Project Loon Problem: International Bureaucracy\""
+    }
+  ],
+  "outgoing_links": [
+    {
+      "title": "3G",
+      "url": "https://en.wikipedia.org/wiki/3G"
+    },
+    {
+      "title": "40th parallel south",
+      "url": "https://en.wikipedia.org/wiki/40th_parallel_south"
+    },
+    {
+      "title": "Alan Mulally",
+      "url": "https://en.wikipedia.org/wiki/Alan_Mulally"
+    },
+    {
+      "title": "Alliance for Affordable Internet",
+      "url": "https://en.wikipedia.org/wiki/Alliance_for_Affordable_Internet"
+    },
+    {
+      "title": "Alphabet Inc.",
+      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc."
+    },
+    {
+      "title": "Anat Ashkenazi",
+      "url": "https://en.wikipedia.org/wiki/Anat_Ashkenazi"
+    },
+    {
+      "title": "Andrew Conrad",
+      "url": "https://en.wikipedia.org/wiki/Andrew_Conrad"
+    },
+    {
+      "title": "Ann Mather",
+      "url": "https://en.wikipedia.org/wiki/Ann_Mather"
+    },
+    {
+      "title": "Antenna (radio)",
+      "url": "https://en.wikipedia.org/wiki/Antenna_%28radio%29"
+    },
+    {
+      "title": "Arthur D. Levinson",
+      "url": "https://en.wikipedia.org/wiki/Arthur_D._Levinson"
+    },
+    {
+      "title": "Astro Teller",
+      "url": "https://en.wikipedia.org/wiki/Astro_Teller"
+    },
+    {
+      "title": "Atmospheric satellite",
+      "url": "https://en.wikipedia.org/wiki/Atmospheric_satellite"
+    },
+    {
+      "title": "Automatic Dependent Surveillance – Broadcast",
+      "url": "https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance_%E2%80%93_Broadcast"
+    },
+    {
+      "title": "Aviation Week & Space Technology",
+      "url": "https://en.wikipedia.org/wiki/Aviation_Week_%26_Space_Technology"
+    },
+    {
+      "title": "Ballast",
+      "url": "https://en.wikipedia.org/wiki/Ballast"
+    },
+    {
+      "title": "Balloon (aircraft)",
+      "url": "https://en.wikipedia.org/wiki/Balloon_%28aircraft%29"
+    },
+    {
+      "title": "Baseline Study",
+      "url": "https://en.wikipedia.org/wiki/Baseline_Study"
+    },
+    {
+      "title": "Battery (electricity)",
+      "url": "https://en.wikipedia.org/wiki/Battery_%28electricity%29"
+    },
+    {
+      "title": "BoPET",
+      "url": "https://en.wikipedia.org/wiki/BoPET"
+    },
+    {
+      "title": "Bocas del Toro province",
+      "url": "https://en.wikipedia.org/wiki/Bocas_del_Toro_province"
+    },
+    {
+      "title": "Boston Dynamics",
+      "url": "https://en.wikipedia.org/wiki/Boston_Dynamics"
+    },
+    {
+      "title": "Bragg City, Missouri",
+      "url": "https://en.wikipedia.org/wiki/Bragg_City%2C_Missouri"
+    },
+    {
+      "title": "Brazzaville, Republic of the Congo",
+      "url": "https://en.wikipedia.org/wiki/Brazzaville%2C_Republic_of_the_Congo"
+    },
+    {
+      "title": "Britstown",
+      "url": "https://en.wikipedia.org/wiki/Britstown"
+    },
+    {
+      "title": "Buriti dos Montes",
+      "url": "https://en.wikipedia.org/wiki/Buriti_dos_Montes"
+    },
+    {
+      "title": "CNES",
+      "url": "https://en.wikipedia.org/wiki/CNES"
+    },
+    {
+      "title": "Calico (company)",
+      "url": "https://en.wikipedia.org/wiki/Calico_%28company%29"
+    },
+    {
+      "title": "California",
+      "url": "https://en.wikipedia.org/wiki/California"
+    },
+    {
+      "title": "Call sign",
+      "url": "https://en.wikipedia.org/wiki/Call_sign"
+    },
+    {
+      "title": "Canterbury, New Zealand",
+      "url": "https://en.wikipedia.org/wiki/Canterbury%2C_New_Zealand"
+    },
+    {
+      "title": "CapitalG",
+      "url": "https://en.wikipedia.org/wiki/CapitalG"
+    },
+    {
+      "title": "Ceiba, Puerto Rico",
+      "url": "https://en.wikipedia.org/wiki/Ceiba%2C_Puerto_Rico"
+    },
+    {
+      "title": "Central Valley (California)",
+      "url": "https://en.wikipedia.org/wiki/Central_Valley_%28California%29"
+    },
+    {
+      "title": "Cerro Chato",
+      "url": "https://en.wikipedia.org/wiki/Cerro_Chato"
+    },
+    {
+      "title": "Changuinola",
+      "url": "https://en.wikipedia.org/wiki/Changuinola"
+    },
+    {
+      "title": "Chief executive officer",
+      "url": "https://en.wikipedia.org/wiki/Chief_executive_officer"
+    },
+    {
+      "title": "Chief financial officer",
+      "url": "https://en.wikipedia.org/wiki/Chief_financial_officer"
+    },
+    {
+      "title": "Chief investment officer",
+      "url": "https://en.wikipedia.org/wiki/Chief_investment_officer"
+    },
+    {
+      "title": "Chief legal officer",
+      "url": "https://en.wikipedia.org/wiki/Chief_legal_officer"
+    },
+    {
+      "title": "Chino Hills, California",
+      "url": "https://en.wikipedia.org/wiki/Chino_Hills%2C_California"
+    },
+    {
+      "title": "Christchurch",
+      "url": "https://en.wikipedia.org/wiki/Christchurch"
+    },
+    {
+      "title": "Chronicle Security",
+      "url": "https://en.wikipedia.org/wiki/Chronicle_Security"
+    },
+    {
+      "title": "Civil Aviation Authority of New Zealand",
+      "url": "https://en.wikipedia.org/wiki/Civil_Aviation_Authority_of_New_Zealand"
+    },
+    {
+      "title": "Congo River",
+      "url": "https://en.wikipedia.org/wiki/Congo_River"
+    },
+    {
+      "title": "David Drummond (businessman)",
+      "url": "https://en.wikipedia.org/wiki/David_Drummond_%28businessman%29"
+    },
+    {
+      "title": "David Krane",
+      "url": "https://en.wikipedia.org/wiki/David_Krane"
+    },
+    {
+      "title": "Diane Greene",
+      "url": "https://en.wikipedia.org/wiki/Diane_Greene"
+    },
+    {
+      "title": "Directional antenna",
+      "url": "https://en.wikipedia.org/wiki/Directional_antenna"
+    },
+    {
+      "title": "DoubleClick",
+      "url": "https://en.wikipedia.org/wiki/DoubleClick"
+    },
+    {
+      "title": "Dundee, KwaZulu-Natal",
+      "url": "https://en.wikipedia.org/wiki/Dundee%2C_KwaZulu-Natal"
+    },
+    {
+      "title": "ENodeB",
+      "url": "https://en.wikipedia.org/wiki/ENodeB"
+    },
+    {
+      "title": "Eric Schmidt",
+      "url": "https://en.wikipedia.org/wiki/Eric_Schmidt"
+    },
+    {
+      "title": "Federal Communications Commission",
+      "url": "https://en.wikipedia.org/wiki/Federal_Communications_Commission"
+    },
+    {
+      "title": "Firebase",
+      "url": "https://en.wikipedia.org/wiki/Firebase"
+    },
+    {
+      "title": "Fitbit",
+      "url": "https://en.wikipedia.org/wiki/Fitbit"
+    },
+    {
+      "title": "Flightradar24",
+      "url": "https://en.wikipedia.org/wiki/Flightradar24"
+    },
+    {
+      "title": "Formosa, Argentina",
+      "url": "https://en.wikipedia.org/wiki/Formosa%2C_Argentina"
+    },
+    {
+      "title": "France",
+      "url": "https://en.wikipedia.org/wiki/France"
+    },
+    {
+      "title": "Frances Arnold",
+      "url": "https://en.wikipedia.org/wiki/Frances_Arnold"
+    },
+    {
+      "title": "GV (company)",
+      "url": "https://en.wikipedia.org/wiki/GV_%28company%29"
+    },
+    {
+      "title": "Gampola",
+      "url": "https://en.wikipedia.org/wiki/Gampola"
+    },
+    {
+      "title": "Geostationary balloon satellite",
+      "url": "https://en.wikipedia.org/wiki/Geostationary_balloon_satellite"
+    },
+    {
+      "title": "Google",
+      "url": "https://en.wikipedia.org/wiki/Google"
+    },
+    {
+      "title": "Google DeepMind",
+      "url": "https://en.wikipedia.org/wiki/Google_DeepMind"
+    },
+    {
+      "title": "Google Fiber",
+      "url": "https://en.wikipedia.org/wiki/Google_Fiber"
+    },
+    {
+      "title": "Google Free Zone",
+      "url": "https://en.wikipedia.org/wiki/Google_Free_Zone"
+    },
+    {
+      "title": "Google Nest",
+      "url": "https://en.wikipedia.org/wiki/Google_Nest"
+    },
+    {
+      "title": "Google X",
+      "url": "https://en.wikipedia.org/wiki/Google_X"
+    },
+    {
+      "title": "Helium",
+      "url": "https://en.wikipedia.org/wiki/Helium"
+    },
+    {
+      "title": "High-altitude balloon",
+      "url": "https://en.wikipedia.org/wiki/High-altitude_balloon"
+    },
+    {
+      "title": "Hurricane Maria",
+      "url": "https://en.wikipedia.org/wiki/Hurricane_Maria"
+    },
+    {
+      "title": "ISM band",
+      "url": "https://en.wikipedia.org/wiki/ISM_band"
+    },
+    {
+      "title": "ISSN (identifier)",
+      "url": "https://en.wikipedia.org/wiki/ISSN_%28identifier%29"
+    },
+    {
+      "title": "Inc. (magazine)",
+      "url": "https://en.wikipedia.org/wiki/Inc._%28magazine%29"
+    },
+    {
+      "title": "Internet",
+      "url": "https://en.wikipedia.org/wiki/Internet"
+    },
+    {
+      "title": "Internet.org",
+      "url": "https://en.wikipedia.org/wiki/Internet.org"
+    },
+    {
+      "title": "Internet access",
+      "url": "https://en.wikipedia.org/wiki/Internet_access"
+    },
+    {
+      "title": "Internet service provider",
+      "url": "https://en.wikipedia.org/wiki/Internet_service_provider"
+    },
+    {
+      "title": "Isomorphic Labs",
+      "url": "https://en.wikipedia.org/wiki/Isomorphic_Labs"
+    },
+    {
+      "title": "Jigsaw (company)",
+      "url": "https://en.wikipedia.org/wiki/Jigsaw_%28company%29"
+    },
+    {
+      "title": "John Doerr",
+      "url": "https://en.wikipedia.org/wiki/John_Doerr"
+    },
+    {
+      "title": "John L. Hennessy",
+      "url": "https://en.wikipedia.org/wiki/John_L._Hennessy"
+    },
+    {
+      "title": "Karoo desert",
+      "url": "https://en.wikipedia.org/wiki/Karoo_desert"
+    },
+    {
+      "title": "Kinshasa, Democratic Republic of Congo",
+      "url": "https://en.wikipedia.org/wiki/Kinshasa%2C_Democratic_Republic_of_Congo"
+    },
+    {
+      "title": "Lake Tekapo (town)",
+      "url": "https://en.wikipedia.org/wiki/Lake_Tekapo_%28town%29"
+    },
+    {
+      "title": "Larry Page",
+      "url": "https://en.wikipedia.org/wiki/Larry_Page"
+    },
+    {
+      "title": "Laser communication in space",
+      "url": "https://en.wikipedia.org/wiki/Laser_communication_in_space"
+    },
+    {
+      "title": "List of countries by number of Internet users",
+      "url": "https://en.wikipedia.org/wiki/List_of_countries_by_number_of_Internet_users"
+    },
+    {
+      "title": "Long-Term Evolution",
+      "url": "https://en.wikipedia.org/wiki/Long-Term_Evolution"
+    },
+    {
+      "title": "M. Joan Alexander",
+      "url": "https://en.wikipedia.org/wiki/M._Joan_Alexander"
+    },
+    {
+      "title": "Madison, South Dakota",
+      "url": "https://en.wikipedia.org/wiki/Madison%2C_South_Dakota"
+    },
+    {
+      "title": "Makani (company)",
+      "url": "https://en.wikipedia.org/wiki/Makani_%28company%29"
+    },
+    {
+      "title": "Mariscala",
+      "url": "https://en.wikipedia.org/wiki/Mariscala"
+    },
+    {
+      "title": "Medium (website)",
+      "url": "https://en.wikipedia.org/wiki/Medium_%28website%29"
+    },
+    {
+      "title": "Meka Robotics",
+      "url": "https://en.wikipedia.org/wiki/Meka_Robotics"
+    },
+    {
+      "title": "Meru County",
+      "url": "https://en.wikipedia.org/wiki/Meru_County"
+    },
+    {
+      "title": "Mike Cassidy (entrepreneur)",
+      "url": "https://en.wikipedia.org/wiki/Mike_Cassidy_%28entrepreneur%29"
+    },
+    {
+      "title": "Mobile broadband modem",
+      "url": "https://en.wikipedia.org/wiki/Mobile_broadband_modem"
+    },
+    {
+      "title": "National Oceanic and Atmospheric Administration",
+      "url": "https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration"
+    },
+    {
+      "title": "Natural disaster",
+      "url": "https://en.wikipedia.org/wiki/Natural_disaster"
+    },
+    {
+      "title": "New York University",
+      "url": "https://en.wikipedia.org/wiki/New_York_University"
+    },
+    {
+      "title": "New Zealand",
+      "url": "https://en.wikipedia.org/wiki/New_Zealand"
+    },
+    {
+      "title": "O3b Networks",
+      "url": "https://en.wikipedia.org/wiki/O3b_Networks"
+    },
+    {
+      "title": "Olmos District",
+      "url": "https://en.wikipedia.org/wiki/Olmos_District"
+    },
+    {
+      "title": "Outernet",
+      "url": "https://en.wikipedia.org/wiki/Outernet"
+    },
+    {
+      "title": "Over-the-air programming",
+      "url": "https://en.wikipedia.org/wiki/Over-the-air_programming"
+    },
+    {
+      "title": "Panama",
+      "url": "https://en.wikipedia.org/wiki/Panama"
+    },
+    {
+      "title": "Parent company",
+      "url": "https://en.wikipedia.org/wiki/Parent_company"
+    },
+    {
+      "title": "Patch antenna",
+      "url": "https://en.wikipedia.org/wiki/Patch_antenna"
+    },
+    {
+      "title": "Piauí, Brazil",
+      "url": "https://en.wikipedia.org/wiki/Piau%C3%AD%2C_Brazil"
+    },
+    {
+      "title": "Ping (networking utility)",
+      "url": "https://en.wikipedia.org/wiki/Ping_%28networking_utility%29"
+    },
+    {
+      "title": "Polyethylene",
+      "url": "https://en.wikipedia.org/wiki/Polyethylene"
+    },
+    {
+      "title": "President (corporate title)",
+      "url": "https://en.wikipedia.org/wiki/President_%28corporate_title%29"
+    },
+    {
+      "title": "Printed circuit board",
+      "url": "https://en.wikipedia.org/wiki/Printed_circuit_board"
+    },
+    {
+      "title": "R. Martin Chavez",
+      "url": "https://en.wikipedia.org/wiki/R._Martin_Chavez"
+    },
+    {
+      "title": "Ram Shriram",
+      "url": "https://en.wikipedia.org/wiki/Ram_Shriram"
+    },
+    {
+      "title": "Raven Aerostar",
+      "url": "https://en.wikipedia.org/wiki/Raven_Aerostar"
+    },
+    {
+      "title": "Raven Industries",
+      "url": "https://en.wikipedia.org/wiki/Raven_Industries"
+    },
+    {
+      "title": "Ricardo Rosselló",
+      "url": "https://en.wikipedia.org/wiki/Ricardo_Rossell%C3%B3"
+    },
+    {
+      "title": "Rice University",
+      "url": "https://en.wikipedia.org/wiki/Rice_University"
+    },
+    {
+      "title": "Roger W. Ferguson Jr.",
+      "url": "https://en.wikipedia.org/wiki/Roger_W._Ferguson_Jr."
+    },
+    {
+      "title": "Roosevelt Roads Naval Station",
+      "url": "https://en.wikipedia.org/wiki/Roosevelt_Roads_Naval_Station"
+    },
+    {
+      "title": "Rural area",
+      "url": "https://en.wikipedia.org/wiki/Rural_area"
+    },
+    {
+      "title": "Ruth Porat",
+      "url": "https://en.wikipedia.org/wiki/Ruth_Porat"
+    },
+    {
+      "title": "San Francisco",
+      "url": "https://en.wikipedia.org/wiki/San_Francisco"
+    },
+    {
+      "title": "San Luis, Tolima",
+      "url": "https://en.wikipedia.org/wiki/San_Luis%2C_Tolima"
+    },
+    {
+      "title": "Sergey Brin",
+      "url": "https://en.wikipedia.org/wiki/Sergey_Brin"
+    },
+    {
+      "title": "Sidewalk Labs",
+      "url": "https://en.wikipedia.org/wiki/Sidewalk_Labs"
+    },
+    {
+      "title": "Sidewalk Toronto",
+      "url": "https://en.wikipedia.org/wiki/Sidewalk_Toronto"
+    },
+    {
+      "title": "SoftBank Group",
+      "url": "https://en.wikipedia.org/wiki/SoftBank_Group"
+    },
+    {
+      "title": "Solar panel",
+      "url": "https://en.wikipedia.org/wiki/Solar_panel"
+    },
+    {
+      "title": "South Island",
+      "url": "https://en.wikipedia.org/wiki/South_Island"
+    },
+    {
+      "title": "Square Kilometre Array",
+      "url": "https://en.wikipedia.org/wiki/Square_Kilometre_Array"
+    },
+    {
+      "title": "Sri Lanka",
+      "url": "https://en.wikipedia.org/wiki/Sri_Lanka"
+    },
+    {
+      "title": "Stanford University",
+      "url": "https://en.wikipedia.org/wiki/Stanford_University"
+    },
+    {
+      "title": "Starlink (satellite constellation)",
+      "url": "https://en.wikipedia.org/wiki/Starlink_%28satellite_constellation%29"
+    },
+    {
+      "title": "Stratosphere",
+      "url": "https://en.wikipedia.org/wiki/Stratosphere"
+    },
+    {
+      "title": "Stratovision",
+      "url": "https://en.wikipedia.org/wiki/Stratovision"
+    },
+    {
+      "title": "Strydenburg",
+      "url": "https://en.wikipedia.org/wiki/Strydenburg"
+    },
+    {
+      "title": "Subsidiary",
+      "url": "https://en.wikipedia.org/wiki/Subsidiary"
+    },
+    {
+      "title": "Sundar Pichai",
+      "url": "https://en.wikipedia.org/wiki/Sundar_Pichai"
+    },
+    {
+      "title": "Superpressure balloon",
+      "url": "https://en.wikipedia.org/wiki/Superpressure_balloon"
+    },
+    {
+      "title": "Tacuarembó",
+      "url": "https://en.wikipedia.org/wiki/Tacuaremb%C3%B3"
+    },
+    {
+      "title": "Telecommunication",
+      "url": "https://en.wikipedia.org/wiki/Telecommunication"
+    },
+    {
+      "title": "Telkom Kenya",
+      "url": "https://en.wikipedia.org/wiki/Telkom_Kenya"
+    },
+    {
+      "title": "Tenor (website)",
+      "url": "https://en.wikipedia.org/wiki/Tenor_%28website%29"
+    },
+    {
+      "title": "The New Zealand Herald",
+      "url": "https://en.wikipedia.org/wiki/The_New_Zealand_Herald"
+    },
+    {
+      "title": "Tony Fadell",
+      "url": "https://en.wikipedia.org/wiki/Tony_Fadell"
+    },
+    {
+      "title": "Turbulence",
+      "url": "https://en.wikipedia.org/wiki/Turbulence"
+    },
+    {
+      "title": "Tweet (social media)",
+      "url": "https://en.wikipedia.org/wiki/Tweet_%28social_media%29"
+    },
+    {
+      "title": "Twitter",
+      "url": "https://en.wikipedia.org/wiki/Twitter"
+    },
+    {
+      "title": "Ubiquiti Networks",
+      "url": "https://en.wikipedia.org/wiki/Ubiquiti_Networks"
+    },
+    {
+      "title": "Vatican City",
+      "url": "https://en.wikipedia.org/wiki/Vatican_City"
+    },
+    {
+      "title": "Verily",
+      "url": "https://en.wikipedia.org/wiki/Verily"
+    },
+    {
+      "title": "Vicarious (company)",
+      "url": "https://en.wikipedia.org/wiki/Vicarious_%28company%29"
+    },
+    {
+      "title": "Voice over IP",
+      "url": "https://en.wikipedia.org/wiki/Voice_over_IP"
+    },
+    {
+      "title": "Washington (state)",
+      "url": "https://en.wikipedia.org/wiki/Washington_%28state%29"
+    },
+    {
+      "title": "Waymo",
+      "url": "https://en.wikipedia.org/wiki/Waymo"
+    },
+    {
+      "title": "Waze",
+      "url": "https://en.wikipedia.org/wiki/Waze"
+    },
+    {
+      "title": "Wearable technology",
+      "url": "https://en.wikipedia.org/wiki/Wearable_technology"
+    },
+    {
+      "title": "Wing Aviation",
+      "url": "https://en.wikipedia.org/wiki/Wing_Aviation"
+    },
+    {
+      "title": "Wired (magazine)",
+      "url": "https://en.wikipedia.org/wiki/Wired_%28magazine%29"
+    },
+    {
+      "title": "Wireless network",
+      "url": "https://en.wikipedia.org/wiki/Wireless_network"
+    },
+    {
+      "title": "X Development",
+      "url": "https://en.wikipedia.org/wiki/X_Development"
+    },
+    {
+      "title": "YouTube",
+      "url": "https://en.wikipedia.org/wiki/YouTube"
+    },
+    {
+      "title": "YouTube channel (identifier)",
+      "url": "https://en.wikipedia.org/wiki/YouTube_channel_%28identifier%29"
+    },
+    {
+      "title": "Ñeembucú Department",
+      "url": "https://en.wikipedia.org/wiki/%C3%91eembuc%C3%BA_Department"
+    }
+  ]
+}

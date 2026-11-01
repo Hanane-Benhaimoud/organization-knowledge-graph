@@ -1,0 +1,19 @@
+{
+  "started_at": "2026-10-28T21:53:47.957027+00:00",
+  "finished_at": "2026-10-28T21:55:11.595541+00:00",
+  "seed_count": 20,
+  "raw_relation_count": 479,
+  "validated_relation_count": 444,
+  "rejected_relation_count": 35,
+  "graph_entity_count": 377,
+  "wikipedia_candidate_count": 220,
+  "total_target_count": 391,
+  "target_limit_reached": false,
+  "type_hierarchy_incomplete": true,
+  "failed_qids": [],
+  "entity_types": {
+    "organization": 268,
+    "person": 118,
+    "unknown": 14
+  }
+}

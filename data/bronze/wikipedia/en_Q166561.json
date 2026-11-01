@@ -1,0 +1,3536 @@
+{
+  "document_id": "wikipedia_en_Q166561",
+  "wikidata_id": "Q166561",
+  "entity_label": "Google Fiber",
+  "entity_type": "organization",
+  "seed_categories": [],
+  "source": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Google_Fiber",
+  "revision_id": 1382168539,
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1382168539",
+  "pageid": 26668052,
+  "title": "Google Fiber",
+  "language": "en",
+  "collected_at": "2026-10-28T21:59:37.283594+00:00",
+  "content": {
+    "sections": [
+      {
+        "heading": "Introduction",
+        "text": "GFiber , formerly Google Fiber , is an American fiber broadband Internet service operated by Alphabet Inc. It serves households in cities in 19 states in the United States . In mid-2016, Google Fiber was estimated to have about 453,000 broadband customers."
+      },
+      {
+        "heading": "History",
+        "text": "The service was first introduced in 2012 in the Kansas City metropolitan area , growing to include twenty Kansas City area suburbs within three years. [ non-primary source needed ] Initially proposed as an experimental project, [ non-primary source needed ] Google Fiber was announced as a viable business model in December 2012, when Google executive chairman Eric Schmidt stated \"It's actually not an experiment, we're actually running it as a business\", at The New York Times ' DealBook Conference.\nGoogle Fiber announced expansion to Austin, Texas , and Provo, Utah , in April 2013, and subsequent expansions in 2014 and 2015 to Atlanta , Charlotte , Research Triangle , Nashville , Salt Lake City , and San Antonio . Google Fiber resumed expansion and by early 2024, Google Fiber also served Huntsville (Alabama), Maricopa County (Arizona), Des Moines and West Des Moines (Iowa), Omaha (Nebraska) among others.\nIn August 2015, Google announced its intention to restructure the company, moving less central services and products into a new umbrella corporation, Alphabet Inc. As part of this restructuring plan, Google Fiber would become a subsidiary of Alphabet and would possibly become part of the Access and Energy business unit.\nOn June 22, 2016, Google Fiber bought Webpass, an Internet service provider that has been in business for 13 years and specializes in high-speed Internet for business and residential customers. They have presence in California — specifically the Bay Area and San Diego — Miami , Miami Beach , Coral Gables , Chicago , Denver , and Boston . The deal closed in October 2016.\nIn October 2016, all expansion plans were put on hold, and some jobs were cut. Google said it would continue to provide Google Fiber service in the cities where it was already installed. Since then, Google Fiber acquired Webpass to add presence in 5 additional states. In March 2022, Google Fiber announced it would bring high speed internet to the Des Moines, Iowa , metro area, making it the first expansion in five years. Google Fiber has resumed very active expansion in several new states.\nIn August 2022, Google Fiber announced it would expand into 22 metro areas in five states ( Arizona , Colorado , Idaho , Nebraska , and Nevada ), including previously announced expansions into Mesa, Arizona , and Colorado Springs, Colorado , based on where it felt speeds were lagging. It also announced additional investment in North Carolina . CNET characterized this an example of fast fiber winning the broadband wars. [ unreliable source ] In October 2023, Google Fiber rebranded to GFiber and announced plans to begin offering 20Gig internet and Wi-Fi 7 hardware in the near future. Another rebrand to the current gFiber brand name was made in September 2026, removing all parts of Google's branding. [ non-primary source needed ]\nOn March 12, 2026, the company announced it would be merging with Astound Broadband . The combined company will be majority-owned by investment company Stonepeak with Alphabet retaining a minority stake. The transaction is expected to close by the end of 2026. [ non-primary source needed ]"
+      },
+      {
+        "heading": "Internet services",
+        "text": "Google Fiber offers three symmetrical speed internet options as of January 2025. They are called Core, Home, and Edge .\nGoogle Fiber in the past offered five options, depending on location: Fiber 1 Gig, 2 Gig, 5 Gig , 8 Gig and an option for home phone service. All speed tiers included one terabyte of storage on Google Drive service.\nNew updated plans and speeds were unveiled in early 2025. 1TB free Google Drive was discontinued.\nGoogle also offers free Google Fiber Internet connectivity in each of its markets to select public and affordable housing properties.\nGoogle Fiber participated in the FCC's Affordable Connectivity Program with discounted rates until its cancellation in June 2024.\nIn February 2020, Google Fiber stopped offering TV service directly to new customers. Instead, during the sign-up process for Google Fiber, customers are presented with promotions for three virtual MVPD services: sister company YouTube TV , as well as FuboTV and (later) Philo . TV service was maintained for existing clients until early 2022."
+      },
+      {
+        "heading": "Distribution",
+        "text": "To avoid underground cabling complexity for the last mile , Google Fiber relies on aggregators dubbed Google Fiber Huts .\nFrom these Google Fiber Huts, the fiber cables travel along utility poles into neighborhoods and homes, and stop at a Fiber Jack (an optical network terminal or ONT) in each home.\nThe estimated cost of wiring a fiber network like Google Fiber into a major American city was $1 billion in 2016."
+      },
+      {
+        "heading": "Technical specifications",
+        "text": "Google Fiber provides an Internet connection speed of up to eight gigabits per second (8,000 Mbit/s) for download and eight gigabit per second (8,000 Mbit/s) upload. Google Fiber says its original 1 Gbit/s download service allows for the download of a full movie in less than two minutes.\nThe Google FIber Nutrition Label was created in anticipation of the FCC requiring all internet providers to display their product info in a standardized format. With the FCC requirement of consumer labels, all internet providers will be required to be more transparent with their fees, promotional pricing, typical speeds, and latency."
+      },
+      {
+        "heading": "Prohibition of servers",
+        "text": "When first launched, Google Fiber's terms of service stated that its subscribers were not allowed to create any type of server : \"Your Google Fiber account is for your use and the reasonable use of your guests. Unless you have a written agreement with Google Fiber permitting you do so, you should not host any server using your Google Fiber connection, use your Google Fiber account to provide a large number of people with Internet access, or use your Google Fiber account to provide commercial services to third parties (including, but not limited to, selling Internet access to third parties).\"\nThe Electronic Frontier Foundation criticized the practice, noting the ambiguity of the word \"server\" which might include such standard application protocols as BitTorrent , and Spotify , as well as the effect of and on IPv6 adoption due its lack of NAT technical limitations on network servers, but also noted similar prohibitions from other ISPs such as Comcast , Verizon , Cox , and AT&T .\nIn October 2013, the acceptable use policy for Google Fiber was modified to allow \"personal, non-commercial use of servers\"."
+      },
+      {
+        "heading": "Institutional reactions",
+        "text": "Time magazine has claimed that, rather than wanting to actually operate as an Internet service provider , the company was hoping to shame the major cable operators into improving their service so that Google searches could be done faster. Google has neither confirmed nor denied this claim.\nAT&T and other Internet service providers have launched their own gigabit services since Google Fiber was revealed. Some cable subscribers have also had their speeds increased without additional costs.\nAccording to a Goldman Sachs report, Google could connect approximately 830,000 homes a year at the cost of $1.25 billion a year, or a total of 7.5 million homes in nine years at a cost of slightly over $10 billion."
+      },
+      {
+        "heading": "Kansas Legislature",
+        "text": "In January 2014, a bill was introduced in the Kansas Legislature (Senate Bill 304, referred to as the \"Municipal Communications Network and Private Telecommunications Investment Safeguards Act\"), which would prevent Google Fiber from expanding further in Kansas using the model used in Kansas City. The bill proposes: \"Except with regard to unserved areas, a municipality may not, directly or indirectly:\nOffer to provide to one or more subscribers, video, telecommunications, or broadband service; or purchase, lease, construct, maintain, or operate any facility for the purpose of enabling a private business or entity to offer, provide, carry, or deliver video, telecommunications, or broadband service to one or more subscribers.\"\nBy February 2014, Senate Bill 304 (SB304) had lost momentum in the Kansas state senate, and the bill's sponsor, Kansas Cable Telecommunications Association (KCTA), indicated that it was doubtful that it would continue to pursue the legislation in the current legislative session."
+      },
+      {
+        "heading": "April Fools' hoaxes",
+        "text": "On April Fools' Day 2007, Google hosted a signup for Google TiSP offering \"a fully functional, end-to-end system that provides in-home wireless access by connecting your commode-based TiSP wireless router to one of the thousands of TiSP Access Nodes via fiber-optic cable strung through your local municipal sewage lines.\"\nOn April Fools' Day 2012, Google Fiber announced that its product was an edible Google Fiber bar instead of fiber-optic Internet broadband. It is stated that the Google Fiber bar delivers \"what the body needs to sustain activity, energy, and productivity.\"\nOn April Fools' Day 2013, Google Fiber announced the introduction of Google Fiber to the Pole. The description provided was \"Google Fiber to the Pole provides ubiquitous gigabit connectivity to fiberhoods across Kansas City. This latest innovation in Google Fiber technology enables users to access Google Fiber's ultrafast gigabit speeds even when they are out and about.\" Clicking on the \"Learn more\" and \"Find a pole near you\" buttons displayed a message reading \"April Fool's! While Fiber Poles don't exist, we are working on a bunch of cool stuff that does. Keep posted on all things Fiber by checking out our blog.\"\nThe April Fools' Day 2014 prank was an announcement of Coffee To The Home , using a spout on the fiber jack where the service enters the customer's home to deliver customized coffee drinks.\nOn April Fools' Day 2015, Google Fiber announced Dial-Up Mode for people who prefer slower Internet. It reaches speeds up to 56k and helps people get back to real life more often.\nFor the 2016 April Fools' Day joke, Google Fiber announced it was \"exploring 1 billion times faster speeds\"."
+      },
+      {
+        "heading": "First city selection process",
+        "text": "The initial location was chosen following a competitive selection process. Over 1,100 communities applied to be the first recipients of the service. Google originally stated that they would announce the winner or winners by the end of 2010; however, in mid-December, Google pushed back the announcement to \"early 2011\" due to the number of applications.\nThe request form was simple, and some have argued that it was too straightforward. This led to various attention-getting behaviors by those hoping to have their town selected. Some examples are given below:\nGreenville, South Carolina, utilized 1,000 of their citizens and glow sticks to create \"The World's First and Largest People-Powered Google Chain\". From an aerial view, the title \"Google\" was colorfully visible. Topeka, Kansas, temporarily renamed itself \"Google\" . A small plane bearing a banner reading \" Will Google Play in Peoria, IL? \" flew over the Google campus in Mountain View, California . The mayor of Duluth, Minnesota , jokingly proclaimed that every first-born child will be named either Google Fiber or Googlette Fiber. The city of Rancho Cucamonga, California , dubbed their city, \"Rancho Googlemonga\". One of the islands in Sarasota, Florida , was temporarily renamed \"Google Island\".\nMunicipalities and citizens also uploaded YouTube videos to support their bids. Some examples:\nA YouTube video in support of Sarasota, Florida, used the Bobby McFerrin song \" Don't Worry, Be Happy \". A video for Sarasota was uploaded through Facebook 's video service. Comedian and United States Senator Al Franken made a YouTube video to support the bid of Duluth, Minnesota. Ann Arbor, Michigan , has its own YouTube channel featuring a David Letterman-style Top Ten list delivered by town VIPs such as Mayor John Hieftje and University of Michigan President Mary Sue Coleman . Ann Arbor also held a city-wide GoogleFest, kicking off with a gathering of hundreds of participants dancing and chanting \"Ann Arbor Google Fiber, ain't Nothing any finer.\""
+      },
+      {
+        "heading": "Operating locations",
+        "text": "In 2011, Google launched a trial in a residential community of Palo Alto, California . On March 30 of the same year, Kansas City, Kansas , was selected as the first city to receive Google Fiber. In 2013, Austin, Texas, and Provo, Utah, were announced as expansion cities for Google Fiber on April 9 and 17 respectively.\nTexas Austin San Antonio Utah Logan Provo Salt Lake City Washington Seattle Nebraska Bellevue Omaha North Carolina Charlotte The Triangle Wilmington (upcoming as of 2026) Nevada Las Vegas (launched March 2026) South Carolina Fort Mill Tega Cay Tennessee Franklin Murfreesboro Nashville Smyrna Illinois Chicago Idaho Pocatello lowa Council Bluffs Des Moines Norwalk (upcoming as of 2026) West Des Moines Kansas/Missouri Kansas City Lawrence (upcoming as of 2026) Jefferson City Colorado Adams County (upcoming as of 2026) Broomfield County (upcoming as of 2026) Douglas County (upcoming as of 2026) Denver Golden (upcoming as of 2026) Lakewood Westminster Wheat Ridge (upcoming as of 2026) Florida Miami Georgia Atlanta Alabama Huntsville Arizona Chandler Mesa Queen Creek Tempe (upcoming as of 2026) California Oakland Orange County San Diego San Francisco\nIn summer 2011, Google launched a free trial of its forthcoming fiber service in one residential community near Stanford University in Palo Alto, California ."
+      },
+      {
+        "heading": "Kansas City",
+        "text": "Google found that affluent neighborhoods in Kansas City signed up for the faster service while those in poorer neighborhoods did not sign up for even the free option. In response to this digital divide , Google sent a team of 60 employees to the underserved areas to promote the Google Fiber service. Additionally, Google offered micro-grants to community organizations that want to start up digital literacy programs in Kansas City.\nThe following are chronological announcements of service in the Kansas City metropolitan area . Neighborhoods are said to be selected based on demand:\nKansas City, Kansas – On March 30, 2011, Kansas City, Kansas, was selected from over 1,100 applicants to be the first Google Fiber community. Kansas City, Missouri – On May 17, 2011, Google announced the decision to include Kansas City, Missouri, thus offering service to both sides of the state line. The network became available to residents in September 2012. Olathe, Kansas – On March 19, 2013, Google announced that the project would be expanded to Olathe. North Kansas City, Missouri – On April 19, 2013, Google announced that they were to begin a 20-year lease on dark fiber in the existing LiNKCity fiber network in North Kansas City. The original news article was incomplete, and later articles clarified the lease. Independent of Google's network, the system in North Kansas City will also be upgraded to gigabit capacity and managed by a local company based out of North Kansas City.\nShawnee, Kansas – May 2, 2013 Raytown, Missouri – May 3, 2013 Grandview, Missouri – May 7, 2013 Gladstone, Missouri – May 13, 2013 Raytown, Missouri – May 22, 2013 Lee's Summit, Missouri – June 21, 2013 Mission, Kansas – June 27, 2013 Prairie Village, Kansas – August 5, 2013 Leawood, Kansas – August 19, 2013 – (cancelled July 24, 2014) Merriam, Kansas – August 26, 2013 Roeland Park, Kansas – September 3, 2013 Mission Hills, Kansas – September 9, 2013 Fairway, Kansas – September 9, 2013 Lenexa, Kansas – September 17, 2013\nGoogle placed deployment in Overland Park, Kansas , on indefinite hold in October 2013, following delays by the City Council over concerns about whether an indemnification clause that Google required might force the city to repair any damage caused by the project. As of July 2014, Overland Park's City Council had voted on a deal that would allow for Google Fiber. Soon after, the city appeared on Google Fiber's website."
+      },
+      {
+        "heading": "Austin, Texas",
+        "text": "On April 9, 2013, it was announced that Austin, Texas, would become a Google Fiber City. On October 15, 2014, it was announced that Austin signups for Google Fiber would start in December 2014. On December 3, 2014, Google started taking registrations from residents and small businesses. The Google Fiber store in Austin was closed by 2023; however, the buildout continued in the city. 5 Gig launched in the Austin Market on August 21, 2023.\nGoogle Fiber store entrance, Austin Google Fiber store, Austin Google Fiber store, Austin TV box and Network box at Google Fiber store, Austin"
+      },
+      {
+        "heading": "Utah",
+        "text": "Provo, Utah – On April 17, 2013, it was announced that Provo would become the third Google Fiber City. Expansion of Google Fiber service to Provo, Utah will be accomplished through an agreement with the City of Provo to allow Google to acquire the existing fiber network known as \" iProvo \". The agreement will allow Google to purchase the iProvo network for $1, while requiring Google to upgrade the aging network to gigabit capacity, offer free gigabit service to 25 local public institutions, and offer 5 Mbit/s service to every home in the city for free after a $300 activation fee. Salt Lake City - On March 24, 2015, Google announced that Google Fiber would expand into Salt Lake City, Utah . Service became available for signup on August 24, 2016. Millcreek : On July 14, 2020, Google announced that Google Fiber would expand into Millcreek, Utah, to serve its first Millcreek customers in early 2021. On December 28, 2021, Google posted a blog article reflecting on the year 2021. In this article, they mentioned that the following cities had begun offering service sometime in 2021: Millcreek, South Salt Lake, Holladay, and Taylorsville. South Salt Lake : On February 25, 2021, Google announced that Google Fiber would expand into South Salt Lake, Utah. By July 26, 2021, Google had announced that construction was underway and expected to be completed by early 2022. On December 28, 2021, Google posted a blog article reflecting on the year of 2021. In this article, they mentioned that the following cities had begun offering service sometime in 2021: Millcreek, South Salt Lake, Holladay, and Taylorsville. Holladay : On March 11, 2021, Google announced that Google Fiber construction had begun in Holladay, Utah. Plans to allow Google Fiber expansion to the city were initially approved in November 2020. Construction is expected to conclude in early 2022. On December 28, 2021, Google posted a blog article reflecting on the year 2021. In this article, they mentioned that the following cities had begun offering service sometime in 2021: Millcreek, South Salt Lake, Holladay, and Taylorsville. Taylorsville : On April 22, 2021, Google announced that Google Fiber would expand into Taylorsville, Utah. By July 26, 2021, Google had announced that construction was underway and expected to be completed by early 2022. On December 28, 2021, Google posted a blog article reflecting on the year of 2021. In this article, they mentioned that the following cities had begun offering service sometime in 2021: Millcreek, South Salt Lake, Holladay, and Taylorsville. Sandy - On May 5, 2021, Google announced that Google Fiber would expand into Sandy, Utah. The initial timeline was to complete an \"initial footprint\" within two years. On March 22, 2022, Google announced that it had begun offering service in Sandy and North Salt Lake. North Salt Lake - On July 26, 2021, Google announced that Google Fiber would expand into North Salt Lake, Utah. Construction efforts were expected to begin soon after, with a completion date sometime in early 2022. On March 22, 2022, Google announced that it had begun offering service in Sandy and North Salt Lake and that it was approved to begin construction in White City, Draper, Riverton, Springville, West Bountiful, and West Jordan."
+      },
+      {
+        "heading": "Charlotte, North Carolina",
+        "text": "On July 12, 2016, sign-ups opened in Highland Creek . On October 4, 2016, sign-ups opened in Prosperity Village."
+      },
+      {
+        "heading": "Atlanta",
+        "text": "In the original announcement of 2015, the following areas were announced:\nAvondale Estates Brookhaven Castleberry Hill College Park Decatur East Point Hapeville Sandy Springs Smyrna Vine City\nIn August 2016, sign-ups were opened."
+      },
+      {
+        "heading": "North Carolina",
+        "text": "In the original announcement of 2015, the following areas of the Research Triangle of Raleigh–Durham, North Carolina were announced:\nCary Chapel Hill Durham Garner Morrisville Raleigh\nOn September 13, 2016, sign-ups opened."
+      },
+      {
+        "heading": "Nashville, Tennessee",
+        "text": "The areas initially announced in February 2015 were:\nOak Hill Forest Hills Berry Hill Belle Meade\nAs of December 2016, construction is underway. Sign-ups are open.\nAs of August 2017, Google Fiber announced that the Sylvan Park neighborhood in West Nashville had Google Fiber service officially operating, making Nashville a city with Google Fiber service."
+      },
+      {
+        "heading": "Huntsville, Alabama",
+        "text": "On February 22, 2016, Google announced that Google Fiber would expand into Huntsville, Alabama . Google Fiber announced it would start offering high-speed Internet, TV and telephone service in north Huntsville on May 23, 2017. On April 2, 2018, Huntsville Utilities continues to build fiber in Southeast Huntsville, which has been turned over to Google Fiber to service."
+      },
+      {
+        "heading": "West Des Moines, Iowa",
+        "text": "Google Fiber announced it would start offering high-speed Internet, TV, and telephone service in northeast West Des Moines on March 22, 2021."
+      },
+      {
+        "heading": "Utah",
+        "text": "Woods Cross : On July 26, 2021, Google announced that Google Fiber would expand into Woods Cross, Utah. This service will be available to Woods Cross City residents in the spring of 2022. South Jordan : On October 8, 2021, Google announced that Google Fiber would expand into South Jordan, Utah. The goal is to have \"service in some areas in early 2022\". Springville : On October 20, 2021, Google announced that Google Fiber would expand into Springville, Utah. Construction is expected to begin in spring 2022 and last through 2023. Riverton : On December 14, 2021, Google announced that Google Fiber would expand into Riverton, Utah. Construction is expected to begin in the second half of 2022, and they expect \"to start serving customers in Riverton in late 2022 or early 2023.\" Draper : On February 2, 2022, Google announced that Google Fiber would expand into Draper, Utah. Infrastructure construction will begin in spring 2022 with an estimated completion time of one year. West Jordan : On February 24, 2022, Google announced that Google Fiber would expand into West Jordan, Utah. Construction is slated to begin later in 2022, with the first West Jordan customers expected to come online around early 2023."
+      },
+      {
+        "heading": "California expansion",
+        "text": "On January 27, 2015, Google announced that Google Fiber would expand into additional markets:\nSouthern California Long Beach Huntington Beach ( Orange County )"
+      },
+      {
+        "heading": "San Antonio, Texas",
+        "text": "On April 14, 2016, Google sent a blast email to early adopters of Google Fiber announcing that they were indeed behind the visible construction across San Antonio, Texas . A few details were given about the vast extent of the construction that was being undertaken, Google was in the process of deploying about 4,000 linear miles (6,500 km) of fiber-optic cable throughout San Antonio . In advance of the imminent deployment of the new fiber network the direct competitors of Google Fiber, AT&T U-Verse , Time Warner Cable , and Grande Communications , dropped prices and increased the speeds of their networks. San Antonio, the seventh-largest city in the nation, was the largest project that Google Fiber had taken on to date.\nOn August 5, 2015, expansion into San Antonio was announced. As of December 2016, construction was underway. However, in January 2017, construction was halted pending concerns about the placement of Google Fiber huts in city parks. Mayor Ivy Taylor expressed commitment to working with Google to address community concerns and allow the project to continue.\nAs of May 9, 2019, Google Fiber had micro-trenched 600 miles of fiber in San Antonio neighborhoods. City staff said the majority was on the far Northwest and Northeast sides, including the pilot area in the Westover Hills neighborhood. After closing service in Louisville, Kentucky, the company said it learned from its challenges and refined its micro-trenching program to go deeper. According to the company, its Louisville microtrenching was as shallow as two inches. City staff said San Antonio's trenching depth was 6–8 inches."
+      },
+      {
+        "heading": "Louisville, Kentucky",
+        "text": "In April 2017, Google announced that Google Fiber would start construction in Louisville, Kentucky. Google Fiber got the service to sections of Louisville in five months after it first announced that it would be coming to the city—faster than it had ever deployed before—by using shallow trenching. In February 2019 Google announced it would shut down service on April 15. Before departing, Google Fiber service was criticized for disruptive infrastructure installations and poor workmanship. Google agreed to pay $3.8 million for clean up."
+      },
+      {
+        "heading": "2014",
+        "text": "In February 2014, Google announced it had \"invited cities in nine metro areas around the U.S.—34 cities altogether—to work with us to explore what it would take to bring them Google Fiber.\"\nThe remaining metropolitan areas where Fiber has not yet begun constructing are: Phoenix , Portland , San Antonio and San Jose . Of these, the following have yet to be selected by Google for fiber deployments:\nArizona – Phoenix , Scottsdale , Tempe . These plans were put on hold in October 2016. California – These plans were put on hold in October 2016. San Jose Santa Clara Sunnyvale Mountain View Palo Alto Oregon – Portland , Beaverton , Hillsboro , Gresham , Lake Oswego , Tigard These plans were put on hold in October 2016.\nOn April 15, 2014, Google began polling business users on their need for gigabit service, saying they would be \"conducting a pilot program where we'll connect a limited number of small businesses to our network\"."
+      },
+      {
+        "heading": "2015",
+        "text": "On September 10, 2015, Google tweeted that it was exploring the possibility of adding Irvine and San Diego, California , as future expansion cities.\nOn October 28, 2015, Jill Szuchmacher, Google Fiber Director of Expansion, announced ongoing negotiations with local governments in Jacksonville, Florida , Tampa, Florida , and Oklahoma City, Oklahoma . Szuchmacher stated that Google is interested in the installation of Google Fiber networks in each of the cities and that construction could take up to eighteen months once the project is underway. In October 2016, those plans were put on hold.\nOn December 8, 2015, the Seattle City Council's Director of Communications replied to a tweet indicating that the city was in the process of applying for Google Fiber service. On December 8, 2015, Jill Szuchmacher said the company will work with Chicago city leaders to collect information and study factors that could affect construction of Google Fiber."
+      },
+      {
+        "heading": "2016",
+        "text": "On June 14, 2016, Jill Szuchmacher said the company will work with Dallas mayor Mike Rawlings to try to bring another hub to Texas.\nIn October 2016, all expansion plans were put on hold, and some jobs were cut. Google Fiber will continue to provide service in the cities where it is already installed."
+      },
+      {
+        "heading": "2017",
+        "text": "In 2017 Google Fiber launched in three new cities: Huntsville, Alabama; Louisville, Kentucky; and San Antonio, Texas. It also began to heavily rely on shallow trenching, a new method of laying cables that cuts a small groove in the street or sidewalk, lays the fiber in that groove, and backfills it with a special epoxy, to expedite the construction process. In at least one case, cables were buried too shallow and were ripped up by repaving."
+      },
+      {
+        "heading": "See also",
+        "text": "Google WiFi , Google's municipal wireless network Project Loon , Google's research project aiming to provide Internet access to rural and remote areas via high-altitude balloons List of multiple-system operators"
+      },
+      {
+        "heading": "External links",
+        "text": "Official website\nWebPass (Acquired)\nGoogle Fiber 's channel on YouTube"
+      }
+    ],
+    "full_text": "Introduction\nGFiber , formerly Google Fiber , is an American fiber broadband Internet service operated by Alphabet Inc. It serves households in cities in 19 states in the United States . In mid-2016, Google Fiber was estimated to have about 453,000 broadband customers.\n\nHistory\nThe service was first introduced in 2012 in the Kansas City metropolitan area , growing to include twenty Kansas City area suburbs within three years. [ non-primary source needed ] Initially proposed as an experimental project, [ non-primary source needed ] Google Fiber was announced as a viable business model in December 2012, when Google executive chairman Eric Schmidt stated \"It's actually not an experiment, we're actually running it as a business\", at The New York Times ' DealBook Conference.\nGoogle Fiber announced expansion to Austin, Texas , and Provo, Utah , in April 2013, and subsequent expansions in 2014 and 2015 to Atlanta , Charlotte , Research Triangle , Nashville , Salt Lake City , and San Antonio . Google Fiber resumed expansion and by early 2024, Google Fiber also served Huntsville (Alabama), Maricopa County (Arizona), Des Moines and West Des Moines (Iowa), Omaha (Nebraska) among others.\nIn August 2015, Google announced its intention to restructure the company, moving less central services and products into a new umbrella corporation, Alphabet Inc. As part of this restructuring plan, Google Fiber would become a subsidiary of Alphabet and would possibly become part of the Access and Energy business unit.\nOn June 22, 2016, Google Fiber bought Webpass, an Internet service provider that has been in business for 13 years and specializes in high-speed Internet for business and residential customers. They have presence in California — specifically the Bay Area and San Diego — Miami , Miami Beach , Coral Gables , Chicago , Denver , and Boston . The deal closed in October 2016.\nIn October 2016, all expansion plans were put on hold, and some jobs were cut. Google said it would continue to provide Google Fiber service in the cities where it was already installed. Since then, Google Fiber acquired Webpass to add presence in 5 additional states. In March 2022, Google Fiber announced it would bring high speed internet to the Des Moines, Iowa , metro area, making it the first expansion in five years. Google Fiber has resumed very active expansion in several new states.\nIn August 2022, Google Fiber announced it would expand into 22 metro areas in five states ( Arizona , Colorado , Idaho , Nebraska , and Nevada ), including previously announced expansions into Mesa, Arizona , and Colorado Springs, Colorado , based on where it felt speeds were lagging. It also announced additional investment in North Carolina . CNET characterized this an example of fast fiber winning the broadband wars. [ unreliable source ] In October 2023, Google Fiber rebranded to GFiber and announced plans to begin offering 20Gig internet and Wi-Fi 7 hardware in the near future. Another rebrand to the current gFiber brand name was made in September 2026, removing all parts of Google's branding. [ non-primary source needed ]\nOn March 12, 2026, the company announced it would be merging with Astound Broadband . The combined company will be majority-owned by investment company Stonepeak with Alphabet retaining a minority stake. The transaction is expected to close by the end of 2026. [ non-primary source needed ]\n\nInternet services\nGoogle Fiber offers three symmetrical speed internet options as of January 2025. They are called Core, Home, and Edge .\nGoogle Fiber in the past offered five options, depending on location: Fiber 1 Gig, 2 Gig, 5 Gig , 8 Gig and an option for home phone service. All speed tiers included one terabyte of storage on Google Drive service.\nNew updated plans and speeds were unveiled in early 2025. 1TB free Google Drive was discontinued.\nGoogle also offers free Google Fiber Internet connectivity in each of its markets to select public and affordable housing properties.\nGoogle Fiber participated in the FCC's Affordable Connectivity Program with discounted rates until its cancellation in June 2024.\nIn February 2020, Google Fiber stopped offering TV service directly to new customers. Instead, during the sign-up process for Google Fiber, customers are presented with promotions for three virtual MVPD services: sister company YouTube TV , as well as FuboTV and (later) Philo . TV service was maintained for existing clients until early 2022.\n\nDistribution\nTo avoid underground cabling complexity for the last mile , Google Fiber relies on aggregators dubbed Google Fiber Huts .\nFrom these Google Fiber Huts, the fiber cables travel along utility poles into neighborhoods and homes, and stop at a Fiber Jack (an optical network terminal or ONT) in each home.\nThe estimated cost of wiring a fiber network like Google Fiber into a major American city was $1 billion in 2016.\n\nTechnical specifications\nGoogle Fiber provides an Internet connection speed of up to eight gigabits per second (8,000 Mbit/s) for download and eight gigabit per second (8,000 Mbit/s) upload. Google Fiber says its original 1 Gbit/s download service allows for the download of a full movie in less than two minutes.\nThe Google FIber Nutrition Label was created in anticipation of the FCC requiring all internet providers to display their product info in a standardized format. With the FCC requirement of consumer labels, all internet providers will be required to be more transparent with their fees, promotional pricing, typical speeds, and latency.\n\nProhibition of servers\nWhen first launched, Google Fiber's terms of service stated that its subscribers were not allowed to create any type of server : \"Your Google Fiber account is for your use and the reasonable use of your guests. Unless you have a written agreement with Google Fiber permitting you do so, you should not host any server using your Google Fiber connection, use your Google Fiber account to provide a large number of people with Internet access, or use your Google Fiber account to provide commercial services to third parties (including, but not limited to, selling Internet access to third parties).\"\nThe Electronic Frontier Foundation criticized the practice, noting the ambiguity of the word \"server\" which might include such standard application protocols as BitTorrent , and Spotify , as well as the effect of and on IPv6 adoption due its lack of NAT technical limitations on network servers, but also noted similar prohibitions from other ISPs such as Comcast , Verizon , Cox , and AT&T .\nIn October 2013, the acceptable use policy for Google Fiber was modified to allow \"personal, non-commercial use of servers\".\n\nInstitutional reactions\nTime magazine has claimed that, rather than wanting to actually operate as an Internet service provider , the company was hoping to shame the major cable operators into improving their service so that Google searches could be done faster. Google has neither confirmed nor denied this claim.\nAT&T and other Internet service providers have launched their own gigabit services since Google Fiber was revealed. Some cable subscribers have also had their speeds increased without additional costs.\nAccording to a Goldman Sachs report, Google could connect approximately 830,000 homes a year at the cost of $1.25 billion a year, or a total of 7.5 million homes in nine years at a cost of slightly over $10 billion.\n\nKansas Legislature\nIn January 2014, a bill was introduced in the Kansas Legislature (Senate Bill 304, referred to as the \"Municipal Communications Network and Private Telecommunications Investment Safeguards Act\"), which would prevent Google Fiber from expanding further in Kansas using the model used in Kansas City. The bill proposes: \"Except with regard to unserved areas, a municipality may not, directly or indirectly:\nOffer to provide to one or more subscribers, video, telecommunications, or broadband service; or purchase, lease, construct, maintain, or operate any facility for the purpose of enabling a private business or entity to offer, provide, carry, or deliver video, telecommunications, or broadband service to one or more subscribers.\"\nBy February 2014, Senate Bill 304 (SB304) had lost momentum in the Kansas state senate, and the bill's sponsor, Kansas Cable Telecommunications Association (KCTA), indicated that it was doubtful that it would continue to pursue the legislation in the current legislative session.\n\nApril Fools' hoaxes\nOn April Fools' Day 2007, Google hosted a signup for Google TiSP offering \"a fully functional, end-to-end system that provides in-home wireless access by connecting your commode-based TiSP wireless router to one of the thousands of TiSP Access Nodes via fiber-optic cable strung through your local municipal sewage lines.\"\nOn April Fools' Day 2012, Google Fiber announced that its product was an edible Google Fiber bar instead of fiber-optic Internet broadband. It is stated that the Google Fiber bar delivers \"what the body needs to sustain activity, energy, and productivity.\"\nOn April Fools' Day 2013, Google Fiber announced the introduction of Google Fiber to the Pole. The description provided was \"Google Fiber to the Pole provides ubiquitous gigabit connectivity to fiberhoods across Kansas City. This latest innovation in Google Fiber technology enables users to access Google Fiber's ultrafast gigabit speeds even when they are out and about.\" Clicking on the \"Learn more\" and \"Find a pole near you\" buttons displayed a message reading \"April Fool's! While Fiber Poles don't exist, we are working on a bunch of cool stuff that does. Keep posted on all things Fiber by checking out our blog.\"\nThe April Fools' Day 2014 prank was an announcement of Coffee To The Home , using a spout on the fiber jack where the service enters the customer's home to deliver customized coffee drinks.\nOn April Fools' Day 2015, Google Fiber announced Dial-Up Mode for people who prefer slower Internet. It reaches speeds up to 56k and helps people get back to real life more often.\nFor the 2016 April Fools' Day joke, Google Fiber announced it was \"exploring 1 billion times faster speeds\".\n\nFirst city selection process\nThe initial location was chosen following a competitive selection process. Over 1,100 communities applied to be the first recipients of the service. Google originally stated that they would announce the winner or winners by the end of 2010; however, in mid-December, Google pushed back the announcement to \"early 2011\" due to the number of applications.\nThe request form was simple, and some have argued that it was too straightforward. This led to various attention-getting behaviors by those hoping to have their town selected. Some examples are given below:\nGreenville, South Carolina, utilized 1,000 of their citizens and glow sticks to create \"The World's First and Largest People-Powered Google Chain\". From an aerial view, the title \"Google\" was colorfully visible. Topeka, Kansas, temporarily renamed itself \"Google\" . A small plane bearing a banner reading \" Will Google Play in Peoria, IL? \" flew over the Google campus in Mountain View, California . The mayor of Duluth, Minnesota , jokingly proclaimed that every first-born child will be named either Google Fiber or Googlette Fiber. The city of Rancho Cucamonga, California , dubbed their city, \"Rancho Googlemonga\". One of the islands in Sarasota, Florida , was temporarily renamed \"Google Island\".\nMunicipalities and citizens also uploaded YouTube videos to support their bids. Some examples:\nA YouTube video in support of Sarasota, Florida, used the Bobby McFerrin song \" Don't Worry, Be Happy \". A video for Sarasota was uploaded through Facebook 's video service. Comedian and United States Senator Al Franken made a YouTube video to support the bid of Duluth, Minnesota. Ann Arbor, Michigan , has its own YouTube channel featuring a David Letterman-style Top Ten list delivered by town VIPs such as Mayor John Hieftje and University of Michigan President Mary Sue Coleman . Ann Arbor also held a city-wide GoogleFest, kicking off with a gathering of hundreds of participants dancing and chanting \"Ann Arbor Google Fiber, ain't Nothing any finer.\"\n\nOperating locations\nIn 2011, Google launched a trial in a residential community of Palo Alto, California . On March 30 of the same year, Kansas City, Kansas , was selected as the first city to receive Google Fiber. In 2013, Austin, Texas, and Provo, Utah, were announced as expansion cities for Google Fiber on April 9 and 17 respectively.\nTexas Austin San Antonio Utah Logan Provo Salt Lake City Washington Seattle Nebraska Bellevue Omaha North Carolina Charlotte The Triangle Wilmington (upcoming as of 2026) Nevada Las Vegas (launched March 2026) South Carolina Fort Mill Tega Cay Tennessee Franklin Murfreesboro Nashville Smyrna Illinois Chicago Idaho Pocatello lowa Council Bluffs Des Moines Norwalk (upcoming as of 2026) West Des Moines Kansas/Missouri Kansas City Lawrence (upcoming as of 2026) Jefferson City Colorado Adams County (upcoming as of 2026) Broomfield County (upcoming as of 2026) Douglas County (upcoming as of 2026) Denver Golden (upcoming as of 2026) Lakewood Westminster Wheat Ridge (upcoming as of 2026) Florida Miami Georgia Atlanta Alabama Huntsville Arizona Chandler Mesa Queen Creek Tempe (upcoming as of 2026) California Oakland Orange County San Diego San Francisco\nIn summer 2011, Google launched a free trial of its forthcoming fiber service in one residential community near Stanford University in Palo Alto, California .\n\nKansas City\nGoogle found that affluent neighborhoods in Kansas City signed up for the faster service while those in poorer neighborhoods did not sign up for even the free option. In response to this digital divide , Google sent a team of 60 employees to the underserved areas to promote the Google Fiber service. Additionally, Google offered micro-grants to community organizations that want to start up digital literacy programs in Kansas City.\nThe following are chronological announcements of service in the Kansas City metropolitan area . Neighborhoods are said to be selected based on demand:\nKansas City, Kansas – On March 30, 2011, Kansas City, Kansas, was selected from over 1,100 applicants to be the first Google Fiber community. Kansas City, Missouri – On May 17, 2011, Google announced the decision to include Kansas City, Missouri, thus offering service to both sides of the state line. The network became available to residents in September 2012. Olathe, Kansas – On March 19, 2013, Google announced that the project would be expanded to Olathe. North Kansas City, Missouri – On April 19, 2013, Google announced that they were to begin a 20-year lease on dark fiber in the existing LiNKCity fiber network in North Kansas City. The original news article was incomplete, and later articles clarified the lease. Independent of Google's network, the system in North Kansas City will also be upgraded to gigabit capacity and managed by a local company based out of North Kansas City.\nShawnee, Kansas – May 2, 2013 Raytown, Missouri – May 3, 2013 Grandview, Missouri – May 7, 2013 Gladstone, Missouri – May 13, 2013 Raytown, Missouri – May 22, 2013 Lee's Summit, Missouri – June 21, 2013 Mission, Kansas – June 27, 2013 Prairie Village, Kansas – August 5, 2013 Leawood, Kansas – August 19, 2013 – (cancelled July 24, 2014) Merriam, Kansas – August 26, 2013 Roeland Park, Kansas – September 3, 2013 Mission Hills, Kansas – September 9, 2013 Fairway, Kansas – September 9, 2013 Lenexa, Kansas – September 17, 2013\nGoogle placed deployment in Overland Park, Kansas , on indefinite hold in October 2013, following delays by the City Council over concerns about whether an indemnification clause that Google required might force the city to repair any damage caused by the project. As of July 2014, Overland Park's City Council had voted on a deal that would allow for Google Fiber. Soon after, the city appeared on Google Fiber's website.\n\nAustin, Texas\nOn April 9, 2013, it was announced that Austin, Texas, would become a Google Fiber City. On October 15, 2014, it was announced that Austin signups for Google Fiber would start in December 2014. On December 3, 2014, Google started taking registrations from residents and small businesses. The Google Fiber store in Austin was closed by 2023; however, the buildout continued in the city. 5 Gig launched in the Austin Market on August 21, 2023.\nGoogle Fiber store entrance, Austin Google Fiber store, Austin Google Fiber store, Austin TV box and Network box at Google Fiber store, Austin\n\nUtah\nProvo, Utah – On April 17, 2013, it was announced that Provo would become the third Google Fiber City. Expansion of Google Fiber service to Provo, Utah will be accomplished through an agreement with the City of Provo to allow Google to acquire the existing fiber network known as \" iProvo \". The agreement will allow Google to purchase the iProvo network for $1, while requiring Google to upgrade the aging network to gigabit capacity, offer free gigabit service to 25 local public institutions, and offer 5 Mbit/s service to every home in the city for free after a $300 activation fee. Salt Lake City - On March 24, 2015, Google announced that Google Fiber would expand into Salt Lake City, Utah . Service became available for signup on August 24, 2016. Millcreek : On July 14, 2020, Google announced that Google Fiber would expand into Millcreek, Utah, to serve its first Millcreek customers in early 2021. On December 28, 2021, Google posted a blog article reflecting on the year 2021. In this article, they mentioned that the following cities had begun offering service sometime in 2021: Millcreek, South Salt Lake, Holladay, and Taylorsville. South Salt Lake : On February 25, 2021, Google announced that Google Fiber would expand into South Salt Lake, Utah. By July 26, 2021, Google had announced that construction was underway and expected to be completed by early 2022. On December 28, 2021, Google posted a blog article reflecting on the year of 2021. In this article, they mentioned that the following cities had begun offering service sometime in 2021: Millcreek, South Salt Lake, Holladay, and Taylorsville. Holladay : On March 11, 2021, Google announced that Google Fiber construction had begun in Holladay, Utah. Plans to allow Google Fiber expansion to the city were initially approved in November 2020. Construction is expected to conclude in early 2022. On December 28, 2021, Google posted a blog article reflecting on the year 2021. In this article, they mentioned that the following cities had begun offering service sometime in 2021: Millcreek, South Salt Lake, Holladay, and Taylorsville. Taylorsville : On April 22, 2021, Google announced that Google Fiber would expand into Taylorsville, Utah. By July 26, 2021, Google had announced that construction was underway and expected to be completed by early 2022. On December 28, 2021, Google posted a blog article reflecting on the year of 2021. In this article, they mentioned that the following cities had begun offering service sometime in 2021: Millcreek, South Salt Lake, Holladay, and Taylorsville. Sandy - On May 5, 2021, Google announced that Google Fiber would expand into Sandy, Utah. The initial timeline was to complete an \"initial footprint\" within two years. On March 22, 2022, Google announced that it had begun offering service in Sandy and North Salt Lake. North Salt Lake - On July 26, 2021, Google announced that Google Fiber would expand into North Salt Lake, Utah. Construction efforts were expected to begin soon after, with a completion date sometime in early 2022. On March 22, 2022, Google announced that it had begun offering service in Sandy and North Salt Lake and that it was approved to begin construction in White City, Draper, Riverton, Springville, West Bountiful, and West Jordan.\n\nCharlotte, North Carolina\nOn July 12, 2016, sign-ups opened in Highland Creek . On October 4, 2016, sign-ups opened in Prosperity Village.\n\nAtlanta\nIn the original announcement of 2015, the following areas were announced:\nAvondale Estates Brookhaven Castleberry Hill College Park Decatur East Point Hapeville Sandy Springs Smyrna Vine City\nIn August 2016, sign-ups were opened.\n\nNorth Carolina\nIn the original announcement of 2015, the following areas of the Research Triangle of Raleigh–Durham, North Carolina were announced:\nCary Chapel Hill Durham Garner Morrisville Raleigh\nOn September 13, 2016, sign-ups opened.\n\nNashville, Tennessee\nThe areas initially announced in February 2015 were:\nOak Hill Forest Hills Berry Hill Belle Meade\nAs of December 2016, construction is underway. Sign-ups are open.\nAs of August 2017, Google Fiber announced that the Sylvan Park neighborhood in West Nashville had Google Fiber service officially operating, making Nashville a city with Google Fiber service.\n\nHuntsville, Alabama\nOn February 22, 2016, Google announced that Google Fiber would expand into Huntsville, Alabama . Google Fiber announced it would start offering high-speed Internet, TV and telephone service in north Huntsville on May 23, 2017. On April 2, 2018, Huntsville Utilities continues to build fiber in Southeast Huntsville, which has been turned over to Google Fiber to service.\n\nWest Des Moines, Iowa\nGoogle Fiber announced it would start offering high-speed Internet, TV, and telephone service in northeast West Des Moines on March 22, 2021.\n\nUtah\nWoods Cross : On July 26, 2021, Google announced that Google Fiber would expand into Woods Cross, Utah. This service will be available to Woods Cross City residents in the spring of 2022. South Jordan : On October 8, 2021, Google announced that Google Fiber would expand into South Jordan, Utah. The goal is to have \"service in some areas in early 2022\". Springville : On October 20, 2021, Google announced that Google Fiber would expand into Springville, Utah. Construction is expected to begin in spring 2022 and last through 2023. Riverton : On December 14, 2021, Google announced that Google Fiber would expand into Riverton, Utah. Construction is expected to begin in the second half of 2022, and they expect \"to start serving customers in Riverton in late 2022 or early 2023.\" Draper : On February 2, 2022, Google announced that Google Fiber would expand into Draper, Utah. Infrastructure construction will begin in spring 2022 with an estimated completion time of one year. West Jordan : On February 24, 2022, Google announced that Google Fiber would expand into West Jordan, Utah. Construction is slated to begin later in 2022, with the first West Jordan customers expected to come online around early 2023.\n\nCalifornia expansion\nOn January 27, 2015, Google announced that Google Fiber would expand into additional markets:\nSouthern California Long Beach Huntington Beach ( Orange County )\n\nSan Antonio, Texas\nOn April 14, 2016, Google sent a blast email to early adopters of Google Fiber announcing that they were indeed behind the visible construction across San Antonio, Texas . A few details were given about the vast extent of the construction that was being undertaken, Google was in the process of deploying about 4,000 linear miles (6,500 km) of fiber-optic cable throughout San Antonio . In advance of the imminent deployment of the new fiber network the direct competitors of Google Fiber, AT&T U-Verse , Time Warner Cable , and Grande Communications , dropped prices and increased the speeds of their networks. San Antonio, the seventh-largest city in the nation, was the largest project that Google Fiber had taken on to date.\nOn August 5, 2015, expansion into San Antonio was announced. As of December 2016, construction was underway. However, in January 2017, construction was halted pending concerns about the placement of Google Fiber huts in city parks. Mayor Ivy Taylor expressed commitment to working with Google to address community concerns and allow the project to continue.\nAs of May 9, 2019, Google Fiber had micro-trenched 600 miles of fiber in San Antonio neighborhoods. City staff said the majority was on the far Northwest and Northeast sides, including the pilot area in the Westover Hills neighborhood. After closing service in Louisville, Kentucky, the company said it learned from its challenges and refined its micro-trenching program to go deeper. According to the company, its Louisville microtrenching was as shallow as two inches. City staff said San Antonio's trenching depth was 6–8 inches.\n\nLouisville, Kentucky\nIn April 2017, Google announced that Google Fiber would start construction in Louisville, Kentucky. Google Fiber got the service to sections of Louisville in five months after it first announced that it would be coming to the city—faster than it had ever deployed before—by using shallow trenching. In February 2019 Google announced it would shut down service on April 15. Before departing, Google Fiber service was criticized for disruptive infrastructure installations and poor workmanship. Google agreed to pay $3.8 million for clean up.\n\n2014\nIn February 2014, Google announced it had \"invited cities in nine metro areas around the U.S.—34 cities altogether—to work with us to explore what it would take to bring them Google Fiber.\"\nThe remaining metropolitan areas where Fiber has not yet begun constructing are: Phoenix , Portland , San Antonio and San Jose . Of these, the following have yet to be selected by Google for fiber deployments:\nArizona – Phoenix , Scottsdale , Tempe . These plans were put on hold in October 2016. California – These plans were put on hold in October 2016. San Jose Santa Clara Sunnyvale Mountain View Palo Alto Oregon – Portland , Beaverton , Hillsboro , Gresham , Lake Oswego , Tigard These plans were put on hold in October 2016.\nOn April 15, 2014, Google began polling business users on their need for gigabit service, saying they would be \"conducting a pilot program where we'll connect a limited number of small businesses to our network\".\n\n2015\nOn September 10, 2015, Google tweeted that it was exploring the possibility of adding Irvine and San Diego, California , as future expansion cities.\nOn October 28, 2015, Jill Szuchmacher, Google Fiber Director of Expansion, announced ongoing negotiations with local governments in Jacksonville, Florida , Tampa, Florida , and Oklahoma City, Oklahoma . Szuchmacher stated that Google is interested in the installation of Google Fiber networks in each of the cities and that construction could take up to eighteen months once the project is underway. In October 2016, those plans were put on hold.\nOn December 8, 2015, the Seattle City Council's Director of Communications replied to a tweet indicating that the city was in the process of applying for Google Fiber service. On December 8, 2015, Jill Szuchmacher said the company will work with Chicago city leaders to collect information and study factors that could affect construction of Google Fiber.\n\n2016\nOn June 14, 2016, Jill Szuchmacher said the company will work with Dallas mayor Mike Rawlings to try to bring another hub to Texas.\nIn October 2016, all expansion plans were put on hold, and some jobs were cut. Google Fiber will continue to provide service in the cities where it is already installed.\n\n2017\nIn 2017 Google Fiber launched in three new cities: Huntsville, Alabama; Louisville, Kentucky; and San Antonio, Texas. It also began to heavily rely on shallow trenching, a new method of laying cables that cuts a small groove in the street or sidewalk, lays the fiber in that groove, and backfills it with a special epoxy, to expedite the construction process. In at least one case, cables were buried too shallow and were ripped up by repaving.\n\nSee also\nGoogle WiFi , Google's municipal wireless network Project Loon , Google's research project aiming to provide Internet access to rural and remote areas via high-altitude balloons List of multiple-system operators\n\nExternal links\nOfficial website\nWebPass (Acquired)\nGoogle Fiber 's channel on YouTube"
+  },
+  "references": [
+    {
+      "url": "https://www.theverge.com/2018/2/6/16982174/alphabet-google-fiber-access-division-time-warner-cable-hire-dinesh-jain",
+      "label": "\"Alphabet hires Time Warner Cable executive to lead Access and Google Fiber\""
+    },
+    {
+      "url": "https://web.archive.org/web/20180305063638/https://www.theverge.com/2018/2/6/16982174/alphabet-google-fiber-access-division-time-warner-cable-hire-dinesh-jain",
+      "label": "Archived"
+    },
+    {
+      "url": "https://fiber.google.com/blog/2026/03/gfiber-and-stonepeaks-astound-to.html?ref=broadbandbreakfast.com",
+      "label": "\"Google Fiber Blog: GFiber and Stonepeak's Astound to combine, creating a leading independent broadband provider\""
+    },
+    {
+      "url": "https://www.nytimes.com/2016/10/26/technology/google-curbs-expansion-of-fiber-optic-network-cutting-jobs.html",
+      "label": "\"Google Curbs Expansion of Fiber Optic Network, Cutting Jobs\""
+    },
+    {
+      "url": "https://web.archive.org/web/20201112013807/https://www.nytimes.com/2016/10/26/technology/google-curbs-expansion-of-fiber-optic-network-cutting-jobs.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://opencorporates.com/companies/us_de/4837184",
+      "label": "\"Google Fiber Inc\""
+    },
+    {
+      "url": "https://www.nytimes.com/2010/03/22/technology/22stunts.html",
+      "label": "\"Hoping for Gift From Google? Go Jump in the Lake\""
+    },
+    {
+      "url": "https://web.archive.org/web/20170609011811/http://www.nytimes.com/2010/03/22/technology/22stunts.html",
+      "label": "Archived"
+    },
+    {
+      "url": "http://www.multichannel.com/news/content/google-fiber-very-pleased-tv-sign-ups/407629",
+      "label": "\"Google Fiber 'Very Pleased' with TV Sign-Ups\""
+    },
+    {
+      "url": "https://web.archive.org/web/20180225003050/http://www.multichannel.com/news/content/google-fiber-very-pleased-tv-sign-ups/407629",
+      "label": "Archived"
+    },
+    {
+      "url": "https://googleblog.blogspot.no/2011/03/ultra-high-speed-broadband-is-coming-to.html",
+      "label": "\"Ultra high-speed broadband is coming to Kansas City, Kansas\""
+    },
+    {
+      "url": "https://web.archive.org/web/20171223062247/https://googleblog.blogspot.no/2011/03/ultra-high-speed-broadband-is-coming-to.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://googleblog.blogspot.no/2010/02/think-big-with-gig-our-experimental.html",
+      "label": "\"Think big with a gig: Our experimental fiber network\""
+    },
+    {
+      "url": "https://web.archive.org/web/20161129150926/https://googleblog.blogspot.no/2010/02/think-big-with-gig-our-experimental.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.wired.com/2012/12/google-fiber-not-just-kansas-city/",
+      "label": "\"Eric Schmidt Says Google Fiber Won't Stop With Kansas City\""
+    },
+    {
+      "url": "https://web.archive.org/web/20190423172425/https://www.wired.com/2012/12/google-fiber-not-just-kansas-city/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://arstechnica.com/business/2015/08/google-fiber-plans-service-in-san-antonio-its-biggest-city-yet/",
+      "label": "\"Google Fiber plans service in San Antonio, its biggest city yet\""
+    },
+    {
+      "url": "https://web.archive.org/web/20170517191245/https://arstechnica.com/business/2015/08/google-fiber-plans-service-in-san-antonio-its-biggest-city-yet/",
+      "label": "Archived"
+    },
+    {
+      "url": "http://www.recode.net/2015/11/30/11620972/meet-google-alphabets-access-and-energy-division-home-to-google-fiber",
+      "label": "\"Meet Access, the Google Unit That's Taking On Comcast and the Rest of the Cable Biz\""
+    },
+    {
+      "url": "https://web.archive.org/web/20190410141434/https://www.recode.net/2015/11/30/11620972/meet-google-alphabets-access-and-energy-division-home-to-google-fiber",
+      "label": "Archived"
+    },
+    {
+      "url": "https://techcrunch.com/2016/06/22/google-fiber-is-buying-high-speed-internet-provider-webpass/",
+      "label": "\"Google Fiber is buying high-speed internet provider Webpass\""
+    },
+    {
+      "url": "https://web.archive.org/web/20201108093821/https://techcrunch.com/2016/06/22/google-fiber-is-buying-high-speed-internet-provider-webpass/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://arstechnica.com/information-technology/2016/10/google-fiber-now-owns-a-wireless-isp-but-isnt-giving-up-on-fiber/",
+      "label": "\"Google Fiber is now a fiber and wireless ISP\""
+    },
+    {
+      "url": "https://web.archive.org/web/20210121061628/https://arstechnica.com/information-technology/2016/10/google-fiber-now-owns-a-wireless-isp-but-isnt-giving-up-on-fiber/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://arstechnica.com/information-technology/2016/10/google-fiber-laying-off-9-of-staff-will-pause-plans-for-10-cities/",
+      "label": "\"Google Fiber division cuts staff by 9%, \"pauses\" fiber plans in 11 cities\""
+    },
+    {
+      "url": "https://web.archive.org/web/20201223102903/https://arstechnica.com/information-technology/2016/10/google-fiber-laying-off-9-of-staff-will-pause-plans-for-10-cities/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.axios.com/local/des-moines/2022/04/05/google-fiber-des-moines-construction",
+      "label": "\"Google Fiber is coming to Des Moines\""
+    },
+    {
+      "url": "https://web.archive.org/web/20220811204503/https://www.axios.com/local/des-moines/2022/04/05/google-fiber-des-moines-construction",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.theverge.com/2022/8/11/23301208/google-fiber-expansion-plans-five-states-arizona-colorado-nebraska-nevada-idaho",
+      "label": "\"Google Fiber isn't dead, it's expanding\""
+    },
+    {
+      "url": "https://web.archive.org/web/20220811204503/https://www.theverge.com/2022/8/11/23301208/google-fiber-expansion-plans-five-states-arizona-colorado-nebraska-nevada-idaho",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.reuters.com/business/media-telecom/exclusive-google-fiber-plans-5-state-growth-spurt-biggest-since-2015-2022-08-10/",
+      "label": "\"Exclusive: Google Fiber plans 5-state growth spurt, biggest since 2015\""
+    },
+    {
+      "url": "https://web.archive.org/web/20220810185128/https://www.reuters.com/business/media-telecom/exclusive-google-fiber-plans-5-state-growth-spurt-biggest-since-2015-2022-08-10/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://wraltechwire.com/2022/08/10/google-fiber-expanding-in-nc-too-spokesperson-says/",
+      "label": "\"Google Fiber expanding in NC markets, too | WRAL TechWire\""
+    },
+    {
+      "url": "https://web.archive.org/web/20220811071137/https://wraltechwire.com/2022/08/10/google-fiber-expanding-in-nc-too-spokesperson-says/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.cnet.com/home/internet/fast-fiber-networks-have-quietly-won-the-broadband-war/",
+      "label": "\"While You Weren't Watching, Fiber Broadband Leapfrogged DSL and Cable in Much of the World\""
+    },
+    {
+      "url": "https://web.archive.org/web/20220811204503/https://www.cnet.com/home/internet/fast-fiber-networks-have-quietly-won-the-broadband-war/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://fiber.google.com/blog/2023/10/gfiber-labs-announces-first-project-20.html",
+      "label": "\"Google Fiber Blog: GFiber Labs announces first project: 20 Gig with Wi-Fi 7\""
+    },
+    {
+      "url": "https://broadbandbreakfast.com/gfiber-and-astound-to-combine/",
+      "label": "\"GFiber and Astound to Combine\""
+    },
+    {
+      "url": "https://fiber.google.com/",
+      "label": "\"Google Fiber | Gigabit Fiber Optic Internet\""
+    },
+    {
+      "url": "https://fiber.google.com/blog/2025/01/new-products-tailored-for-how-you-live.html",
+      "label": "\"Google Fiber Blog: New products tailored for how you live online\""
+    },
+    {
+      "url": "https://fiber.googleblog.com/2015/07/connecthome-google-fiber.html",
+      "label": "\"Bringing Internet access to public housing residents\""
+    },
+    {
+      "url": "https://web.archive.org/web/20201204061113/https://fiber.googleblog.com/2015/07/connecthome-google-fiber.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://fiber.google.com/affordable-connectivity-program/",
+      "label": "\"Affordable Connectivity Program\""
+    },
+    {
+      "url": "https://9to5google.com/2020/02/04/google-fiber-drops-tv/",
+      "label": "\"Google Fiber no longer offering traditional TV plan for new customers\""
+    },
+    {
+      "url": "https://web.archive.org/web/20201130144522/https://9to5google.com/2020/02/04/google-fiber-drops-tv/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.reviews.org/tv-service/google-fiber-tv-alternatives/",
+      "label": "\"Alternatives to Google Fiber TV\""
+    },
+    {
+      "url": "https://web.archive.org/web/20220517065648/https://www.reviews.org/tv-service/google-fiber-tv-alternatives/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://support.google.com/fiber/answer/6126559?hl=en#zippy=,design-fiber-network",
+      "label": "\"Construction stages - Google Fiber Help\""
+    },
+    {
+      "url": "https://fiber.googleblog.com/2012/04/construction-update.html",
+      "label": "\"A Construction Update\""
+    },
+    {
+      "url": "https://web.archive.org/web/20201112010301/https://fiber.googleblog.com/2012/04/construction-update.html",
+      "label": "Archived"
+    },
+    {
+      "url": "http://www.recode.net/2016/5/11/11613308/google-fiber-alphabet",
+      "label": "\"Google Fiber is the most audacious part of the whole Alphabet\""
+    },
+    {
+      "url": "https://web.archive.org/web/20190404150539/https://www.recode.net/2016/5/11/11613308/google-fiber-alphabet",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.bostonglobe.com/business/2016/06/23/could-google-purchase-wireless-company-boost-boston-internet/2Ed1u9Md6rAJdwOfO5iZiO/story.html",
+      "label": "\"Could Google's purchase of a wireless company boost Boston's Internet?\""
+    },
+    {
+      "url": "https://web.archive.org/web/20171019085607/http://www.bostonglobe.com/business/2016/06/23/could-google-purchase-wireless-company-boost-boston-internet/2Ed1u9Md6rAJdwOfO5iZiO/story.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://web.archive.org/web/20130325150505/http://fiber.google.com/about/",
+      "label": "\"Google Fiber\""
+    },
+    {
+      "url": "https://fiber.google.com/about/",
+      "label": "the original"
+    },
+    {
+      "url": "http://whatisusa.info/google-wants-to-expand-its-ultrafast-internet-in-usa/",
+      "label": "\"Google Wants To Expand Its Ultrafast Internet In USA\""
+    },
+    {
+      "url": "https://web.archive.org/web/20180105180423/http://whatisusa.info/google-wants-to-expand-its-ultrafast-internet-in-usa/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://support.google.com/fiber/answer/14119068",
+      "label": "\"Google Fiber Nutrition Label - Google Fiber Help\""
+    },
+    {
+      "url": "https://www.fcc.gov/broadbandlabels",
+      "label": "\"Broadband Consumer Labels\""
+    },
+    {
+      "url": "https://www.wired.com/2013/07/google-neutrality/",
+      "label": "\"Now That It's in the Broadband Game, Google Flip-Flops on Network Neutrality\""
+    },
+    {
+      "url": "https://web.archive.org/web/20201220212417/https://www.wired.com/2013/07/google-neutrality/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.eff.org/deeplinks/2013/08/google-fiber-continues-awful-isp-tradition-banning-servers",
+      "label": "\"Google Fiber Continues Awful ISP Tradition of Banning 'Servers' \""
+    },
+    {
+      "url": "https://web.archive.org/web/20201111223111/https://www.eff.org/deeplinks/2013/08/google-fiber-continues-awful-isp-tradition-banning-servers",
+      "label": "Archived"
+    },
+    {
+      "url": "https://web.archive.org/web/20131017132626/http://crossies.com/pissed.html",
+      "label": "\"Google Fiber has changed its terms of service and now allows servers for non-commercial use\""
+    },
+    {
+      "url": "http://googleprotest.com/",
+      "label": "the original"
+    },
+    {
+      "url": "https://arstechnica.com/information-technology/2013/10/google-fiber-now-explicitly-permits-home-servers/",
+      "label": "\"Google Fiber now explicitly permits home servers\""
+    },
+    {
+      "url": "https://web.archive.org/web/20201223231635/https://arstechnica.com/information-technology/2013/10/google-fiber-now-explicitly-permits-home-servers",
+      "label": "Archived"
+    },
+    {
+      "url": "https://business.time.com/2012/09/14/with-google-fiber-search-giant-issues-public-challenge-get-up-to-speed/",
+      "label": "\"Google Fiber Issues Public Challenge: Get Up To Speed!\""
+    },
+    {
+      "url": "https://time.com/57060/att-north-carolina-google/",
+      "label": "\"AT&T aims to beat Google Fiber\""
+    },
+    {
+      "url": "https://www.forbes.com/sites/eliseackerman/2013/06/14/google-fiber-could-reach-8-million-homes-by-2022/",
+      "label": "\"Google Fiber Could Reach 8 Million Homes By 2022\""
+    },
+    {
+      "url": "https://web.archive.org/web/20201112010828/https://www.forbes.com/sites/eliseackerman/2013/06/14/google-fiber-could-reach-8-million-homes-by-2022/",
+      "label": "Archived"
+    },
+    {
+      "url": "http://www.kslegislature.org/li/b2013_14/measures/documents/sb304_00_0000.pdf",
+      "label": "\"Senate Bill No. 304: An Act enacting the municipal communications network and private telecommunications investment safeguards act\""
+    },
+    {
+      "url": "https://web.archive.org/web/20210121164839/http://kslegislature.org/li_2014/b2013_14/measures/documents/sb304_00_0000.pdf",
+      "label": "Archived"
+    },
+    {
+      "url": "http://tech.slashdot.org/story/14/01/31/0155202/kansas-to-nix-expansion-of-google-fiber-and-municipal-broadband",
+      "label": "\"Kansas To Nix Expansion of Google Fiber and Municipal Broadband - Slashdot\""
+    },
+    {
+      "url": "https://web.archive.org/web/20180316105213/https://tech.slashdot.org/story/14/01/31/0155202/kansas-to-nix-expansion-of-google-fiber-and-municipal-broadband",
+      "label": "Archived"
+    },
+    {
+      "url": "https://arstechnica.com/business/2014/02/its-dead-kansas-municipal-internet-ban-was-stabbed-shot-and-hanged/",
+      "label": "\" \"It's dead\": Kansas municipal Internet ban was \"stabbed, shot, and hanged\" \""
+    },
+    {
+      "url": "https://web.archive.org/web/20210127233305/https://arstechnica.com/information-technology/2014/02/its-dead-kansas-municipal-internet-ban-was-stabbed-shot-and-hanged/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.google.com/tisp/index.html",
+      "label": "\"Welcome to Google TiSP\""
+    },
+    {
+      "url": "https://web.archive.org/web/20210108010003/https://archive.google.com/tisp/index.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=re0VRK6ouwI",
+      "label": "\"Introducing the Google Fiber Bar\""
+    },
+    {
+      "url": "https://ghostarchive.org/varchive/youtube/20211215/re0VRK6ouwI",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=qcgWRpQP6ds",
+      "label": "\"Google Fiber to the Pole\""
+    },
+    {
+      "url": "https://ghostarchive.org/varchive/youtube/20211215/qcgWRpQP6ds",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=U2JBFlW--UU",
+      "label": "\"Introducing Coffee to the Home\""
+    },
+    {
+      "url": "https://ghostarchive.org/varchive/youtube/20211215/U2JBFlW--UU",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=XTTtkisylQw",
+      "label": "\"Introducing Dial-Up Mode\""
+    },
+    {
+      "url": "https://ghostarchive.org/varchive/youtube/20211215/XTTtkisylQw",
+      "label": "Archived"
+    },
+    {
+      "url": "https://fiber.googleblog.com/2016/04/1billiontimesfaster.html",
+      "label": "\"Exploring 1 billion times faster speeds\""
+    },
+    {
+      "url": "https://web.archive.org/web/20210121214442/https://fiber.googleblog.com/2016/04/1billiontimesfaster.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://web.archive.org/web/20191220041105/https://gigaom.com/2010/02/11/google-fiber-network-cost/",
+      "label": "\"How Much Will Google's Fiber Network Cost?\""
+    },
+    {
+      "url": "https://gigaom.com/2010/02/11/google-fiber-network-cost/",
+      "label": "the original"
+    },
+    {
+      "url": "https://techcrunch.com/2010/03/27/the-final-tally-more-than-1100-cities-apply-for-googles-fiber-network/",
+      "label": "\"The Final Tally: More Than 1100 Cities Apply For Google's Fiber Network\""
+    },
+    {
+      "url": "https://web.archive.org/web/20210109004749/https://techcrunch.com/2010/03/27/the-final-tally-more-than-1100-cities-apply-for-googles-fiber-network/",
+      "label": "Archived"
+    },
+    {
+      "url": "http://www.businessinsider.com/henry-blodget-google-1100-cities-want-us-to-build-them-huge-fiber-networks-2010-3",
+      "label": "\"Google: 1,100 Cities Want Us To Build Them Huge Fiber Networks\""
+    },
+    {
+      "url": "https://web.archive.org/web/20190821181211/https://www.businessinsider.com/henry-blodget-google-1100-cities-want-us-to-build-them-huge-fiber-networks-2010-3",
+      "label": "Archived"
+    },
+    {
+      "url": "https://googleblog.blogspot.no/2010/12/update-on-google-fiber.html",
+      "label": "\"An update on Google Fiber\""
+    },
+    {
+      "url": "https://web.archive.org/web/20170914212927/https://googleblog.blogspot.no/2010/12/update-on-google-fiber.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://arstechnica.com/tech-policy/2010/12/google-delays-its-1gbps-fiber-announcement/",
+      "label": "\"Google delays its 1Gbps fiber announcement\""
+    },
+    {
+      "url": "https://web.archive.org/web/20200929183548/https://arstechnica.com/tech-policy/2010/12/google-delays-its-1gbps-fiber-announcement/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.engadget.com/2010/12/16/google-fibers-1gbps-isp-test-community-selection-delayed-unti/",
+      "label": "\"Google Fiber's 1Gbps ISP 'test community' selection delayed until 2011\""
+    },
+    {
+      "url": "https://web.archive.org/web/20170911072521/https://www.engadget.com/2010/12/16/google-fibers-1gbps-isp-test-community-selection-delayed-unti/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.wired.com/2010/03/al-franken-jokes-but-google-fiber-is-no-laughing-matter/",
+      "label": "\"Al Franken Jokes, But Google Fiber Is No Laughing Matter\""
+    },
+    {
+      "url": "https://web.archive.org/web/20201109025820/http://www.wired.com/2010/03/al-franken-jokes-but-google-fiber-is-no-laughing-matter/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://web.archive.org/web/20140201214231/http://www.wearefeelinglucky.com/",
+      "label": "\"Greenville Feels Lucky\""
+    },
+    {
+      "url": "http://www.wearefeelinglucky.com/",
+      "label": "the original"
+    },
+    {
+      "url": "https://bits.blogs.nytimes.com/2010/03/26/cities-rush-to-woo-google-broadband-before-friday-deadline/?scp=1&sq=ann%20arbor%20google%20fiber&st=cse",
+      "label": "\"Cities Rush to Woo Google Broadband Before Friday Deadline\""
+    },
+    {
+      "url": "https://web.archive.org/web/20210128131548/https://bits.blogs.nytimes.com/2010/03/26/cities-rush-to-woo-google-broadband-before-friday-deadline/?scp=1&sq=ann%20arbor%20google%20fiber&st=cse",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.wired.com/2010/03/i-have-renamed-my-house-google/",
+      "label": "\"I, Google\""
+    },
+    {
+      "url": "https://web.archive.org/web/20200919010948/https://www.wired.com/2010/03/i-have-renamed-my-house-google/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.pcmag.com/article2/0,2817,2361038,00.asp",
+      "label": "\"The 5 Strangest City Pitches for Google's New Fiber-Optic Service\""
+    },
+    {
+      "url": "https://web.archive.org/web/20180105180423/https://www.pcmag.com/article2/0,2817,2361038,00.asp",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=G2i_piWVXuc",
+      "label": "\"Al Franken YouTube video\""
+    },
+    {
+      "url": "https://ghostarchive.org/varchive/youtube/20211215/G2i_piWVXuc",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.youtube.com/a2fiber",
+      "label": "\"Ann Arbor YouTube channel\""
+    },
+    {
+      "url": "https://web.archive.org/web/20210116122026/https://www.youtube.com/user/A2Fiber",
+      "label": "Archived"
+    },
+    {
+      "url": "https://web.archive.org/web/20110907040826/http://aagooglefest.com/",
+      "label": "\"자동차보험료비교견적사이트\""
+    },
+    {
+      "url": "http://www.AAGoogleFest.com",
+      "label": "the original"
+    },
+    {
+      "url": "http://www.annarbor.com/news/ann-arbor-mob-makes-another-case-to-attract-google-fiber/",
+      "label": "\"Ann Arbor 'mob' makes another case to attract Google Fiber\""
+    },
+    {
+      "url": "https://web.archive.org/web/20160303182248/http://www.annarbor.com/news/ann-arbor-mob-makes-another-case-to-attract-google-fiber/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://web.archive.org/web/20201126070619/https://www.anandtech.com/show/4661/google-fiber-goes-live-near-stanford",
+      "label": "\"Google Fiber Goes Live Near Stanford\""
+    },
+    {
+      "url": "http://www.anandtech.com/show/4661/google-fiber-goes-live-near-stanford",
+      "label": "the original"
+    },
+    {
+      "url": "http://allthingsd.com/20120726/google-gets-into-the-cable-tv-business-for-real/",
+      "label": "Google Gets Into the Cable TV Business, for Real"
+    },
+    {
+      "url": "https://web.archive.org/web/20120918140147/http://allthingsd.com/20120726/google-gets-into-the-cable-tv-business-for-real/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://fiber.googleblog.com/2011/05/everythings-up-to-date-in-kansas-city.html",
+      "label": "\"Everything's up to date in Kansas City\""
+    },
+    {
+      "url": "https://web.archive.org/web/20201025032501/https://fiber.googleblog.com/2011/05/everythings-up-to-date-in-kansas-city.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://fiber.googleblog.com/2013/03/google-fiber-is-coming-to-olathe-kansas.html",
+      "label": "\"Google Fiber is coming to Olathe, Kansas\""
+    },
+    {
+      "url": "https://web.archive.org/web/20201124224649/https://fiber.googleblog.com/2013/03/google-fiber-is-coming-to-olathe-kansas.html",
+      "label": "Archived"
+    },
+    {
+      "url": "http://www.bizjournals.com/kansascity/news/2013/04/17/north-kansas-city-signs-lease-with.html",
+      "label": "\"North Kansas City leases network to Google Fiber\""
+    },
+    {
+      "url": "https://web.archive.org/web/20210128125152/https://www.bizjournals.com/kansascity/news/2013/04/17/north-kansas-city-signs-lease-with.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://web.archive.org/web/20130514081959/http://www.pitch.com/kansascity/linkcity-google-fiber-dark-fiber/Content?oid=3220559",
+      "label": "\"Google Fiber bails out North Kansas City's fiber-optic misfire\""
+    },
+    {
+      "url": "http://www.pitch.com/kansascity/linkcity-google-fiber-dark-fiber/Content?oid=3220559",
+      "label": "the original"
+    },
+    {
+      "url": "https://fiber.googleblog.com/2013/05/welcome-shawnee-kansas.html",
+      "label": "\"Welcome, Shawnee, Kansas!\""
+    },
+    {
+      "url": "https://web.archive.org/web/20201112021821/https://fiber.googleblog.com/2013/05/welcome-shawnee-kansas.html",
+      "label": "Archived"
+    },
+    {
+      "url": "http://www.kansascity.com/2013/05/03/4216254/raytown-latest-city-promised-google.html",
+      "label": "\"Raytown latest city promised Google Fiber\""
+    },
+    {
+      "url": "https://web.archive.org/web/20210116113504/https://www.kansascity.com/2013/05/03/4216254/raytown-latest-city-promised-google.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://fiber.googleblog.com/2013/05/grandview-mo-our-newest-fiber-community.html",
+      "label": "\"Grandview, Mo. — our newest Fiber community\""
+    },
+    {
+      "url": "https://web.archive.org/web/20201112034616/https://fiber.googleblog.com/2013/05/grandview-mo-our-newest-fiber-community.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://fiber.googleblog.com/2013/05/another-local-expansion-into-gladstone.html",
+      "label": "\"Another local expansion into Gladstone, Mo\""
+    },
+    {
+      "url": "https://web.archive.org/web/20210121193059/https://fiber.googleblog.com/2013/05/another-local-expansion-into-gladstone.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://fiber.googleblog.com/2013/05/raytown-mo-approves-google-fiber.html",
+      "label": "\"Raytown, Mo. approves Google Fiber\""
+    },
+    {
+      "url": "https://web.archive.org/web/20201111192303/https://fiber.googleblog.com/2013/05/raytown-mo-approves-google-fiber.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://fiber.googleblog.com/2013/06/fiber-for-lees-summit.html",
+      "label": "\"Fiber for Lee's Summit\""
+    },
+    {
+      "url": "https://web.archive.org/web/20210121181905/https://fiber.googleblog.com/2013/06/fiber-for-lees-summit.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://fiber.googleblog.com/2013/06/mission-kansas-from-santa-fe-trail-to.html",
+      "label": "\"Mission, Kansas: from the Santa Fe Trail to the information speedway\""
+    },
+    {
+      "url": "https://web.archive.org/web/20201112032544/https://fiber.googleblog.com/2013/06/mission-kansas-from-santa-fe-trail-to.html",
+      "label": "Archived"
+    },
+    {
+      "url": "http://www.kansascity.com/2013/08/05/4391367/prairie-village-approves-deal.html",
+      "label": "\"Prairie Village approves deal for Google Fiber\""
+    },
+    {
+      "url": "https://web.archive.org/web/20210129045128/https://www.kansascity.com/2013/08/05/4391367/prairie-village-approves-deal.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://fiber.googleblog.com/2013/08/leawood-kansas-approves-fiber.html",
+      "label": "\"Leawood, Kansas Approves Fiber\""
+    },
+    {
+      "url": "https://web.archive.org/web/20201112043906/https://fiber.googleblog.com/2013/08/leawood-kansas-approves-fiber.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://web.archive.org/web/20160515133144/http://www.kshb.com/news/local-news/investigations/google-fiber-ended-contract-with-leawood-over-underground-utility-ordinance",
+      "label": "\"error\""
+    },
+    {
+      "url": "https://www.kshb.com/news/local-news/investigations/google-fiber-ended-contract-with-leawood-over-underground-utility-ordinance",
+      "label": "the original"
+    },
+    {
+      "url": "https://fiber.googleblog.com/2013/08/fiber-for-merriam-kansas.html",
+      "label": "\"Fiber for Merriam, Kansas\""
+    },
+    {
+      "url": "https://web.archive.org/web/20210122001507/https://fiber.googleblog.com/2013/08/fiber-for-merriam-kansas.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://fiber.googleblog.com/2013/09/rolling-into-roeland-park-kan.html",
+      "label": "\"Rolling into Roeland Park, Kan\""
+    },
+    {
+      "url": "https://web.archive.org/web/20201112033544/https://fiber.googleblog.com/2013/09/rolling-into-roeland-park-kan.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://fiber.googleblog.com/2013/09/fibers-coming-to-mission-hills-and.html",
+      "label": "\"Fiber's coming to Mission Hills and Fairway\""
+    },
+    {
+      "url": "https://web.archive.org/web/20210122004708/https://fiber.googleblog.com/2013/09/fibers-coming-to-mission-hills-and.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://fiber.googleblog.com/2013/09/bringing-fiber-to-lenexa-kan.html",
+      "label": "\"Bringing Fiber to Lenexa, Kan\""
+    },
+    {
+      "url": "https://web.archive.org/web/20201111234929/https://fiber.googleblog.com/2013/09/bringing-fiber-to-lenexa-kan.html",
+      "label": "Archived"
+    },
+    {
+      "url": "http://www.kansascity.com/2013/10/25/4575335/momentary-stall-in-overland-park.html",
+      "label": "\"Momentary stall in Overland Park puts Google Fiber on long hold\""
+    },
+    {
+      "url": "https://web.archive.org/web/20160922005533/http://www.kansascity.com/news/local/community/joco-913/overland-park-leawood/article330296/Momentary-stall-in-Overland-Park-puts-Google-Fiber-on-long-hold.html",
+      "label": "Archived"
+    },
+    {
+      "url": "http://www.kmbc.com/news/overland-park-poised-to-make-deals-with-google-fiber/26828326#!bk4FCC",
+      "label": "\"Overland Park reaches deal to bring in Google Fiber\""
+    },
+    {
+      "url": "https://web.archive.org/web/20201119190351/https://www.kmbc.com/article/overland-park-reaches-deal-to-bring-in-google-fiber/3683339#!bk4FCC",
+      "label": "Archived"
+    },
+    {
+      "url": "https://googleblog.blogspot.no/2013/04/google-fibers-next-stop-austin-texas.html",
+      "label": "\"Google Fiber's Next Stop: Austin, Texas\""
+    },
+    {
+      "url": "https://web.archive.org/web/20170914195015/https://googleblog.blogspot.no/2013/04/google-fibers-next-stop-austin-texas.html",
+      "label": "Archived"
+    },
+    {
+      "url": "http://kut.org/post/google-announces-december-fiber-signups-south-austin",
+      "label": "\"Google Announces December Fiber Signups for South Austin\""
+    },
+    {
+      "url": "https://web.archive.org/web/20201111202710/https://www.kut.org/post/google-announces-december-fiber-signups-south-austin",
+      "label": "Archived"
+    },
+    {
+      "url": "http://www.rapidtvnews.com/2014120336303/google-fiber-goes-live-in-austin.html",
+      "label": "\"Google Fiber goes live in Austin\""
+    },
+    {
+      "url": "https://web.archive.org/web/20210125054932/https://www.rapidtvnews.com/2014120336303/google-fiber-goes-live-in-austin.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://fiber.google.com/blog/2023/08/keeping-austin-wired-5-gig-now.html",
+      "label": "\"Google Fiber Blog: Keeping Austin Wired! 5 Gig now available in Austin as Google Fiber continues growth and investment across Central Texas\""
+    },
+    {
+      "url": "https://fiber.googleblog.com/2013/04/silicon-slopes.html",
+      "label": "\"Google Fiber—On the Silicon Prairie, the Silicon Hills, and now the Silicon Slopes\""
+    },
+    {
+      "url": "https://web.archive.org/web/20201111213925/https://fiber.googleblog.com/2013/04/silicon-slopes.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://web.archive.org/web/20191212121515/http://www.provo.org/asset-purchase-agreement.pdf",
+      "label": "\"Asset Purchase Agreement\""
+    },
+    {
+      "url": "http://provo.org/asset-purchase-agreement.pdf",
+      "label": "the original"
+    },
+    {
+      "url": "https://web.archive.org/web/20221009150508/https://www.provo.org/network-services-agreement.pdf",
+      "label": "\"Network Services Agreement\""
+    },
+    {
+      "url": "http://provo.org/network-services-agreement.pdf",
+      "label": "the original"
+    },
+    {
+      "url": "https://fiber.google.com/cities/provo/",
+      "label": "\"Google Fiber Pricing Provo\""
+    },
+    {
+      "url": "https://web.archive.org/web/20210128193435/https://fiber.google.com/cities/provo/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://arstechnica.com/information-technology/2016/08/google-fiber-hits-salt-lake-city-now-available-in-seven-metro-areas/",
+      "label": "\"Google Fiber hits Salt Lake City, now available in seven metro areas\""
+    },
+    {
+      "url": "https://web.archive.org/web/20201108110238/https://arstechnica.com/information-technology/2016/08/google-fiber-hits-salt-lake-city-now-available-in-seven-metro-areas/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://fiber.google.com/blog/2020/google-fiber-is-coming-to-millcreek-ut/",
+      "label": "\"Google Fiber is Coming to Millcreek, UT\""
+    },
+    {
+      "url": "https://web.archive.org/web/20200930105451/https://fiber.google.com/blog/2020/google-fiber-is-coming-to-millcreek-ut/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://fiber.google.com/blog/2021/looking-back-on-an-interesting-year/",
+      "label": "\"Looking back on an interesting year\""
+    },
+    {
+      "url": "https://web.archive.org/web/20220426230249/https://fiber.google.com/blog/2021/looking-back-on-an-interesting-year/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.abc4.com/news/local-news/google-fiber-coming-to-south-salt-lake/",
+      "label": "\"Google Fiber coming to South Salt Lake\""
+    },
+    {
+      "url": "https://web.archive.org/web/20210506205735/https://www.abc4.com/news/local-news/google-fiber-coming-to-south-salt-lake/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://fiber.google.com/blog/2021/one-hot-summer-in-the-salt-lake-valley/",
+      "label": "\"One hot summer in the Salt Lake Valley\""
+    },
+    {
+      "url": "https://web.archive.org/web/20220226071724/https://fiber.google.com/blog/2021/one-hot-summer-in-the-salt-lake-valley/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://twitter.com/cityofholladay/status/1370138257506271234?lang=en",
+      "label": "\"Google Fiber Comes to Holladay Tweet\""
+    },
+    {
+      "url": "https://web.archive.org/web/20220226071723/https://twitter.com/cityofholladay/status/1370138257506271234?lang=en",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.taylorsvilleut.gov/Home/Components/News/News/356/265",
+      "label": "\"Google Fiber coming to Taylorsville\""
+    },
+    {
+      "url": "https://web.archive.org/web/20220226071719/https://www.taylorsvilleut.gov/Home/Components/News/News/356/265",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.abc4.com/news/local-news/google-fiber-coming-to-another-salt-lake-county-city/",
+      "label": "\"Google Fiber coming to another Salt Lake County city\""
+    },
+    {
+      "url": "https://web.archive.org/web/20210505222734/https://www.abc4.com/news/local-news/google-fiber-coming-to-another-salt-lake-county-city/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://fiber.google.com/blog/2022/things-to-watch-on-the-wasatch-front/",
+      "label": "\"Things to watch on the Wasatch Front\""
+    },
+    {
+      "url": "https://web.archive.org/web/20220506212256/https://fiber.google.com/blog/2022/things-to-watch-on-the-wasatch-front/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.nslcity.org/ArchiveCenter/ViewFile/Item/2517",
+      "label": "\"City of North Salt Lake City Council Meeting\""
+    },
+    {
+      "url": "https://web.archive.org/web/20220226071720/https://www.nslcity.org/ArchiveCenter/ViewFile/Item/2517",
+      "label": "Archived"
+    },
+    {
+      "url": "https://twitter.com/googlefiber/status/752868949730000900",
+      "label": "\"Hello, Charlotte. #googlefiber has arrived. Sign-ups now open in Highland Creek. Learn more\""
+    },
+    {
+      "url": "https://twitter.com/googlefiber/status/783339903002173441",
+      "label": "\"Hello, Prosperity Village. Google Fiber has arrived. Check your address\""
+    },
+    {
+      "url": "https://fiber.googleblog.com/2015/01/google-fiber-is-coming-to-atlanta.html",
+      "label": "\"Google Fiber is coming to Atlanta, Charlotte, Nashville and Raleigh-Durham\""
+    },
+    {
+      "url": "https://web.archive.org/web/20210121072347/https://fiber.googleblog.com/2015/01/google-fiber-is-coming-to-atlanta.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://web.archive.org/web/20201027132318/https://atlanta.curbed.com/2016/8/10/12418522/google-fiber-atlanta-sign-up",
+      "label": "\"Google Fiber hits Atlanta, and you can (maybe) get it\""
+    },
+    {
+      "url": "http://atlanta.curbed.com/2016/8/10/12418522/google-fiber-atlanta-sign-up",
+      "label": "the original"
+    },
+    {
+      "url": "http://www.bizjournals.com/triangle/blog/techflash/2016/09/its-here-where-google-fiber-is-starting-its.html",
+      "label": "\"Lauren K. Ohnesorge (September 12, 2016). It's Here: Where Google Fiber is starting its Triangle service - Triangle Business Journal\""
+    },
+    {
+      "url": "https://web.archive.org/web/20180106063617/https://www.bizjournals.com/triangle/blog/techflash/2016/09/its-here-where-google-fiber-is-starting-its.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://fiber.google.com/cities/nashville/",
+      "label": "\"Fiber is coming to Nashville – Sign up for updates\""
+    },
+    {
+      "url": "https://web.archive.org/web/20181205184120/http://www.nashvillepublicradio.org/post/one-nashville-neighborhood-finally-gets-google-fiber-theres-high-speed-competition#stream/0",
+      "label": "\"One Nashville Neighborhood Finally Gets Google Fiber, But There's High-Speed Competition\""
+    },
+    {
+      "url": "http://nashvillepublicradio.org/post/one-nashville-neighborhood-finally-gets-google-fiber-theres-high-speed-competition#stream/0",
+      "label": "the original"
+    },
+    {
+      "url": "https://fiber.googleblog.com/2016/02/huntsville.html",
+      "label": "\"Working with Huntsville to connect more people\""
+    },
+    {
+      "url": "https://web.archive.org/web/20210116120122/https://fiber.googleblog.com/2016/02/huntsville.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.al.com/news/huntsville/2017/05/google_fiber_starts_serving_hu.html",
+      "label": "\"Google Fiber starts serving Huntsville customers today\""
+    },
+    {
+      "url": "https://web.archive.org/web/20201112022415/https://www.al.com/news/huntsville/2017/05/google_fiber_starts_serving_hu.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.huntsvilleal.gov/fiber-check-huntsville-utilities/",
+      "label": "\"Fiber Installation Check-in from Huntsville Utilities\""
+    },
+    {
+      "url": "https://web.archive.org/web/20210116121404/https://www.huntsvilleal.gov/fiber-check-huntsville-utilities/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.kcci.com/article/west-des-moines-iowa-has-a-new-high-speed-internet-option/39531020",
+      "label": "\"West Des Moines has a new high speed internet option\""
+    },
+    {
+      "url": "https://web.archive.org/web/20220422084028/https://www.kcci.com/article/west-des-moines-iowa-has-a-new-high-speed-internet-option/39531020",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.woodscross.com/vertical/sites/%7B1E8AA2ED-77CC-41F1-8DA8-74322646B85C%7D/uploads/Woods_Cross_City_Google_Fiber_FAQ.pdf",
+      "label": "\"Woods Cross Google Fiber FAQ\""
+    },
+    {
+      "url": "https://web.archive.org/web/20220226071724/https://www.woodscross.com/vertical/sites/%7B1E8AA2ED-77CC-41F1-8DA8-74322646B85C%7D/uploads/Woods_Cross_City_Google_Fiber_FAQ.pdf",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.sjc.utah.gov/south-jordan-to-get-google-fiber/",
+      "label": "\"South Jordan to get Google Fiber\""
+    },
+    {
+      "url": "https://web.archive.org/web/20211011063850/https://www.sjc.utah.gov/south-jordan-to-get-google-fiber/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.springville.org/google-fiber/",
+      "label": "\"Google Fiber Coming to Springville in 2022\""
+    },
+    {
+      "url": "https://web.archive.org/web/20211020173037/https://www.springville.org/google-fiber/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.rivertonutah.gov/blog_detail_T55_R225.php?page=/newsroom.php&section=blog",
+      "label": "\"Google Fiber Expanding To Riverton, Utah\""
+    },
+    {
+      "url": "https://web.archive.org/web/20220714072157/https://www.rivertonutah.gov/blog_detail_T55_R225.php?page=/newsroom.php&section=blog",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.abc4.com/news/google-fiber-expanding-to-another-utah-city/",
+      "label": "\"Google Fiber expanding to another Utah city (Draper)\""
+    },
+    {
+      "url": "https://web.archive.org/web/20220226071721/https://www.abc4.com/news/google-fiber-expanding-to-another-utah-city/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.abc4.com/news/local-news/google-fiber-expands-to-another-utah-city/",
+      "label": "\"Google Fiber expanding to another Utah city (West Jordan)\""
+    },
+    {
+      "url": "https://web.archive.org/web/20220226053455/https://www.abc4.com/news/local-news/google-fiber-expands-to-another-utah-city/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://fiber.google.com/cities/sanantonio/",
+      "label": "\"Gigabit Internet Service in San Antonio, TX | Google Fiber\""
+    },
+    {
+      "url": "https://web.archive.org/web/20210121072625/https://fiber.google.com/cities/sanantonio/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://fiber.googleblog.com/2015/08/san-antonio-fiber.html",
+      "label": "\"Everything's faster in Texas: Google Fiber is coming to San Antonio\""
+    },
+    {
+      "url": "https://web.archive.org/web/20201108094026/https://fiber.googleblog.com/2015/08/san-antonio-fiber.html",
+      "label": "Archived"
+    },
+    {
+      "url": "http://tpr.org/post/san-antonio-pushes-pause-google-fiber-deployment#stream/0",
+      "label": "\"San Antonio Pushes Pause on Google Fiber Deployment\""
+    },
+    {
+      "url": "https://web.archive.org/web/20201111205943/https://www.tpr.org/technology-entrepreneurship/2017-01-12/san-antonio-pushes-pause-on-google-fiber-deployment#stream/0",
+      "label": "Archived"
+    },
+    {
+      "url": "https://web.archive.org/web/20201024144105/https://www.sacurrent.com/the-daily/archives/2017/01/13/city-stalls-google-fiber-rollout-blames-google",
+      "label": "\"City Stalls Google Fiber Rollout, Blames Google\""
+    },
+    {
+      "url": "https://www.sacurrent.com/the-daily/archives/2017/01/13/city-stalls-google-fiber-rollout-blames-google",
+      "label": "the original"
+    },
+    {
+      "url": "http://www.ksat.com/news/city-halts-huts-for-google-fiber-mayoral-candidates-weigh-in",
+      "label": "\"City halts huts for Google fiber; mayoral candidates weigh-in\""
+    },
+    {
+      "url": "https://web.archive.org/web/20210116115018/https://www.ksat.com/news/2017/01/13/city-halts-huts-for-google-fiber-mayoral-candidates-weigh-in/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.tpr.org/post/google-fiber-says-goodbye-kentucky-soldiers-san-antonio",
+      "label": "\"Google Fiber Says Goodbye In Kentucky, But Soldiers On In San Antonio\""
+    },
+    {
+      "url": "https://web.archive.org/web/20201112031927/https://www.tpr.org/technology-entrepreneurship/2019-02-08/google-fiber-says-goodbye-in-kentucky-but-soldiers-on-in-san-antonio",
+      "label": "Archived"
+    },
+    {
+      "url": "http://www.courier-journal.com/story/news/local/2017/04/26/google-fiber-confirms-wire-louisville/100888548/",
+      "label": "\"Google Fiber confirms it will wire Louisville\""
+    },
+    {
+      "url": "https://web.archive.org/web/20230221215915/https://www.courier-journal.com/story/news/local/2017/04/26/google-fiber-confirms-wire-louisville/100888548/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.techrepublic.com/article/google-fiber-is-using-a-secret-weapon-to-outpace-at-t-and-other-gigabit-competitors/",
+      "label": "\"Google Fiber is using a secret weapon to outpace AT&T and other gigabit competitors\""
+    },
+    {
+      "url": "https://web.archive.org/web/20200701234713/https://www.techrepublic.com/article/google-fiber-is-using-a-secret-weapon-to-outpace-at-t-and-other-gigabit-competitors/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.techrepublic.com/article/how-google-fiber-turned-2017-into-its-comeback-year/",
+      "label": "\"How Google Fiber turned 2017 into its comeback year\""
+    },
+    {
+      "url": "https://web.archive.org/web/20210121222353/https://www.techrepublic.com/article/how-google-fiber-turned-2017-into-its-comeback-year/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.theverge.com/2019/2/7/18215743/google-fiber-leaving-louisville-service-ending",
+      "label": "Google Fiber is leaving Louisville in humiliating setback"
+    },
+    {
+      "url": "https://web.archive.org/web/20201112035622/https://www.theverge.com/2019/2/7/18215743/google-fiber-leaving-louisville-service-ending",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.businessinsider.com/google-fiber-louisville-shutdown-2019-2",
+      "label": "\"Google Fiber is shutting down its super-high speed internet service in Louisville after residents complained that it left exposed cables in the streets\""
+    },
+    {
+      "url": "https://web.archive.org/web/20210121003830/https://www.businessinsider.com/google-fiber-louisville-shutdown-2019-2",
+      "label": "Archived"
+    },
+    {
+      "url": "https://arstechnica.com/information-technology/2019/04/google-fiber-exits-louisville-pays-city-3-8m-to-clean-up-the-mess-it-left/",
+      "label": "\"Google Fiber exits Louisville, pays city $3.8M to clean up the mess it left\""
+    },
+    {
+      "url": "https://web.archive.org/web/20201107224223/https://arstechnica.com/information-technology/2019/04/google-fiber-exits-louisville-pays-city-3-8m-to-clean-up-the-mess-it-left/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://googleblog.blogspot.no/2014/02/exploring-new-cities-for-google-fiber.html",
+      "label": "\"Exploring new cities for Google Fiber\""
+    },
+    {
+      "url": "https://web.archive.org/web/20201214123210/https://blog.google/alphabet/exploring-new-cities-for-google-fiber/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://web.archive.org/web/20180909073528/https://fiber.google.com/newcities/",
+      "label": "\"The future of Fiber\""
+    },
+    {
+      "url": "https://fiber.google.com/newcities/",
+      "label": "the original"
+    },
+    {
+      "url": "https://web.archive.org/web/20170305183819/https://services.google.com/fb/forms/fiberforsmallbusiness/",
+      "label": "\"Google Fiber – Questionnaire for small business\""
+    },
+    {
+      "url": "https://services.google.com/fb/forms/fiberforsmallbusiness/",
+      "label": "the original"
+    },
+    {
+      "url": "https://twitter.com/googlefiber/status/642033385620140032",
+      "label": "\"We're exploring bringing a super fast network to Irvine, Louisville & San Diego. Learn more\""
+    },
+    {
+      "url": "http://jacksonville.com/news/metro/2015-10-28/story/google-fiber-begins-negotiations-lay-super-fast-internet-network",
+      "label": "\"Google Fiber begins negotiations to lay super-fast Internet network in Jacksonville\""
+    },
+    {
+      "url": "https://web.archive.org/web/20210121215708/https://www.jacksonville.com/news/metro/2015-10-28/story/google-fiber-begins-negotiations-lay-super-fast-internet-network",
+      "label": "Archived"
+    },
+    {
+      "url": "http://exstreamist.com/seattle-city-council-applies-for-google-fiber/",
+      "label": "\"Seattle City Council Applies for Google Fiber\""
+    },
+    {
+      "url": "https://web.archive.org/web/20201108091528/https://exstreamist.com/seattle-city-council-applies-for-google-fiber/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.chicagotribune.com/bluesky/originals/ct-google-fiber-chicago-bsi-20151208-story.html",
+      "label": "\"Google Fiber superfast Internet service may come to Chicago\""
+    },
+    {
+      "url": "https://web.archive.org/web/20190415014511/https://www.chicagotribune.com/bluesky/originals/ct-google-fiber-chicago-bsi-20151208-story.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://fiber.googleblog.com/2016/06/exploring-dallas-for-google-fiber.html",
+      "label": "\"Exploring Dallas for Google Fiber\""
+    },
+    {
+      "url": "https://web.archive.org/web/20201108125758/https://fiber.googleblog.com/2016/06/exploring-dallas-for-google-fiber.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://web.archive.org/web/20180702122211/http://www.wsmv.com/story/38536214/google-fiber-thrill-turns-to-apprehension-for-neighbors",
+      "label": "\"Google fiber thrill turns to apprehension for neighbors\""
+    },
+    {
+      "url": "http://www.wsmv.com/story/38536214/google-fiber-thrill-turns-to-apprehension-for-neighbors",
+      "label": "the original"
+    }
+  ],
+  "outgoing_links": [
+    {
+      "title": "List of Google April Fools' Day jokes",
+      "url": "https://en.wikipedia.org/wiki/List_of_Google_April_Fools%27_Day_jokes"
+    },
+    {
+      "title": "1989 South Florida television affiliation switch",
+      "url": "https://en.wikipedia.org/wiki/1989_South_Florida_television_affiliation_switch"
+    },
+    {
+      "title": "1994–1996 United States broadcast television realignment",
+      "url": "https://en.wikipedia.org/wiki/1994%E2%80%931996_United_States_broadcast_television_realignment"
+    },
+    {
+      "title": "2001 Vancouver TV realignment",
+      "url": "https://en.wikipedia.org/wiki/2001_Vancouver_TV_realignment"
+    },
+    {
+      "title": "2006 United States broadcast television realignment",
+      "url": "https://en.wikipedia.org/wiki/2006_United_States_broadcast_television_realignment"
+    },
+    {
+      "title": "2007 Canada broadcast TV realignment",
+      "url": "https://en.wikipedia.org/wiki/2007_Canada_broadcast_TV_realignment"
+    },
+    {
+      "title": "9to5Google",
+      "url": "https://en.wikipedia.org/wiki/9to5Google"
+    },
+    {
+      "title": "@Home Network",
+      "url": "https://en.wikipedia.org/wiki/%40Home_Network"
+    },
+    {
+      "title": "A&E Crime Central",
+      "url": "https://en.wikipedia.org/wiki/A%26E_Crime_Central"
+    },
+    {
+      "title": "A&E Networks",
+      "url": "https://en.wikipedia.org/wiki/A%26E_Networks"
+    },
+    {
+      "title": "AMC+",
+      "url": "https://en.wikipedia.org/wiki/AMC%2B"
+    },
+    {
+      "title": "AMC Networks",
+      "url": "https://en.wikipedia.org/wiki/AMC_Networks"
+    },
+    {
+      "title": "AOL",
+      "url": "https://en.wikipedia.org/wiki/AOL"
+    },
+    {
+      "title": "AT&T",
+      "url": "https://en.wikipedia.org/wiki/AT%26T"
+    },
+    {
+      "title": "AT&T Alascom",
+      "url": "https://en.wikipedia.org/wiki/AT%26T_Alascom"
+    },
+    {
+      "title": "AT&T Broadband",
+      "url": "https://en.wikipedia.org/wiki/AT%26T_Broadband"
+    },
+    {
+      "title": "AT&T Fiber",
+      "url": "https://en.wikipedia.org/wiki/AT%26T_Fiber"
+    },
+    {
+      "title": "AT&T Internet",
+      "url": "https://en.wikipedia.org/wiki/AT%26T_Internet"
+    },
+    {
+      "title": "AT&T Mobility",
+      "url": "https://en.wikipedia.org/wiki/AT%26T_Mobility"
+    },
+    {
+      "title": "AT&T U-verse",
+      "url": "https://en.wikipedia.org/wiki/AT%26T_U-verse"
+    },
+    {
+      "title": "AT&T Wireless Services",
+      "url": "https://en.wikipedia.org/wiki/AT%26T_Wireless_Services"
+    },
+    {
+      "title": "ATMNet",
+      "url": "https://en.wikipedia.org/wiki/ATMNet"
+    },
+    {
+      "title": "ATN International",
+      "url": "https://en.wikipedia.org/wiki/ATN_International"
+    },
+    {
+      "title": "Acceptable use policy",
+      "url": "https://en.wikipedia.org/wiki/Acceptable_use_policy"
+    },
+    {
+      "title": "Acorn TV",
+      "url": "https://en.wikipedia.org/wiki/Acorn_TV"
+    },
+    {
+      "title": "Adams Cable",
+      "url": "https://en.wikipedia.org/wiki/Adams_Cable"
+    },
+    {
+      "title": "Adelphia Communications Corporation",
+      "url": "https://en.wikipedia.org/wiki/Adelphia_Communications_Corporation"
+    },
+    {
+      "title": "Advanced Mobile Phone Service",
+      "url": "https://en.wikipedia.org/wiki/Advanced_Mobile_Phone_Service"
+    },
+    {
+      "title": "Advanced Network and Services",
+      "url": "https://en.wikipedia.org/wiki/Advanced_Network_and_Services"
+    },
+    {
+      "title": "Aereo",
+      "url": "https://en.wikipedia.org/wiki/Aereo"
+    },
+    {
+      "title": "Affordable Connectivity Program",
+      "url": "https://en.wikipedia.org/wiki/Affordable_Connectivity_Program"
+    },
+    {
+      "title": "AirTouch",
+      "url": "https://en.wikipedia.org/wiki/AirTouch"
+    },
+    {
+      "title": "Al Franken",
+      "url": "https://en.wikipedia.org/wiki/Al_Franken"
+    },
+    {
+      "title": "Alameda Municipal Power",
+      "url": "https://en.wikipedia.org/wiki/Alameda_Municipal_Power"
+    },
+    {
+      "title": "Alan Mulally",
+      "url": "https://en.wikipedia.org/wiki/Alan_Mulally"
+    },
+    {
+      "title": "All Things Digital",
+      "url": "https://en.wikipedia.org/wiki/All_Things_Digital"
+    },
+    {
+      "title": "Allblk",
+      "url": "https://en.wikipedia.org/wiki/Allblk"
+    },
+    {
+      "title": "Alltel",
+      "url": "https://en.wikipedia.org/wiki/Alltel"
+    },
+    {
+      "title": "AlphaStar (satellite broadcasting service)",
+      "url": "https://en.wikipedia.org/wiki/AlphaStar_%28satellite_broadcasting_service%29"
+    },
+    {
+      "title": "Alphabet Inc.",
+      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc."
+    },
+    {
+      "title": "Altafiber",
+      "url": "https://en.wikipedia.org/wiki/Altafiber"
+    },
+    {
+      "title": "Amazon (company)",
+      "url": "https://en.wikipedia.org/wiki/Amazon_%28company%29"
+    },
+    {
+      "title": "Amazon Freevee",
+      "url": "https://en.wikipedia.org/wiki/Amazon_Freevee"
+    },
+    {
+      "title": "Amazon Prime Video",
+      "url": "https://en.wikipedia.org/wiki/Amazon_Prime_Video"
+    },
+    {
+      "title": "Anat Ashkenazi",
+      "url": "https://en.wikipedia.org/wiki/Anat_Ashkenazi"
+    },
+    {
+      "title": "Andrew Conrad",
+      "url": "https://en.wikipedia.org/wiki/Andrew_Conrad"
+    },
+    {
+      "title": "Angel Studios",
+      "url": "https://en.wikipedia.org/wiki/Angel_Studios"
+    },
+    {
+      "title": "Anime Network",
+      "url": "https://en.wikipedia.org/wiki/Anime_Network"
+    },
+    {
+      "title": "Ann Arbor, Michigan",
+      "url": "https://en.wikipedia.org/wiki/Ann_Arbor%2C_Michigan"
+    },
+    {
+      "title": "Ann Mather",
+      "url": "https://en.wikipedia.org/wiki/Ann_Mather"
+    },
+    {
+      "title": "Apex Global Internet Services",
+      "url": "https://en.wikipedia.org/wiki/Apex_Global_Internet_Services"
+    },
+    {
+      "title": "Apple TV (streaming service)",
+      "url": "https://en.wikipedia.org/wiki/Apple_TV_%28streaming_service%29"
+    },
+    {
+      "title": "April Fools' Day",
+      "url": "https://en.wikipedia.org/wiki/April_Fools%27_Day"
+    },
+    {
+      "title": "Arizona",
+      "url": "https://en.wikipedia.org/wiki/Arizona"
+    },
+    {
+      "title": "Armstrong Group of Companies",
+      "url": "https://en.wikipedia.org/wiki/Armstrong_Group_of_Companies"
+    },
+    {
+      "title": "Ars Technica",
+      "url": "https://en.wikipedia.org/wiki/Ars_Technica"
+    },
+    {
+      "title": "Arthur D. Levinson",
+      "url": "https://en.wikipedia.org/wiki/Arthur_D._Levinson"
+    },
+    {
+      "title": "Astound Broadband",
+      "url": "https://en.wikipedia.org/wiki/Astound_Broadband"
+    },
+    {
+      "title": "Astro Teller",
+      "url": "https://en.wikipedia.org/wiki/Astro_Teller"
+    },
+    {
+      "title": "Atlanta metropolitan area",
+      "url": "https://en.wikipedia.org/wiki/Atlanta_metropolitan_area"
+    },
+    {
+      "title": "Austin, Texas",
+      "url": "https://en.wikipedia.org/wiki/Austin%2C_Texas"
+    },
+    {
+      "title": "Autonomous System Number",
+      "url": "https://en.wikipedia.org/wiki/Autonomous_System_Number"
+    },
+    {
+      "title": "Avondale Estates, Georgia",
+      "url": "https://en.wikipedia.org/wiki/Avondale_Estates%2C_Georgia"
+    },
+    {
+      "title": "Axel Springer SE",
+      "url": "https://en.wikipedia.org/wiki/Axel_Springer_SE"
+    },
+    {
+      "title": "Axios (website)",
+      "url": "https://en.wikipedia.org/wiki/Axios_%28website%29"
+    },
+    {
+      "title": "BET+",
+      "url": "https://en.wikipedia.org/wiki/BET%2B"
+    },
+    {
+      "title": "Baja Broadband",
+      "url": "https://en.wikipedia.org/wiki/Baja_Broadband"
+    },
+    {
+      "title": "Baseline Study",
+      "url": "https://en.wikipedia.org/wiki/Baseline_Study"
+    },
+    {
+      "title": "Bay Area",
+      "url": "https://en.wikipedia.org/wiki/Bay_Area"
+    },
+    {
+      "title": "Beaverton, Oregon",
+      "url": "https://en.wikipedia.org/wiki/Beaverton%2C_Oregon"
+    },
+    {
+      "title": "Belle Meade, Tennessee",
+      "url": "https://en.wikipedia.org/wiki/Belle_Meade%2C_Tennessee"
+    },
+    {
+      "title": "Berry Hill, Tennessee",
+      "url": "https://en.wikipedia.org/wiki/Berry_Hill%2C_Tennessee"
+    },
+    {
+      "title": "Birth order",
+      "url": "https://en.wikipedia.org/wiki/Birth_order"
+    },
+    {
+      "title": "BitTorrent",
+      "url": "https://en.wikipedia.org/wiki/BitTorrent"
+    },
+    {
+      "title": "Blog",
+      "url": "https://en.wikipedia.org/wiki/Blog"
+    },
+    {
+      "title": "Blue Ridge Communications",
+      "url": "https://en.wikipedia.org/wiki/Blue_Ridge_Communications"
+    },
+    {
+      "title": "Blue Stream (company)",
+      "url": "https://en.wikipedia.org/wiki/Blue_Stream_%28company%29"
+    },
+    {
+      "title": "Bobby McFerrin",
+      "url": "https://en.wikipedia.org/wiki/Bobby_McFerrin"
+    },
+    {
+      "title": "Boomerang (TV network)",
+      "url": "https://en.wikipedia.org/wiki/Boomerang_%28TV_network%29"
+    },
+    {
+      "title": "Boost Mobile",
+      "url": "https://en.wikipedia.org/wiki/Boost_Mobile"
+    },
+    {
+      "title": "Boston",
+      "url": "https://en.wikipedia.org/wiki/Boston"
+    },
+    {
+      "title": "Boston CitiNet",
+      "url": "https://en.wikipedia.org/wiki/Boston_CitiNet"
+    },
+    {
+      "title": "Boston Dynamics",
+      "url": "https://en.wikipedia.org/wiki/Boston_Dynamics"
+    },
+    {
+      "title": "Bounce TV",
+      "url": "https://en.wikipedia.org/wiki/Bounce_TV"
+    },
+    {
+      "title": "Breezeline",
+      "url": "https://en.wikipedia.org/wiki/Breezeline"
+    },
+    {
+      "title": "Bresnan Communications",
+      "url": "https://en.wikipedia.org/wiki/Bresnan_Communications"
+    },
+    {
+      "title": "Bright House Networks",
+      "url": "https://en.wikipedia.org/wiki/Bright_House_Networks"
+    },
+    {
+      "title": "BritBox",
+      "url": "https://en.wikipedia.org/wiki/BritBox"
+    },
+    {
+      "title": "Broadband Internet",
+      "url": "https://en.wikipedia.org/wiki/Broadband_Internet"
+    },
+    {
+      "title": "Broadband networks",
+      "url": "https://en.wikipedia.org/wiki/Broadband_networks"
+    },
+    {
+      "title": "Broadstripe",
+      "url": "https://en.wikipedia.org/wiki/Broadstripe"
+    },
+    {
+      "title": "BroadwayHD",
+      "url": "https://en.wikipedia.org/wiki/BroadwayHD"
+    },
+    {
+      "title": "Brookhaven, Georgia",
+      "url": "https://en.wikipedia.org/wiki/Brookhaven%2C_Georgia"
+    },
+    {
+      "title": "Buckeye Broadband",
+      "url": "https://en.wikipedia.org/wiki/Buckeye_Broadband"
+    },
+    {
+      "title": "Business Insider",
+      "url": "https://en.wikipedia.org/wiki/Business_Insider"
+    },
+    {
+      "title": "CNET",
+      "url": "https://en.wikipedia.org/wiki/CNET"
+    },
+    {
+      "title": "CNN+",
+      "url": "https://en.wikipedia.org/wiki/CNN%2B"
+    },
+    {
+      "title": "CONtv",
+      "url": "https://en.wikipedia.org/wiki/CONtv"
+    },
+    {
+      "title": "CW Seed",
+      "url": "https://en.wikipedia.org/wiki/CW_Seed"
+    },
+    {
+      "title": "C Spire",
+      "url": "https://en.wikipedia.org/wiki/C_Spire"
+    },
+    {
+      "title": "Cable Internet access",
+      "url": "https://en.wikipedia.org/wiki/Cable_Internet_access"
+    },
+    {
+      "title": "Cable One",
+      "url": "https://en.wikipedia.org/wiki/Cable_One"
+    },
+    {
+      "title": "Cable television in the United States",
+      "url": "https://en.wikipedia.org/wiki/Cable_television_in_the_United_States"
+    },
+    {
+      "title": "Cablevision",
+      "url": "https://en.wikipedia.org/wiki/Cablevision"
+    },
+    {
+      "title": "Calico (company)",
+      "url": "https://en.wikipedia.org/wiki/Calico_%28company%29"
+    },
+    {
+      "title": "CapitalG",
+      "url": "https://en.wikipedia.org/wiki/CapitalG"
+    },
+    {
+      "title": "Cary, North Carolina",
+      "url": "https://en.wikipedia.org/wiki/Cary%2C_North_Carolina"
+    },
+    {
+      "title": "Castleberry Hill",
+      "url": "https://en.wikipedia.org/wiki/Castleberry_Hill"
+    },
+    {
+      "title": "Cellcom (United States)",
+      "url": "https://en.wikipedia.org/wiki/Cellcom_%28United_States%29"
+    },
+    {
+      "title": "Cellular One",
+      "url": "https://en.wikipedia.org/wiki/Cellular_One"
+    },
+    {
+      "title": "CenturyLink",
+      "url": "https://en.wikipedia.org/wiki/CenturyLink"
+    },
+    {
+      "title": "Champion Broadband",
+      "url": "https://en.wikipedia.org/wiki/Champion_Broadband"
+    },
+    {
+      "title": "Chapel Hill, North Carolina",
+      "url": "https://en.wikipedia.org/wiki/Chapel_Hill%2C_North_Carolina"
+    },
+    {
+      "title": "Charlotte, North Carolina",
+      "url": "https://en.wikipedia.org/wiki/Charlotte%2C_North_Carolina"
+    },
+    {
+      "title": "Chicago",
+      "url": "https://en.wikipedia.org/wiki/Chicago"
+    },
+    {
+      "title": "Chicken Soup for the Soul Entertainment",
+      "url": "https://en.wikipedia.org/wiki/Chicken_Soup_for_the_Soul_Entertainment"
+    },
+    {
+      "title": "Chief Executive Officer",
+      "url": "https://en.wikipedia.org/wiki/Chief_Executive_Officer"
+    },
+    {
+      "title": "Chief executive officer",
+      "url": "https://en.wikipedia.org/wiki/Chief_executive_officer"
+    },
+    {
+      "title": "Chief financial officer",
+      "url": "https://en.wikipedia.org/wiki/Chief_financial_officer"
+    },
+    {
+      "title": "Chief investment officer",
+      "url": "https://en.wikipedia.org/wiki/Chief_investment_officer"
+    },
+    {
+      "title": "Chief legal officer",
+      "url": "https://en.wikipedia.org/wiki/Chief_legal_officer"
+    },
+    {
+      "title": "Chronicle Security",
+      "url": "https://en.wikipedia.org/wiki/Chronicle_Security"
+    },
+    {
+      "title": "Cinemax",
+      "url": "https://en.wikipedia.org/wiki/Cinemax"
+    },
+    {
+      "title": "Cineverse",
+      "url": "https://en.wikipedia.org/wiki/Cineverse"
+    },
+    {
+      "title": "Claro Puerto Rico",
+      "url": "https://en.wikipedia.org/wiki/Claro_Puerto_Rico"
+    },
+    {
+      "title": "Cobridge Communications",
+      "url": "https://en.wikipedia.org/wiki/Cobridge_Communications"
+    },
+    {
+      "title": "College Park, Georgia",
+      "url": "https://en.wikipedia.org/wiki/College_Park%2C_Georgia"
+    },
+    {
+      "title": "Colorado",
+      "url": "https://en.wikipedia.org/wiki/Colorado"
+    },
+    {
+      "title": "Colorado Springs, Colorado",
+      "url": "https://en.wikipedia.org/wiki/Colorado_Springs%2C_Colorado"
+    },
+    {
+      "title": "Comcast",
+      "url": "https://en.wikipedia.org/wiki/Comcast"
+    },
+    {
+      "title": "Comedy Central",
+      "url": "https://en.wikipedia.org/wiki/Comedy_Central"
+    },
+    {
+      "title": "Community Home Entertainment",
+      "url": "https://en.wikipedia.org/wiki/Community_Home_Entertainment"
+    },
+    {
+      "title": "Condé Nast",
+      "url": "https://en.wikipedia.org/wiki/Cond%C3%A9_Nast"
+    },
+    {
+      "title": "Contiguous United States",
+      "url": "https://en.wikipedia.org/wiki/Contiguous_United_States"
+    },
+    {
+      "title": "Coral Gables, Florida",
+      "url": "https://en.wikipedia.org/wiki/Coral_Gables%2C_Florida"
+    },
+    {
+      "title": "Cox Communications",
+      "url": "https://en.wikipedia.org/wiki/Cox_Communications"
+    },
+    {
+      "title": "Crackle (service)",
+      "url": "https://en.wikipedia.org/wiki/Crackle_%28service%29"
+    },
+    {
+      "title": "Cricket Wireless",
+      "url": "https://en.wikipedia.org/wiki/Cricket_Wireless"
+    },
+    {
+      "title": "Crunchyroll",
+      "url": "https://en.wikipedia.org/wiki/Crunchyroll"
+    },
+    {
+      "title": "Curiosity Stream",
+      "url": "https://en.wikipedia.org/wiki/Curiosity_Stream"
+    },
+    {
+      "title": "DC Universe (streaming service)",
+      "url": "https://en.wikipedia.org/wiki/DC_Universe_%28streaming_service%29"
+    },
+    {
+      "title": "DOGTV",
+      "url": "https://en.wikipedia.org/wiki/DOGTV"
+    },
+    {
+      "title": "DSL",
+      "url": "https://en.wikipedia.org/wiki/DSL"
+    },
+    {
+      "title": "Dallas",
+      "url": "https://en.wikipedia.org/wiki/Dallas"
+    },
+    {
+      "title": "David Drummond (businessman)",
+      "url": "https://en.wikipedia.org/wiki/David_Drummond_%28businessman%29"
+    },
+    {
+      "title": "David Krane",
+      "url": "https://en.wikipedia.org/wiki/David_Krane"
+    },
+    {
+      "title": "Decatur, Georgia",
+      "url": "https://en.wikipedia.org/wiki/Decatur%2C_Georgia"
+    },
+    {
+      "title": "Dekkoo",
+      "url": "https://en.wikipedia.org/wiki/Dekkoo"
+    },
+    {
+      "title": "Denver",
+      "url": "https://en.wikipedia.org/wiki/Denver"
+    },
+    {
+      "title": "Des Moines, Iowa",
+      "url": "https://en.wikipedia.org/wiki/Des_Moines%2C_Iowa"
+    },
+    {
+      "title": "Diane Greene",
+      "url": "https://en.wikipedia.org/wiki/Diane_Greene"
+    },
+    {
+      "title": "Digital divide",
+      "url": "https://en.wikipedia.org/wiki/Digital_divide"
+    },
+    {
+      "title": "Digital literacy",
+      "url": "https://en.wikipedia.org/wiki/Digital_literacy"
+    },
+    {
+      "title": "DirecTV",
+      "url": "https://en.wikipedia.org/wiki/DirecTV"
+    },
+    {
+      "title": "DirecTV Stream",
+      "url": "https://en.wikipedia.org/wiki/DirecTV_Stream"
+    },
+    {
+      "title": "Discovery+",
+      "url": "https://en.wikipedia.org/wiki/Discovery%2B"
+    },
+    {
+      "title": "Dish Network",
+      "url": "https://en.wikipedia.org/wiki/Dish_Network"
+    },
+    {
+      "title": "Disney+",
+      "url": "https://en.wikipedia.org/wiki/Disney%2B"
+    },
+    {
+      "title": "Dobson Cellular",
+      "url": "https://en.wikipedia.org/wiki/Dobson_Cellular"
+    },
+    {
+      "title": "Docomo Pacific",
+      "url": "https://en.wikipedia.org/wiki/Docomo_Pacific"
+    },
+    {
+      "title": "Docurama",
+      "url": "https://en.wikipedia.org/wiki/Docurama"
+    },
+    {
+      "title": "Don't Worry, Be Happy",
+      "url": "https://en.wikipedia.org/wiki/Don%27t_Worry%2C_Be_Happy"
+    },
+    {
+      "title": "DoubleClick",
+      "url": "https://en.wikipedia.org/wiki/DoubleClick"
+    },
+    {
+      "title": "Dove Channel (streaming service)",
+      "url": "https://en.wikipedia.org/wiki/Dove_Channel_%28streaming_service%29"
+    },
+    {
+      "title": "Downstream (networking)",
+      "url": "https://en.wikipedia.org/wiki/Downstream_%28networking%29"
+    },
+    {
+      "title": "DramaFever",
+      "url": "https://en.wikipedia.org/wiki/DramaFever"
+    },
+    {
+      "title": "Draper, Utah",
+      "url": "https://en.wikipedia.org/wiki/Draper%2C_Utah"
+    },
+    {
+      "title": "Dropout (streaming service)",
+      "url": "https://en.wikipedia.org/wiki/Dropout_%28streaming_service%29"
+    },
+    {
+      "title": "Duluth, Minnesota",
+      "url": "https://en.wikipedia.org/wiki/Duluth%2C_Minnesota"
+    },
+    {
+      "title": "Durham, North Carolina",
+      "url": "https://en.wikipedia.org/wiki/Durham%2C_North_Carolina"
+    },
+    {
+      "title": "EPB",
+      "url": "https://en.wikipedia.org/wiki/EPB"
+    },
+    {
+      "title": "ESPN+",
+      "url": "https://en.wikipedia.org/wiki/ESPN%2B"
+    },
+    {
+      "title": "ESPN (streaming service)",
+      "url": "https://en.wikipedia.org/wiki/ESPN_%28streaming_service%29"
+    },
+    {
+      "title": "EarthLink",
+      "url": "https://en.wikipedia.org/wiki/EarthLink"
+    },
+    {
+      "title": "East Point, Georgia",
+      "url": "https://en.wikipedia.org/wiki/East_Point%2C_Georgia"
+    },
+    {
+      "title": "Edge Wireless",
+      "url": "https://en.wikipedia.org/wiki/Edge_Wireless"
+    },
+    {
+      "title": "Electronic Frontier Foundation",
+      "url": "https://en.wikipedia.org/wiki/Electronic_Frontier_Foundation"
+    },
+    {
+      "title": "Element Mobile",
+      "url": "https://en.wikipedia.org/wiki/Element_Mobile"
+    },
+    {
+      "title": "Emery Telcom",
+      "url": "https://en.wikipedia.org/wiki/Emery_Telcom"
+    },
+    {
+      "title": "Engadget",
+      "url": "https://en.wikipedia.org/wiki/Engadget"
+    },
+    {
+      "title": "Eric Schmidt",
+      "url": "https://en.wikipedia.org/wiki/Eric_Schmidt"
+    },
+    {
+      "title": "Eros Now",
+      "url": "https://en.wikipedia.org/wiki/Eros_Now"
+    },
+    {
+      "title": "FX (TV channel)",
+      "url": "https://en.wikipedia.org/wiki/FX_%28TV_channel%29"
+    },
+    {
+      "title": "Facebook",
+      "url": "https://en.wikipedia.org/wiki/Facebook"
+    },
+    {
+      "title": "Facebook Watch",
+      "url": "https://en.wikipedia.org/wiki/Facebook_Watch"
+    },
+    {
+      "title": "FairPoint Communications",
+      "url": "https://en.wikipedia.org/wiki/FairPoint_Communications"
+    },
+    {
+      "title": "Fairway, Kansas",
+      "url": "https://en.wikipedia.org/wiki/Fairway%2C_Kansas"
+    },
+    {
+      "title": "Fandango (streaming service)",
+      "url": "https://en.wikipedia.org/wiki/Fandango_%28streaming_service%29"
+    },
+    {
+      "title": "Fandor",
+      "url": "https://en.wikipedia.org/wiki/Fandor"
+    },
+    {
+      "title": "Federal Communications Commission",
+      "url": "https://en.wikipedia.org/wiki/Federal_Communications_Commission"
+    },
+    {
+      "title": "Fiber-to-the-premises",
+      "url": "https://en.wikipedia.org/wiki/Fiber-to-the-premises"
+    },
+    {
+      "title": "Fiber to the x",
+      "url": "https://en.wikipedia.org/wiki/Fiber_to_the_x"
+    },
+    {
+      "title": "Fidium Fiber",
+      "url": "https://en.wikipedia.org/wiki/Fidium_Fiber"
+    },
+    {
+      "title": "FilmRise",
+      "url": "https://en.wikipedia.org/wiki/FilmRise"
+    },
+    {
+      "title": "FilmStruck",
+      "url": "https://en.wikipedia.org/wiki/FilmStruck"
+    },
+    {
+      "title": "Firebase",
+      "url": "https://en.wikipedia.org/wiki/Firebase"
+    },
+    {
+      "title": "First Cellular of Southern Illinois",
+      "url": "https://en.wikipedia.org/wiki/First_Cellular_of_Southern_Illinois"
+    },
+    {
+      "title": "First Look Media",
+      "url": "https://en.wikipedia.org/wiki/First_Look_Media"
+    },
+    {
+      "title": "Fitbit",
+      "url": "https://en.wikipedia.org/wiki/Fitbit"
+    },
+    {
+      "title": "Food Network",
+      "url": "https://en.wikipedia.org/wiki/Food_Network"
+    },
+    {
+      "title": "Forbes",
+      "url": "https://en.wikipedia.org/wiki/Forbes"
+    },
+    {
+      "title": "Forest Hills, Tennessee",
+      "url": "https://en.wikipedia.org/wiki/Forest_Hills%2C_Tennessee"
+    },
+    {
+      "title": "Fox Corporation",
+      "url": "https://en.wikipedia.org/wiki/Fox_Corporation"
+    },
+    {
+      "title": "Fox Nation",
+      "url": "https://en.wikipedia.org/wiki/Fox_Nation"
+    },
+    {
+      "title": "Fox One",
+      "url": "https://en.wikipedia.org/wiki/Fox_One"
+    },
+    {
+      "title": "Frances Arnold",
+      "url": "https://en.wikipedia.org/wiki/Frances_Arnold"
+    },
+    {
+      "title": "Frndly TV",
+      "url": "https://en.wikipedia.org/wiki/Frndly_TV"
+    },
+    {
+      "title": "Frontier Communications",
+      "url": "https://en.wikipedia.org/wiki/Frontier_Communications"
+    },
+    {
+      "title": "Frontier Fiber",
+      "url": "https://en.wikipedia.org/wiki/Frontier_Fiber"
+    },
+    {
+      "title": "FuboTV",
+      "url": "https://en.wikipedia.org/wiki/FuboTV"
+    },
+    {
+      "title": "Full Channel",
+      "url": "https://en.wikipedia.org/wiki/Full_Channel"
+    },
+    {
+      "title": "Funimation",
+      "url": "https://en.wikipedia.org/wiki/Funimation"
+    },
+    {
+      "title": "GCI (company)",
+      "url": "https://en.wikipedia.org/wiki/GCI_%28company%29"
+    },
+    {
+      "title": "GCI Communication",
+      "url": "https://en.wikipedia.org/wiki/GCI_Communication"
+    },
+    {
+      "title": "GTA Teleguam",
+      "url": "https://en.wikipedia.org/wiki/GTA_Teleguam"
+    },
+    {
+      "title": "GV (company)",
+      "url": "https://en.wikipedia.org/wiki/GV_%28company%29"
+    },
+    {
+      "title": "Garner, North Carolina",
+      "url": "https://en.wikipedia.org/wiki/Garner%2C_North_Carolina"
+    },
+    {
+      "title": "Gen Mobile",
+      "url": "https://en.wikipedia.org/wiki/Gen_Mobile"
+    },
+    {
+      "title": "Gigabit",
+      "url": "https://en.wikipedia.org/wiki/Gigabit"
+    },
+    {
+      "title": "Gigabit per second",
+      "url": "https://en.wikipedia.org/wiki/Gigabit_per_second"
+    },
+    {
+      "title": "Gigabits per second",
+      "url": "https://en.wikipedia.org/wiki/Gigabits_per_second"
+    },
+    {
+      "title": "Gigaom",
+      "url": "https://en.wikipedia.org/wiki/Gigaom"
+    },
+    {
+      "title": "Gladstone, Missouri",
+      "url": "https://en.wikipedia.org/wiki/Gladstone%2C_Missouri"
+    },
+    {
+      "title": "GlobeCast World TV",
+      "url": "https://en.wikipedia.org/wiki/GlobeCast_World_TV"
+    },
+    {
+      "title": "Glorystar",
+      "url": "https://en.wikipedia.org/wiki/Glorystar"
+    },
+    {
+      "title": "Go90",
+      "url": "https://en.wikipedia.org/wiki/Go90"
+    },
+    {
+      "title": "Goldman Sachs",
+      "url": "https://en.wikipedia.org/wiki/Goldman_Sachs"
+    },
+    {
+      "title": "Google",
+      "url": "https://en.wikipedia.org/wiki/Google"
+    },
+    {
+      "title": "Google, Kansas",
+      "url": "https://en.wikipedia.org/wiki/Google%2C_Kansas"
+    },
+    {
+      "title": "Google DeepMind",
+      "url": "https://en.wikipedia.org/wiki/Google_DeepMind"
+    },
+    {
+      "title": "Google Drive",
+      "url": "https://en.wikipedia.org/wiki/Google_Drive"
+    },
+    {
+      "title": "Google Nest",
+      "url": "https://en.wikipedia.org/wiki/Google_Nest"
+    },
+    {
+      "title": "Google WiFi",
+      "url": "https://en.wikipedia.org/wiki/Google_WiFi"
+    },
+    {
+      "title": "Google campus",
+      "url": "https://en.wikipedia.org/wiki/Google_campus"
+    },
+    {
+      "title": "Graceba Total Communications",
+      "url": "https://en.wikipedia.org/wiki/Graceba_Total_Communications"
+    },
+    {
+      "title": "Grande Communications",
+      "url": "https://en.wikipedia.org/wiki/Grande_Communications"
+    },
+    {
+      "title": "Grandview, Missouri",
+      "url": "https://en.wikipedia.org/wiki/Grandview%2C_Missouri"
+    },
+    {
+      "title": "Greater San Antonio",
+      "url": "https://en.wikipedia.org/wiki/Greater_San_Antonio"
+    },
+    {
+      "title": "Greenlight Networks",
+      "url": "https://en.wikipedia.org/wiki/Greenlight_Networks"
+    },
+    {
+      "title": "Gresham, Oregon",
+      "url": "https://en.wikipedia.org/wiki/Gresham%2C_Oregon"
+    },
+    {
+      "title": "HBO Max",
+      "url": "https://en.wikipedia.org/wiki/HBO_Max"
+    },
+    {
+      "title": "HDHomeRun",
+      "url": "https://en.wikipedia.org/wiki/HDHomeRun"
+    },
+    {
+      "title": "Hallmark+",
+      "url": "https://en.wikipedia.org/wiki/Hallmark%2B"
+    },
+    {
+      "title": "Hapeville, Georgia",
+      "url": "https://en.wikipedia.org/wiki/Hapeville%2C_Georgia"
+    },
+    {
+      "title": "Hargray",
+      "url": "https://en.wikipedia.org/wiki/Hargray"
+    },
+    {
+      "title": "Hawaiian Telcom",
+      "url": "https://en.wikipedia.org/wiki/Hawaiian_Telcom"
+    },
+    {
+      "title": "Hayu (streaming service)",
+      "url": "https://en.wikipedia.org/wiki/Hayu_%28streaming_service%29"
+    },
+    {
+      "title": "Headend in the Sky",
+      "url": "https://en.wikipedia.org/wiki/Headend_in_the_Sky"
+    },
+    {
+      "title": "Here TV",
+      "url": "https://en.wikipedia.org/wiki/Here_TV"
+    },
+    {
+      "title": "Hidive",
+      "url": "https://en.wikipedia.org/wiki/Hidive"
+    },
+    {
+      "title": "Highland Creek (Charlotte neighborhood)",
+      "url": "https://en.wikipedia.org/wiki/Highland_Creek_%28Charlotte_neighborhood%29"
+    },
+    {
+      "title": "Hillsboro, Oregon",
+      "url": "https://en.wikipedia.org/wiki/Hillsboro%2C_Oregon"
+    },
+    {
+      "title": "History (American TV network)",
+      "url": "https://en.wikipedia.org/wiki/History_%28American_TV_network%29"
+    },
+    {
+      "title": "Holladay, Utah",
+      "url": "https://en.wikipedia.org/wiki/Holladay%2C_Utah"
+    },
+    {
+      "title": "Houston Cellular",
+      "url": "https://en.wikipedia.org/wiki/Houston_Cellular"
+    },
+    {
+      "title": "Hughes Network Systems",
+      "url": "https://en.wikipedia.org/wiki/Hughes_Network_Systems"
+    },
+    {
+      "title": "Hulu",
+      "url": "https://en.wikipedia.org/wiki/Hulu"
+    },
+    {
+      "title": "Huntington Beach",
+      "url": "https://en.wikipedia.org/wiki/Huntington_Beach"
+    },
+    {
+      "title": "Huntsville, Alabama",
+      "url": "https://en.wikipedia.org/wiki/Huntsville%2C_Alabama"
+    },
+    {
+      "title": "IFC Films",
+      "url": "https://en.wikipedia.org/wiki/IFC_Films"
+    },
+    {
+      "title": "IPTV",
+      "url": "https://en.wikipedia.org/wiki/IPTV"
+    },
+    {
+      "title": "IProvo",
+      "url": "https://en.wikipedia.org/wiki/IProvo"
+    },
+    {
+      "title": "Idaho",
+      "url": "https://en.wikipedia.org/wiki/Idaho"
+    },
+    {
+      "title": "Indemnification",
+      "url": "https://en.wikipedia.org/wiki/Indemnification"
+    },
+    {
+      "title": "Indigo Wireless",
+      "url": "https://en.wikipedia.org/wiki/Indigo_Wireless"
+    },
+    {
+      "title": "Insight Communications",
+      "url": "https://en.wikipedia.org/wiki/Insight_Communications"
+    },
+    {
+      "title": "Internet access",
+      "url": "https://en.wikipedia.org/wiki/Internet_access"
+    },
+    {
+      "title": "Internet in the United States",
+      "url": "https://en.wikipedia.org/wiki/Internet_in_the_United_States"
+    },
+    {
+      "title": "Internet service provider",
+      "url": "https://en.wikipedia.org/wiki/Internet_service_provider"
+    },
+    {
+      "title": "Isomorphic Labs",
+      "url": "https://en.wikipedia.org/wiki/Isomorphic_Labs"
+    },
+    {
+      "title": "Ivy Taylor",
+      "url": "https://en.wikipedia.org/wiki/Ivy_Taylor"
+    },
+    {
+      "title": "Jacksonville, Florida",
+      "url": "https://en.wikipedia.org/wiki/Jacksonville%2C_Florida"
+    },
+    {
+      "title": "Jigsaw (company)",
+      "url": "https://en.wikipedia.org/wiki/Jigsaw_%28company%29"
+    },
+    {
+      "title": "John Doerr",
+      "url": "https://en.wikipedia.org/wiki/John_Doerr"
+    },
+    {
+      "title": "John Hieftje",
+      "url": "https://en.wikipedia.org/wiki/John_Hieftje"
+    },
+    {
+      "title": "John L. Hennessy",
+      "url": "https://en.wikipedia.org/wiki/John_L._Hennessy"
+    },
+    {
+      "title": "Jones Intercable",
+      "url": "https://en.wikipedia.org/wiki/Jones_Intercable"
+    },
+    {
+      "title": "Kansas City, Kansas",
+      "url": "https://en.wikipedia.org/wiki/Kansas_City%2C_Kansas"
+    },
+    {
+      "title": "Kansas City, Missouri",
+      "url": "https://en.wikipedia.org/wiki/Kansas_City%2C_Missouri"
+    },
+    {
+      "title": "Kansas City metropolitan area",
+      "url": "https://en.wikipedia.org/wiki/Kansas_City_metropolitan_area"
+    },
+    {
+      "title": "Kansas Legislature",
+      "url": "https://en.wikipedia.org/wiki/Kansas_Legislature"
+    },
+    {
+      "title": "King Videocable",
+      "url": "https://en.wikipedia.org/wiki/King_Videocable"
+    },
+    {
+      "title": "Kino Lorber",
+      "url": "https://en.wikipedia.org/wiki/Kino_Lorber"
+    },
+    {
+      "title": "Knology",
+      "url": "https://en.wikipedia.org/wiki/Knology"
+    },
+    {
+      "title": "Kocowa",
+      "url": "https://en.wikipedia.org/wiki/Kocowa"
+    },
+    {
+      "title": "Lake Oswego, Oregon",
+      "url": "https://en.wikipedia.org/wiki/Lake_Oswego%2C_Oregon"
+    },
+    {
+      "title": "Larry Page",
+      "url": "https://en.wikipedia.org/wiki/Larry_Page"
+    },
+    {
+      "title": "Last mile (telecommunications)",
+      "url": "https://en.wikipedia.org/wiki/Last_mile_%28telecommunications%29"
+    },
+    {
+      "title": "Late Show Top Ten List",
+      "url": "https://en.wikipedia.org/wiki/Late_Show_Top_Ten_List"
+    },
+    {
+      "title": "Leawood, Kansas",
+      "url": "https://en.wikipedia.org/wiki/Leawood%2C_Kansas"
+    },
+    {
+      "title": "Lee's Summit, Missouri",
+      "url": "https://en.wikipedia.org/wiki/Lee%27s_Summit%2C_Missouri"
+    },
+    {
+      "title": "Lenexa, Kansas",
+      "url": "https://en.wikipedia.org/wiki/Lenexa%2C_Kansas"
+    },
+    {
+      "title": "Liberty Puerto Rico",
+      "url": "https://en.wikipedia.org/wiki/Liberty_Puerto_Rico"
+    },
+    {
+      "title": "Lifetime (TV network)",
+      "url": "https://en.wikipedia.org/wiki/Lifetime_%28TV_network%29"
+    },
+    {
+      "title": "List of Canadian specialty channels",
+      "url": "https://en.wikipedia.org/wiki/List_of_Canadian_specialty_channels"
+    },
+    {
+      "title": "List of Canadian television channels",
+      "url": "https://en.wikipedia.org/wiki/List_of_Canadian_television_channels"
+    },
+    {
+      "title": "List of Canadian television networks",
+      "url": "https://en.wikipedia.org/wiki/List_of_Canadian_television_networks"
+    },
+    {
+      "title": "List of Canadian television stations",
+      "url": "https://en.wikipedia.org/wiki/List_of_Canadian_television_stations"
+    },
+    {
+      "title": "List of Canadian television stations available in the United States",
+      "url": "https://en.wikipedia.org/wiki/List_of_Canadian_television_stations_available_in_the_United_States"
+    },
+    {
+      "title": "List of Spanish-language television networks in the United States",
+      "url": "https://en.wikipedia.org/wiki/List_of_Spanish-language_television_networks_in_the_United_States"
+    },
+    {
+      "title": "List of United States cable and satellite television channels",
+      "url": "https://en.wikipedia.org/wiki/List_of_United_States_cable_and_satellite_television_channels"
+    },
+    {
+      "title": "List of United States over-the-air television networks",
+      "url": "https://en.wikipedia.org/wiki/List_of_United_States_over-the-air_television_networks"
+    },
+    {
+      "title": "List of United States stations available in Canada",
+      "url": "https://en.wikipedia.org/wiki/List_of_United_States_stations_available_in_Canada"
+    },
+    {
+      "title": "List of metropolitan areas of the United States",
+      "url": "https://en.wikipedia.org/wiki/List_of_metropolitan_areas_of_the_United_States"
+    },
+    {
+      "title": "List of mobile network operators in the United States",
+      "url": "https://en.wikipedia.org/wiki/List_of_mobile_network_operators_in_the_United_States"
+    },
+    {
+      "title": "List of mobile virtual network operators in the United States",
+      "url": "https://en.wikipedia.org/wiki/List_of_mobile_virtual_network_operators_in_the_United_States"
+    },
+    {
+      "title": "List of multiple-system operators",
+      "url": "https://en.wikipedia.org/wiki/List_of_multiple-system_operators"
+    },
+    {
+      "title": "List of television stations in Mexico",
+      "url": "https://en.wikipedia.org/wiki/List_of_television_stations_in_Mexico"
+    },
+    {
+      "title": "List of television stations in the United States by call sign (initial letter K)",
+      "url": "https://en.wikipedia.org/wiki/List_of_television_stations_in_the_United_States_by_call_sign_%28initial_letter_K%29"
+    },
+    {
+      "title": "List of television stations in the United States by call sign (initial letter W)",
+      "url": "https://en.wikipedia.org/wiki/List_of_television_stations_in_the_United_States_by_call_sign_%28initial_letter_W%29"
+    },
+    {
+      "title": "LocalBTV",
+      "url": "https://en.wikipedia.org/wiki/LocalBTV"
+    },
+    {
+      "title": "Local Now",
+      "url": "https://en.wikipedia.org/wiki/Local_Now"
+    },
+    {
+      "title": "Locast",
+      "url": "https://en.wikipedia.org/wiki/Locast"
+    },
+    {
+      "title": "Long Beach",
+      "url": "https://en.wikipedia.org/wiki/Long_Beach"
+    },
+    {
+      "title": "Loon LLC",
+      "url": "https://en.wikipedia.org/wiki/Loon_LLC"
+    },
+    {
+      "title": "Lumen Technologies",
+      "url": "https://en.wikipedia.org/wiki/Lumen_Technologies"
+    },
+    {
+      "title": "MGM+",
+      "url": "https://en.wikipedia.org/wiki/MGM%2B"
+    },
+    {
+      "title": "MHz Networks",
+      "url": "https://en.wikipedia.org/wiki/MHz_Networks"
+    },
+    {
+      "title": "Makani (company)",
+      "url": "https://en.wikipedia.org/wiki/Makani_%28company%29"
+    },
+    {
+      "title": "Marcus Cable",
+      "url": "https://en.wikipedia.org/wiki/Marcus_Cable"
+    },
+    {
+      "title": "Mary Sue Coleman",
+      "url": "https://en.wikipedia.org/wiki/Mary_Sue_Coleman"
+    },
+    {
+      "title": "MediaOne",
+      "url": "https://en.wikipedia.org/wiki/MediaOne"
+    },
+    {
+      "title": "Mediacom",
+      "url": "https://en.wikipedia.org/wiki/Mediacom"
+    },
+    {
+      "title": "Meka Robotics",
+      "url": "https://en.wikipedia.org/wiki/Meka_Robotics"
+    },
+    {
+      "title": "Merriam, Kansas",
+      "url": "https://en.wikipedia.org/wiki/Merriam%2C_Kansas"
+    },
+    {
+      "title": "Mesa, Arizona",
+      "url": "https://en.wikipedia.org/wiki/Mesa%2C_Arizona"
+    },
+    {
+      "title": "Metro by T-Mobile",
+      "url": "https://en.wikipedia.org/wiki/Metro_by_T-Mobile"
+    },
+    {
+      "title": "Miami",
+      "url": "https://en.wikipedia.org/wiki/Miami"
+    },
+    {
+      "title": "Miami Beach",
+      "url": "https://en.wikipedia.org/wiki/Miami_Beach"
+    },
+    {
+      "title": "Midco",
+      "url": "https://en.wikipedia.org/wiki/Midco"
+    },
+    {
+      "title": "Midwest Wireless",
+      "url": "https://en.wikipedia.org/wiki/Midwest_Wireless"
+    },
+    {
+      "title": "Mike Rawlings",
+      "url": "https://en.wikipedia.org/wiki/Mike_Rawlings"
+    },
+    {
+      "title": "Millcreek, Utah",
+      "url": "https://en.wikipedia.org/wiki/Millcreek%2C_Utah"
+    },
+    {
+      "title": "Mint Mobile",
+      "url": "https://en.wikipedia.org/wiki/Mint_Mobile"
+    },
+    {
+      "title": "Mission, Kansas",
+      "url": "https://en.wikipedia.org/wiki/Mission%2C_Kansas"
+    },
+    {
+      "title": "Mission Hills, Kansas",
+      "url": "https://en.wikipedia.org/wiki/Mission_Hills%2C_Kansas"
+    },
+    {
+      "title": "Mobi (company)",
+      "url": "https://en.wikipedia.org/wiki/Mobi_%28company%29"
+    },
+    {
+      "title": "Mobile virtual network operator",
+      "url": "https://en.wikipedia.org/wiki/Mobile_virtual_network_operator"
+    },
+    {
+      "title": "Morrisville, North Carolina",
+      "url": "https://en.wikipedia.org/wiki/Morrisville%2C_North_Carolina"
+    },
+    {
+      "title": "Mountain View, California",
+      "url": "https://en.wikipedia.org/wiki/Mountain_View%2C_California"
+    },
+    {
+      "title": "MovieBeam",
+      "url": "https://en.wikipedia.org/wiki/MovieBeam"
+    },
+    {
+      "title": "Mubi (streaming service)",
+      "url": "https://en.wikipedia.org/wiki/Mubi_%28streaming_service%29"
+    },
+    {
+      "title": "Multichannel News",
+      "url": "https://en.wikipedia.org/wiki/Multichannel_News"
+    },
+    {
+      "title": "Multichannel television in the United States",
+      "url": "https://en.wikipedia.org/wiki/Multichannel_television_in_the_United_States"
+    },
+    {
+      "title": "NBCUniversal",
+      "url": "https://en.wikipedia.org/wiki/NBCUniversal"
+    },
+    {
+      "title": "NEP Telephone",
+      "url": "https://en.wikipedia.org/wiki/NEP_Telephone"
+    },
+    {
+      "title": "NFL+",
+      "url": "https://en.wikipedia.org/wiki/NFL%2B"
+    },
+    {
+      "title": "NTelos",
+      "url": "https://en.wikipedia.org/wiki/NTelos"
+    },
+    {
+      "title": "Nashville, Tennessee",
+      "url": "https://en.wikipedia.org/wiki/Nashville%2C_Tennessee"
+    },
+    {
+      "title": "Nebraska",
+      "url": "https://en.wikipedia.org/wiki/Nebraska"
+    },
+    {
+      "title": "Netflix",
+      "url": "https://en.wikipedia.org/wiki/Netflix"
+    },
+    {
+      "title": "Network address translation",
+      "url": "https://en.wikipedia.org/wiki/Network_address_translation"
+    },
+    {
+      "title": "Nevada",
+      "url": "https://en.wikipedia.org/wiki/Nevada"
+    },
+    {
+      "title": "News-Press & Gazette Company",
+      "url": "https://en.wikipedia.org/wiki/News-Press_%26_Gazette_Company"
+    },
+    {
+      "title": "Nextel",
+      "url": "https://en.wikipedia.org/wiki/Nextel"
+    },
+    {
+      "title": "NickMusic",
+      "url": "https://en.wikipedia.org/wiki/NickMusic"
+    },
+    {
+      "title": "Nickelodeon",
+      "url": "https://en.wikipedia.org/wiki/Nickelodeon"
+    },
+    {
+      "title": "Noggin (brand)",
+      "url": "https://en.wikipedia.org/wiki/Noggin_%28brand%29"
+    },
+    {
+      "title": "North Carolina",
+      "url": "https://en.wikipedia.org/wiki/North_Carolina"
+    },
+    {
+      "title": "North Kansas City, Missouri",
+      "url": "https://en.wikipedia.org/wiki/North_Kansas_City%2C_Missouri"
+    },
+    {
+      "title": "North Salt Lake, Utah",
+      "url": "https://en.wikipedia.org/wiki/North_Salt_Lake%2C_Utah"
+    },
+    {
+      "title": "North State Communications",
+      "url": "https://en.wikipedia.org/wiki/North_State_Communications"
+    },
+    {
+      "title": "Northcoast PCS",
+      "url": "https://en.wikipedia.org/wiki/Northcoast_PCS"
+    },
+    {
+      "title": "Now (streaming service)",
+      "url": "https://en.wikipedia.org/wiki/Now_%28streaming_service%29"
+    },
+    {
+      "title": "Oak Hill, Tennessee",
+      "url": "https://en.wikipedia.org/wiki/Oak_Hill%2C_Tennessee"
+    },
+    {
+      "title": "Oklahoma City, Oklahoma",
+      "url": "https://en.wikipedia.org/wiki/Oklahoma_City%2C_Oklahoma"
+    },
+    {
+      "title": "Olathe, Kansas",
+      "url": "https://en.wikipedia.org/wiki/Olathe%2C_Kansas"
+    },
+    {
+      "title": "OneLink Communications",
+      "url": "https://en.wikipedia.org/wiki/OneLink_Communications"
+    },
+    {
+      "title": "OpenCorporates",
+      "url": "https://en.wikipedia.org/wiki/OpenCorporates"
+    },
+    {
+      "title": "Open Mobile",
+      "url": "https://en.wikipedia.org/wiki/Open_Mobile"
+    },
+    {
+      "title": "Optical network terminal",
+      "url": "https://en.wikipedia.org/wiki/Optical_network_terminal"
+    },
+    {
+      "title": "Optimum Communications",
+      "url": "https://en.wikipedia.org/wiki/Optimum_Communications"
+    },
+    {
+      "title": "Orange County, California",
+      "url": "https://en.wikipedia.org/wiki/Orange_County%2C_California"
+    },
+    {
+      "title": "Orby TV",
+      "url": "https://en.wikipedia.org/wiki/Orby_TV"
+    },
+    {
+      "title": "Over-the-top media service",
+      "url": "https://en.wikipedia.org/wiki/Over-the-top_media_service"
+    },
+    {
+      "title": "Overland Park, Kansas",
+      "url": "https://en.wikipedia.org/wiki/Overland_Park%2C_Kansas"
+    },
+    {
+      "title": "PC Magazine",
+      "url": "https://en.wikipedia.org/wiki/PC_Magazine"
+    },
+    {
+      "title": "Palo Alto, California",
+      "url": "https://en.wikipedia.org/wiki/Palo_Alto%2C_California"
+    },
+    {
+      "title": "Pantaya",
+      "url": "https://en.wikipedia.org/wiki/Pantaya"
+    },
+    {
+      "title": "Paragon Cable",
+      "url": "https://en.wikipedia.org/wiki/Paragon_Cable"
+    },
+    {
+      "title": "Paramount+",
+      "url": "https://en.wikipedia.org/wiki/Paramount%2B"
+    },
+    {
+      "title": "Peacock (streaming service)",
+      "url": "https://en.wikipedia.org/wiki/Peacock_%28streaming_service%29"
+    },
+    {
+      "title": "Philo (company)",
+      "url": "https://en.wikipedia.org/wiki/Philo_%28company%29"
+    },
+    {
+      "title": "Phoenix, Arizona",
+      "url": "https://en.wikipedia.org/wiki/Phoenix%2C_Arizona"
+    },
+    {
+      "title": "Phoenix metropolitan area",
+      "url": "https://en.wikipedia.org/wiki/Phoenix_metropolitan_area"
+    },
+    {
+      "title": "Phonoscope Communications",
+      "url": "https://en.wikipedia.org/wiki/Phonoscope_Communications"
+    },
+    {
+      "title": "PlayStation Vue",
+      "url": "https://en.wikipedia.org/wiki/PlayStation_Vue"
+    },
+    {
+      "title": "Pluto TV",
+      "url": "https://en.wikipedia.org/wiki/Pluto_TV"
+    },
+    {
+      "title": "Pocket Communications",
+      "url": "https://en.wikipedia.org/wiki/Pocket_Communications"
+    },
+    {
+      "title": "Popcornflix",
+      "url": "https://en.wikipedia.org/wiki/Popcornflix"
+    },
+    {
+      "title": "Portland, Oregon",
+      "url": "https://en.wikipedia.org/wiki/Portland%2C_Oregon"
+    },
+    {
+      "title": "Portland metropolitan area",
+      "url": "https://en.wikipedia.org/wiki/Portland_metropolitan_area"
+    },
+    {
+      "title": "Powertel (United States)",
+      "url": "https://en.wikipedia.org/wiki/Powertel_%28United_States%29"
+    },
+    {
+      "title": "Prairie Village, Kansas",
+      "url": "https://en.wikipedia.org/wiki/Prairie_Village%2C_Kansas"
+    },
+    {
+      "title": "Prepaid mobile phone",
+      "url": "https://en.wikipedia.org/wiki/Prepaid_mobile_phone"
+    },
+    {
+      "title": "President (corporate title)",
+      "url": "https://en.wikipedia.org/wiki/President_%28corporate_title%29"
+    },
+    {
+      "title": "PrimeCo",
+      "url": "https://en.wikipedia.org/wiki/PrimeCo"
+    },
+    {
+      "title": "PrimeStar",
+      "url": "https://en.wikipedia.org/wiki/PrimeStar"
+    },
+    {
+      "title": "Prism TV",
+      "url": "https://en.wikipedia.org/wiki/Prism_TV"
+    },
+    {
+      "title": "Prodigy (online service)",
+      "url": "https://en.wikipedia.org/wiki/Prodigy_%28online_service%29"
+    },
+    {
+      "title": "Project Loon",
+      "url": "https://en.wikipedia.org/wiki/Project_Loon"
+    },
+    {
+      "title": "Provo, Utah",
+      "url": "https://en.wikipedia.org/wiki/Provo%2C_Utah"
+    },
+    {
+      "title": "Pure Talk",
+      "url": "https://en.wikipedia.org/wiki/Pure_Talk"
+    },
+    {
+      "title": "Quibi",
+      "url": "https://en.wikipedia.org/wiki/Quibi"
+    },
+    {
+      "title": "R. Martin Chavez",
+      "url": "https://en.wikipedia.org/wiki/R._Martin_Chavez"
+    },
+    {
+      "title": "RCN Corporation",
+      "url": "https://en.wikipedia.org/wiki/RCN_Corporation"
+    },
+    {
+      "title": "Racetrack Television Network",
+      "url": "https://en.wikipedia.org/wiki/Racetrack_Television_Network"
+    },
+    {
+      "title": "Rakuten Viki",
+      "url": "https://en.wikipedia.org/wiki/Rakuten_Viki"
+    },
+    {
+      "title": "Raleigh",
+      "url": "https://en.wikipedia.org/wiki/Raleigh"
+    },
+    {
+      "title": "Raleigh–Durham, North Carolina",
+      "url": "https://en.wikipedia.org/wiki/Raleigh%E2%80%93Durham%2C_North_Carolina"
+    },
+    {
+      "title": "Ram Shriram",
+      "url": "https://en.wikipedia.org/wiki/Ram_Shriram"
+    },
+    {
+      "title": "Rancho Cucamonga, California",
+      "url": "https://en.wikipedia.org/wiki/Rancho_Cucamonga%2C_California"
+    },
+    {
+      "title": "Rapid Communications",
+      "url": "https://en.wikipedia.org/wiki/Rapid_Communications"
+    },
+    {
+      "title": "Raytown, Missouri",
+      "url": "https://en.wikipedia.org/wiki/Raytown%2C_Missouri"
+    },
+    {
+      "title": "Recode",
+      "url": "https://en.wikipedia.org/wiki/Recode"
+    },
+    {
+      "title": "Redbox",
+      "url": "https://en.wikipedia.org/wiki/Redbox"
+    },
+    {
+      "title": "Research Triangle",
+      "url": "https://en.wikipedia.org/wiki/Research_Triangle"
+    },
+    {
+      "title": "Revol Wireless",
+      "url": "https://en.wikipedia.org/wiki/Revol_Wireless"
+    },
+    {
+      "title": "Revry",
+      "url": "https://en.wikipedia.org/wiki/Revry"
+    },
+    {
+      "title": "Riverton, UT",
+      "url": "https://en.wikipedia.org/wiki/Riverton%2C_UT"
+    },
+    {
+      "title": "Roeland Park, Kansas",
+      "url": "https://en.wikipedia.org/wiki/Roeland_Park%2C_Kansas"
+    },
+    {
+      "title": "Roger W. Ferguson Jr.",
+      "url": "https://en.wikipedia.org/wiki/Roger_W._Ferguson_Jr."
+    },
+    {
+      "title": "Rooster Teeth",
+      "url": "https://en.wikipedia.org/wiki/Rooster_Teeth"
+    },
+    {
+      "title": "Rural Cellular",
+      "url": "https://en.wikipedia.org/wiki/Rural_Cellular"
+    },
+    {
+      "title": "Ruth Porat",
+      "url": "https://en.wikipedia.org/wiki/Ruth_Porat"
+    },
+    {
+      "title": "SRT Communications",
+      "url": "https://en.wikipedia.org/wiki/SRT_Communications"
+    },
+    {
+      "title": "Salt Lake City",
+      "url": "https://en.wikipedia.org/wiki/Salt_Lake_City"
+    },
+    {
+      "title": "Salt Lake City, Utah",
+      "url": "https://en.wikipedia.org/wiki/Salt_Lake_City%2C_Utah"
+    },
+    {
+      "title": "Samsung TV Plus",
+      "url": "https://en.wikipedia.org/wiki/Samsung_TV_Plus"
+    },
+    {
+      "title": "San Antonio",
+      "url": "https://en.wikipedia.org/wiki/San_Antonio"
+    },
+    {
+      "title": "San Antonio, Texas",
+      "url": "https://en.wikipedia.org/wiki/San_Antonio%2C_Texas"
+    },
+    {
+      "title": "San Diego",
+      "url": "https://en.wikipedia.org/wiki/San_Diego"
+    },
+    {
+      "title": "San Diego, California",
+      "url": "https://en.wikipedia.org/wiki/San_Diego%2C_California"
+    },
+    {
+      "title": "San Jose, California",
+      "url": "https://en.wikipedia.org/wiki/San_Jose%2C_California"
+    },
+    {
+      "title": "Sandy, Utah",
+      "url": "https://en.wikipedia.org/wiki/Sandy%2C_Utah"
+    },
+    {
+      "title": "Sandy Springs, Georgia",
+      "url": "https://en.wikipedia.org/wiki/Sandy_Springs%2C_Georgia"
+    },
+    {
+      "title": "Santa Clara, California",
+      "url": "https://en.wikipedia.org/wiki/Santa_Clara%2C_California"
+    },
+    {
+      "title": "Sarasota, Florida",
+      "url": "https://en.wikipedia.org/wiki/Sarasota%2C_Florida"
+    },
+    {
+      "title": "Satellite Internet access",
+      "url": "https://en.wikipedia.org/wiki/Satellite_Internet_access"
+    },
+    {
+      "title": "Satellite television in the United States",
+      "url": "https://en.wikipedia.org/wiki/Satellite_television_in_the_United_States"
+    },
+    {
+      "title": "Satview Broadband",
+      "url": "https://en.wikipedia.org/wiki/Satview_Broadband"
+    },
+    {
+      "title": "Scottsdale, Arizona",
+      "url": "https://en.wikipedia.org/wiki/Scottsdale%2C_Arizona"
+    },
+    {
+      "title": "Screambox",
+      "url": "https://en.wikipedia.org/wiki/Screambox"
+    },
+    {
+      "title": "ScreenPix",
+      "url": "https://en.wikipedia.org/wiki/ScreenPix"
+    },
+    {
+      "title": "Seeso",
+      "url": "https://en.wikipedia.org/wiki/Seeso"
+    },
+    {
+      "title": "Sergey Brin",
+      "url": "https://en.wikipedia.org/wiki/Sergey_Brin"
+    },
+    {
+      "title": "Server (computing)",
+      "url": "https://en.wikipedia.org/wiki/Server_%28computing%29"
+    },
+    {
+      "title": "Service Electric",
+      "url": "https://en.wikipedia.org/wiki/Service_Electric"
+    },
+    {
+      "title": "Shawnee, Kansas",
+      "url": "https://en.wikipedia.org/wiki/Shawnee%2C_Kansas"
+    },
+    {
+      "title": "Shentel",
+      "url": "https://en.wikipedia.org/wiki/Shentel"
+    },
+    {
+      "title": "Shout! Factory",
+      "url": "https://en.wikipedia.org/wiki/Shout%21_Factory"
+    },
+    {
+      "title": "Showtime (TV network)",
+      "url": "https://en.wikipedia.org/wiki/Showtime_%28TV_network%29"
+    },
+    {
+      "title": "Shudder (streaming service)",
+      "url": "https://en.wikipedia.org/wiki/Shudder_%28streaming_service%29"
+    },
+    {
+      "title": "Sidewalk Labs",
+      "url": "https://en.wikipedia.org/wiki/Sidewalk_Labs"
+    },
+    {
+      "title": "Sidewalk Toronto",
+      "url": "https://en.wikipedia.org/wiki/Sidewalk_Toronto"
+    },
+    {
+      "title": "Silicon Valley",
+      "url": "https://en.wikipedia.org/wiki/Silicon_Valley"
+    },
+    {
+      "title": "Sky Angel",
+      "url": "https://en.wikipedia.org/wiki/Sky_Angel"
+    },
+    {
+      "title": "Skydance",
+      "url": "https://en.wikipedia.org/wiki/Skydance"
+    },
+    {
+      "title": "Sling TV",
+      "url": "https://en.wikipedia.org/wiki/Sling_TV"
+    },
+    {
+      "title": "Smithsonian Channel",
+      "url": "https://en.wikipedia.org/wiki/Smithsonian_Channel"
+    },
+    {
+      "title": "Smyrna, Georgia",
+      "url": "https://en.wikipedia.org/wiki/Smyrna%2C_Georgia"
+    },
+    {
+      "title": "SnagFilms",
+      "url": "https://en.wikipedia.org/wiki/SnagFilms"
+    },
+    {
+      "title": "Sonic.net",
+      "url": "https://en.wikipedia.org/wiki/Sonic.net"
+    },
+    {
+      "title": "Sonic (ISP)",
+      "url": "https://en.wikipedia.org/wiki/Sonic_%28ISP%29"
+    },
+    {
+      "title": "Sony Pictures",
+      "url": "https://en.wikipedia.org/wiki/Sony_Pictures"
+    },
+    {
+      "title": "South Jordan, Utah",
+      "url": "https://en.wikipedia.org/wiki/South_Jordan%2C_Utah"
+    },
+    {
+      "title": "South Salt Lake, Utah",
+      "url": "https://en.wikipedia.org/wiki/South_Salt_Lake%2C_Utah"
+    },
+    {
+      "title": "Southern California",
+      "url": "https://en.wikipedia.org/wiki/Southern_California"
+    },
+    {
+      "title": "Southern Linc",
+      "url": "https://en.wikipedia.org/wiki/Southern_Linc"
+    },
+    {
+      "title": "Spectrum (brand)",
+      "url": "https://en.wikipedia.org/wiki/Spectrum_%28brand%29"
+    },
+    {
+      "title": "Spectrum TV Stream",
+      "url": "https://en.wikipedia.org/wiki/Spectrum_TV_Stream"
+    },
+    {
+      "title": "Spotify",
+      "url": "https://en.wikipedia.org/wiki/Spotify"
+    },
+    {
+      "title": "Springville, Utah",
+      "url": "https://en.wikipedia.org/wiki/Springville%2C_Utah"
+    },
+    {
+      "title": "Sprint Corporation",
+      "url": "https://en.wikipedia.org/wiki/Sprint_Corporation"
+    },
+    {
+      "title": "Stanford University",
+      "url": "https://en.wikipedia.org/wiki/Stanford_University"
+    },
+    {
+      "title": "Starlink",
+      "url": "https://en.wikipedia.org/wiki/Starlink"
+    },
+    {
+      "title": "Starz",
+      "url": "https://en.wikipedia.org/wiki/Starz"
+    },
+    {
+      "title": "Stealth Communications",
+      "url": "https://en.wikipedia.org/wiki/Stealth_Communications"
+    },
+    {
+      "title": "Stirr",
+      "url": "https://en.wikipedia.org/wiki/Stirr"
+    },
+    {
+      "title": "Stonepeak",
+      "url": "https://en.wikipedia.org/wiki/Stonepeak"
+    },
+    {
+      "title": "SunCom",
+      "url": "https://en.wikipedia.org/wiki/SunCom"
+    },
+    {
+      "title": "Sundance TV",
+      "url": "https://en.wikipedia.org/wiki/Sundance_TV"
+    },
+    {
+      "title": "Sundar Pichai",
+      "url": "https://en.wikipedia.org/wiki/Sundar_Pichai"
+    },
+    {
+      "title": "Sunnyvale, California",
+      "url": "https://en.wikipedia.org/wiki/Sunnyvale%2C_California"
+    },
+    {
+      "title": "T-Mobile US",
+      "url": "https://en.wikipedia.org/wiki/T-Mobile_US"
+    },
+    {
+      "title": "TDS Telecom",
+      "url": "https://en.wikipedia.org/wiki/TDS_Telecom"
+    },
+    {
+      "title": "Tampa, Florida",
+      "url": "https://en.wikipedia.org/wiki/Tampa%2C_Florida"
+    },
+    {
+      "title": "Taylorsville, Utah",
+      "url": "https://en.wikipedia.org/wiki/Taylorsville%2C_Utah"
+    },
+    {
+      "title": "TechCrunch",
+      "url": "https://en.wikipedia.org/wiki/TechCrunch"
+    },
+    {
+      "title": "Tele-Communications Inc.",
+      "url": "https://en.wikipedia.org/wiki/Tele-Communications_Inc."
+    },
+    {
+      "title": "TelePrompTer Corporation",
+      "url": "https://en.wikipedia.org/wiki/TelePrompTer_Corporation"
+    },
+    {
+      "title": "TelevisaUnivision",
+      "url": "https://en.wikipedia.org/wiki/TelevisaUnivision"
+    },
+    {
+      "title": "TelevisaUnivision (United States)",
+      "url": "https://en.wikipedia.org/wiki/TelevisaUnivision_%28United_States%29"
+    },
+    {
+      "title": "Tempe, Arizona",
+      "url": "https://en.wikipedia.org/wiki/Tempe%2C_Arizona"
+    },
+    {
+      "title": "Tenor (website)",
+      "url": "https://en.wikipedia.org/wiki/Tenor_%28website%29"
+    },
+    {
+      "title": "Terabyte",
+      "url": "https://en.wikipedia.org/wiki/Terabyte"
+    },
+    {
+      "title": "Texas.net",
+      "url": "https://en.wikipedia.org/wiki/Texas.net"
+    },
+    {
+      "title": "The Boston Globe",
+      "url": "https://en.wikipedia.org/wiki/The_Boston_Globe"
+    },
+    {
+      "title": "The Criterion Collection",
+      "url": "https://en.wikipedia.org/wiki/The_Criterion_Collection"
+    },
+    {
+      "title": "The New York Times",
+      "url": "https://en.wikipedia.org/wiki/The_New_York_Times"
+    },
+    {
+      "title": "The Roku Channel",
+      "url": "https://en.wikipedia.org/wiki/The_Roku_Channel"
+    },
+    {
+      "title": "The Walt Disney Company",
+      "url": "https://en.wikipedia.org/wiki/The_Walt_Disney_Company"
+    },
+    {
+      "title": "Tigard, Oregon",
+      "url": "https://en.wikipedia.org/wiki/Tigard%2C_Oregon"
+    },
+    {
+      "title": "Time (magazine)",
+      "url": "https://en.wikipedia.org/wiki/Time_%28magazine%29"
+    },
+    {
+      "title": "Time Warner Cable",
+      "url": "https://en.wikipedia.org/wiki/Time_Warner_Cable"
+    },
+    {
+      "title": "Ting Inc.",
+      "url": "https://en.wikipedia.org/wiki/Ting_Inc."
+    },
+    {
+      "title": "Tivo",
+      "url": "https://en.wikipedia.org/wiki/Tivo"
+    },
+    {
+      "title": "Tony Fadell",
+      "url": "https://en.wikipedia.org/wiki/Tony_Fadell"
+    },
+    {
+      "title": "TracFone Wireless",
+      "url": "https://en.wikipedia.org/wiki/TracFone_Wireless"
+    },
+    {
+      "title": "TruVista Communications",
+      "url": "https://en.wikipedia.org/wiki/TruVista_Communications"
+    },
+    {
+      "title": "Tubi",
+      "url": "https://en.wikipedia.org/wiki/Tubi"
+    },
+    {
+      "title": "Tweet (social media)",
+      "url": "https://en.wikipedia.org/wiki/Tweet_%28social_media%29"
+    },
+    {
+      "title": "Twitter",
+      "url": "https://en.wikipedia.org/wiki/Twitter"
+    },
+    {
+      "title": "U.S. Cellular",
+      "url": "https://en.wikipedia.org/wiki/U.S._Cellular"
+    },
+    {
+      "title": "UA-Columbia Cablevision",
+      "url": "https://en.wikipedia.org/wiki/UA-Columbia_Cablevision"
+    },
+    {
+      "title": "UFC Fight Pass",
+      "url": "https://en.wikipedia.org/wiki/UFC_Fight_Pass"
+    },
+    {
+      "title": "USDTV",
+      "url": "https://en.wikipedia.org/wiki/USDTV"
+    },
+    {
+      "title": "US Cable",
+      "url": "https://en.wikipedia.org/wiki/US_Cable"
+    },
+    {
+      "title": "Ultra Mobile",
+      "url": "https://en.wikipedia.org/wiki/Ultra_Mobile"
+    },
+    {
+      "title": "Unicel",
+      "url": "https://en.wikipedia.org/wiki/Unicel"
+    },
+    {
+      "title": "United States",
+      "url": "https://en.wikipedia.org/wiki/United_States"
+    },
+    {
+      "title": "United States Satellite Broadcasting",
+      "url": "https://en.wikipedia.org/wiki/United_States_Satellite_Broadcasting"
+    },
+    {
+      "title": "United States Senator",
+      "url": "https://en.wikipedia.org/wiki/United_States_Senator"
+    },
+    {
+      "title": "United Wireless",
+      "url": "https://en.wikipedia.org/wiki/United_Wireless"
+    },
+    {
+      "title": "University of Michigan",
+      "url": "https://en.wikipedia.org/wiki/University_of_Michigan"
+    },
+    {
+      "title": "Upoc Networks",
+      "url": "https://en.wikipedia.org/wiki/Upoc_Networks"
+    },
+    {
+      "title": "Upstream (networking)",
+      "url": "https://en.wikipedia.org/wiki/Upstream_%28networking%29"
+    },
+    {
+      "title": "VRV (streaming service)",
+      "url": "https://en.wikipedia.org/wiki/VRV_%28streaming_service%29"
+    },
+    {
+      "title": "Verily",
+      "url": "https://en.wikipedia.org/wiki/Verily"
+    },
+    {
+      "title": "Verizon",
+      "url": "https://en.wikipedia.org/wiki/Verizon"
+    },
+    {
+      "title": "Verizon (wireless service)",
+      "url": "https://en.wikipedia.org/wiki/Verizon_%28wireless_service%29"
+    },
+    {
+      "title": "Verizon Fios",
+      "url": "https://en.wikipedia.org/wiki/Verizon_Fios"
+    },
+    {
+      "title": "Verizon High Speed Internet",
+      "url": "https://en.wikipedia.org/wiki/Verizon_High_Speed_Internet"
+    },
+    {
+      "title": "Viaplay",
+      "url": "https://en.wikipedia.org/wiki/Viaplay"
+    },
+    {
+      "title": "Viasat (American company)",
+      "url": "https://en.wikipedia.org/wiki/Viasat_%28American_company%29"
+    },
+    {
+      "title": "Vicarious (company)",
+      "url": "https://en.wikipedia.org/wiki/Vicarious_%28company%29"
+    },
+    {
+      "title": "Vidgo",
+      "url": "https://en.wikipedia.org/wiki/Vidgo"
+    },
+    {
+      "title": "Vine City",
+      "url": "https://en.wikipedia.org/wiki/Vine_City"
+    },
+    {
+      "title": "Virtual Digital Cable",
+      "url": "https://en.wikipedia.org/wiki/Virtual_Digital_Cable"
+    },
+    {
+      "title": "Virtual MVPD",
+      "url": "https://en.wikipedia.org/wiki/Virtual_MVPD"
+    },
+    {
+      "title": "Visible by Verizon",
+      "url": "https://en.wikipedia.org/wiki/Visible_by_Verizon"
+    },
+    {
+      "title": "Vix (streaming service)",
+      "url": "https://en.wikipedia.org/wiki/Vix_%28streaming_service%29"
+    },
+    {
+      "title": "Voice over IP",
+      "url": "https://en.wikipedia.org/wiki/Voice_over_IP"
+    },
+    {
+      "title": "Voom HD Networks",
+      "url": "https://en.wikipedia.org/wiki/Voom_HD_Networks"
+    },
+    {
+      "title": "Vox Media",
+      "url": "https://en.wikipedia.org/wiki/Vox_Media"
+    },
+    {
+      "title": "Vyve Broadband",
+      "url": "https://en.wikipedia.org/wiki/Vyve_Broadband"
+    },
+    {
+      "title": "WE TV",
+      "url": "https://en.wikipedia.org/wiki/WE_TV"
+    },
+    {
+      "title": "WOW Presents Plus",
+      "url": "https://en.wikipedia.org/wiki/WOW_Presents_Plus"
+    },
+    {
+      "title": "WWE Network",
+      "url": "https://en.wikipedia.org/wiki/WWE_Network"
+    },
+    {
+      "title": "Wave Broadband",
+      "url": "https://en.wikipedia.org/wiki/Wave_Broadband"
+    },
+    {
+      "title": "Wayback Machine",
+      "url": "https://en.wikipedia.org/wiki/Wayback_Machine"
+    },
+    {
+      "title": "Waymo",
+      "url": "https://en.wikipedia.org/wiki/Waymo"
+    },
+    {
+      "title": "Waze",
+      "url": "https://en.wikipedia.org/wiki/Waze"
+    },
+    {
+      "title": "West Central Wireless",
+      "url": "https://en.wikipedia.org/wiki/West_Central_Wireless"
+    },
+    {
+      "title": "West Des Moines",
+      "url": "https://en.wikipedia.org/wiki/West_Des_Moines"
+    },
+    {
+      "title": "West Jordan, Utah",
+      "url": "https://en.wikipedia.org/wiki/West_Jordan%2C_Utah"
+    },
+    {
+      "title": "Western Wireless Corporation",
+      "url": "https://en.wikipedia.org/wiki/Western_Wireless_Corporation"
+    },
+    {
+      "title": "Whidbey Telecom",
+      "url": "https://en.wikipedia.org/wiki/Whidbey_Telecom"
+    },
+    {
+      "title": "Wide Open West",
+      "url": "https://en.wikipedia.org/wiki/Wide_Open_West"
+    },
+    {
+      "title": "Will it play in Peoria?",
+      "url": "https://en.wikipedia.org/wiki/Will_it_play_in_Peoria%3F"
+    },
+    {
+      "title": "Windjammer Communications",
+      "url": "https://en.wikipedia.org/wiki/Windjammer_Communications"
+    },
+    {
+      "title": "Windstream Holdings",
+      "url": "https://en.wikipedia.org/wiki/Windstream_Holdings"
+    },
+    {
+      "title": "Wing Aviation",
+      "url": "https://en.wikipedia.org/wiki/Wing_Aviation"
+    },
+    {
+      "title": "Wired (website)",
+      "url": "https://en.wikipedia.org/wiki/Wired_%28website%29"
+    },
+    {
+      "title": "Woods Cross, Utah",
+      "url": "https://en.wikipedia.org/wiki/Woods_Cross%2C_Utah"
+    },
+    {
+      "title": "WorldWide Access",
+      "url": "https://en.wikipedia.org/wiki/WorldWide_Access"
+    },
+    {
+      "title": "X Development",
+      "url": "https://en.wikipedia.org/wiki/X_Development"
+    },
+    {
+      "title": "Xfinity",
+      "url": "https://en.wikipedia.org/wiki/Xfinity"
+    },
+    {
+      "title": "Xfinity Flex",
+      "url": "https://en.wikipedia.org/wiki/Xfinity_Flex"
+    },
+    {
+      "title": "Xumo",
+      "url": "https://en.wikipedia.org/wiki/Xumo"
+    },
+    {
+      "title": "Yahoo Mobile",
+      "url": "https://en.wikipedia.org/wiki/Yahoo_Mobile"
+    },
+    {
+      "title": "YouTube",
+      "url": "https://en.wikipedia.org/wiki/YouTube"
+    },
+    {
+      "title": "YouTube TV",
+      "url": "https://en.wikipedia.org/wiki/YouTube_TV"
+    },
+    {
+      "title": "YouTube user (identifier)",
+      "url": "https://en.wikipedia.org/wiki/YouTube_user_%28identifier%29"
+    },
+    {
+      "title": "YuppTV",
+      "url": "https://en.wikipedia.org/wiki/YuppTV"
+    },
+    {
+      "title": "Ziff Davis",
+      "url": "https://en.wikipedia.org/wiki/Ziff_Davis"
+    },
+    {
+      "title": "Ziply Fiber",
+      "url": "https://en.wikipedia.org/wiki/Ziply_Fiber"
+    }
+  ]
+}

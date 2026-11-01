@@ -1,0 +1,76 @@
+{
+  "document_id": "wikipedia_en_Q17279176",
+  "wikidata_id": "Q17279176",
+  "entity_label": "Neil Berkett",
+  "entity_type": "person",
+  "seed_categories": [],
+  "source": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Neil_Berkett",
+  "revision_id": 1363663692,
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1363663692",
+  "pageid": 43115102,
+  "title": "Neil Berkett",
+  "language": "en",
+  "collected_at": "2026-10-28T22:03:52.292830+00:00",
+  "content": {
+    "sections": [
+      {
+        "heading": "Introduction",
+        "text": "Neil Berkett is a New Zealand-born England-based businessperson.\nBerkett is currently the chairperson of Guardian Media Group , having succeeded Amelia Fawcett in 2013. He joined the board in 2009.\nBerkett is active in NZEdge.com , an organisation that connects expat New Zealanders.\nHe attended Heretaunga College and the Victoria University of Wellington ."
+      },
+      {
+        "heading": "References",
+        "text": "\"Neil Berkett - Forbes\" . forbes.com . Retrieved 22 June 2014 . [ dead link ] \"Cover story | Neil Berkett\" . director.co.uk. Archived from the original on 1 July 2014 . Retrieved 22 June 2014 . \"Digital TV Europe's Euro 50 2008\" . publishing.yudu.com . Retrieved 22 June 2014 . Deans, Jason (3 June 2013). \"Virgin Media's Neil Berkett named as new chair of Guardian Media Group\" . The Guardian . Retrieved 22 June 2014 . \"Departing Virgin Media boss Neil Berkett named as chairman of Guardian Media Group\" . The Independent . London. Archived from the original on 18 June 2022 . Retrieved 22 June 2014 ."
+      },
+      {
+        "heading": "External links",
+        "text": "Content on Guardian website"
+      }
+    ],
+    "full_text": "Introduction\nNeil Berkett is a New Zealand-born England-based businessperson.\nBerkett is currently the chairperson of Guardian Media Group , having succeeded Amelia Fawcett in 2013. He joined the board in 2009.\nBerkett is active in NZEdge.com , an organisation that connects expat New Zealanders.\nHe attended Heretaunga College and the Victoria University of Wellington .\n\nReferences\n\"Neil Berkett - Forbes\" . forbes.com . Retrieved 22 June 2014 . [ dead link ] \"Cover story | Neil Berkett\" . director.co.uk. Archived from the original on 1 July 2014 . Retrieved 22 June 2014 . \"Digital TV Europe's Euro 50 2008\" . publishing.yudu.com . Retrieved 22 June 2014 . Deans, Jason (3 June 2013). \"Virgin Media's Neil Berkett named as new chair of Guardian Media Group\" . The Guardian . Retrieved 22 June 2014 . \"Departing Virgin Media boss Neil Berkett named as chairman of Guardian Media Group\" . The Independent . London. Archived from the original on 18 June 2022 . Retrieved 22 June 2014 .\n\nExternal links\nContent on Guardian website"
+  },
+  "references": [
+    {
+      "url": "http://www.gmgplc.co.uk/gmg/gmg-board/",
+      "label": "\"GMG board | Guardian Media Group PLC\""
+    },
+    {
+      "url": "http://www.gmgplc.co.uk/uncategorized/the-scott-trust-appoints-new-chair-of-guardian-media-group-2/",
+      "label": "\"The Scott Trust appoints new chair of Guardian Media Group | Guardian Media Group PLC\""
+    },
+    {
+      "url": "http://www.nzedge.com/tag/neil-berkett/",
+      "label": "\"Neil Berkett Archives - NZEDGE\""
+    },
+    {
+      "url": "https://www.linkedin.com/pub/neil-berkett/74/77/b2b",
+      "label": "\"Neil Berkett | LinkedIn\""
+    }
+  ],
+  "outgoing_links": [
+    {
+      "title": "Amelia Fawcett",
+      "url": "https://en.wikipedia.org/wiki/Amelia_Fawcett"
+    },
+    {
+      "title": "Chair of the board",
+      "url": "https://en.wikipedia.org/wiki/Chair_of_the_board"
+    },
+    {
+      "title": "Guardian Media Group",
+      "url": "https://en.wikipedia.org/wiki/Guardian_Media_Group"
+    },
+    {
+      "title": "Heretaunga College",
+      "url": "https://en.wikipedia.org/wiki/Heretaunga_College"
+    },
+    {
+      "title": "Victoria University of Wellington",
+      "url": "https://en.wikipedia.org/wiki/Victoria_University_of_Wellington"
+    },
+    {
+      "title": "NZEdge.com",
+      "url": "https://en.wikipedia.org/wiki/NZEdge.com"
+    }
+  ]
+}

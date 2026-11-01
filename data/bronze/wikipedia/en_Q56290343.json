@@ -1,0 +1,232 @@
+{
+  "document_id": "wikipedia_en_Q56290343",
+  "wikidata_id": "Q56290343",
+  "entity_label": "5G Automotive Association",
+  "entity_type": "organization",
+  "seed_categories": [],
+  "source": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/5G_Automotive_Association",
+  "revision_id": 1379933014,
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1379933014",
+  "pageid": 58198099,
+  "title": "5G Automotive Association",
+  "language": "en",
+  "collected_at": "2026-10-28T22:02:03.556688+00:00",
+  "content": {
+    "sections": [
+      {
+        "heading": "Introduction",
+        "text": "The 5G Automotive Association (5GAA) is a global corporate coalition that develops and promotes standardized protocols for automotive vehicles and road infrastructure utilizing 5G communications.  It engages with standards organizations and lobbies governments on behalf of its membership worldwide. It advocates both private and public investments in the widespread deployment of 4G and 5G wireless technology known as vehicle-to-everything (V2X) in the United States or cellular V2X (C-V2X) elsewhere."
+      },
+      {
+        "heading": "History",
+        "text": "The 5GAA registered as a registered voluntary association in September 2016, by three German automotive manufacturers ( AUDI AG , BMW Group , Daimler AG ) and five major 5G patent holders ( Ericsson , Huawei , Intel , Nokia and Qualcomm ). In 2018, more than 80 companies had joined the association. Currently, it has more than 110 members and now includes leading automotive component suppliers and satellite communications companies.\nThe 5GAA collaborates with other leading technology organizations including the European Automotive Telecom Alliance (EATA), the GSMA (see here ) and the Automotive Edge Computing Consortium, AECC (see here )."
+      },
+      {
+        "heading": "Organization",
+        "text": "The 5GAA has a hierarchical membership structure based with the founding members at the top followed by the highest paying members.  A higher membership status provides the benefit of increased influence within the organization . Its 17 board members , including the founding members, hold the exclusive right to nominate people for the organization's leadership positions."
+      },
+      {
+        "heading": "Work",
+        "text": "The 5GAA works for the standardization needed for the implementation of V2X communication in cooperation with standards organizations such as ETSI , 3GPP and SAE , focusing on cellular based communication known as Cellular V2X . V2X communications are primarily used for advanced driver-assistance systems which increase road safety and traffic efficiency, but are increasingly important to autonomous driving systems.\n5GAA is opposed to usage of IEEE 802.11p and advocated against Delegated Act on Cooperative ITS , which endorsed Dedicated Short-Range Communications as the baseline communication technology. The Delegated Act was ultimately rejected by the EU Member States, due to the fact that 5.9 GHz ITS band must be technology neutral.\nIn December 2024, 5GAA published an updated Roadmap for advanced driving use cases, connectivity, and related technologies."
+      },
+      {
+        "heading": "See also",
+        "text": "Vehicle-to-everything 5G NR frequency bands"
+      }
+    ],
+    "full_text": "Introduction\nThe 5G Automotive Association (5GAA) is a global corporate coalition that develops and promotes standardized protocols for automotive vehicles and road infrastructure utilizing 5G communications.  It engages with standards organizations and lobbies governments on behalf of its membership worldwide. It advocates both private and public investments in the widespread deployment of 4G and 5G wireless technology known as vehicle-to-everything (V2X) in the United States or cellular V2X (C-V2X) elsewhere.\n\nHistory\nThe 5GAA registered as a registered voluntary association in September 2016, by three German automotive manufacturers ( AUDI AG , BMW Group , Daimler AG ) and five major 5G patent holders ( Ericsson , Huawei , Intel , Nokia and Qualcomm ). In 2018, more than 80 companies had joined the association. Currently, it has more than 110 members and now includes leading automotive component suppliers and satellite communications companies.\nThe 5GAA collaborates with other leading technology organizations including the European Automotive Telecom Alliance (EATA), the GSMA (see here ) and the Automotive Edge Computing Consortium, AECC (see here ).\n\nOrganization\nThe 5GAA has a hierarchical membership structure based with the founding members at the top followed by the highest paying members.  A higher membership status provides the benefit of increased influence within the organization . Its 17 board members , including the founding members, hold the exclusive right to nominate people for the organization's leadership positions.\n\nWork\nThe 5GAA works for the standardization needed for the implementation of V2X communication in cooperation with standards organizations such as ETSI , 3GPP and SAE , focusing on cellular based communication known as Cellular V2X . V2X communications are primarily used for advanced driver-assistance systems which increase road safety and traffic efficiency, but are increasingly important to autonomous driving systems.\n5GAA is opposed to usage of IEEE 802.11p and advocated against Delegated Act on Cooperative ITS , which endorsed Dedicated Short-Range Communications as the baseline communication technology. The Delegated Act was ultimately rejected by the EU Member States, due to the fact that 5.9 GHz ITS band must be technology neutral.\nIn December 2024, 5GAA published an updated Roadmap for advanced driving use cases, connectivity, and related technologies.\n\nSee also\nVehicle-to-everything 5G NR frequency bands"
+  },
+  "references": [
+    {
+      "url": "https://ec.europa.eu/transparencyregister/public/consultation/displaylobbyist.do?id=802312827842-26",
+      "label": "\"SG/Transparency Register\""
+    },
+    {
+      "url": "https://iot.eetimes.com/5gaa-argues-c-v2x-technology-as-the-way-to-secure-transport-at-the-its-world-congress/",
+      "label": "\"5GAA argues C-V2X technology as the way to secure transport at the ITS World Congress\""
+    },
+    {
+      "url": "https://www.digianalysys.com/top-10-5g-patent-holders/",
+      "label": "\"Top 10 5G patent holders\""
+    },
+    {
+      "url": "http://telecoms.com/475854/car-network-and-chip-giants-form-5g-car-club/",
+      "label": "\"Car, network and chip giants form 5G car club\""
+    },
+    {
+      "url": "https://www.qualcomm.com/news/releases/2018/04/26/5gaa-audi-ford-and-qualcomm-showcase-c-v2x-direct-communications",
+      "label": "\"5GAA, Audi, Ford and Qualcomm Showcase C-V2X Direct Communications Interoperability to Improve Road Safety\""
+    },
+    {
+      "url": "https://web.archive.org/web/20180501215743/https://www.qualcomm.com/news/releases/2018/04/26/5gaa-audi-ford-and-qualcomm-showcase-c-v2x-direct-communications",
+      "label": "Archived"
+    },
+    {
+      "url": "https://5gaa.org/membership/our-members/",
+      "label": "\"Our Members – 5G Automotive Association\""
+    },
+    {
+      "url": "https://web.archive.org/web/20200217175309/https://5gaa.org/membership/5gaa-membership/",
+      "label": "\"5GAA Membership – 5G Automotive Association\""
+    },
+    {
+      "url": "http://5gaa.org/membership/5gaa-membership/",
+      "label": "the original"
+    },
+    {
+      "url": "https://5gaa.org/news/feedback-delegated-regulation/",
+      "label": "\"5GAA board submits feedback on the C-ITS delegated regulation proposed by the European Commission – 5G Automotive Association\""
+    },
+    {
+      "url": "https://op.europa.eu/en/publication-detail/-/publication/9a2fe08f-4580-11e9-a8ed-01aa75ed71a1/language-en?cookies=disabled",
+      "label": "\"COMMISSION DELEGATED REGULATION (EU) .../... supplementing Directive 2010/40/EU of the European Parliament and of the Council with regard to the deployment and operational use of cooperative intelligent transport systems$ - Publications Office of the EU\""
+    },
+    {
+      "url": "https://doi.org/10.1109%2FTNSM.2021.3129348",
+      "label": "10.1109/TNSM.2021.3129348"
+    },
+    {
+      "url": "https://hdl.handle.net/1854%2FLU-8758325",
+      "label": "1854/LU-8758325"
+    },
+    {
+      "url": "https://search.worldcat.org/issn/1932-4537",
+      "label": "1932-4537"
+    },
+    {
+      "url": "https://api.semanticscholar.org/CorpusID:244447761",
+      "label": "244447761"
+    }
+  ],
+  "outgoing_links": [
+    {
+      "title": "3GPP",
+      "url": "https://en.wikipedia.org/wiki/3GPP"
+    },
+    {
+      "title": "5G",
+      "url": "https://en.wikipedia.org/wiki/5G"
+    },
+    {
+      "title": "5G NR frequency bands",
+      "url": "https://en.wikipedia.org/wiki/5G_NR_frequency_bands"
+    },
+    {
+      "title": "Advanced driver-assistance systems",
+      "url": "https://en.wikipedia.org/wiki/Advanced_driver-assistance_systems"
+    },
+    {
+      "title": "Audi AG",
+      "url": "https://en.wikipedia.org/wiki/Audi_AG"
+    },
+    {
+      "title": "Autonomous driving",
+      "url": "https://en.wikipedia.org/wiki/Autonomous_driving"
+    },
+    {
+      "title": "BMW Group",
+      "url": "https://en.wikipedia.org/wiki/BMW_Group"
+    },
+    {
+      "title": "Cellular V2X",
+      "url": "https://en.wikipedia.org/wiki/Cellular_V2X"
+    },
+    {
+      "title": "Daimler AG",
+      "url": "https://en.wikipedia.org/wiki/Daimler_AG"
+    },
+    {
+      "title": "Dedicated short-range communications",
+      "url": "https://en.wikipedia.org/wiki/Dedicated_short-range_communications"
+    },
+    {
+      "title": "Doi (identifier)",
+      "url": "https://en.wikipedia.org/wiki/Doi_%28identifier%29"
+    },
+    {
+      "title": "ETSI",
+      "url": "https://en.wikipedia.org/wiki/ETSI"
+    },
+    {
+      "title": "Ericsson",
+      "url": "https://en.wikipedia.org/wiki/Ericsson"
+    },
+    {
+      "title": "GSMA",
+      "url": "https://en.wikipedia.org/wiki/GSMA"
+    },
+    {
+      "title": "Hdl (identifier)",
+      "url": "https://en.wikipedia.org/wiki/Hdl_%28identifier%29"
+    },
+    {
+      "title": "Hierarchy",
+      "url": "https://en.wikipedia.org/wiki/Hierarchy"
+    },
+    {
+      "title": "Huawei",
+      "url": "https://en.wikipedia.org/wiki/Huawei"
+    },
+    {
+      "title": "IEEE 802.11p",
+      "url": "https://en.wikipedia.org/wiki/IEEE_802.11p"
+    },
+    {
+      "title": "ISSN (identifier)",
+      "url": "https://en.wikipedia.org/wiki/ISSN_%28identifier%29"
+    },
+    {
+      "title": "Ingrid Moerman",
+      "url": "https://en.wikipedia.org/wiki/Ingrid_Moerman"
+    },
+    {
+      "title": "Intel",
+      "url": "https://en.wikipedia.org/wiki/Intel"
+    },
+    {
+      "title": "Intelligent transportation system",
+      "url": "https://en.wikipedia.org/wiki/Intelligent_transportation_system"
+    },
+    {
+      "title": "Nokia",
+      "url": "https://en.wikipedia.org/wiki/Nokia"
+    },
+    {
+      "title": "Pay to play",
+      "url": "https://en.wikipedia.org/wiki/Pay_to_play"
+    },
+    {
+      "title": "Qualcomm",
+      "url": "https://en.wikipedia.org/wiki/Qualcomm"
+    },
+    {
+      "title": "Registered association (Germany)",
+      "url": "https://en.wikipedia.org/wiki/Registered_association_%28Germany%29"
+    },
+    {
+      "title": "S2CID (identifier)",
+      "url": "https://en.wikipedia.org/wiki/S2CID_%28identifier%29"
+    },
+    {
+      "title": "SAE International",
+      "url": "https://en.wikipedia.org/wiki/SAE_International"
+    },
+    {
+      "title": "Standardization",
+      "url": "https://en.wikipedia.org/wiki/Standardization"
+    },
+    {
+      "title": "Standards organizations",
+      "url": "https://en.wikipedia.org/wiki/Standards_organizations"
+    },
+    {
+      "title": "Vehicle-to-everything",
+      "url": "https://en.wikipedia.org/wiki/Vehicle-to-everything"
+    },
+    {
+      "title": "European Automotive Telecom Alliance",
+      "url": "https://en.wikipedia.org/wiki/European_Automotive_Telecom_Alliance"
+    }
+  ]
+}

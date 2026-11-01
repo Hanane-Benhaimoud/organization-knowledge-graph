@@ -1,0 +1,27 @@
+[
+  {
+    "query_id": "person_affiliations",
+    "row_count": 14,
+    "measured_client_latency_ms": 277.38
+  },
+  {
+    "query_id": "multiple_affiliations",
+    "row_count": 20,
+    "measured_client_latency_ms": 240.92
+  },
+  {
+    "query_id": "shared_leaders",
+    "row_count": 30,
+    "measured_client_latency_ms": 499.54
+  },
+  {
+    "query_id": "connected_entities",
+    "row_count": 20,
+    "measured_client_latency_ms": 217.53
+  },
+  {
+    "query_id": "subsidiary_chains",
+    "row_count": 5,
+    "measured_client_latency_ms": 303.72
+  }
+]

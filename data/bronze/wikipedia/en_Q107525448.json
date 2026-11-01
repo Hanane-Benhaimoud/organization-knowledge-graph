@@ -1,0 +1,448 @@
+{
+  "document_id": "wikipedia_en_Q107525448",
+  "wikidata_id": "Q107525448",
+  "entity_label": "Dmitri Dolgov",
+  "entity_type": "person",
+  "seed_categories": [],
+  "source": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Dmitri_Dolgov",
+  "revision_id": 1378699286,
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1378699286",
+  "pageid": 19715574,
+  "title": "Dmitri Dolgov",
+  "language": "en",
+  "collected_at": "2026-10-28T22:03:09.920244+00:00",
+  "content": {
+    "sections": [
+      {
+        "heading": "Introduction",
+        "text": "Dmitri Dolgov is a Russian-American engineer who is the co-chief executive officer of Waymo . Previously, he worked on self-driving cars at Toyota and Stanford University for the DARPA Grand Challenge (2007) . Dolgov then joined Waymo's predecessor, Google 's Self-Driving Car Project, where he was an engineer and head of software. He has also been Google X 's lead scientist."
+      },
+      {
+        "heading": "Early life and education",
+        "text": "Dmitri Dolgov was born in the Russian SFSR and raised in Moscow . He traveled often, living in Japan for a year and attending high school in the United States before returning to Russia. Dolgov earned his Bachelor of Science and Master of Science degrees in physics and math from the Moscow Institute of Physics and Technology in 1998 and 2000, respectively, followed by a Ph.D. in computer science from the University of Michigan . He completed postdoctoral research at Stanford University ."
+      },
+      {
+        "heading": "Career",
+        "text": "Early in his career, Dolgov worked on self-driving cars at Toyota Research Institute of North America (TRINA) and as part of Stanford's team for the DARPA Grand Challenge (2007) . IEEE Intelligent Systems named him one of \"AI's 10 to Watch — the Future of AI\" in 2008. In 2009, Dolgov joined the original team of Google 's Self-Driving Car Project, which became Waymo in 2016. He started as an engineer for Google, then became the lead scientist with Google X in 2014, before replacing Chris Urmson as the autonomous driving project's head of software in 2016. Dolgov became Waymo's chief technology officer and vice president of engineering, where he oversaw both hardware and software development. In 2018, he testified on behalf of Waymo in the company's trade secrets lawsuit against Uber. He and then- chief executive officer (CEO) John Krafcik received American Ingenuity Awards from Smithsonian magazine. In 2021, Dolgov and Tekedra Mawakana became co-CEOs, replacing Krafcik. Dolgov focuses on the company's technology and Mawakana oversees business operations. In 2021, Pete Bigelow of Automotive News said the duo have a \"somewhat unusual power-sharing arrangement\", and have \"developed a close working relationship and have been heavily involved in Waymo's most high-profile milestones\".\nHe is an inventor with more than 90 patents, as of September 2018."
+      },
+      {
+        "heading": "Personal life",
+        "text": "Dolgov is a U.S. citizen."
+      },
+      {
+        "heading": "Publications",
+        "text": "Dolgov, D.; Durfee, E. (2004). \"Graphical models in local, asymmetric multi-agent Markov decision processes\" . Proceedings of the Third International Joint Conference on Autonomous Agents and Multiagent Systems, 2004. AAMAS 2004 . Institute of Electrical and Electronics Engineers (IEEE): 956– 963. Musliner, David J.; Goldman, Robert P.; Durfee, Edmund H.; Wu, Jianhui; Dolgov, Dmitri A.; Boddy, Mark S. (2007). \"Coordination of Highly Contingent Plans\". 2007 International Conference on Integration of Knowledge Intensive Multi-Agent Systems . IEEE. pp. 418– 422. doi : 10.1109/KIMAS.2007.369846 . ISBN 978-1-4244-0944-0 . S2CID 2306390 . Abbeel, Pieter; Dolgov, Dmitri; Ng, Andrew Y.; Thrun, Sebastian (2008). \"Apprenticeship learning for motion planning with application to parking lot navigation\". 2008 IEEE/RSJ International Conference on Intelligent Robots and Systems . IEEE. pp. 1083– 1090. doi : 10.1109/IROS.2008.4651222 . ISBN 978-1-4244-2057-5 . S2CID 4639568 . James, Michael; Dolgov, Dmitri (2008). \"Local line segments as primitives for scene understanding\". 2008 IEEE/RSJ International Conference on Intelligent Robots and Systems . IEEE. p. 4188. doi : 10.1109/IROS.2008.4651243 . ISBN 978-1-4244-2057-5 . S2CID 8872477 . Kummerle, Rainer; Hahnel, Dirk; Dolgov, Dmitri; Thrun, Sebastian; Burgard, Wolfram (2009). \"Autonomous driving in a multi-level parking structure\". 2009 IEEE International Conference on Robotics and Automation . IEEE. pp. 3395– 3400. doi : 10.1109/ROBOT.2009.5152365 . ISBN 978-1-4244-2788-8 . S2CID 12050812 . Dolgov, Dmitri; Thrun, Sebastian (2009). \"Autonomous driving in semi-structured environments: Mapping and planning\". 2009 IEEE International Conference on Robotics and Automation . pp. 3407– 3414. doi : 10.1109/ROBOT.2009.5152682 . ISBN 978-1-4244-2788-8 . S2CID 9016713 ."
+      },
+      {
+        "heading": "See also",
+        "text": "List of University of Michigan alumni"
+      },
+      {
+        "heading": "External links",
+        "text": "Dmitri Dolgov at Bloomberg News Dmitri Dolgov at CNBC Dmitri Dolgov at Computer History Museum Korosec, Kirsten (February 8, 2019). \"Waymo CTO on the company's past, present and what comes next\" . TechCrunch . Tabatabai, Arman; Korosec, Kirsten (July 23, 2019). \"The road ahead for Waymo, AV engineering and mobility, with Waymo CTOD Dmitri Dolgov\" . TechCrunch ."
+      }
+    ],
+    "full_text": "Introduction\nDmitri Dolgov is a Russian-American engineer who is the co-chief executive officer of Waymo . Previously, he worked on self-driving cars at Toyota and Stanford University for the DARPA Grand Challenge (2007) . Dolgov then joined Waymo's predecessor, Google 's Self-Driving Car Project, where he was an engineer and head of software. He has also been Google X 's lead scientist.\n\nEarly life and education\nDmitri Dolgov was born in the Russian SFSR and raised in Moscow . He traveled often, living in Japan for a year and attending high school in the United States before returning to Russia. Dolgov earned his Bachelor of Science and Master of Science degrees in physics and math from the Moscow Institute of Physics and Technology in 1998 and 2000, respectively, followed by a Ph.D. in computer science from the University of Michigan . He completed postdoctoral research at Stanford University .\n\nCareer\nEarly in his career, Dolgov worked on self-driving cars at Toyota Research Institute of North America (TRINA) and as part of Stanford's team for the DARPA Grand Challenge (2007) . IEEE Intelligent Systems named him one of \"AI's 10 to Watch — the Future of AI\" in 2008. In 2009, Dolgov joined the original team of Google 's Self-Driving Car Project, which became Waymo in 2016. He started as an engineer for Google, then became the lead scientist with Google X in 2014, before replacing Chris Urmson as the autonomous driving project's head of software in 2016. Dolgov became Waymo's chief technology officer and vice president of engineering, where he oversaw both hardware and software development. In 2018, he testified on behalf of Waymo in the company's trade secrets lawsuit against Uber. He and then- chief executive officer (CEO) John Krafcik received American Ingenuity Awards from Smithsonian magazine. In 2021, Dolgov and Tekedra Mawakana became co-CEOs, replacing Krafcik. Dolgov focuses on the company's technology and Mawakana oversees business operations. In 2021, Pete Bigelow of Automotive News said the duo have a \"somewhat unusual power-sharing arrangement\", and have \"developed a close working relationship and have been heavily involved in Waymo's most high-profile milestones\".\nHe is an inventor with more than 90 patents, as of September 2018.\n\nPersonal life\nDolgov is a U.S. citizen.\n\nPublications\nDolgov, D.; Durfee, E. (2004). \"Graphical models in local, asymmetric multi-agent Markov decision processes\" . Proceedings of the Third International Joint Conference on Autonomous Agents and Multiagent Systems, 2004. AAMAS 2004 . Institute of Electrical and Electronics Engineers (IEEE): 956– 963. Musliner, David J.; Goldman, Robert P.; Durfee, Edmund H.; Wu, Jianhui; Dolgov, Dmitri A.; Boddy, Mark S. (2007). \"Coordination of Highly Contingent Plans\". 2007 International Conference on Integration of Knowledge Intensive Multi-Agent Systems . IEEE. pp. 418– 422. doi : 10.1109/KIMAS.2007.369846 . ISBN 978-1-4244-0944-0 . S2CID 2306390 . Abbeel, Pieter; Dolgov, Dmitri; Ng, Andrew Y.; Thrun, Sebastian (2008). \"Apprenticeship learning for motion planning with application to parking lot navigation\". 2008 IEEE/RSJ International Conference on Intelligent Robots and Systems . IEEE. pp. 1083– 1090. doi : 10.1109/IROS.2008.4651222 . ISBN 978-1-4244-2057-5 . S2CID 4639568 . James, Michael; Dolgov, Dmitri (2008). \"Local line segments as primitives for scene understanding\". 2008 IEEE/RSJ International Conference on Intelligent Robots and Systems . IEEE. p. 4188. doi : 10.1109/IROS.2008.4651243 . ISBN 978-1-4244-2057-5 . S2CID 8872477 . Kummerle, Rainer; Hahnel, Dirk; Dolgov, Dmitri; Thrun, Sebastian; Burgard, Wolfram (2009). \"Autonomous driving in a multi-level parking structure\". 2009 IEEE International Conference on Robotics and Automation . IEEE. pp. 3395– 3400. doi : 10.1109/ROBOT.2009.5152365 . ISBN 978-1-4244-2788-8 . S2CID 12050812 . Dolgov, Dmitri; Thrun, Sebastian (2009). \"Autonomous driving in semi-structured environments: Mapping and planning\". 2009 IEEE International Conference on Robotics and Automation . pp. 3407– 3414. doi : 10.1109/ROBOT.2009.5152682 . ISBN 978-1-4244-2788-8 . S2CID 9016713 .\n\nSee also\nList of University of Michigan alumni\n\nExternal links\nDmitri Dolgov at Bloomberg News Dmitri Dolgov at CNBC Dmitri Dolgov at Computer History Museum Korosec, Kirsten (February 8, 2019). \"Waymo CTO on the company's past, present and what comes next\" . TechCrunch . Tabatabai, Arman; Korosec, Kirsten (July 23, 2019). \"The road ahead for Waymo, AV engineering and mobility, with Waymo CTOD Dmitri Dolgov\" . TechCrunch ."
+  },
+  "references": [
+    {
+      "url": "https://www.reuters.com/article/us-google-driverless-idUSKBN0GH02P20140817",
+      "label": "\"Look, no hands! Test driving a Google car\""
+    },
+    {
+      "url": "https://web.archive.org/web/20170327202858/http://www.reuters.com/article/us-google-driverless-idUSKBN0GH02P20140817",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.autonews.com/mobility-report/waymo-co-ceos-bring-double-vision-self-driving-future",
+      "label": "\"Dmitri Dolgov, Tekedra Mawakana to mesh skills at Waymo as ...\""
+    },
+    {
+      "url": "https://search.worldcat.org/issn/0005-1551",
+      "label": "0005-1551"
+    },
+    {
+      "url": "https://web.archive.org/web/20210520160805/https://www.autonews.com/mobility-report/waymo-co-ceos-bring-double-vision-self-driving-future",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.nasa.gov/ames/ocs/2013-summer-series/dmitri-dolgov",
+      "label": "\"Dmitri Dolgov – Driven by the Future: Google Cars\""
+    },
+    {
+      "url": "https://web.archive.org/web/20210621211344/https://www.nasa.gov/ames/ocs/2013-summer-series/dmitri-dolgov/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.wsj.com/articles/waymo-ceo-john-krafcik-is-leaving-the-company-11617385836",
+      "label": "\"Waymo CEO John Krafcik Is Leaving the Google Self-Driving Affiliate\""
+    },
+    {
+      "url": "https://search.worldcat.org/issn/0099-9660",
+      "label": "0099-9660"
+    },
+    {
+      "url": "https://search.worldcat.org/oclc/781541372",
+      "label": "781541372"
+    },
+    {
+      "url": "https://web.archive.org/web/20210520170029/https://www.wsj.com/articles/waymo-ceo-john-krafcik-is-leaving-the-company-11617385836",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.cnbc.com/dmitri-dolgov-waymo/",
+      "label": "\"Dmitri Dolgov, Waymo\""
+    },
+    {
+      "url": "https://web.archive.org/web/20210613005533/https://www.cnbc.com/dmitri-dolgov-waymo/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.forbes.com/sites/alanohnsman/2018/09/06/waymo-shifts-to-industrializing-self-driving-tech-as-robotaxi-launch-nears/?sh=585d53234dc1",
+      "label": "\"Waymo Shifts to 'Industrializing' Self-Driving Tech As Robotaxi Launch Nears\""
+    },
+    {
+      "url": "https://search.worldcat.org/issn/0015-6914",
+      "label": "0015-6914"
+    },
+    {
+      "url": "https://web.archive.org/web/20210621211349/https://www.forbes.com/sites/alanohnsman/2018/09/06/waymo-shifts-to-industrializing-self-driving-tech-as-robotaxi-launch-nears/?sh=585d53234dc1",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.inverse.com/article/56891-waymo-s-cto-details-the-iphone-like-car-that-powers-autonomous-driving",
+      "label": "\"Waymo CTO Dmitri Dolgov on Dust Storms, Lidar, Tesla, and Expansion\""
+    },
+    {
+      "url": "https://web.archive.org/web/20210118011608/https://www.inverse.com/article/56891-waymo-s-cto-details-the-iphone-like-car-that-powers-autonomous-driving",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.nytimes.com/2010/10/10/science/10google.html",
+      "label": "\"Google Cars Drive Themselves, in Traffic\""
+    },
+    {
+      "url": "https://search.worldcat.org/oclc/1645522",
+      "label": "1645522"
+    },
+    {
+      "url": "https://web.archive.org/web/20210504110624/https://www.nytimes.com/2010/10/10/science/10google.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.wnpr.org/post/google-becoming-car-manufacturer",
+      "label": "\"Google Is Becoming a Car Manufacturer\""
+    },
+    {
+      "url": "https://web.archive.org/web/20150420152457/http://wnpr.org/post/google-becoming-car-manufacturer",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.irishtimes.com/life-and-style/motors/crashes-not-the-fault-of-the-driverless-car-says-google-it-s-other-drivers-1.2338855",
+      "label": "\"Crashes not the fault of the driverless car, says Google – it's other drivers\""
+    },
+    {
+      "url": "https://search.worldcat.org/issn/0791-5144",
+      "label": "0791-5144"
+    },
+    {
+      "url": "https://web.archive.org/web/20160125134632/http://www.irishtimes.com/life-and-style/motors/crashes-not-the-fault-of-the-driverless-car-says-google-it-s-other-drivers-1.2338855",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.usatoday.com/story/tech/news/2016/10/05/googles-self-driving-cars-hit-2-million-miles/91566136/",
+      "label": "\"Google's self-driving cars hit 2 million miles\""
+    },
+    {
+      "url": "https://search.worldcat.org/issn/0734-7456",
+      "label": "0734-7456"
+    },
+    {
+      "url": "https://web.archive.org/web/20200309113221/https://www.usatoday.com/story/tech/news/2016/10/05/googles-self-driving-cars-hit-2-million-miles/91566136/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.nytimes.com/2021/04/02/business/waymo-john-krafcik.html",
+      "label": "\"The C.E.O. of the self-driving car company Waymo will step down after more than 5 years\""
+    },
+    {
+      "url": "https://web.archive.org/web/20210427123813/https://www.nytimes.com/2021/04/02/business/waymo-john-krafcik.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/02/05/technology/uber-waymo-trial.html",
+      "label": "\"Waymo v. Uber Trial Opens With a Battle of Sports Metaphors\""
+    },
+    {
+      "url": "https://web.archive.org/web/20201109074614/https://www.nytimes.com/2018/02/05/technology/uber-waymo-trial.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.wired.com/story/waymo-uber-trial-kalanick-testimony/",
+      "label": "\"Waymo v. Uber's Big Question: What on Earth Is a Trade Secret, Anyway?\""
+    },
+    {
+      "url": "https://search.worldcat.org/oclc/24479723",
+      "label": "24479723"
+    },
+    {
+      "url": "https://web.archive.org/web/20210417071425/https://www.wired.com/story/waymo-uber-trial-kalanick-testimony/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.washingtonpost.com/entertainment/museums/janelle-monae-and-parkland-activists-among-winners-of-american-ingenuity-awards/2018/10/24/194ef566-d702-11e8-aeb7-ddcad4a0a54e_story.html",
+      "label": "\"Janelle Monáe and Parkland activists among winners of American Ingenuity Awards\""
+    },
+    {
+      "url": "https://search.worldcat.org/issn/0190-8286",
+      "label": "0190-8286"
+    },
+    {
+      "url": "https://search.worldcat.org/oclc/2269358",
+      "label": "2269358"
+    },
+    {
+      "url": "https://web.archive.org/web/20210317072729/https://www.washingtonpost.com/entertainment/museums/janelle-monae-and-parkland-activists-among-winners-of-american-ingenuity-awards/2018/10/24/194ef566-d702-11e8-aeb7-ddcad4a0a54e_story.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.smithsonianmag.com/ingenuity/2018-winners/",
+      "label": "\"2018 American Ingenuity Award Winners\""
+    },
+    {
+      "url": "https://web.archive.org/web/20210322082408/https://www.smithsonianmag.com/ingenuity/2018-winners/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.smithsonianmag.com/innovation/waymo-fleet-self-driving-cars-ready-prime-time-180970713/",
+      "label": "\"Why Waymo's Fleet of Self-Driving Cars Is Finally Ready for Prime Time\""
+    },
+    {
+      "url": "https://web.archive.org/web/20210330220730/https://www.smithsonianmag.com/innovation/waymo-fleet-self-driving-cars-ready-prime-time-180970713/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.dailyherald.com/article/20210402/business/304029933",
+      "label": "\"CEO of Google's self-driving car spinoff steps down from job\""
+    },
+    {
+      "url": "https://web.archive.org/web/20210402205155/https://www.dailyherald.com/article/20210402/business/304029933/",
+      "label": "Archived"
+    }
+  ],
+  "outgoing_links": [
+    {
+      "title": "Dumitru Dolgov",
+      "url": "https://en.wikipedia.org/wiki/Dumitru_Dolgov"
+    },
+    {
+      "title": "Associated Press",
+      "url": "https://en.wikipedia.org/wiki/Associated_Press"
+    },
+    {
+      "title": "Automotive News",
+      "url": "https://en.wikipedia.org/wiki/Automotive_News"
+    },
+    {
+      "title": "Bachelor of Science",
+      "url": "https://en.wikipedia.org/wiki/Bachelor_of_Science"
+    },
+    {
+      "title": "Bloomberg News",
+      "url": "https://en.wikipedia.org/wiki/Bloomberg_News"
+    },
+    {
+      "title": "Bustle Digital Group",
+      "url": "https://en.wikipedia.org/wiki/Bustle_Digital_Group"
+    },
+    {
+      "title": "CNBC",
+      "url": "https://en.wikipedia.org/wiki/CNBC"
+    },
+    {
+      "title": "Chief executive officer",
+      "url": "https://en.wikipedia.org/wiki/Chief_executive_officer"
+    },
+    {
+      "title": "Chief technology officer",
+      "url": "https://en.wikipedia.org/wiki/Chief_technology_officer"
+    },
+    {
+      "title": "Chris Urmson",
+      "url": "https://en.wikipedia.org/wiki/Chris_Urmson"
+    },
+    {
+      "title": "Computer History Museum",
+      "url": "https://en.wikipedia.org/wiki/Computer_History_Museum"
+    },
+    {
+      "title": "Condé Nast",
+      "url": "https://en.wikipedia.org/wiki/Cond%C3%A9_Nast"
+    },
+    {
+      "title": "Connecticut Public Radio",
+      "url": "https://en.wikipedia.org/wiki/Connecticut_Public_Radio"
+    },
+    {
+      "title": "Crain Communications",
+      "url": "https://en.wikipedia.org/wiki/Crain_Communications"
+    },
+    {
+      "title": "DARPA Grand Challenge (2007)",
+      "url": "https://en.wikipedia.org/wiki/DARPA_Grand_Challenge_%282007%29"
+    },
+    {
+      "title": "Daily Herald (Arlington Heights, Illinois)",
+      "url": "https://en.wikipedia.org/wiki/Daily_Herald_%28Arlington_Heights%2C_Illinois%29"
+    },
+    {
+      "title": "Doctor of Philosophy",
+      "url": "https://en.wikipedia.org/wiki/Doctor_of_Philosophy"
+    },
+    {
+      "title": "Doi (identifier)",
+      "url": "https://en.wikipedia.org/wiki/Doi_%28identifier%29"
+    },
+    {
+      "title": "Engineer",
+      "url": "https://en.wikipedia.org/wiki/Engineer"
+    },
+    {
+      "title": "Forbes",
+      "url": "https://en.wikipedia.org/wiki/Forbes"
+    },
+    {
+      "title": "Gannett",
+      "url": "https://en.wikipedia.org/wiki/Gannett"
+    },
+    {
+      "title": "Google",
+      "url": "https://en.wikipedia.org/wiki/Google"
+    },
+    {
+      "title": "Google X",
+      "url": "https://en.wikipedia.org/wiki/Google_X"
+    },
+    {
+      "title": "IEEE Intelligent Systems",
+      "url": "https://en.wikipedia.org/wiki/IEEE_Intelligent_Systems"
+    },
+    {
+      "title": "ISBN (identifier)",
+      "url": "https://en.wikipedia.org/wiki/ISBN_%28identifier%29"
+    },
+    {
+      "title": "ISSN (identifier)",
+      "url": "https://en.wikipedia.org/wiki/ISSN_%28identifier%29"
+    },
+    {
+      "title": "Institute of Electrical and Electronics Engineers",
+      "url": "https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers"
+    },
+    {
+      "title": "Inverse (website)",
+      "url": "https://en.wikipedia.org/wiki/Inverse_%28website%29"
+    },
+    {
+      "title": "John Krafcik",
+      "url": "https://en.wikipedia.org/wiki/John_Krafcik"
+    },
+    {
+      "title": "List of University of Michigan alumni",
+      "url": "https://en.wikipedia.org/wiki/List_of_University_of_Michigan_alumni"
+    },
+    {
+      "title": "Master of Science",
+      "url": "https://en.wikipedia.org/wiki/Master_of_Science"
+    },
+    {
+      "title": "Moscow",
+      "url": "https://en.wikipedia.org/wiki/Moscow"
+    },
+    {
+      "title": "Moscow Institute of Physics and Technology",
+      "url": "https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology"
+    },
+    {
+      "title": "NASA",
+      "url": "https://en.wikipedia.org/wiki/NASA"
+    },
+    {
+      "title": "News Corp",
+      "url": "https://en.wikipedia.org/wiki/News_Corp"
+    },
+    {
+      "title": "OCLC (identifier)",
+      "url": "https://en.wikipedia.org/wiki/OCLC_%28identifier%29"
+    },
+    {
+      "title": "Reuters",
+      "url": "https://en.wikipedia.org/wiki/Reuters"
+    },
+    {
+      "title": "Russian SFSR",
+      "url": "https://en.wikipedia.org/wiki/Russian_SFSR"
+    },
+    {
+      "title": "S2CID (identifier)",
+      "url": "https://en.wikipedia.org/wiki/S2CID_%28identifier%29"
+    },
+    {
+      "title": "Self-driving car",
+      "url": "https://en.wikipedia.org/wiki/Self-driving_car"
+    },
+    {
+      "title": "Smithsonian (magazine)",
+      "url": "https://en.wikipedia.org/wiki/Smithsonian_%28magazine%29"
+    },
+    {
+      "title": "Smithsonian Institution",
+      "url": "https://en.wikipedia.org/wiki/Smithsonian_Institution"
+    },
+    {
+      "title": "Stanford University",
+      "url": "https://en.wikipedia.org/wiki/Stanford_University"
+    },
+    {
+      "title": "TechCrunch",
+      "url": "https://en.wikipedia.org/wiki/TechCrunch"
+    },
+    {
+      "title": "Tekedra Mawakana",
+      "url": "https://en.wikipedia.org/wiki/Tekedra_Mawakana"
+    },
+    {
+      "title": "The Irish Times",
+      "url": "https://en.wikipedia.org/wiki/The_Irish_Times"
+    },
+    {
+      "title": "The New York Times",
+      "url": "https://en.wikipedia.org/wiki/The_New_York_Times"
+    },
+    {
+      "title": "The Wall Street Journal",
+      "url": "https://en.wikipedia.org/wiki/The_Wall_Street_Journal"
+    },
+    {
+      "title": "Toyota",
+      "url": "https://en.wikipedia.org/wiki/Toyota"
+    },
+    {
+      "title": "USA Today",
+      "url": "https://en.wikipedia.org/wiki/USA_Today"
+    },
+    {
+      "title": "University of Michigan",
+      "url": "https://en.wikipedia.org/wiki/University_of_Michigan"
+    },
+    {
+      "title": "Waymo",
+      "url": "https://en.wikipedia.org/wiki/Waymo"
+    },
+    {
+      "title": "Wired (magazine)",
+      "url": "https://en.wikipedia.org/wiki/Wired_%28magazine%29"
+    }
+  ]
+}

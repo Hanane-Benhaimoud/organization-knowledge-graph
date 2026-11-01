@@ -1,0 +1,2696 @@
+{
+  "document_id": "wikipedia_en_Q17627170",
+  "wikidata_id": "Q17627170",
+  "entity_label": "Jim Zemlin",
+  "entity_type": "person",
+  "seed_categories": [],
+  "source": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Linux_Foundation",
+  "revision_id": 1381065433,
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1381065433",
+  "pageid": 9055249,
+  "title": "Linux Foundation",
+  "language": "en",
+  "collected_at": "2026-10-28T22:03:54.706582+00:00",
+  "content": {
+    "sections": [
+      {
+        "heading": "Introduction",
+        "text": "The Linux Foundation ( LF ) is a nonprofit organization formed in 2007 to support the development of Linux and open-source software . The foundation provides hosted projects with governance structures and shared legal and operational services.\nOriginally focused primarily on Linux , the foundation has expanded into an umbrella organization for open-source projects and foundations across areas including cloud computing , artificial intelligence , software security , networking, and embedded systems . Its ecosystem includes the Cloud Native Computing Foundation (CNCF), which hosts Kubernetes ; the PyTorch Foundation; and the Open Source Security Foundation (OpenSSF)."
+      },
+      {
+        "heading": "History",
+        "text": "The Linux Foundation started as the Free Standards Group and Open Source Development Labs in 2000 to standardize and promote the open-source operating system kernel Linux . They merged in 2007. The foundation has since evolved to promote open-source projects beyond the Linux OS as a \"foundation of foundations\" that hosts a variety of projects spanning topics such as cloud , networking, blockchain , and hardware. The foundation also hosts annual educational events among the Linux community, including the Linux Kernel Developers Summit and the Open Source Summit ."
+      },
+      {
+        "heading": "Foundations and projects",
+        "text": "Linux Foundation is the umbrella organization for a variety of foundations and projects. As of September 2015 [update] , the total economic value of the development costs of Linux Foundation Collaborative Projects was estimated at $5 billion. By 2025, Linux Foundation was the umbrella organization for over 1,000 open source projects and communities."
+      },
+      {
+        "heading": "Community stewardship",
+        "text": "For the Linux kernel community, the Linux Foundation hosts its IT infrastructure and organizes conferences such as the Linux Kernel Summit and the Linux Plumbers Conference. It also hosts a Technical Advisory Board made up of Linux kernel developers. One of these developers has been appointed to sit on the Linux Foundation board."
+      },
+      {
+        "heading": "Conferences",
+        "text": "The Linux Plumbers Conference has been held annually since 2008. It focuses on the Linux kernel and related tools and libraries, typically lasts 3 days, and was held in the USA primarily for USA-based developers in its early years, but now is regularly held elsewhere in the world."
+      },
+      {
+        "heading": "Goodwill partnership",
+        "text": "In January 2016, the Linux Foundation announced a partnership with Goodwill Central Texas to help hundreds of disadvantaged individuals from underserved communities and a variety of backgrounds get the training they need to start careers in Linux IT."
+      },
+      {
+        "heading": "Community Specification",
+        "text": "In July 2020, the Linux Foundation announced an initiative allowing open-source communities to create Open Standards using tools and methods inspired by open-source developers."
+      },
+      {
+        "heading": "Core Infrastructure Initiative",
+        "text": "The Core Infrastructure Initiative (CII), is a project managed by the Linux Foundation that enables technology companies, industry stakeholders, and esteemed developers to collaboratively identify and fund critical open-source projects in need of assistance. In June 2015, the organization announced financial support of nearly $500,000 for three new projects to better support critical security elements of the global information infrastructure. In May 2016, CII launched its Best Practice Badge program to raise awareness of development processes and project governance steps that will help projects have better security outcomes. In May 2017, CII issued its 100th badge to a passing project."
+      },
+      {
+        "heading": "Community Data License Agreement (CDLA)",
+        "text": "Introduced in October 2017, the Community Data License Agreement (CDLA) is a legal framework for sharing data. There are two initial CDLA licenses:\nThe CDLA-Sharing license was designed to embody the principles of copyleft in a data license. It puts terms in place to ensure that downstream recipients can use and modify that data, and are also required to share their changes to the data. The CDLA-Permissive agreement is similar to permissive open source licenses in that the publisher of data allows anyone to use, modify, and do what they want with the data with no obligations to share changes or modifications."
+      },
+      {
+        "heading": "Linux.com",
+        "text": "On March 3, 2009, the Linux Foundation announced that they would take over the management of Linux.com from its previous owners, SourceForge, Inc .\nThe site was relaunched on May 13, 2009, shifting away from its previous incarnation as a news site to become a central source for Linux tutorials, information, software, documentation, and answers across the server, desktop/netbook, mobile, and embedded areas. It also includes a directory of Linux software and hardware.\nMuch like Linux itself, Linux.com plans to rely on the community to create and drive content and conversation."
+      },
+      {
+        "heading": "Linux Foundation Public Health (LFPH)",
+        "text": "In 2020 amidst the COVID-19 pandemic , the Linux Foundation announced the LFPH, a program dedicated to advancing and supporting the virus contact tracing work led by Google and Apple and their Bluetooth notification systems. The LFPH is focusing its efforts on public health applications, including the effort's first initiative: a notification app intended for governments wanting to launch their privacy-focused exposure notification networks. As of today, LFPH hosts two contact-tracing apps."
+      },
+      {
+        "heading": "LF Climate Finance Foundation",
+        "text": "In September 2020, The Linux Foundation announced the LF Climate Finance Foundation (LFCF), a new initiative \"to encourage investment in AI-enhanced open source analytics to address climate change .\" LFCF plans to build a platform that will utilize open-source open data to help the financial investment, NGO, and academia sectors to help better model companies’ exposure to climate change. Allianz , Amazon, Microsoft, and S&P Global will be the initiative's founding members."
+      },
+      {
+        "heading": "LF Energy",
+        "text": "LF Energy is an initiative launched by the Linux Foundation in 2018 to improve the power grid ."
+      },
+      {
+        "heading": "Training and certification",
+        "text": "The Linux Foundation Training Program features instructors and content from the leaders of the Linux developer and open-source communities.\nParticipants receive Linux training that is vendor-neutral and created with oversight from leaders of the Linux development community. The Linux Foundation's online and in-person training programs aim to deliver broad, foundational knowledge and networking opportunities.\nIn March 2014, the Linux Foundation and edX partnered to offer a free, massive open online class titled Introduction to Linux. This was the first in a series of ongoing free offerings from both organizations whose current catalogue of MOOCs include Intro to DevOps, Intro to Cloud Foundry and Cloud Native Software Architecture, Intro to Apache Hadoop, Intro to Cloud Infrastructure Technologies, and Intro to OpenStack.\nIn December 2015, the Linux Foundation introduced a self-paced course designed to help prepare administrators for the OpenStack Foundation's Certified OpenStack Administrator exam."
+      },
+      {
+        "heading": "LFCS - Linux Foundation Certified System Administrator",
+        "text": "As part of a partnership with Microsoft, it was announced in December 2015 that the Linux on Azure certification would be awarded to individuals who pass both the Microsoft Exam 70-533 (Implementing Microsoft Azure Infrastructure Solutions) and the Linux Foundation Certified System Administrator (LFCS) exam.\nIn early 2017, at the annual Open Source Leadership Summit, it was announced that the Linux Foundation would begin offering an Inclusive Speaker Orientation course in partnership with the National Center for Women & Information Technology. The course is designed to give participants \"practical skills to promote inclusivity in their presentations.\"\nIn September 2020, the Linux Foundation released a free serverless computing training course with CNCF. It is taught by Alex Ellis, founder of OpenFaaS.\nAmong many other organizations with similar offerings, The Linux Foundation has reported a 40% increase in demand for their online courses in 2020 during the coronavirus pandemic and the resulting social-distancing measures."
+      },
+      {
+        "heading": "Patent Commons Project",
+        "text": "The patent commons consists of all patented software which has been made available to the open source community. For software to be considered to be in the commons the patent owner must guarantee that developers will not be sued for infringement, though there may be some restrictions on the use of the patented code. The concept was first given substance by Red Hat in 2001 when it published its Patent Promise.\nThe Patent Commons Project was launched on November 15, 2005, by the Open Source Development Labs (OSDL). The core of the project is an online patent commons reference library aggregating and documenting information about patent-related pledges and other legal solutions directed at the open-source software community. As of 2015 [update] , the project listed 53 patents."
+      },
+      {
+        "heading": "Open Compliance Program",
+        "text": "The Linux Foundation's Open Compliance Program provides an array of programs for open-source software licensing compliance. The focus of this initiative is to educate and assist developers (and their companies) on licensing requirements, to make it easier to create new software. The program consists primarily of self-administered training modules, but it is also meant to include automated tools to help programmatically identify license compliance issues."
+      },
+      {
+        "heading": "Agentic AI Foundation",
+        "text": "In December 2025, it was announced that the Linux Foundation will create the Agentic AI Foundation (AAIF) to host and ensure the open-source, interoperability of AI agents and having an organized product ecosystem. To establish the group, Anthropic is donating its Model Context Protocol (MCP), Block is donating goose (an open source agent framework), and OpenAI is donating AGENTS.md (instructions that are added to code repositories instructing AI coding tools on how to act). Other organizations that are joining the foundation include: Amazon Web Services (AWS), Bloomberg , Cloudflare , and Google ."
+      },
+      {
+        "heading": "Funding",
+        "text": "Funding for the Linux Foundation comes primarily from its Platinum Members, who pay US$500,000 per year according to Schedule A in LF's bylaws, adding up to US$7.5 million. The Gold Members contribute a combined total of US$1.2 million and Silver members contribute between US$5,000 and US$20,000 based on the amount of employees, summing up to at least US$6,240,000.\nIn December 2023, the Open Networking Foundation (ONF) , including its LF Broadband, Aether and P4 projects, merged with Linux Foundation. As part of the merger, ONF handed over $5 million in funding. As of June 2024, the foundation collected annual fees worth at least US$14,940,000."
+      },
+      {
+        "heading": "Use of donations",
+        "text": "By early 2018, the Linux Foundation's website stated that it \"uses [donations] in part to help fund the infrastructure and fellows (like Linus Torvalds ) who help develop the Linux kernel.\""
+      },
+      {
+        "heading": "Linux Foundation Europe",
+        "text": "The Linux Foundation established the Linux Foundation Europe, with its headquarter located in Brussels , on September 14, 2022, with the aim of promoting open source throughout Europe. Linux Foundation Europe will increase open collaborative activities for all European stakeholders, including citizens, the public sector, and the private sector. Among the first members of the Linux Foundation Europe are Ericsson , Accenture , Alliander, Avast , Bosch , BTP, esatus AG, NXP Semiconductors , RTE, SAP , SUSE S.A ., TomTom , Bank of England , OpenForum Europe , OpenUK , and the Research Institutes of Sweden . The Linux Foundation Europe will make it possible for open collaborative projects to be housed on European soil. The first initiative is the Open Wallet Foundation (OWF), which aims to create an interoperable engine for digital wallets that supports payment processing, identity verification, and storing verified credentials including employment, education, financial status, and entitlements was launched on 23 February 2023.  The inaugural members are Accenture, Gen Digital , Futurewei Technologies, Visa Inc. , American Express , Deutsche Telekom / T-Systems , esatus AG, Fynbos, Hopae, IAMX, IDnow, IndyKite, Intesi Group, Ping Identity , Digital Identification and Authentication Council of Canada (DIACC), Digital Dollar Project, Digital Identity New Zealand (DINZ), Digital Identity and Data Sovereignty Association (DIDAS), DizmeID Foundation (DIZME), Hyperledger Foundation, Information Technologies and Telematics Institute / Centre for Research and Technology Hellas (CERTH/ITI), Johannes Kepler University Linz , ID2020 , IDunion SCE, Mifos Initiative , MIT Connection Science, Modular Open Source Identity Platform (MOSIP), OpenID Foundation , Open Identity Exchange (OIX), Secure Identity Alliance (SIA), University of Rovira i Virgili , and the Trust Over IP Foundation (ToIP).\nThe Linux Foundation Europe started the RISC-V Software Ecosystem (RISE) initiative on May 31, 2023. The goal of RISE is to increase the availability of software for high-performance and power-efficient RISC-V processors running high-level operating systems for a range of market segments by bringing together a large number of hardware and software vendors. Red Hat, Samsung , Qualcomm , Nvidia , MediaTek , Intel , and Google are among the initial members.\nLinux Foundation Europe organisation took over governance of open source Rust -based Servo browser engine project from Mozilla in 2020, then rebooted with Igalia in 2023. Other projects include open source mobile cross platform framework, Open Mobile Hub as a middleware for cross platform mobile app interoperability across multiple mobile platforms launched in 2023."
+      },
+      {
+        "heading": "Linux Foundation India",
+        "text": "During KubeCon + CloudNativeCon India in New Delhi , the Linux Foundation announced the opening of Linux Foundation India on 11 December 2024, which will work on subjects including blockchain, security, Edge/IoT, cloud native technologies, telecommunications, and domain-specific artificial intelligence. In India, the need for open-source technology has increased by 42% in 2023 as a result of the Linux Foundation's partnership with the International Startup Foundation (ISF). They are also collaborating with the open source networking company OpenNets. Through the LF Decentralized Trust, the Reserve Bank of India (RBI) and the Ministry of Electronics and Information Technology (MEITy) are utilizing Linux Foundation's projects to build the National Blockchain Framework and Digital Rupee . The Linux Foundation India will launch projects that will be introduced straight upstream into the Linux Foundation further facilitating ongoing technological collaborations between the Federal Government of the United States and the Government of India , in contrast to the Linux Foundation Europe and Linux Foundation Japan, which focus on region-specific open source projects because of governmental constraints. Linux Foundation India will provide open source contributors to the Linux Foundation's sub-organizations."
+      },
+      {
+        "heading": "See also",
+        "text": "Contributor Covenant - code of conduct intended to ensure a safe and harassment-free environment for minorities."
+      },
+      {
+        "heading": "External links",
+        "text": "Linux portal Free and open-source software portal\nOfficial website"
+      }
+    ],
+    "full_text": "Introduction\nThe Linux Foundation ( LF ) is a nonprofit organization formed in 2007 to support the development of Linux and open-source software . The foundation provides hosted projects with governance structures and shared legal and operational services.\nOriginally focused primarily on Linux , the foundation has expanded into an umbrella organization for open-source projects and foundations across areas including cloud computing , artificial intelligence , software security , networking, and embedded systems . Its ecosystem includes the Cloud Native Computing Foundation (CNCF), which hosts Kubernetes ; the PyTorch Foundation; and the Open Source Security Foundation (OpenSSF).\n\nHistory\nThe Linux Foundation started as the Free Standards Group and Open Source Development Labs in 2000 to standardize and promote the open-source operating system kernel Linux . They merged in 2007. The foundation has since evolved to promote open-source projects beyond the Linux OS as a \"foundation of foundations\" that hosts a variety of projects spanning topics such as cloud , networking, blockchain , and hardware. The foundation also hosts annual educational events among the Linux community, including the Linux Kernel Developers Summit and the Open Source Summit .\n\nFoundations and projects\nLinux Foundation is the umbrella organization for a variety of foundations and projects. As of September 2015 [update] , the total economic value of the development costs of Linux Foundation Collaborative Projects was estimated at $5 billion. By 2025, Linux Foundation was the umbrella organization for over 1,000 open source projects and communities.\n\nCommunity stewardship\nFor the Linux kernel community, the Linux Foundation hosts its IT infrastructure and organizes conferences such as the Linux Kernel Summit and the Linux Plumbers Conference. It also hosts a Technical Advisory Board made up of Linux kernel developers. One of these developers has been appointed to sit on the Linux Foundation board.\n\nConferences\nThe Linux Plumbers Conference has been held annually since 2008. It focuses on the Linux kernel and related tools and libraries, typically lasts 3 days, and was held in the USA primarily for USA-based developers in its early years, but now is regularly held elsewhere in the world.\n\nGoodwill partnership\nIn January 2016, the Linux Foundation announced a partnership with Goodwill Central Texas to help hundreds of disadvantaged individuals from underserved communities and a variety of backgrounds get the training they need to start careers in Linux IT.\n\nCommunity Specification\nIn July 2020, the Linux Foundation announced an initiative allowing open-source communities to create Open Standards using tools and methods inspired by open-source developers.\n\nCore Infrastructure Initiative\nThe Core Infrastructure Initiative (CII), is a project managed by the Linux Foundation that enables technology companies, industry stakeholders, and esteemed developers to collaboratively identify and fund critical open-source projects in need of assistance. In June 2015, the organization announced financial support of nearly $500,000 for three new projects to better support critical security elements of the global information infrastructure. In May 2016, CII launched its Best Practice Badge program to raise awareness of development processes and project governance steps that will help projects have better security outcomes. In May 2017, CII issued its 100th badge to a passing project.\n\nCommunity Data License Agreement (CDLA)\nIntroduced in October 2017, the Community Data License Agreement (CDLA) is a legal framework for sharing data. There are two initial CDLA licenses:\nThe CDLA-Sharing license was designed to embody the principles of copyleft in a data license. It puts terms in place to ensure that downstream recipients can use and modify that data, and are also required to share their changes to the data. The CDLA-Permissive agreement is similar to permissive open source licenses in that the publisher of data allows anyone to use, modify, and do what they want with the data with no obligations to share changes or modifications.\n\nLinux.com\nOn March 3, 2009, the Linux Foundation announced that they would take over the management of Linux.com from its previous owners, SourceForge, Inc .\nThe site was relaunched on May 13, 2009, shifting away from its previous incarnation as a news site to become a central source for Linux tutorials, information, software, documentation, and answers across the server, desktop/netbook, mobile, and embedded areas. It also includes a directory of Linux software and hardware.\nMuch like Linux itself, Linux.com plans to rely on the community to create and drive content and conversation.\n\nLinux Foundation Public Health (LFPH)\nIn 2020 amidst the COVID-19 pandemic , the Linux Foundation announced the LFPH, a program dedicated to advancing and supporting the virus contact tracing work led by Google and Apple and their Bluetooth notification systems. The LFPH is focusing its efforts on public health applications, including the effort's first initiative: a notification app intended for governments wanting to launch their privacy-focused exposure notification networks. As of today, LFPH hosts two contact-tracing apps.\n\nLF Climate Finance Foundation\nIn September 2020, The Linux Foundation announced the LF Climate Finance Foundation (LFCF), a new initiative \"to encourage investment in AI-enhanced open source analytics to address climate change .\" LFCF plans to build a platform that will utilize open-source open data to help the financial investment, NGO, and academia sectors to help better model companies’ exposure to climate change. Allianz , Amazon, Microsoft, and S&P Global will be the initiative's founding members.\n\nLF Energy\nLF Energy is an initiative launched by the Linux Foundation in 2018 to improve the power grid .\n\nTraining and certification\nThe Linux Foundation Training Program features instructors and content from the leaders of the Linux developer and open-source communities.\nParticipants receive Linux training that is vendor-neutral and created with oversight from leaders of the Linux development community. The Linux Foundation's online and in-person training programs aim to deliver broad, foundational knowledge and networking opportunities.\nIn March 2014, the Linux Foundation and edX partnered to offer a free, massive open online class titled Introduction to Linux. This was the first in a series of ongoing free offerings from both organizations whose current catalogue of MOOCs include Intro to DevOps, Intro to Cloud Foundry and Cloud Native Software Architecture, Intro to Apache Hadoop, Intro to Cloud Infrastructure Technologies, and Intro to OpenStack.\nIn December 2015, the Linux Foundation introduced a self-paced course designed to help prepare administrators for the OpenStack Foundation's Certified OpenStack Administrator exam.\n\nLFCS - Linux Foundation Certified System Administrator\nAs part of a partnership with Microsoft, it was announced in December 2015 that the Linux on Azure certification would be awarded to individuals who pass both the Microsoft Exam 70-533 (Implementing Microsoft Azure Infrastructure Solutions) and the Linux Foundation Certified System Administrator (LFCS) exam.\nIn early 2017, at the annual Open Source Leadership Summit, it was announced that the Linux Foundation would begin offering an Inclusive Speaker Orientation course in partnership with the National Center for Women & Information Technology. The course is designed to give participants \"practical skills to promote inclusivity in their presentations.\"\nIn September 2020, the Linux Foundation released a free serverless computing training course with CNCF. It is taught by Alex Ellis, founder of OpenFaaS.\nAmong many other organizations with similar offerings, The Linux Foundation has reported a 40% increase in demand for their online courses in 2020 during the coronavirus pandemic and the resulting social-distancing measures.\n\nPatent Commons Project\nThe patent commons consists of all patented software which has been made available to the open source community. For software to be considered to be in the commons the patent owner must guarantee that developers will not be sued for infringement, though there may be some restrictions on the use of the patented code. The concept was first given substance by Red Hat in 2001 when it published its Patent Promise.\nThe Patent Commons Project was launched on November 15, 2005, by the Open Source Development Labs (OSDL). The core of the project is an online patent commons reference library aggregating and documenting information about patent-related pledges and other legal solutions directed at the open-source software community. As of 2015 [update] , the project listed 53 patents.\n\nOpen Compliance Program\nThe Linux Foundation's Open Compliance Program provides an array of programs for open-source software licensing compliance. The focus of this initiative is to educate and assist developers (and their companies) on licensing requirements, to make it easier to create new software. The program consists primarily of self-administered training modules, but it is also meant to include automated tools to help programmatically identify license compliance issues.\n\nAgentic AI Foundation\nIn December 2025, it was announced that the Linux Foundation will create the Agentic AI Foundation (AAIF) to host and ensure the open-source, interoperability of AI agents and having an organized product ecosystem. To establish the group, Anthropic is donating its Model Context Protocol (MCP), Block is donating goose (an open source agent framework), and OpenAI is donating AGENTS.md (instructions that are added to code repositories instructing AI coding tools on how to act). Other organizations that are joining the foundation include: Amazon Web Services (AWS), Bloomberg , Cloudflare , and Google .\n\nFunding\nFunding for the Linux Foundation comes primarily from its Platinum Members, who pay US$500,000 per year according to Schedule A in LF's bylaws, adding up to US$7.5 million. The Gold Members contribute a combined total of US$1.2 million and Silver members contribute between US$5,000 and US$20,000 based on the amount of employees, summing up to at least US$6,240,000.\nIn December 2023, the Open Networking Foundation (ONF) , including its LF Broadband, Aether and P4 projects, merged with Linux Foundation. As part of the merger, ONF handed over $5 million in funding. As of June 2024, the foundation collected annual fees worth at least US$14,940,000.\n\nUse of donations\nBy early 2018, the Linux Foundation's website stated that it \"uses [donations] in part to help fund the infrastructure and fellows (like Linus Torvalds ) who help develop the Linux kernel.\"\n\nLinux Foundation Europe\nThe Linux Foundation established the Linux Foundation Europe, with its headquarter located in Brussels , on September 14, 2022, with the aim of promoting open source throughout Europe. Linux Foundation Europe will increase open collaborative activities for all European stakeholders, including citizens, the public sector, and the private sector. Among the first members of the Linux Foundation Europe are Ericsson , Accenture , Alliander, Avast , Bosch , BTP, esatus AG, NXP Semiconductors , RTE, SAP , SUSE S.A ., TomTom , Bank of England , OpenForum Europe , OpenUK , and the Research Institutes of Sweden . The Linux Foundation Europe will make it possible for open collaborative projects to be housed on European soil. The first initiative is the Open Wallet Foundation (OWF), which aims to create an interoperable engine for digital wallets that supports payment processing, identity verification, and storing verified credentials including employment, education, financial status, and entitlements was launched on 23 February 2023.  The inaugural members are Accenture, Gen Digital , Futurewei Technologies, Visa Inc. , American Express , Deutsche Telekom / T-Systems , esatus AG, Fynbos, Hopae, IAMX, IDnow, IndyKite, Intesi Group, Ping Identity , Digital Identification and Authentication Council of Canada (DIACC), Digital Dollar Project, Digital Identity New Zealand (DINZ), Digital Identity and Data Sovereignty Association (DIDAS), DizmeID Foundation (DIZME), Hyperledger Foundation, Information Technologies and Telematics Institute / Centre for Research and Technology Hellas (CERTH/ITI), Johannes Kepler University Linz , ID2020 , IDunion SCE, Mifos Initiative , MIT Connection Science, Modular Open Source Identity Platform (MOSIP), OpenID Foundation , Open Identity Exchange (OIX), Secure Identity Alliance (SIA), University of Rovira i Virgili , and the Trust Over IP Foundation (ToIP).\nThe Linux Foundation Europe started the RISC-V Software Ecosystem (RISE) initiative on May 31, 2023. The goal of RISE is to increase the availability of software for high-performance and power-efficient RISC-V processors running high-level operating systems for a range of market segments by bringing together a large number of hardware and software vendors. Red Hat, Samsung , Qualcomm , Nvidia , MediaTek , Intel , and Google are among the initial members.\nLinux Foundation Europe organisation took over governance of open source Rust -based Servo browser engine project from Mozilla in 2020, then rebooted with Igalia in 2023. Other projects include open source mobile cross platform framework, Open Mobile Hub as a middleware for cross platform mobile app interoperability across multiple mobile platforms launched in 2023.\n\nLinux Foundation India\nDuring KubeCon + CloudNativeCon India in New Delhi , the Linux Foundation announced the opening of Linux Foundation India on 11 December 2024, which will work on subjects including blockchain, security, Edge/IoT, cloud native technologies, telecommunications, and domain-specific artificial intelligence. In India, the need for open-source technology has increased by 42% in 2023 as a result of the Linux Foundation's partnership with the International Startup Foundation (ISF). They are also collaborating with the open source networking company OpenNets. Through the LF Decentralized Trust, the Reserve Bank of India (RBI) and the Ministry of Electronics and Information Technology (MEITy) are utilizing Linux Foundation's projects to build the National Blockchain Framework and Digital Rupee . The Linux Foundation India will launch projects that will be introduced straight upstream into the Linux Foundation further facilitating ongoing technological collaborations between the Federal Government of the United States and the Government of India , in contrast to the Linux Foundation Europe and Linux Foundation Japan, which focus on region-specific open source projects because of governmental constraints. Linux Foundation India will provide open source contributors to the Linux Foundation's sub-organizations.\n\nSee also\nContributor Covenant - code of conduct intended to ensure a safe and harassment-free environment for minorities.\n\nExternal links\nLinux portal Free and open-source software portal\nOfficial website"
+  },
+  "references": [
+    {
+      "url": "https://www.linuxfoundation.org/about/contact",
+      "label": "\"Contact Us | Linux Foundation\""
+    },
+    {
+      "url": "https://www.linuxfoundation.org/membership/",
+      "label": "\"Corporate Members – The Linux Foundation\""
+    },
+    {
+      "url": "https://web.archive.org/web/20171206074541/https://www.linuxfoundation.org/membership/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.linuxfoundation.org/projects/hosting",
+      "label": "\"Host a Project\""
+    },
+    {
+      "url": "https://techcrunch.com/2025/04/13/jim-zemlin-on-taking-a-portfolio-approach-to-linux-foundation-projects/",
+      "label": "\"Jim Zemlin on taking a portfolio approach to Linux Foundation projects\""
+    },
+    {
+      "url": "https://www.theregister.com/2016/03/11/cloud-native-computing-foundation-adopts-kubernetes/",
+      "label": "\"Cloud Native Computing Foundation adopts Kubernetes\""
+    },
+    {
+      "url": "https://venturebeat.com/ai/pytorch-has-a-new-home-meta-announces-independent-foundation/",
+      "label": "\"PyTorch has a new home: Meta announces independent foundation\""
+    },
+    {
+      "url": "https://www.theregister.com/2020/08/03/linux_foundation_open_source_security_foundation/",
+      "label": "\"Linux Foundation rolls overlapping groups into OpenSSF to tackle open-source security vulnerabilities\""
+    },
+    {
+      "url": "https://www.computerworld.com/article/2817625/osdl--free-standards-group-to-merge.html",
+      "label": "\"OSDL, Free Standards Group to merge\""
+    },
+    {
+      "url": "https://web.archive.org/web/20230803013612/https://www.computerworld.com/article/2817625/osdl--free-standards-group-to-merge.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.linuxfoundation.org/blog/blog/the-linux-foundation-its-not-just-the-linux-operating-system",
+      "label": "\"The Linux Foundation: It's not just the Linux operating system – Linux Foundation\""
+    },
+    {
+      "url": "https://web.archive.org/web/20230803035340/https://www.linuxfoundation.org/blog/blog/the-linux-foundation-its-not-just-the-linux-operating-system",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.protocol.com/linux-foundation-open-source-enterprise",
+      "label": "\"The Linux Foundation became a force in enterprise tech. Is that a problem?\""
+    },
+    {
+      "url": "https://web.archive.org/web/20201019135714/https://www.protocol.com/linux-foundation-open-source-enterprise",
+      "label": "Archived"
+    },
+    {
+      "url": "http://www.eweek.com/enterprise-apps/linux-goes-to-hollywood-for-inaugural-open-source-summit",
+      "label": "\"Linux Goes to Hollywood for Inaugural Open Source Summit\""
+    },
+    {
+      "url": "https://web.archive.org/web/20160314160005/http://www.reuters.com/article/idUSnMKWsd3zWa+1c2+MKW20150930",
+      "label": "\"The Linux Foundation Releases First-Ever Value of Collaborative Development Report\""
+    },
+    {
+      "url": "https://www.reuters.com/article/idUSnMKWsd3zWa+1c2+MKW20150930",
+      "label": "the original"
+    },
+    {
+      "url": "https://www.linuxfoundation.org/resources/publications/linux-foundation-annual-report-2025",
+      "label": "\"Linux Foundation Annual Report 2025\""
+    },
+    {
+      "url": "https://www.pcworld.com/article/428342/allseen-cuts-the-ribbon-on-a-bridge-to-other-iot-worlds.html",
+      "label": "\"New software helps AllJoyn smart devices play nice with other IoT protocols\""
+    },
+    {
+      "url": "https://www.automotivelinux.org/announcements/2016/06/11/automotive-grade-linux-releases-unified-code-base-2-0",
+      "label": "\"Automotive Grade Linux Releases Unified Code Base 2.0\""
+    },
+    {
+      "url": "https://web.archive.org/web/20170706002737/https://www.automotivelinux.org/announcements/2016/06/11/automotive-grade-linux-releases-unified-code-base-2-0",
+      "label": "Archived"
+    },
+    {
+      "url": "http://www.autoblog.com/2017/01/06/automotive-grade-linux-connected-car-backbone/",
+      "label": "\"Automotive Grade Linux will be the backbone of your connected car\""
+    },
+    {
+      "url": "https://web.archive.org/web/20170417090855/http://www.autoblog.com/2017/01/06/automotive-grade-linux-connected-car-backbone/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://documentdb.io/docs/getting-started",
+      "label": "\"Getting Started\""
+    },
+    {
+      "url": "https://www.finops.org/about/",
+      "label": "\"About the FinOps Foundation\""
+    },
+    {
+      "url": "https://www.linuxfoundation.org/press/linux-foundation-announces-the-formation-of-the-agentic-ai-foundation",
+      "label": "\"Linux Foundation Announces the Formation of the Agentic AI Foundation (AAIF), Anchored by New Project Contributions Including Model Context Protocol (MCP), goose and AGENTS.md\""
+    },
+    {
+      "url": "https://lfaidata.foundation/",
+      "label": "\"LFAI & Data – Linux Foundation Project\""
+    },
+    {
+      "url": "https://web.archive.org/web/20231029201117/https://lfaidata.foundation/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://lfaidata.foundation/projects/",
+      "label": "\"Projects – LFAI & Data\""
+    },
+    {
+      "url": "https://www.heise.de/en/news/Linux-Foundation-New-organizations-for-blockchain-and-developer-relations-9881458.html",
+      "label": "\"Linux Foundation: New organizations for blockchain and developer relations\""
+    },
+    {
+      "url": "https://thenewstack.io/krakend-api-gateway-joins-the-linux-foundation-as-the-lura-project/",
+      "label": "\"KrakenD API Gateway Joins the Linux Foundation as the Lura Project\""
+    },
+    {
+      "url": "https://venturebeat.com/ai/open-source-api-gateway-krakend-lands-at-the-linux-foundation/",
+      "label": "\"Open source API gateway KrakenD lands at the Linux Foundation\""
+    },
+    {
+      "url": "https://techcrunch.com/2025/12/09/openai-anthropic-and-block-join-new-linux-foundation-effort-to-standardize-the-ai-agent-era/",
+      "label": "\"OpenAI, Anthropic, and Block join new Linux Foundation effort to standardize the AI agent era\""
+    },
+    {
+      "url": "https://www.wired.com/story/openai-anthropic-and-block-are-teaming-up-on-ai-agent-standards/",
+      "label": "\"OpenAI, Anthropic, and Block Are Teaming Up to Make AI Agents Play Nice\""
+    },
+    {
+      "url": "https://search.worldcat.org/issn/1059-1028",
+      "label": "1059-1028"
+    },
+    {
+      "url": "https://lfaidata.foundation/blog/2025/01/15/neo4j-joins-linux-foundation-ai-data-to-advance-open-source-ai-with-knowledge-graphs/",
+      "label": "\"Neo4j Joins Linux Foundation AI & Data to Advance Open-Source AI with Knowledge Graphs – LFAI & Data\""
+    },
+    {
+      "url": "https://www.linuxfoundation.org/projects/",
+      "label": "\"Open Source Projects\""
+    },
+    {
+      "url": "https://web.archive.org/web/20200916033141/https://www.linuxfoundation.org/projects/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://github.com/openbmc/openbmc",
+      "label": "GitHub – openbmc/openbmc: OpenBMC Distribution."
+    },
+    {
+      "url": "https://web.archive.org/web/20190213004653/https://github.com/openbmc/openbmc",
+      "label": "archived"
+    },
+    {
+      "url": "https://www.neowin.net/news/samsung-announces-the-adoption-of-openchain-isoiec-international-standard/",
+      "label": "\"Samsung announces the adoption of OpenChain ISO/IEC international standard\""
+    },
+    {
+      "url": "https://github.com/opencontainers",
+      "label": "\"Open Container Initiative\""
+    },
+    {
+      "url": "https://web.archive.org/web/20170407072447/https://github.com/opencontainers",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.opendaylight.org/about",
+      "label": "\"OpenDaylight About\""
+    },
+    {
+      "url": "https://openjsf.org/about",
+      "label": "\"About the OpenJS Foundation\""
+    },
+    {
+      "url": "https://www.linuxfoundation.org/press/linux-foundation-announces-opensearch-software-foundation-to-foster-open-collaboration-in-search-and-analytics",
+      "label": "\"OpenSearch Software Foundation\""
+    },
+    {
+      "url": "https://www.infoq.com/news/2020/08/open-source-security-foundation/",
+      "label": "\"Google, Microsoft, GitHub, and Others Join the Open Source Security Foundation\""
+    },
+    {
+      "url": "https://web.archive.org/web/20230602052918/https://www.infoq.com/news/2020/08/open-source-security-foundation/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://github.com/Open-Model-Initiative",
+      "label": "\"Open Model Initiative\""
+    },
+    {
+      "url": "https://www.sdxcentral.com/articles/news/open-vswitch-moves-vmware-linux-foundation/2016/08/",
+      "label": "\"Open vSwitch Moves From VMware to Linux Foundation\""
+    },
+    {
+      "url": "https://web.archive.org/web/20181120095642/https://www.sdxcentral.com/articles/news/open-vswitch-moves-vmware-linux-foundation/2016/08/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://techcrunch.com/2023/08/28/splinter-group-officially-launches-opentf-fork-of-hashicorp-terraform/",
+      "label": "\"Splinter group officially launches OpenTF fork of HashiCorp Terraform\""
+    },
+    {
+      "url": "https://www.linuxfoundation.org/press/announcing-opentofu",
+      "label": "\"Linux Foundation Launches OpenTofu: A New Open Source Alternative to Terraform\""
+    },
+    {
+      "url": "https://www.sdxcentral.com/nfv/definitions/opnfv/",
+      "label": "\"What is OPNFV or Open Platform for NFV Project?\""
+    },
+    {
+      "url": "https://web.archive.org/web/20190202221938/https://www.sdxcentral.com/nfv/definitions/opnfv/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.msn.com/en-us/news/technology/meta-microsoft-aws-and-tomtom-launch-the-overture-maps-foundation-to-develop-interoperable-open-map-data/ar-AA15iVuh",
+      "label": "\"Meta, Microsoft, AWS and TomTom launch the Overture Maps Foundation to develop interoperable open map data\""
+    },
+    {
+      "url": "https://web.archive.org/web/20221216093837/https://www.msn.com/en-us/news/technology/meta-microsoft-aws-and-tomtom-launch-the-overture-maps-foundation-to-develop-interoperable-open-map-data/ar-AA15iVuh",
+      "label": "Archived"
+    },
+    {
+      "url": "https://venturebeat.com/virtual/creating-the-ultimate-smart-map-with-new-map-data-initiative-launched-by-linux-foundation/",
+      "label": "\"Creating the ultimate smart map with new map data initiative launched by Linux Foundation\""
+    },
+    {
+      "url": "https://web.archive.org/web/20221216093840/https://venturebeat.com/virtual/creating-the-ultimate-smart-map-with-new-map-data-initiative-launched-by-linux-foundation/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/linux-foundation-announces-overture-maps-110000418.html",
+      "label": "\"Linux Foundation Announces Overture Maps Foundation to Build Interoperable Open Map Data\""
+    },
+    {
+      "url": "https://web.archive.org/web/20221216093833/https://finance.yahoo.com/news/linux-foundation-announces-overture-maps-110000418.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://overturemaps.org/resources/faq/",
+      "label": "\"FAQ – Overture Maps Foundation\""
+    },
+    {
+      "url": "https://web.archive.org/web/20221216095116/https://overturemaps.org/resources/faq/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.linuxfoundation.org/blog/pytorch-foundation-the-first-six-months#:~:text=PyTorch%20Foundation%20Team%20%7C%2030%20March,Meta%2C%20Microsoft%2C%20and%20NVIDIA.",
+      "label": "\"PyTorch Foundation the First Six Months\""
+    },
+    {
+      "url": "https://web.archive.org/web/20230330161700/https://www.linuxfoundation.org/blog/pytorch-foundation-the-first-six-months",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.linuxfoundation.org/press/linux-foundation-announces-intent-to-launch-the-react-foundation",
+      "label": "\"Linux Foundation Announces Intent to Launch the React Foundation\""
+    },
+    {
+      "url": "http://www.defstartup.org/2017/01/18/why-rethinkdb-failed.html",
+      "label": "\"RethinkDB: why we failed\""
+    },
+    {
+      "url": "https://web.archive.org/web/20170530012158/http://www.defstartup.org/2017/01/18/why-rethinkdb-failed.html",
+      "label": "Archived"
+    },
+    {
+      "url": "http://www.infoworld.com/article/3166091/open-source-tools/rethinkdb-finds-a-new-home-at-the-linux-foundation.html",
+      "label": "\"RethinkDB finds a new home at the Linux Foundation\""
+    },
+    {
+      "url": "https://web.archive.org/web/20170529213555/http://www.infoworld.com/article/3166091/open-source-tools/rethinkdb-finds-a-new-home-at-the-linux-foundation.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.rethinkdb.com/faq/",
+      "label": "\"Frequently asked questions – RethinkDB\""
+    },
+    {
+      "url": "https://web.archive.org/web/20170626044835/https://www.rethinkdb.com/faq/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://riscv.org/",
+      "label": "\"RISC-V International\""
+    },
+    {
+      "url": "https://web.archive.org/web/20230124211108/https://riscv.org/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://web.archive.org/web/20160315212902/https://www.nicta.com.au/category/research/media-releases/secure-operating-system-developed-by-nicta-goes-open-source/",
+      "label": "\"seL4 Microkernel Optimized for Security Gets Support of Linux Foundation\""
+    },
+    {
+      "url": "https://www.linuxfoundation.org/press-release/2020/04/sel4-microkernel-optimized-for-security-gets-support-of-linux-foundation/",
+      "label": "the original"
+    },
+    {
+      "url": "https://www.spdx.org/",
+      "label": "\"SPDX\""
+    },
+    {
+      "url": "https://web.archive.org/web/20170517023533/https://spdx.org/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://spdx.org/license-list",
+      "label": "\"SPDX License List\""
+    },
+    {
+      "url": "https://web.archive.org/web/20170830050810/https://spdx.org/license-list",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.linuxfoundation.org/press/linux-foundation-launches-tlafoundation",
+      "label": "\"Linux Foundation Announces Launch of TLA+ Foundation\""
+    },
+    {
+      "url": "https://www.linuxfoundation.org/press/linux-foundation-launches-the-tokenomics-foundation-to-define-the-economics-and-roi-of-ai-value",
+      "label": "\"Linux Foundation Launches the Tokenomics Foundation to Define the Economics and ROI of AI Value\""
+    },
+    {
+      "url": "https://www.tokeneconomics.com/about/",
+      "label": "\"About the Tokenomics Foundation\""
+    },
+    {
+      "url": "https://www.linuxfoundation.org/press/linux-foundation-launches-open-source-valkey-community",
+      "label": "\"Linux Foundation Launches Open Source Valkey Community\""
+    },
+    {
+      "url": "https://vllm.ai/blog/2024-07-25-lfai-perf",
+      "label": "\"vLLM's Open Governance and Performance Roadmap\""
+    },
+    {
+      "url": "https://www.yoctoproject.org/",
+      "label": "\"Yocto project\""
+    },
+    {
+      "url": "https://web.archive.org/web/20210106193909/https://www.yoctoproject.org/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://lwn.net/Articles/299763",
+      "label": "\"The Linux Plumbers Conference: a summary\""
+    },
+    {
+      "url": "http://www.techtimes.com/articles/124771/20160116/linux-for-everyone-goodwill-partnership-yields-exciting-scholarship-to-teach-you-new-skills.htm",
+      "label": "\"Linux For Everyone! Goodwill Partnership Yields Exciting Scholarship To Teach You New Skills\""
+    },
+    {
+      "url": "https://web.archive.org/web/20160314160258/http://www.techtimes.com/articles/124771/20160116/linux-for-everyone-goodwill-partnership-yields-exciting-scholarship-to-teach-you-new-skills.htm",
+      "label": "Archived"
+    },
+    {
+      "url": "https://sdtimes.com/open-source/linux-foundation-launches-community-specification-for-creating-standards-and-specifications/",
+      "label": "\"Linux Foundation launches Community Specification for creating standards and specifications\""
+    },
+    {
+      "url": "https://web.archive.org/web/20200713081226/https://sdtimes.com/open-source/linux-foundation-launches-community-specification-for-creating-standards-and-specifications/",
+      "label": "Archived"
+    },
+    {
+      "url": "http://www.informationweek.com/cloud/infrastructure-as-a-service/linux-foundation-funds-internet-security-advances/d/d-id/1321044",
+      "label": "\"Linux Foundation Funds Internet Security Advances – InformationWeek\""
+    },
+    {
+      "url": "https://web.archive.org/web/20160315100107/http://www.informationweek.com/cloud/infrastructure-as-a-service/linux-foundation-funds-internet-security-advances/d/d-id/1321044",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.coreinfrastructure.org/news/blogs/2017/09/1000-projects-registered-cii-best-practice-badge-100-badges-granted-and-prizes",
+      "label": "\"1,000 Projects Registered for the CII Best Practice Badge, 100 Badges Granted and Prizes!!! | Core Infrastructure Initiative\""
+    },
+    {
+      "url": "https://web.archive.org/web/20171110225316/https://www.coreinfrastructure.org/news/blogs/2017/09/1000-projects-registered-cii-best-practice-badge-100-badges-granted-and-prizes",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.zdnet.com/article/open-sourcing-data-will-make-big-data-bigger-than-ever/",
+      "label": "\"Open-sourcing data will make big data bigger than ever\""
+    },
+    {
+      "url": "https://web.archive.org/web/20171026201245/http://www.zdnet.com/article/open-sourcing-data-will-make-big-data-bigger-than-ever/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://cdla.io/faq/",
+      "label": "\"FAQ – CDLA\""
+    },
+    {
+      "url": "https://web.archive.org/web/20171111205414/https://cdla.io/faq/",
+      "label": "Archived"
+    },
+    {
+      "url": "http://www.consortiuminfo.org/standardsblog/articles/linux-foundation-acquires-linuxcom",
+      "label": "\"Linux Foundation Acquires Linux.com | ConsortiumInfo.org\""
+    },
+    {
+      "url": "https://web.archive.org/web/20201023033315/http://www.consortiuminfo.org/standardsblog/articles/linux-foundation-acquires-linuxcom",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.networkworld.com/article/2264089/linux-com-to-get-a-makeover.html",
+      "label": "\"Linux.com to get a makeover\""
+    },
+    {
+      "url": "https://web.archive.org/web/20201019190828/https://www.networkworld.com/article/2264089/linux-com-to-get-a-makeover.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.lfph.io/",
+      "label": "\"Linux Foundation Public Health (LFPH)\""
+    },
+    {
+      "url": "https://web.archive.org/web/20201230215109/https://www.lfph.io/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.businessinsider.com/linux-foundation-public-health-covid-19-contact-tracing-apps-2020-10",
+      "label": "\"The Linux Foundation wants to help combat COVID-19 with free, open-source apps to tell people when they've been exposed to the virus\""
+    },
+    {
+      "url": "https://web.archive.org/web/20201101190943/https://www.businessinsider.com/linux-foundation-public-health-covid-19-contact-tracing-apps-2020-10",
+      "label": "Archived"
+    },
+    {
+      "url": "http://linuxgizmos.com/linux-foundation-takes-on-climate-change/",
+      "label": "\"Linux Foundation takes on climate change\""
+    },
+    {
+      "url": "https://web.archive.org/web/20200923165232/http://linuxgizmos.com/linux-foundation-takes-on-climate-change/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://blogs.microsoft.com/on-the-issues/2020/09/01/open-data-climate-finance-foundation/",
+      "label": "\"Sharing data to help launch the Linux Foundation Climate Finance Foundation\""
+    },
+    {
+      "url": "https://web.archive.org/web/20200902175700/https://blogs.microsoft.com/on-the-issues/2020/09/01/open-data-climate-finance-foundation/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.techrepublic.com/article/linux-foundation-commits-to-addressing-climate-change-with-data-and-analytics/",
+      "label": "\"Linux Foundation commits to addressing climate change with data and analytics\""
+    },
+    {
+      "url": "https://web.archive.org/web/20200905120729/https://www.techrepublic.com/article/linux-foundation-commits-to-addressing-climate-change-with-data-and-analytics/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://time.com/6162201/open-source-green-grid/",
+      "label": "\"Harnessing Collective Action to Green the Grid\""
+    },
+    {
+      "url": "https://web.archive.org/web/20220518185727/https://time.com/6162201/open-source-green-grid/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.powermag.com/open-source-technology-benefits-transmission-and-distribution-operators/",
+      "label": "\"Open-Source Technology Benefits Transmission and Distribution Operators\""
+    },
+    {
+      "url": "https://web.archive.org/web/20220706044117/https://www.powermag.com/open-source-technology-benefits-transmission-and-distribution-operators/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.zdnet.com/education/bootcamps/best-linux-foundation-classes-and-online-linux-courses/",
+      "label": "\"Best Linux Foundation classes in 2020: Intro to Linux, Cloud Engineer Bootcamp, and more\""
+    },
+    {
+      "url": "https://web.archive.org/web/20201104142624/https://www.zdnet.com/article/best-linux-foundation-classes-and-online-linux-courses/",
+      "label": "Archived"
+    },
+    {
+      "url": "http://www.pcworld.com/article/2105260/linux-foundation-to-offer-introductory-linux-mooc-on-edx.html",
+      "label": "\"Linux Foundation to offer introductory Linux MOOC on edX\""
+    },
+    {
+      "url": "https://web.archive.org/web/20210129042539/https://www.pcworld.com/article/2105260/linux-foundation-to-offer-introductory-linux-mooc-on-edx.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.edx.org/school/linuxfoundationx",
+      "label": "\"LinuxFoundationX\""
+    },
+    {
+      "url": "https://web.archive.org/web/20210115230856/https://www.edx.org/school/linuxfoundationx",
+      "label": "Archived"
+    },
+    {
+      "url": "http://www.rcrwireless.com/20151203/telecom-software/linux-foundation-moves-openstack-training-online-tag2",
+      "label": "\"Linux Foundation moves OpenStack training online\""
+    },
+    {
+      "url": "https://web.archive.org/web/20160310073708/http://www.rcrwireless.com/20151203/telecom-software/linux-foundation-moves-openstack-training-online-tag2",
+      "label": "Archived"
+    },
+    {
+      "url": "http://betanews.com/2015/12/09/microsoft-linux-foundation-azure-certification/",
+      "label": "\"Microsoft partners with The Linux Foundation for 'Linux on Azure' certification\""
+    },
+    {
+      "url": "https://web.archive.org/web/20160310074811/http://betanews.com/2015/12/09/microsoft-linux-foundation-azure-certification/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/",
+      "label": "\"Linux Foundation Certified System Administrator (LFCS) | Linux Foundation Education\""
+    },
+    {
+      "url": "https://web.archive.org/web/20170426055931/https://www.linuxfoundation.org/announcements/linux-foundation-and-national-center-for-women-information-technology-release",
+      "label": "\"The Linux Foundation and the National Center for Women & Information Technology Release Inclusive Speaker Orientation Course for Events | The Linux Foundation\""
+    },
+    {
+      "url": "https://www.linuxfoundation.org/announcements/linux-foundation-and-national-center-for-women-information-technology-release",
+      "label": "the original"
+    },
+    {
+      "url": "https://www.i-programmer.info/news/150-training-a-education/13988-learn-about-serverless-with-cncf-and-the-linux-foundation-on-edx.html",
+      "label": "\"Learn About Serverless with The Linux Foundation on edX\""
+    },
+    {
+      "url": "https://web.archive.org/web/20200919095214/https://www.i-programmer.info/news/150-training-a-education/13988-learn-about-serverless-with-cncf-and-the-linux-foundation-on-edx.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.techrepublic.com/article/enterprise-elearning-uptick-in-education-demand-during-coronavirus-outbreak/",
+      "label": "\"Enterprise eLearning: Uptick in education demand during coronavirus outbreak\""
+    },
+    {
+      "url": "https://web.archive.org/web/20201019153645/https://www.techrepublic.com/article/enterprise-elearning-uptick-in-education-demand-during-coronavirus-outbreak/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://web.archive.org/web/20120927021800/http://www.redhat.com/magazine/004feb05/features/patents/",
+      "label": "\"Building the patent commons\""
+    },
+    {
+      "url": "http://www.redhat.com/magazine/004feb05/features/patents/",
+      "label": "the original"
+    },
+    {
+      "url": "http://www.patentcommons.org/",
+      "label": "\"Patent Commons Project\""
+    },
+    {
+      "url": "https://web.archive.org/web/20150218042538/http://www.patentcommons.org/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://techcrunch.com/2010/08/10/linux-foundation-launches-open-compliance-program/",
+      "label": "\"Linux Foundation launches Open Compliance Program\""
+    },
+    {
+      "url": "https://web.archive.org/web/20171026111535/https://techcrunch.com/2010/08/10/linux-foundation-launches-open-compliance-program/",
+      "label": "Archived"
+    },
+    {
+      "url": "http://www.linuxfoundation.org/about/bylaws",
+      "label": "\"Schedule A in LF's bylaws\""
+    },
+    {
+      "url": "https://web.archive.org/web/20121010162350/http://www.linuxfoundation.org/about/bylaws",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.linuxfoundation.org/about/members",
+      "label": "\"Members of the Linux Foundation\""
+    },
+    {
+      "url": "https://www.linuxfoundation.org/hubfs/lf_member_benefits_050724b.pdf?hsLang=en",
+      "label": "\"Forge the future of open source | Benefits of Linux Foundation Membership\""
+    },
+    {
+      "url": "https://www.fierce-network.com/automation/what-heck-happened-onf",
+      "label": "\"What the heck happened to ONF?\""
+    },
+    {
+      "url": "https://www.linuxfoundation.org/about/donate/",
+      "label": "\"Donate to The Linux Foundation\""
+    },
+    {
+      "url": "https://www.linuxfoundation.org/press/press-release/linux-foundation-europe-launches",
+      "label": "\"Linux Foundation Europe Launches to Foster European Open Source Collaboration and Innovation\""
+    },
+    {
+      "url": "https://tfir.io/linux-foundation-europe-launched-aims-to-accelerate-open-collaborative-efforts/",
+      "label": "\"Linux Foundation Europe Launched; Aims To Accelerate Open Collaborative Efforts - TFiR\""
+    },
+    {
+      "url": "https://www.eenewseurope.com/en/linux-foundation-europe-launches/",
+      "label": "\"Linux Foundation Europe launches\""
+    },
+    {
+      "url": "https://www.linuxfoundation.org/press/linux-foundation-europe-announces-formation-of-openwallet-foundation",
+      "label": "\"Linux Foundation Europe Announces Formation of OpenWallet Foundation\""
+    },
+    {
+      "url": "https://techcrunch.com/2023/05/31/the-linux-foundation-europe-launches-rise-the-risc-v-software-ecosystem-project/",
+      "label": "\"The Linux Foundation Europe launches RISE, the RISC-V Software Ecosystem project\""
+    },
+    {
+      "url": "https://servo.org/",
+      "label": "\"Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications\""
+    },
+    {
+      "url": "https://openmobilehub.org/",
+      "label": "\"Open Mobile Hub\""
+    },
+    {
+      "url": "https://www.thehindu.com/sci-tech/technology/linux-foundation-launches-lf-india-to-boost-open-source-innovation/article68973343.ece",
+      "label": "\"Linux Foundation launches LF India to boost open source innovation\""
+    },
+    {
+      "url": "https://search.worldcat.org/issn/0971-751X",
+      "label": "0971-751X"
+    },
+    {
+      "url": "https://analyticsindiamag.com/ai-news-updates/linux-foundation-expands-global-footprint-with-strategic-india-launch/",
+      "label": "\"Linux Foundation Expands Global Footprint with Strategic India Launch\""
+    },
+    {
+      "url": "https://www.financialexpress.com/life/technology-linux-foundation-unveils-lf-india-a-new-hub-for-open-source-innovation-and-collaboration-3689590/",
+      "label": "\"Linux Foundation unveils LF India: A new hub for Open Source innovation and collaboration\""
+    },
+    {
+      "url": "https://techcrunch.com/2024/12/11/linux-foundation-sets-up-india-entity-to-boost-open-source-collaboration/",
+      "label": "\"Linux Foundation sets up India entity to boost open source collaboration\""
+    },
+    {
+      "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2051934",
+      "label": "\"Government launches Vishvasya-Blockchain Technology Stack; To offer Blockchain-as-a-Service with a geographically distributed infrastructure\""
+    },
+    {
+      "url": "https://www.linuxfoundation.org/press/linux-foundation-announces-launch-of-lf-india-to-expand-global-open-source-support-and-innovation",
+      "label": "\"Linux Foundation Announces Launch of LF India to Expand Global Open Source Support and Innovation\""
+    }
+  ],
+  "outgoing_links": [
+    {
+      "title": "Linux",
+      "url": "https://en.wikipedia.org/wiki/Linux"
+    },
+    {
+      "title": "Open Database License",
+      "url": "https://en.wikipedia.org/wiki/Open_Database_License"
+    },
+    {
+      "title": "Linux.com",
+      "url": "https://en.wikipedia.org/wiki/Linux.com"
+    },
+    {
+      "title": "LF Energy",
+      "url": "https://en.wikipedia.org/wiki/LF_Energy"
+    },
+    {
+      "title": "501(c)(6)",
+      "url": "https://en.wikipedia.org/wiki/501%28c%29%286%29"
+    },
+    {
+      "title": "Academic Free License",
+      "url": "https://en.wikipedia.org/wiki/Academic_Free_License"
+    },
+    {
+      "title": "Accenture",
+      "url": "https://en.wikipedia.org/wiki/Accenture"
+    },
+    {
+      "title": "Advanced Linux Sound Architecture",
+      "url": "https://en.wikipedia.org/wiki/Advanced_Linux_Sound_Architecture"
+    },
+    {
+      "title": "Agentic AI Foundation",
+      "url": "https://en.wikipedia.org/wiki/Agentic_AI_Foundation"
+    },
+    {
+      "title": "Alan Cox (computer programmer)",
+      "url": "https://en.wikipedia.org/wiki/Alan_Cox_%28computer_programmer%29"
+    },
+    {
+      "title": "AllJoyn",
+      "url": "https://en.wikipedia.org/wiki/AllJoyn"
+    },
+    {
+      "title": "Allianz",
+      "url": "https://en.wikipedia.org/wiki/Allianz"
+    },
+    {
+      "title": "Alternative terms for free software",
+      "url": "https://en.wikipedia.org/wiki/Alternative_terms_for_free_software"
+    },
+    {
+      "title": "Amazon Web Services",
+      "url": "https://en.wikipedia.org/wiki/Amazon_Web_Services"
+    },
+    {
+      "title": "American Express",
+      "url": "https://en.wikipedia.org/wiki/American_Express"
+    },
+    {
+      "title": "Andrew Morton (computer programmer)",
+      "url": "https://en.wikipedia.org/wiki/Andrew_Morton_%28computer_programmer%29"
+    },
+    {
+      "title": "Andries Brouwer",
+      "url": "https://en.wikipedia.org/wiki/Andries_Brouwer"
+    },
+    {
+      "title": "Anthropic",
+      "url": "https://en.wikipedia.org/wiki/Anthropic"
+    },
+    {
+      "title": "Apache License",
+      "url": "https://en.wikipedia.org/wiki/Apache_License"
+    },
+    {
+      "title": "AppArmor",
+      "url": "https://en.wikipedia.org/wiki/AppArmor"
+    },
+    {
+      "title": "Apple Inc.",
+      "url": "https://en.wikipedia.org/wiki/Apple_Inc."
+    },
+    {
+      "title": "Apple Public Source License",
+      "url": "https://en.wikipedia.org/wiki/Apple_Public_Source_License"
+    },
+    {
+      "title": "Architecture",
+      "url": "https://en.wikipedia.org/wiki/Architecture"
+    },
+    {
+      "title": "Artificial intelligence",
+      "url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+    },
+    {
+      "title": "Artistic License",
+      "url": "https://en.wikipedia.org/wiki/Artistic_License"
+    },
+    {
+      "title": "Availability",
+      "url": "https://en.wikipedia.org/wiki/Availability"
+    },
+    {
+      "title": "Avast",
+      "url": "https://en.wikipedia.org/wiki/Avast"
+    },
+    {
+      "title": "Avi Kivity",
+      "url": "https://en.wikipedia.org/wiki/Avi_Kivity"
+    },
+    {
+      "title": "BSD licenses",
+      "url": "https://en.wikipedia.org/wiki/BSD_licenses"
+    },
+    {
+      "title": "Bank of England",
+      "url": "https://en.wikipedia.org/wiki/Bank_of_England"
+    },
+    {
+      "title": "Baseboard Management Controller",
+      "url": "https://en.wikipedia.org/wiki/Baseboard_Management_Controller"
+    },
+    {
+      "title": "Bcache",
+      "url": "https://en.wikipedia.org/wiki/Bcache"
+    },
+    {
+      "title": "Berkeley Packet Filter",
+      "url": "https://en.wikipedia.org/wiki/Berkeley_Packet_Filter"
+    },
+    {
+      "title": "Binary blob",
+      "url": "https://en.wikipedia.org/wiki/Binary_blob"
+    },
+    {
+      "title": "Binfmt misc",
+      "url": "https://en.wikipedia.org/wiki/Binfmt_misc"
+    },
+    {
+      "title": "Bionic (software)",
+      "url": "https://en.wikipedia.org/wiki/Bionic_%28software%29"
+    },
+    {
+      "title": "Block, Inc.",
+      "url": "https://en.wikipedia.org/wiki/Block%2C_Inc."
+    },
+    {
+      "title": "Blockchain",
+      "url": "https://en.wikipedia.org/wiki/Blockchain"
+    },
+    {
+      "title": "Bloomberg L.P.",
+      "url": "https://en.wikipedia.org/wiki/Bloomberg_L.P."
+    },
+    {
+      "title": "BlueZ",
+      "url": "https://en.wikipedia.org/wiki/BlueZ"
+    },
+    {
+      "title": "Booting process of Linux",
+      "url": "https://en.wikipedia.org/wiki/Booting_process_of_Linux"
+    },
+    {
+      "title": "Bosch (company)",
+      "url": "https://en.wikipedia.org/wiki/Bosch_%28company%29"
+    },
+    {
+      "title": "Brain Fuck Scheduler",
+      "url": "https://en.wikipedia.org/wiki/Brain_Fuck_Scheduler"
+    },
+    {
+      "title": "Brussels",
+      "url": "https://en.wikipedia.org/wiki/Brussels"
+    },
+    {
+      "title": "COVID-19 pandemic",
+      "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic"
+    },
+    {
+      "title": "CPU",
+      "url": "https://en.wikipedia.org/wiki/CPU"
+    },
+    {
+      "title": "CRIU",
+      "url": "https://en.wikipedia.org/wiki/CRIU"
+    },
+    {
+      "title": "C standard library",
+      "url": "https://en.wikipedia.org/wiki/C_standard_library"
+    },
+    {
+      "title": "Cambridge, Massachusetts",
+      "url": "https://en.wikipedia.org/wiki/Cambridge%2C_Massachusetts"
+    },
+    {
+      "title": "Carrier grade",
+      "url": "https://en.wikipedia.org/wiki/Carrier_grade"
+    },
+    {
+      "title": "Cgroups",
+      "url": "https://en.wikipedia.org/wiki/Cgroups"
+    },
+    {
+      "title": "Chris Wright (programmer)",
+      "url": "https://en.wikipedia.org/wiki/Chris_Wright_%28programmer%29"
+    },
+    {
+      "title": "Climate change mitigation",
+      "url": "https://en.wikipedia.org/wiki/Climate_change_mitigation"
+    },
+    {
+      "title": "Close (system call)",
+      "url": "https://en.wikipedia.org/wiki/Close_%28system_call%29"
+    },
+    {
+      "title": "Cloud Foundry",
+      "url": "https://en.wikipedia.org/wiki/Cloud_Foundry"
+    },
+    {
+      "title": "Cloud Native Computing Foundation",
+      "url": "https://en.wikipedia.org/wiki/Cloud_Native_Computing_Foundation"
+    },
+    {
+      "title": "Cloud computing",
+      "url": "https://en.wikipedia.org/wiki/Cloud_computing"
+    },
+    {
+      "title": "Cloudflare",
+      "url": "https://en.wikipedia.org/wiki/Cloudflare"
+    },
+    {
+      "title": "Common Development and Distribution License",
+      "url": "https://en.wikipedia.org/wiki/Common_Development_and_Distribution_License"
+    },
+    {
+      "title": "Commons",
+      "url": "https://en.wikipedia.org/wiki/Commons"
+    },
+    {
+      "title": "Community of practice",
+      "url": "https://en.wikipedia.org/wiki/Community_of_practice"
+    },
+    {
+      "title": "Comparison of free and open-source software licenses",
+      "url": "https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses"
+    },
+    {
+      "title": "Comparison of free software for audio",
+      "url": "https://en.wikipedia.org/wiki/Comparison_of_free_software_for_audio"
+    },
+    {
+      "title": "Comparison of open-source and closed-source software",
+      "url": "https://en.wikipedia.org/wiki/Comparison_of_open-source_and_closed-source_software"
+    },
+    {
+      "title": "Comparison of open-source configuration management software",
+      "url": "https://en.wikipedia.org/wiki/Comparison_of_open-source_configuration_management_software"
+    },
+    {
+      "title": "Comparison of open-source operating systems",
+      "url": "https://en.wikipedia.org/wiki/Comparison_of_open-source_operating_systems"
+    },
+    {
+      "title": "Comparison of open-source wireless drivers",
+      "url": "https://en.wikipedia.org/wiki/Comparison_of_open-source_wireless_drivers"
+    },
+    {
+      "title": "Comparison of shopping cart software",
+      "url": "https://en.wikipedia.org/wiki/Comparison_of_shopping_cart_software"
+    },
+    {
+      "title": "Comparison of source-code-hosting facilities",
+      "url": "https://en.wikipedia.org/wiki/Comparison_of_source-code-hosting_facilities"
+    },
+    {
+      "title": "Completely Fair Scheduler",
+      "url": "https://en.wikipedia.org/wiki/Completely_Fair_Scheduler"
+    },
+    {
+      "title": "Compute Node Linux",
+      "url": "https://en.wikipedia.org/wiki/Compute_Node_Linux"
+    },
+    {
+      "title": "Computer security",
+      "url": "https://en.wikipedia.org/wiki/Computer_security"
+    },
+    {
+      "title": "Con Kolivas",
+      "url": "https://en.wikipedia.org/wiki/Con_Kolivas"
+    },
+    {
+      "title": "Configfs",
+      "url": "https://en.wikipedia.org/wiki/Configfs"
+    },
+    {
+      "title": "Continuous Delivery Foundation",
+      "url": "https://en.wikipedia.org/wiki/Continuous_Delivery_Foundation"
+    },
+    {
+      "title": "Contributor Covenant",
+      "url": "https://en.wikipedia.org/wiki/Contributor_Covenant"
+    },
+    {
+      "title": "Contributor license agreement",
+      "url": "https://en.wikipedia.org/wiki/Contributor_license_agreement"
+    },
+    {
+      "title": "Cooperative Linux",
+      "url": "https://en.wikipedia.org/wiki/Cooperative_Linux"
+    },
+    {
+      "title": "Copyleft",
+      "url": "https://en.wikipedia.org/wiki/Copyleft"
+    },
+    {
+      "title": "Core Infrastructure Initiative",
+      "url": "https://en.wikipedia.org/wiki/Core_Infrastructure_Initiative"
+    },
+    {
+      "title": "Creative Commons license",
+      "url": "https://en.wikipedia.org/wiki/Creative_Commons_license"
+    },
+    {
+      "title": "Criticism of Linux",
+      "url": "https://en.wikipedia.org/wiki/Criticism_of_Linux"
+    },
+    {
+      "title": "Crypto API (Linux)",
+      "url": "https://en.wikipedia.org/wiki/Crypto_API_%28Linux%29"
+    },
+    {
+      "title": "Daemon (computing)",
+      "url": "https://en.wikipedia.org/wiki/Daemon_%28computing%29"
+    },
+    {
+      "title": "Data Plane Development Kit",
+      "url": "https://en.wikipedia.org/wiki/Data_Plane_Development_Kit"
+    },
+    {
+      "title": "Database",
+      "url": "https://en.wikipedia.org/wiki/Database"
+    },
+    {
+      "title": "David S. Miller",
+      "url": "https://en.wikipedia.org/wiki/David_S._Miller"
+    },
+    {
+      "title": "Debugfs",
+      "url": "https://en.wikipedia.org/wiki/Debugfs"
+    },
+    {
+      "title": "Definition of Free Cultural Works",
+      "url": "https://en.wikipedia.org/wiki/Definition_of_Free_Cultural_Works"
+    },
+    {
+      "title": "Delaware",
+      "url": "https://en.wikipedia.org/wiki/Delaware"
+    },
+    {
+      "title": "Deutsche Telekom",
+      "url": "https://en.wikipedia.org/wiki/Deutsche_Telekom"
+    },
+    {
+      "title": "Devfs",
+      "url": "https://en.wikipedia.org/wiki/Devfs"
+    },
+    {
+      "title": "Device driver",
+      "url": "https://en.wikipedia.org/wiki/Device_driver"
+    },
+    {
+      "title": "Device mapper",
+      "url": "https://en.wikipedia.org/wiki/Device_mapper"
+    },
+    {
+      "title": "Devpts",
+      "url": "https://en.wikipedia.org/wiki/Devpts"
+    },
+    {
+      "title": "Dietlibc",
+      "url": "https://en.wikipedia.org/wiki/Dietlibc"
+    },
+    {
+      "title": "Digital rights management",
+      "url": "https://en.wikipedia.org/wiki/Digital_rights_management"
+    },
+    {
+      "title": "Digital rupee",
+      "url": "https://en.wikipedia.org/wiki/Digital_rupee"
+    },
+    {
+      "title": "Direct Rendering Manager",
+      "url": "https://en.wikipedia.org/wiki/Direct_Rendering_Manager"
+    },
+    {
+      "title": "Distributed cache",
+      "url": "https://en.wikipedia.org/wiki/Distributed_cache"
+    },
+    {
+      "title": "Dm-cache",
+      "url": "https://en.wikipedia.org/wiki/Dm-cache"
+    },
+    {
+      "title": "Dm-crypt",
+      "url": "https://en.wikipedia.org/wiki/Dm-crypt"
+    },
+    {
+      "title": "Dnotify",
+      "url": "https://en.wikipedia.org/wiki/Dnotify"
+    },
+    {
+      "title": "Dracut (software)",
+      "url": "https://en.wikipedia.org/wiki/Dracut_%28software%29"
+    },
+    {
+      "title": "Dublin, Ireland",
+      "url": "https://en.wikipedia.org/wiki/Dublin%2C_Ireland"
+    },
+    {
+      "title": "Durability (database systems)",
+      "url": "https://en.wikipedia.org/wiki/Durability_%28database_systems%29"
+    },
+    {
+      "title": "Düsseldorf, Germany",
+      "url": "https://en.wikipedia.org/wiki/D%C3%BCsseldorf%2C_Germany"
+    },
+    {
+      "title": "EBPF",
+      "url": "https://en.wikipedia.org/wiki/EBPF"
+    },
+    {
+      "title": "EDAC (Linux)",
+      "url": "https://en.wikipedia.org/wiki/EDAC_%28Linux%29"
+    },
+    {
+      "title": "Earliest eligible virtual deadline first scheduling",
+      "url": "https://en.wikipedia.org/wiki/Earliest_eligible_virtual_deadline_first_scheduling"
+    },
+    {
+      "title": "Eclipse Public License",
+      "url": "https://en.wikipedia.org/wiki/Eclipse_Public_License"
+    },
+    {
+      "title": "EdX",
+      "url": "https://en.wikipedia.org/wiki/EdX"
+    },
+    {
+      "title": "Edge computing",
+      "url": "https://en.wikipedia.org/wiki/Edge_computing"
+    },
+    {
+      "title": "Embedded GLIBC",
+      "url": "https://en.wikipedia.org/wiki/Embedded_GLIBC"
+    },
+    {
+      "title": "Embedded system",
+      "url": "https://en.wikipedia.org/wiki/Embedded_system"
+    },
+    {
+      "title": "Epoll",
+      "url": "https://en.wikipedia.org/wiki/Epoll"
+    },
+    {
+      "title": "Ericsson",
+      "url": "https://en.wikipedia.org/wiki/Ericsson"
+    },
+    {
+      "title": "Evdev",
+      "url": "https://en.wikipedia.org/wiki/Evdev"
+    },
+    {
+      "title": "Exec Shield",
+      "url": "https://en.wikipedia.org/wiki/Exec_Shield"
+    },
+    {
+      "title": "Extract, transform, load",
+      "url": "https://en.wikipedia.org/wiki/Extract%2C_transform%2C_load"
+    },
+    {
+      "title": "FRRouting",
+      "url": "https://en.wikipedia.org/wiki/FRRouting"
+    },
+    {
+      "title": "Federal government of the United States",
+      "url": "https://en.wikipedia.org/wiki/Federal_government_of_the_United_States"
+    },
+    {
+      "title": "Filesystem in Userspace",
+      "url": "https://en.wikipedia.org/wiki/Filesystem_in_Userspace"
+    },
+    {
+      "title": "Fork (software development)",
+      "url": "https://en.wikipedia.org/wiki/Fork_%28software_development%29"
+    },
+    {
+      "title": "Formal verification",
+      "url": "https://en.wikipedia.org/wiki/Formal_verification"
+    },
+    {
+      "title": "Free-software license",
+      "url": "https://en.wikipedia.org/wiki/Free-software_license"
+    },
+    {
+      "title": "Free Software Foundation",
+      "url": "https://en.wikipedia.org/wiki/Free_Software_Foundation"
+    },
+    {
+      "title": "Free Software Movement of India",
+      "url": "https://en.wikipedia.org/wiki/Free_Software_Movement_of_India"
+    },
+    {
+      "title": "Free Standards Group",
+      "url": "https://en.wikipedia.org/wiki/Free_Standards_Group"
+    },
+    {
+      "title": "Free and open-source graphics device driver",
+      "url": "https://en.wikipedia.org/wiki/Free_and_open-source_graphics_device_driver"
+    },
+    {
+      "title": "Free and open-source software",
+      "url": "https://en.wikipedia.org/wiki/Free_and_open-source_software"
+    },
+    {
+      "title": "Free license",
+      "url": "https://en.wikipedia.org/wiki/Free_license"
+    },
+    {
+      "title": "Free software",
+      "url": "https://en.wikipedia.org/wiki/Free_software"
+    },
+    {
+      "title": "Free software movement",
+      "url": "https://en.wikipedia.org/wiki/Free_software_movement"
+    },
+    {
+      "title": "Ftrace",
+      "url": "https://en.wikipedia.org/wiki/Ftrace"
+    },
+    {
+      "title": "Futex",
+      "url": "https://en.wikipedia.org/wiki/Futex"
+    },
+    {
+      "title": "GNU Affero General Public License",
+      "url": "https://en.wikipedia.org/wiki/GNU_Affero_General_Public_License"
+    },
+    {
+      "title": "GNU General Public License",
+      "url": "https://en.wikipedia.org/wiki/GNU_General_Public_License"
+    },
+    {
+      "title": "GNU Lesser General Public License",
+      "url": "https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License"
+    },
+    {
+      "title": "GNU Manifesto",
+      "url": "https://en.wikipedia.org/wiki/GNU_Manifesto"
+    },
+    {
+      "title": "Gen Digital",
+      "url": "https://en.wikipedia.org/wiki/Gen_Digital"
+    },
+    {
+      "title": "Generative AI",
+      "url": "https://en.wikipedia.org/wiki/Generative_AI"
+    },
+    {
+      "title": "GitHub",
+      "url": "https://en.wikipedia.org/wiki/GitHub"
+    },
+    {
+      "title": "Glibc",
+      "url": "https://en.wikipedia.org/wiki/Glibc"
+    },
+    {
+      "title": "Google",
+      "url": "https://en.wikipedia.org/wiki/Google"
+    },
+    {
+      "title": "Goose (AI agent)",
+      "url": "https://en.wikipedia.org/wiki/Goose_%28AI_agent%29"
+    },
+    {
+      "title": "Government of India",
+      "url": "https://en.wikipedia.org/wiki/Government_of_India"
+    },
+    {
+      "title": "Graph database",
+      "url": "https://en.wikipedia.org/wiki/Graph_database"
+    },
+    {
+      "title": "Greg Kroah-Hartman",
+      "url": "https://en.wikipedia.org/wiki/Greg_Kroah-Hartman"
+    },
+    {
+      "title": "H. Peter Anvin",
+      "url": "https://en.wikipedia.org/wiki/H._Peter_Anvin"
+    },
+    {
+      "title": "Hans Reiser",
+      "url": "https://en.wikipedia.org/wiki/Hans_Reiser"
+    },
+    {
+      "title": "Harald Welte",
+      "url": "https://en.wikipedia.org/wiki/Harald_Welte"
+    },
+    {
+      "title": "Hard real time",
+      "url": "https://en.wikipedia.org/wiki/Hard_real_time"
+    },
+    {
+      "title": "Heartbleed",
+      "url": "https://en.wikipedia.org/wiki/Heartbleed"
+    },
+    {
+      "title": "High-performance computing",
+      "url": "https://en.wikipedia.org/wiki/High-performance_computing"
+    },
+    {
+      "title": "History of free and open-source software",
+      "url": "https://en.wikipedia.org/wiki/History_of_free_and_open-source_software"
+    },
+    {
+      "title": "Hyperledger",
+      "url": "https://en.wikipedia.org/wiki/Hyperledger"
+    },
+    {
+      "title": "Hypervisor",
+      "url": "https://en.wikipedia.org/wiki/Hypervisor"
+    },
+    {
+      "title": "ID2020",
+      "url": "https://en.wikipedia.org/wiki/ID2020"
+    },
+    {
+      "title": "IIO Framework",
+      "url": "https://en.wikipedia.org/wiki/IIO_Framework"
+    },
+    {
+      "title": "INK (operating system)",
+      "url": "https://en.wikipedia.org/wiki/INK_%28operating_system%29"
+    },
+    {
+      "title": "ISC license",
+      "url": "https://en.wikipedia.org/wiki/ISC_license"
+    },
+    {
+      "title": "ISO/IEC 5230",
+      "url": "https://en.wikipedia.org/wiki/ISO%2FIEC_5230"
+    },
+    {
+      "title": "ISSN (identifier)",
+      "url": "https://en.wikipedia.org/wiki/ISSN_%28identifier%29"
+    },
+    {
+      "title": "IT Asset Management",
+      "url": "https://en.wikipedia.org/wiki/IT_Asset_Management"
+    },
+    {
+      "title": "Igalia",
+      "url": "https://en.wikipedia.org/wiki/Igalia"
+    },
+    {
+      "title": "In-car entertainment",
+      "url": "https://en.wikipedia.org/wiki/In-car_entertainment"
+    },
+    {
+      "title": "In-memory database",
+      "url": "https://en.wikipedia.org/wiki/In-memory_database"
+    },
+    {
+      "title": "Infrastructure as code",
+      "url": "https://en.wikipedia.org/wiki/Infrastructure_as_code"
+    },
+    {
+      "title": "Ingo Molnár",
+      "url": "https://en.wikipedia.org/wiki/Ingo_Moln%C3%A1r"
+    },
+    {
+      "title": "Initramfs",
+      "url": "https://en.wikipedia.org/wiki/Initramfs"
+    },
+    {
+      "title": "Initrd",
+      "url": "https://en.wikipedia.org/wiki/Initrd"
+    },
+    {
+      "title": "Inotify",
+      "url": "https://en.wikipedia.org/wiki/Inotify"
+    },
+    {
+      "title": "Intel",
+      "url": "https://en.wikipedia.org/wiki/Intel"
+    },
+    {
+      "title": "Interface definition language",
+      "url": "https://en.wikipedia.org/wiki/Interface_definition_language"
+    },
+    {
+      "title": "Internet",
+      "url": "https://en.wikipedia.org/wiki/Internet"
+    },
+    {
+      "title": "Internet Printing Protocol",
+      "url": "https://en.wikipedia.org/wiki/Internet_Printing_Protocol"
+    },
+    {
+      "title": "Internet of things",
+      "url": "https://en.wikipedia.org/wiki/Internet_of_things"
+    },
+    {
+      "title": "IoTivity",
+      "url": "https://en.wikipedia.org/wiki/IoTivity"
+    },
+    {
+      "title": "Io uring",
+      "url": "https://en.wikipedia.org/wiki/Io_uring"
+    },
+    {
+      "title": "Ioctl",
+      "url": "https://en.wikipedia.org/wiki/Ioctl"
+    },
+    {
+      "title": "JanusGraph",
+      "url": "https://en.wikipedia.org/wiki/JanusGraph"
+    },
+    {
+      "title": "Jens Axboe",
+      "url": "https://en.wikipedia.org/wiki/Jens_Axboe"
+    },
+    {
+      "title": "Johannes Kepler University Linz",
+      "url": "https://en.wikipedia.org/wiki/Johannes_Kepler_University_Linz"
+    },
+    {
+      "title": "KGraft",
+      "url": "https://en.wikipedia.org/wiki/KGraft"
+    },
+    {
+      "title": "KMS driver",
+      "url": "https://en.wikipedia.org/wiki/KMS_driver"
+    },
+    {
+      "title": "Kdump (Linux)",
+      "url": "https://en.wikipedia.org/wiki/Kdump_%28Linux%29"
+    },
+    {
+      "title": "Kernel-based Virtual Machine",
+      "url": "https://en.wikipedia.org/wiki/Kernel-based_Virtual_Machine"
+    },
+    {
+      "title": "Kernel.org",
+      "url": "https://en.wikipedia.org/wiki/Kernel.org"
+    },
+    {
+      "title": "KernelCare",
+      "url": "https://en.wikipedia.org/wiki/KernelCare"
+    },
+    {
+      "title": "Kernel same-page merging",
+      "url": "https://en.wikipedia.org/wiki/Kernel_same-page_merging"
+    },
+    {
+      "title": "Kernfs (Linux)",
+      "url": "https://en.wikipedia.org/wiki/Kernfs_%28Linux%29"
+    },
+    {
+      "title": "Kexec",
+      "url": "https://en.wikipedia.org/wiki/Kexec"
+    },
+    {
+      "title": "Key–value database",
+      "url": "https://en.wikipedia.org/wiki/Key%E2%80%93value_database"
+    },
+    {
+      "title": "Klibc",
+      "url": "https://en.wikipedia.org/wiki/Klibc"
+    },
+    {
+      "title": "Kmscon",
+      "url": "https://en.wikipedia.org/wiki/Kmscon"
+    },
+    {
+      "title": "Knowledge graph",
+      "url": "https://en.wikipedia.org/wiki/Knowledge_graph"
+    },
+    {
+      "title": "Kpatch",
+      "url": "https://en.wikipedia.org/wiki/Kpatch"
+    },
+    {
+      "title": "KrakenD",
+      "url": "https://en.wikipedia.org/wiki/KrakenD"
+    },
+    {
+      "title": "Ksplice",
+      "url": "https://en.wikipedia.org/wiki/Ksplice"
+    },
+    {
+      "title": "Kubernetes",
+      "url": "https://en.wikipedia.org/wiki/Kubernetes"
+    },
+    {
+      "title": "L4Linux",
+      "url": "https://en.wikipedia.org/wiki/L4Linux"
+    },
+    {
+      "title": "L4 microkernel family",
+      "url": "https://en.wikipedia.org/wiki/L4_microkernel_family"
+    },
+    {
+      "title": "LAMP (software bundle)",
+      "url": "https://en.wikipedia.org/wiki/LAMP_%28software_bundle%29"
+    },
+    {
+      "title": "LIO (SCSI target)",
+      "url": "https://en.wikipedia.org/wiki/LIO_%28SCSI_target%29"
+    },
+    {
+      "title": "LXC",
+      "url": "https://en.wikipedia.org/wiki/LXC"
+    },
+    {
+      "title": "LYME (software bundle)",
+      "url": "https://en.wikipedia.org/wiki/LYME_%28software_bundle%29"
+    },
+    {
+      "title": "Large language model",
+      "url": "https://en.wikipedia.org/wiki/Large_language_model"
+    },
+    {
+      "title": "Latency (engineering)",
+      "url": "https://en.wikipedia.org/wiki/Latency_%28engineering%29"
+    },
+    {
+      "title": "Law",
+      "url": "https://en.wikipedia.org/wiki/Law"
+    },
+    {
+      "title": "Lguest",
+      "url": "https://en.wikipedia.org/wiki/Lguest"
+    },
+    {
+      "title": "Libhybris",
+      "url": "https://en.wikipedia.org/wiki/Libhybris"
+    },
+    {
+      "title": "Library",
+      "url": "https://en.wikipedia.org/wiki/Library"
+    },
+    {
+      "title": "Libusb",
+      "url": "https://en.wikipedia.org/wiki/Libusb"
+    },
+    {
+      "title": "License proliferation",
+      "url": "https://en.wikipedia.org/wiki/License_proliferation"
+    },
+    {
+      "title": "Linaro",
+      "url": "https://en.wikipedia.org/wiki/Linaro"
+    },
+    {
+      "title": "Linus's law",
+      "url": "https://en.wikipedia.org/wiki/Linus%27s_law"
+    },
+    {
+      "title": "Linus Torvalds",
+      "url": "https://en.wikipedia.org/wiki/Linus_Torvalds"
+    },
+    {
+      "title": "Linux-VServer",
+      "url": "https://en.wikipedia.org/wiki/Linux-VServer"
+    },
+    {
+      "title": "Linux-libre",
+      "url": "https://en.wikipedia.org/wiki/Linux-libre"
+    },
+    {
+      "title": "Linux-powered device",
+      "url": "https://en.wikipedia.org/wiki/Linux-powered_device"
+    },
+    {
+      "title": "LinuxCon",
+      "url": "https://en.wikipedia.org/wiki/LinuxCon"
+    },
+    {
+      "title": "Linux Kernel Developers Summit",
+      "url": "https://en.wikipedia.org/wiki/Linux_Kernel_Developers_Summit"
+    },
+    {
+      "title": "Linux Mark Institute",
+      "url": "https://en.wikipedia.org/wiki/Linux_Mark_Institute"
+    },
+    {
+      "title": "Linux PAM",
+      "url": "https://en.wikipedia.org/wiki/Linux_PAM"
+    },
+    {
+      "title": "Linux Security Modules",
+      "url": "https://en.wikipedia.org/wiki/Linux_Security_Modules"
+    },
+    {
+      "title": "Linux Standard Base",
+      "url": "https://en.wikipedia.org/wiki/Linux_Standard_Base"
+    },
+    {
+      "title": "Linux Terminal Server Project",
+      "url": "https://en.wikipedia.org/wiki/Linux_Terminal_Server_Project"
+    },
+    {
+      "title": "Linux adoption",
+      "url": "https://en.wikipedia.org/wiki/Linux_adoption"
+    },
+    {
+      "title": "Linux conference",
+      "url": "https://en.wikipedia.org/wiki/Linux_conference"
+    },
+    {
+      "title": "Linux console",
+      "url": "https://en.wikipedia.org/wiki/Linux_console"
+    },
+    {
+      "title": "Linux desktop environments",
+      "url": "https://en.wikipedia.org/wiki/Linux_desktop_environments"
+    },
+    {
+      "title": "Linux distributions",
+      "url": "https://en.wikipedia.org/wiki/Linux_distributions"
+    },
+    {
+      "title": "Linux framebuffer",
+      "url": "https://en.wikipedia.org/wiki/Linux_framebuffer"
+    },
+    {
+      "title": "Linux kernel",
+      "url": "https://en.wikipedia.org/wiki/Linux_kernel"
+    },
+    {
+      "title": "Linux kernel interfaces",
+      "url": "https://en.wikipedia.org/wiki/Linux_kernel_interfaces"
+    },
+    {
+      "title": "Linux kernel mailing list",
+      "url": "https://en.wikipedia.org/wiki/Linux_kernel_mailing_list"
+    },
+    {
+      "title": "Linux kernel oops",
+      "url": "https://en.wikipedia.org/wiki/Linux_kernel_oops"
+    },
+    {
+      "title": "Linux kernel version history",
+      "url": "https://en.wikipedia.org/wiki/Linux_kernel_version_history"
+    },
+    {
+      "title": "Linux on embedded systems",
+      "url": "https://en.wikipedia.org/wiki/Linux_on_embedded_systems"
+    },
+    {
+      "title": "Linux range of use",
+      "url": "https://en.wikipedia.org/wiki/Linux_range_of_use"
+    },
+    {
+      "title": "Linux user group",
+      "url": "https://en.wikipedia.org/wiki/Linux_user_group"
+    },
+    {
+      "title": "Lisbon, Portugal",
+      "url": "https://en.wikipedia.org/wiki/Lisbon%2C_Portugal"
+    },
+    {
+      "title": "List of Linux-supported computer architectures",
+      "url": "https://en.wikipedia.org/wiki/List_of_Linux-supported_computer_architectures"
+    },
+    {
+      "title": "List of Linux adopters",
+      "url": "https://en.wikipedia.org/wiki/List_of_Linux_adopters"
+    },
+    {
+      "title": "List of commercial open-source applications and services",
+      "url": "https://en.wikipedia.org/wiki/List_of_commercial_open-source_applications_and_services"
+    },
+    {
+      "title": "List of formerly open-source or free software",
+      "url": "https://en.wikipedia.org/wiki/List_of_formerly_open-source_or_free_software"
+    },
+    {
+      "title": "List of formerly proprietary software",
+      "url": "https://en.wikipedia.org/wiki/List_of_formerly_proprietary_software"
+    },
+    {
+      "title": "List of free-software events",
+      "url": "https://en.wikipedia.org/wiki/List_of_free-software_events"
+    },
+    {
+      "title": "List of free and open-source Android applications",
+      "url": "https://en.wikipedia.org/wiki/List_of_free_and_open-source_Android_applications"
+    },
+    {
+      "title": "List of free and open-source iOS applications",
+      "url": "https://en.wikipedia.org/wiki/List_of_free_and_open-source_iOS_applications"
+    },
+    {
+      "title": "List of free and open-source software organizations",
+      "url": "https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_organizations"
+    },
+    {
+      "title": "List of free and open-source software packages",
+      "url": "https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_packages"
+    },
+    {
+      "title": "List of free and open-source web applications",
+      "url": "https://en.wikipedia.org/wiki/List_of_free_and_open-source_web_applications"
+    },
+    {
+      "title": "List of free software project directories",
+      "url": "https://en.wikipedia.org/wiki/List_of_free_software_project_directories"
+    },
+    {
+      "title": "List of free television software",
+      "url": "https://en.wikipedia.org/wiki/List_of_free_television_software"
+    },
+    {
+      "title": "List of office suites",
+      "url": "https://en.wikipedia.org/wiki/List_of_office_suites"
+    },
+    {
+      "title": "List of open-source bioinformatics software",
+      "url": "https://en.wikipedia.org/wiki/List_of_open-source_bioinformatics_software"
+    },
+    {
+      "title": "List of open-source codecs",
+      "url": "https://en.wikipedia.org/wiki/List_of_open-source_codecs"
+    },
+    {
+      "title": "List of open-source health software",
+      "url": "https://en.wikipedia.org/wiki/List_of_open-source_health_software"
+    },
+    {
+      "title": "List of open-source routing platforms",
+      "url": "https://en.wikipedia.org/wiki/List_of_open-source_routing_platforms"
+    },
+    {
+      "title": "List of open-source software for mathematics",
+      "url": "https://en.wikipedia.org/wiki/List_of_open-source_software_for_mathematics"
+    },
+    {
+      "title": "List of open-source video games",
+      "url": "https://en.wikipedia.org/wiki/List_of_open-source_video_games"
+    },
+    {
+      "title": "Loadable kernel module",
+      "url": "https://en.wikipedia.org/wiki/Loadable_kernel_module"
+    },
+    {
+      "title": "Logical Volume Manager (Linux)",
+      "url": "https://en.wikipedia.org/wiki/Logical_Volume_Manager_%28Linux%29"
+    },
+    {
+      "title": "Long-term support",
+      "url": "https://en.wikipedia.org/wiki/Long-term_support"
+    },
+    {
+      "title": "Los Angeles, California",
+      "url": "https://en.wikipedia.org/wiki/Los_Angeles%2C_California"
+    },
+    {
+      "title": "MIT License",
+      "url": "https://en.wikipedia.org/wiki/MIT_License"
+    },
+    {
+      "title": "Machine-readable medium",
+      "url": "https://en.wikipedia.org/wiki/Machine-readable_medium"
+    },
+    {
+      "title": "Mainline Linux",
+      "url": "https://en.wikipedia.org/wiki/Mainline_Linux"
+    },
+    {
+      "title": "Massive open online course",
+      "url": "https://en.wikipedia.org/wiki/Massive_open_online_course"
+    },
+    {
+      "title": "Matthew Garrett",
+      "url": "https://en.wikipedia.org/wiki/Matthew_Garrett"
+    },
+    {
+      "title": "MediaTek",
+      "url": "https://en.wikipedia.org/wiki/MediaTek"
+    },
+    {
+      "title": "Memory barrier",
+      "url": "https://en.wikipedia.org/wiki/Memory_barrier"
+    },
+    {
+      "title": "Memory management unit",
+      "url": "https://en.wikipedia.org/wiki/Memory_management_unit"
+    },
+    {
+      "title": "Menuconfig",
+      "url": "https://en.wikipedia.org/wiki/Menuconfig"
+    },
+    {
+      "title": "Message broker",
+      "url": "https://en.wikipedia.org/wiki/Message_broker"
+    },
+    {
+      "title": "Meta Platforms",
+      "url": "https://en.wikipedia.org/wiki/Meta_Platforms"
+    },
+    {
+      "title": "Microkernel",
+      "url": "https://en.wikipedia.org/wiki/Microkernel"
+    },
+    {
+      "title": "Microsoft",
+      "url": "https://en.wikipedia.org/wiki/Microsoft"
+    },
+    {
+      "title": "Microsoft Open Specification Promise",
+      "url": "https://en.wikipedia.org/wiki/Microsoft_Open_Specification_Promise"
+    },
+    {
+      "title": "Mifos Initiative",
+      "url": "https://en.wikipedia.org/wiki/Mifos_Initiative"
+    },
+    {
+      "title": "Ministry of Electronics and Information Technology",
+      "url": "https://en.wikipedia.org/wiki/Ministry_of_Electronics_and_Information_Technology"
+    },
+    {
+      "title": "MkLinux",
+      "url": "https://en.wikipedia.org/wiki/MkLinux"
+    },
+    {
+      "title": "Model Context Protocol",
+      "url": "https://en.wikipedia.org/wiki/Model_Context_Protocol"
+    },
+    {
+      "title": "MongoDB",
+      "url": "https://en.wikipedia.org/wiki/MongoDB"
+    },
+    {
+      "title": "Moshe Bar (investor)",
+      "url": "https://en.wikipedia.org/wiki/Moshe_Bar_%28investor%29"
+    },
+    {
+      "title": "Mozilla",
+      "url": "https://en.wikipedia.org/wiki/Mozilla"
+    },
+    {
+      "title": "Mozilla Public License",
+      "url": "https://en.wikipedia.org/wiki/Mozilla_Public_License"
+    },
+    {
+      "title": "Musl",
+      "url": "https://en.wikipedia.org/wiki/Musl"
+    },
+    {
+      "title": "NXP Semiconductors",
+      "url": "https://en.wikipedia.org/wiki/NXP_Semiconductors"
+    },
+    {
+      "title": "Netfilter",
+      "url": "https://en.wikipedia.org/wiki/Netfilter"
+    },
+    {
+      "title": "Netlink",
+      "url": "https://en.wikipedia.org/wiki/Netlink"
+    },
+    {
+      "title": "Network function virtualization",
+      "url": "https://en.wikipedia.org/wiki/Network_function_virtualization"
+    },
+    {
+      "title": "Network scheduler",
+      "url": "https://en.wikipedia.org/wiki/Network_scheduler"
+    },
+    {
+      "title": "New API",
+      "url": "https://en.wikipedia.org/wiki/New_API"
+    },
+    {
+      "title": "New Delhi",
+      "url": "https://en.wikipedia.org/wiki/New_Delhi"
+    },
+    {
+      "title": "New Orleans, Louisiana",
+      "url": "https://en.wikipedia.org/wiki/New_Orleans%2C_Louisiana"
+    },
+    {
+      "title": "Newlib",
+      "url": "https://en.wikipedia.org/wiki/Newlib"
+    },
+    {
+      "title": "Nftables",
+      "url": "https://en.wikipedia.org/wiki/Nftables"
+    },
+    {
+      "title": "NoSQL",
+      "url": "https://en.wikipedia.org/wiki/NoSQL"
+    },
+    {
+      "title": "Noop scheduler",
+      "url": "https://en.wikipedia.org/wiki/Noop_scheduler"
+    },
+    {
+      "title": "Nvidia",
+      "url": "https://en.wikipedia.org/wiki/Nvidia"
+    },
+    {
+      "title": "O(1) scheduler",
+      "url": "https://en.wikipedia.org/wiki/O%281%29_scheduler"
+    },
+    {
+      "title": "O(n) scheduler",
+      "url": "https://en.wikipedia.org/wiki/O%28n%29_scheduler"
+    },
+    {
+      "title": "ONAP",
+      "url": "https://en.wikipedia.org/wiki/ONAP"
+    },
+    {
+      "title": "ONOS",
+      "url": "https://en.wikipedia.org/wiki/ONOS"
+    },
+    {
+      "title": "OPNFV",
+      "url": "https://en.wikipedia.org/wiki/OPNFV"
+    },
+    {
+      "title": "OS-level virtualization",
+      "url": "https://en.wikipedia.org/wiki/OS-level_virtualization"
+    },
+    {
+      "title": "OSDL",
+      "url": "https://en.wikipedia.org/wiki/OSDL"
+    },
+    {
+      "title": "Open-core model",
+      "url": "https://en.wikipedia.org/wiki/Open-core_model"
+    },
+    {
+      "title": "Open-source artificial intelligence",
+      "url": "https://en.wikipedia.org/wiki/Open-source_artificial_intelligence"
+    },
+    {
+      "title": "Open-source hardware",
+      "url": "https://en.wikipedia.org/wiki/Open-source_hardware"
+    },
+    {
+      "title": "Open-source license",
+      "url": "https://en.wikipedia.org/wiki/Open-source_license"
+    },
+    {
+      "title": "Open-source model",
+      "url": "https://en.wikipedia.org/wiki/Open-source_model"
+    },
+    {
+      "title": "Open-source software",
+      "url": "https://en.wikipedia.org/wiki/Open-source_software"
+    },
+    {
+      "title": "Open-source software advocacy",
+      "url": "https://en.wikipedia.org/wiki/Open-source_software_advocacy"
+    },
+    {
+      "title": "Open-source software development",
+      "url": "https://en.wikipedia.org/wiki/Open-source_software_development"
+    },
+    {
+      "title": "Open-source software movement",
+      "url": "https://en.wikipedia.org/wiki/Open-source_software_movement"
+    },
+    {
+      "title": "Open-source software security",
+      "url": "https://en.wikipedia.org/wiki/Open-source_software_security"
+    },
+    {
+      "title": "OpenAI",
+      "url": "https://en.wikipedia.org/wiki/OpenAI"
+    },
+    {
+      "title": "OpenAPI Initiative",
+      "url": "https://en.wikipedia.org/wiki/OpenAPI_Initiative"
+    },
+    {
+      "title": "OpenAPI Specification",
+      "url": "https://en.wikipedia.org/wiki/OpenAPI_Specification"
+    },
+    {
+      "title": "OpenBMC",
+      "url": "https://en.wikipedia.org/wiki/OpenBMC"
+    },
+    {
+      "title": "OpenDaylight Project",
+      "url": "https://en.wikipedia.org/wiki/OpenDaylight_Project"
+    },
+    {
+      "title": "OpenForum Europe",
+      "url": "https://en.wikipedia.org/wiki/OpenForum_Europe"
+    },
+    {
+      "title": "OpenID Foundation",
+      "url": "https://en.wikipedia.org/wiki/OpenID_Foundation"
+    },
+    {
+      "title": "OpenJS Foundation",
+      "url": "https://en.wikipedia.org/wiki/OpenJS_Foundation"
+    },
+    {
+      "title": "OpenSearch (software)",
+      "url": "https://en.wikipedia.org/wiki/OpenSearch_%28software%29"
+    },
+    {
+      "title": "OpenStreetMap",
+      "url": "https://en.wikipedia.org/wiki/OpenStreetMap"
+    },
+    {
+      "title": "OpenTofu",
+      "url": "https://en.wikipedia.org/wiki/OpenTofu"
+    },
+    {
+      "title": "OpenUK",
+      "url": "https://en.wikipedia.org/wiki/OpenUK"
+    },
+    {
+      "title": "OpenVZ",
+      "url": "https://en.wikipedia.org/wiki/OpenVZ"
+    },
+    {
+      "title": "Open (system call)",
+      "url": "https://en.wikipedia.org/wiki/Open_%28system_call%29"
+    },
+    {
+      "title": "Open Container Initiative",
+      "url": "https://en.wikipedia.org/wiki/Open_Container_Initiative"
+    },
+    {
+      "title": "Open Identity Exchange",
+      "url": "https://en.wikipedia.org/wiki/Open_Identity_Exchange"
+    },
+    {
+      "title": "Open Mainframe Project",
+      "url": "https://en.wikipedia.org/wiki/Open_Mainframe_Project"
+    },
+    {
+      "title": "Open Networking Foundation",
+      "url": "https://en.wikipedia.org/wiki/Open_Networking_Foundation"
+    },
+    {
+      "title": "Open Source Development Labs",
+      "url": "https://en.wikipedia.org/wiki/Open_Source_Development_Labs"
+    },
+    {
+      "title": "Open Source Security Foundation",
+      "url": "https://en.wikipedia.org/wiki/Open_Source_Security_Foundation"
+    },
+    {
+      "title": "Open Source Summit",
+      "url": "https://en.wikipedia.org/wiki/Open_Source_Summit"
+    },
+    {
+      "title": "Open vSwitch",
+      "url": "https://en.wikipedia.org/wiki/Open_vSwitch"
+    },
+    {
+      "title": "Outline of free software",
+      "url": "https://en.wikipedia.org/wiki/Outline_of_free_software"
+    },
+    {
+      "title": "Overture Maps Foundation",
+      "url": "https://en.wikipedia.org/wiki/Overture_Maps_Foundation"
+    },
+    {
+      "title": "POSIX",
+      "url": "https://en.wikipedia.org/wiki/POSIX"
+    },
+    {
+      "title": "PREEMPT RT",
+      "url": "https://en.wikipedia.org/wiki/PREEMPT_RT"
+    },
+    {
+      "title": "PSXLinux",
+      "url": "https://en.wikipedia.org/wiki/PSXLinux"
+    },
+    {
+      "title": "Patent",
+      "url": "https://en.wikipedia.org/wiki/Patent"
+    },
+    {
+      "title": "Perf (Linux)",
+      "url": "https://en.wikipedia.org/wiki/Perf_%28Linux%29"
+    },
+    {
+      "title": "Permissive software license",
+      "url": "https://en.wikipedia.org/wiki/Permissive_software_license"
+    },
+    {
+      "title": "Ping Identity",
+      "url": "https://en.wikipedia.org/wiki/Ping_Identity"
+    },
+    {
+      "title": "Platform as a service",
+      "url": "https://en.wikipedia.org/wiki/Platform_as_a_service"
+    },
+    {
+      "title": "Pledge (law)",
+      "url": "https://en.wikipedia.org/wiki/Pledge_%28law%29"
+    },
+    {
+      "title": "Portland, Oregon",
+      "url": "https://en.wikipedia.org/wiki/Portland%2C_Oregon"
+    },
+    {
+      "title": "PostgreSQL",
+      "url": "https://en.wikipedia.org/wiki/PostgreSQL"
+    },
+    {
+      "title": "Poul-Henning Kamp",
+      "url": "https://en.wikipedia.org/wiki/Poul-Henning_Kamp"
+    },
+    {
+      "title": "Power grid",
+      "url": "https://en.wikipedia.org/wiki/Power_grid"
+    },
+    {
+      "title": "Prague",
+      "url": "https://en.wikipedia.org/wiki/Prague"
+    },
+    {
+      "title": "Presto (SQL query engine)",
+      "url": "https://en.wikipedia.org/wiki/Presto_%28SQL_query_engine%29"
+    },
+    {
+      "title": "Procfs",
+      "url": "https://en.wikipedia.org/wiki/Procfs"
+    },
+    {
+      "title": "Proprietary firmware",
+      "url": "https://en.wikipedia.org/wiki/Proprietary_firmware"
+    },
+    {
+      "title": "Proprietary software",
+      "url": "https://en.wikipedia.org/wiki/Proprietary_software"
+    },
+    {
+      "title": "Public domain",
+      "url": "https://en.wikipedia.org/wiki/Public_domain"
+    },
+    {
+      "title": "PyTorch",
+      "url": "https://en.wikipedia.org/wiki/PyTorch"
+    },
+    {
+      "title": "Python License",
+      "url": "https://en.wikipedia.org/wiki/Python_License"
+    },
+    {
+      "title": "Python Software Foundation License",
+      "url": "https://en.wikipedia.org/wiki/Python_Software_Foundation_License"
+    },
+    {
+      "title": "Qualcomm",
+      "url": "https://en.wikipedia.org/wiki/Qualcomm"
+    },
+    {
+      "title": "RISC-V",
+      "url": "https://en.wikipedia.org/wiki/RISC-V"
+    },
+    {
+      "title": "RTAI",
+      "url": "https://en.wikipedia.org/wiki/RTAI"
+    },
+    {
+      "title": "RTLinux",
+      "url": "https://en.wikipedia.org/wiki/RTLinux"
+    },
+    {
+      "title": "Random-access memory",
+      "url": "https://en.wikipedia.org/wiki/Random-access_memory"
+    },
+    {
+      "title": "Raw device",
+      "url": "https://en.wikipedia.org/wiki/Raw_device"
+    },
+    {
+      "title": "React (software)",
+      "url": "https://en.wikipedia.org/wiki/React_%28software%29"
+    },
+    {
+      "title": "Read-copy-update",
+      "url": "https://en.wikipedia.org/wiki/Read-copy-update"
+    },
+    {
+      "title": "Read (system call)",
+      "url": "https://en.wikipedia.org/wiki/Read_%28system_call%29"
+    },
+    {
+      "title": "Readahead",
+      "url": "https://en.wikipedia.org/wiki/Readahead"
+    },
+    {
+      "title": "Real-time computing",
+      "url": "https://en.wikipedia.org/wiki/Real-time_computing"
+    },
+    {
+      "title": "Red Hat",
+      "url": "https://en.wikipedia.org/wiki/Red_Hat"
+    },
+    {
+      "title": "Research Institutes of Sweden",
+      "url": "https://en.wikipedia.org/wiki/Research_Institutes_of_Sweden"
+    },
+    {
+      "title": "Reserve Bank of India",
+      "url": "https://en.wikipedia.org/wiki/Reserve_Bank_of_India"
+    },
+    {
+      "title": "RethinkDB",
+      "url": "https://en.wikipedia.org/wiki/RethinkDB"
+    },
+    {
+      "title": "Revolution OS",
+      "url": "https://en.wikipedia.org/wiki/Revolution_OS"
+    },
+    {
+      "title": "Richmond, Virginia",
+      "url": "https://en.wikipedia.org/wiki/Richmond%2C_Virginia"
+    },
+    {
+      "title": "Robert Love",
+      "url": "https://en.wikipedia.org/wiki/Robert_Love"
+    },
+    {
+      "title": "Rust (programming language)",
+      "url": "https://en.wikipedia.org/wiki/Rust_%28programming_language%29"
+    },
+    {
+      "title": "Rusty Russell",
+      "url": "https://en.wikipedia.org/wiki/Rusty_Russell"
+    },
+    {
+      "title": "Rémy Card",
+      "url": "https://en.wikipedia.org/wiki/R%C3%A9my_Card"
+    },
+    {
+      "title": "S&P Global",
+      "url": "https://en.wikipedia.org/wiki/S%26P_Global"
+    },
+    {
+      "title": "SAP",
+      "url": "https://en.wikipedia.org/wiki/SAP"
+    },
+    {
+      "title": "SCHED DEADLINE",
+      "url": "https://en.wikipedia.org/wiki/SCHED_DEADLINE"
+    },
+    {
+      "title": "SCHED FIFO",
+      "url": "https://en.wikipedia.org/wiki/SCHED_FIFO"
+    },
+    {
+      "title": "SCHED RR",
+      "url": "https://en.wikipedia.org/wiki/SCHED_RR"
+    },
+    {
+      "title": "SCO–Linux disputes",
+      "url": "https://en.wikipedia.org/wiki/SCO%E2%80%93Linux_disputes"
+    },
+    {
+      "title": "SLUB (software)",
+      "url": "https://en.wikipedia.org/wiki/SLUB_%28software%29"
+    },
+    {
+      "title": "SONiC (operating system)",
+      "url": "https://en.wikipedia.org/wiki/SONiC_%28operating_system%29"
+    },
+    {
+      "title": "SUSE S.A.",
+      "url": "https://en.wikipedia.org/wiki/SUSE_S.A."
+    },
+    {
+      "title": "Samsung",
+      "url": "https://en.wikipedia.org/wiki/Samsung"
+    },
+    {
+      "title": "San Diego, California",
+      "url": "https://en.wikipedia.org/wiki/San_Diego%2C_California"
+    },
+    {
+      "title": "Santa Fe, New Mexico",
+      "url": "https://en.wikipedia.org/wiki/Santa_Fe%2C_New_Mexico"
+    },
+    {
+      "title": "Santa Rosa, California",
+      "url": "https://en.wikipedia.org/wiki/Santa_Rosa%2C_California"
+    },
+    {
+      "title": "Scalability",
+      "url": "https://en.wikipedia.org/wiki/Scalability"
+    },
+    {
+      "title": "Scheduling (computing)",
+      "url": "https://en.wikipedia.org/wiki/Scheduling_%28computing%29"
+    },
+    {
+      "title": "SeL4",
+      "url": "https://en.wikipedia.org/wiki/SeL4"
+    },
+    {
+      "title": "Seattle, Washington",
+      "url": "https://en.wikipedia.org/wiki/Seattle%2C_Washington"
+    },
+    {
+      "title": "Seccomp",
+      "url": "https://en.wikipedia.org/wiki/Seccomp"
+    },
+    {
+      "title": "Security-Enhanced Linux",
+      "url": "https://en.wikipedia.org/wiki/Security-Enhanced_Linux"
+    },
+    {
+      "title": "Select (Unix)",
+      "url": "https://en.wikipedia.org/wiki/Select_%28Unix%29"
+    },
+    {
+      "title": "Serverless computing",
+      "url": "https://en.wikipedia.org/wiki/Serverless_computing"
+    },
+    {
+      "title": "Servo (software)",
+      "url": "https://en.wikipedia.org/wiki/Servo_%28software%29"
+    },
+    {
+      "title": "Shared Source Initiative",
+      "url": "https://en.wikipedia.org/wiki/Shared_Source_Initiative"
+    },
+    {
+      "title": "Shuah Khan",
+      "url": "https://en.wikipedia.org/wiki/Shuah_Khan"
+    },
+    {
+      "title": "Sleepycat Software",
+      "url": "https://en.wikipedia.org/wiki/Sleepycat_Software"
+    },
+    {
+      "title": "Slurm Workload Manager",
+      "url": "https://en.wikipedia.org/wiki/Slurm_Workload_Manager"
+    },
+    {
+      "title": "Smack (software)",
+      "url": "https://en.wikipedia.org/wiki/Smack_%28software%29"
+    },
+    {
+      "title": "Software",
+      "url": "https://en.wikipedia.org/wiki/Software"
+    },
+    {
+      "title": "Software-defined networking",
+      "url": "https://en.wikipedia.org/wiki/Software-defined_networking"
+    },
+    {
+      "title": "Software Package Data Exchange",
+      "url": "https://en.wikipedia.org/wiki/Software_Package_Data_Exchange"
+    },
+    {
+      "title": "Software patents and free software",
+      "url": "https://en.wikipedia.org/wiki/Software_patents_and_free_software"
+    },
+    {
+      "title": "Source-available software",
+      "url": "https://en.wikipedia.org/wiki/Source-available_software"
+    },
+    {
+      "title": "SourceForge, Inc",
+      "url": "https://en.wikipedia.org/wiki/SourceForge%2C_Inc"
+    },
+    {
+      "title": "Specification (technical standard)",
+      "url": "https://en.wikipedia.org/wiki/Specification_%28technical_standard%29"
+    },
+    {
+      "title": "Splice (system call)",
+      "url": "https://en.wikipedia.org/wiki/Splice_%28system_call%29"
+    },
+    {
+      "title": "Stephen Tweedie",
+      "url": "https://en.wikipedia.org/wiki/Stephen_Tweedie"
+    },
+    {
+      "title": "Suparna Bhattacharya",
+      "url": "https://en.wikipedia.org/wiki/Suparna_Bhattacharya"
+    },
+    {
+      "title": "Sync (Unix)",
+      "url": "https://en.wikipedia.org/wiki/Sync_%28Unix%29"
+    },
+    {
+      "title": "Sysfs",
+      "url": "https://en.wikipedia.org/wiki/Sysfs"
+    },
+    {
+      "title": "System.map",
+      "url": "https://en.wikipedia.org/wiki/System.map"
+    },
+    {
+      "title": "SystemTap",
+      "url": "https://en.wikipedia.org/wiki/SystemTap"
+    },
+    {
+      "title": "Systemd",
+      "url": "https://en.wikipedia.org/wiki/Systemd"
+    },
+    {
+      "title": "T-Systems",
+      "url": "https://en.wikipedia.org/wiki/T-Systems"
+    },
+    {
+      "title": "TLA+",
+      "url": "https://en.wikipedia.org/wiki/TLA%2B"
+    },
+    {
+      "title": "Tanenbaum–Torvalds debate",
+      "url": "https://en.wikipedia.org/wiki/Tanenbaum%E2%80%93Torvalds_debate"
+    },
+    {
+      "title": "TechCrunch",
+      "url": "https://en.wikipedia.org/wiki/TechCrunch"
+    },
+    {
+      "title": "Terraform (software)",
+      "url": "https://en.wikipedia.org/wiki/Terraform_%28software%29"
+    },
+    {
+      "title": "The Cathedral and the Bazaar",
+      "url": "https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar"
+    },
+    {
+      "title": "The Free Software Definition",
+      "url": "https://en.wikipedia.org/wiki/The_Free_Software_Definition"
+    },
+    {
+      "title": "The Linux Programming Interface",
+      "url": "https://en.wikipedia.org/wiki/The_Linux_Programming_Interface"
+    },
+    {
+      "title": "The Open Source Definition",
+      "url": "https://en.wikipedia.org/wiki/The_Open_Source_Definition"
+    },
+    {
+      "title": "The Register",
+      "url": "https://en.wikipedia.org/wiki/The_Register"
+    },
+    {
+      "title": "Theodore Ts'o",
+      "url": "https://en.wikipedia.org/wiki/Theodore_Ts%27o"
+    },
+    {
+      "title": "Timeline of free and open-source software",
+      "url": "https://en.wikipedia.org/wiki/Timeline_of_free_and_open-source_software"
+    },
+    {
+      "title": "Tivoization",
+      "url": "https://en.wikipedia.org/wiki/Tivoization"
+    },
+    {
+      "title": "Tizen",
+      "url": "https://en.wikipedia.org/wiki/Tizen"
+    },
+    {
+      "title": "Tmpfs",
+      "url": "https://en.wikipedia.org/wiki/Tmpfs"
+    },
+    {
+      "title": "Tokyo, Japan",
+      "url": "https://en.wikipedia.org/wiki/Tokyo%2C_Japan"
+    },
+    {
+      "title": "TomTom",
+      "url": "https://en.wikipedia.org/wiki/TomTom"
+    },
+    {
+      "title": "Tomoyo Linux",
+      "url": "https://en.wikipedia.org/wiki/Tomoyo_Linux"
+    },
+    {
+      "title": "Trusted Computing",
+      "url": "https://en.wikipedia.org/wiki/Trusted_Computing"
+    },
+    {
+      "title": "Tux (mascot)",
+      "url": "https://en.wikipedia.org/wiki/Tux_%28mascot%29"
+    },
+    {
+      "title": "UClibc",
+      "url": "https://en.wikipedia.org/wiki/UClibc"
+    },
+    {
+      "title": "Udev",
+      "url": "https://en.wikipedia.org/wiki/Udev"
+    },
+    {
+      "title": "United States",
+      "url": "https://en.wikipedia.org/wiki/United_States"
+    },
+    {
+      "title": "University of California, Berkeley",
+      "url": "https://en.wikipedia.org/wiki/University_of_California%2C_Berkeley"
+    },
+    {
+      "title": "University of Rovira i Virgili",
+      "url": "https://en.wikipedia.org/wiki/University_of_Rovira_i_Virgili"
+    },
+    {
+      "title": "Unlicense",
+      "url": "https://en.wikipedia.org/wiki/Unlicense"
+    },
+    {
+      "title": "User-mode Linux",
+      "url": "https://en.wikipedia.org/wiki/User-mode_Linux"
+    },
+    {
+      "title": "User space and kernel space",
+      "url": "https://en.wikipedia.org/wiki/User_space_and_kernel_space"
+    },
+    {
+      "title": "VLLM",
+      "url": "https://en.wikipedia.org/wiki/VLLM"
+    },
+    {
+      "title": "Valkey",
+      "url": "https://en.wikipedia.org/wiki/Valkey"
+    },
+    {
+      "title": "Vancouver, Canada",
+      "url": "https://en.wikipedia.org/wiki/Vancouver%2C_Canada"
+    },
+    {
+      "title": "VentureBeat",
+      "url": "https://en.wikipedia.org/wiki/VentureBeat"
+    },
+    {
+      "title": "Video4Linux",
+      "url": "https://en.wikipedia.org/wiki/Video4Linux"
+    },
+    {
+      "title": "Video games and Linux",
+      "url": "https://en.wikipedia.org/wiki/Video_games_and_Linux"
+    },
+    {
+      "title": "Vienna, Austria",
+      "url": "https://en.wikipedia.org/wiki/Vienna%2C_Austria"
+    },
+    {
+      "title": "Virtual file system",
+      "url": "https://en.wikipedia.org/wiki/Virtual_file_system"
+    },
+    {
+      "title": "Virtualization",
+      "url": "https://en.wikipedia.org/wiki/Virtualization"
+    },
+    {
+      "title": "Visa Inc.",
+      "url": "https://en.wikipedia.org/wiki/Visa_Inc."
+    },
+    {
+      "title": "Vmlinux",
+      "url": "https://en.wikipedia.org/wiki/Vmlinux"
+    },
+    {
+      "title": "WTFPL",
+      "url": "https://en.wikipedia.org/wiki/WTFPL"
+    },
+    {
+      "title": "Web API",
+      "url": "https://en.wikipedia.org/wiki/Web_API"
+    },
+    {
+      "title": "Werner Almesberger",
+      "url": "https://en.wikipedia.org/wiki/Werner_Almesberger"
+    },
+    {
+      "title": "Wilmington, Delaware",
+      "url": "https://en.wikipedia.org/wiki/Wilmington%2C_Delaware"
+    },
+    {
+      "title": "Wrapper library",
+      "url": "https://en.wikipedia.org/wiki/Wrapper_library"
+    },
+    {
+      "title": "X32 ABI",
+      "url": "https://en.wikipedia.org/wiki/X32_ABI"
+    },
+    {
+      "title": "Xen",
+      "url": "https://en.wikipedia.org/wiki/Xen"
+    },
+    {
+      "title": "Xen Project",
+      "url": "https://en.wikipedia.org/wiki/Xen_Project"
+    },
+    {
+      "title": "Xenomai",
+      "url": "https://en.wikipedia.org/wiki/Xenomai"
+    },
+    {
+      "title": "Yocto Project",
+      "url": "https://en.wikipedia.org/wiki/Yocto_Project"
+    },
+    {
+      "title": "Zephyr Project",
+      "url": "https://en.wikipedia.org/wiki/Zephyr_Project"
+    },
+    {
+      "title": "Zlib License",
+      "url": "https://en.wikipedia.org/wiki/Zlib_License"
+    },
+    {
+      "title": "Zram",
+      "url": "https://en.wikipedia.org/wiki/Zram"
+    },
+    {
+      "title": "Zswap",
+      "url": "https://en.wikipedia.org/wiki/Zswap"
+    },
+    {
+      "title": "ΜClinux",
+      "url": "https://en.wikipedia.org/wiki/%CE%9CClinux"
+    }
+  ]
+}

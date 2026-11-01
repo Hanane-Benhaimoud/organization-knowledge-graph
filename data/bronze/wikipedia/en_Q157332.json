@@ -1,0 +1,2072 @@
+{
+  "document_id": "wikipedia_en_Q157332",
+  "wikidata_id": "Q157332",
+  "entity_label": "German Aerospace Center",
+  "entity_type": "organization",
+  "seed_categories": [],
+  "source": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/German_Aerospace_Center",
+  "revision_id": 1380865333,
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1380865333",
+  "pageid": 647619,
+  "title": "German Aerospace Center",
+  "language": "en",
+  "collected_at": "2026-10-28T21:59:22.467423+00:00",
+  "content": {
+    "sections": [
+      {
+        "heading": "Introduction",
+        "text": "The German Aerospace Center ( German : Deutsches Zentrum für Luft- und Raumfahrt e.V. ; DLR ) is Germany's research and technology organization for aeronautics and space . It conducts research for these fields, as well as in energy , transport , security and defense . The German Space Agency at the DLR is Germany's space agency . DLR also serves as a project management agency ( Projektträger ) both nationally and internationally.\nDLR is headquartered in Cologne . It operates at 30 locations across Germany with 51 institutes, facilities and competence centers . DLR employs a total of 11,786 people (as of 2024).\nDLR is actively engaged in European and international research networks and maintains offices in Brussels , Paris , Washington D.C. and Tokyo . It also collaborates with several international research infrastructures, including Andøya , Norway ( launch site for sounding rockets ), Almería , Spain (research, development and test center for concentrating solar technologies ), Évora , Portugal ( solar field with parabolic trough test facility for molten salt ), Gars O'Higgins , Antarctica (satellite data receiving station), Inuvik , Canada (satellite data reception station), and Kiruna , Sweden (launch site for sounding rockets)."
+      },
+      {
+        "heading": "1907 to 1945",
+        "text": "The origins of aeronautics and space research in Germany date back to 1907, when Ludwig Prandtl founded the MVA, the Modellversuchsanstalt für Aerodynamik der Motorluftschiff-Studiengesellschaft in Göttingen , which later became the Aerodynamics Research Institute ( Aerodynamische Versuchsanstalt ; AVA). Other important predecessors include the German Experimental Institute for Aviation ( Deutsche Versuchsanstalt für Luftfahrt ; DVL) in Berlin-Adlershof , founded in 1912; the German Aeronautical Research Institute ( Deutsche Forschungsanstalt für Luftfahrt ; DFL) in Braunschweig , founded in 1936; and the Aeronautical Radio Research Institute Oberpfaffenhofen ( Flugfunk Forschungsinstitut Oberpfaffenhofen ; FFO), founded in 1937 and led by Max Dieckmann. During the Nazi era , these institutions were involved in armaments research and, in some cases, made use of forced labor . The predecessor of today's Institute of Aerospace Medicine ( Institut für Luft- und Raumfahrtmedizin ) was involved in human experiments , in which physician Siegfried Ruff played a central role."
+      },
+      {
+        "heading": "1946 to 1969",
+        "text": "After the World War II , aeronautical research was initially subject to Allied restrictions. Reconstruction began in the 1950s, particularly in Bavaria , where the FFO was integrated into the DVL."
+      },
+      {
+        "heading": "Since 1969",
+        "text": "By the late 1960s, the fragmented research landscape was considered unsustainable, despite strong resistance from individual stakeholders. In 1969, the German Research and Test Institute for Aviation and Space Flight ( Deutsche Forschungs- und Versuchsanstalt für Luft- und Raumfahrt ; DFVLR) was founded through the merger of the DVL, AVA, DFL and other institutes. In 1989, it was renamed the German Research Institute for Aviation and Spaceflight ( Deutsche Forschungsanstalt für Luft- und Raumfahrt ; DLR) and in 1997 it merged with the German Agency for Spaceflight Affairs ( Deutsche Agentur für Raumfahrtangelegenheiten ; DARA), forming the present-day DLR."
+      },
+      {
+        "heading": "Core activities",
+        "text": "DLR conducts research and development with a focus on aeronautics, space, energy, transport, security and defense. As an independent organizational unit alongside the research institutes, the German Space Agency at DLR is responsible for planning and implementing Germany's space activities on behalf of the German Federal Government . Other independent organizational units are Projektträger (DLR's project management agency) and, for aviation, the Programme Management Agency for Aviation Research. Both oversee funding programs and promote knowledge transfer ."
+      },
+      {
+        "heading": "Funding",
+        "text": "DLR's institutional research is funded by the federal government and by the federal states in which it has sites. DLR also raises third-party funds. In 2024, DLR's total funding amounted to 1.701 billion euros. The federal and state governments contributed 52.9 per cent of this, while 47.1 per cent came from third-party funding."
+      },
+      {
+        "heading": "Memberships",
+        "text": "Among others, DLR is a member of the Consultative Committee for Space Data Systems (CCSDS), the European Cooperation for Space Standardization (ECSS) and the Helmholtz Association of German Research Centres ."
+      },
+      {
+        "heading": "Research overview",
+        "text": "DLR conducts research in the key areas of aeronautics, space, energy and transport, as well as the cross-cutting fields of security, defense and digitalization . Its focus is on the development of new applications as well as the associated societal, technological and economic challenges. DLR collaborates with public stakeholders – including ministries, local authorities and agencies – providing data and evidence to support decision-making . It also cooperates with industry. DLR's goal is to drive innovation and technology transfer , contributing to practical new technical and technological applications, developing intellectual property rights and licenses and supporting startups."
+      },
+      {
+        "heading": "Aeronautics",
+        "text": "DLR's aeronautics research focuses on climate-compatible and safe aviation , including efficient, low-emission electric propulsion systems, uncrewed aerial systems (UAS), aerodynamics , noise reduction and assistance systems. With its research infrastructure, including test benches and research aircraft , DLR carries out projects on environmentally compatible fuels, propulsion technologies, aerodynamics and atmospheric research. The respective research infrastructure includes wind tunnels in Göttingen and Braunschweig for airflow testing, as well as the ACT/FHS Flying Helicopter Simulator."
+      },
+      {
+        "heading": "Space",
+        "text": "DLR's space research develops concepts for earth observation , communication and navigation. It develops, tests and qualifies space technologies. With a focus on sustainability , it focuses on reusable space systems, environmentally compatible fuels, maintainable satellites and space debris removal. DLR's exploration projects are carried out within international collaborations and target destinations both within and outside the Solar System, such as the Martian Moons eXploration (MMX) mission to Mars's moon Phobos – a German-French-Japanese collaboration. DLR conducts research under space conditions, using sounding rockets to carry experiments to the edge of space. DLR also operates the German Space Operations Center (GSOC) and supports decision-makers and disaster relief teams on the ground and in crisis situations worldwide through its Center for Satellite-Based Crisis Information ( Zentrum für satellitengestützte Kriseninformation , ZKI)."
+      },
+      {
+        "heading": "Energy",
+        "text": "DLR's energy research focuses on solutions in electricity, heat and chemical energy carriers. Through numerous projects, it investigates concepts for renewable energy generation, storage and conversion . The energy research area operates 64 test and experimental facilities, advancing projects to high levels of technology readiness. Research includes technology concepts for generating electricity and hydrogen from renewable sources, the development of efficient energy storage systems and the modeling and simulation of entire energy systems. At the Wind Energy Research Park (WiValdi) in Krummendeich , DLR is researching quieter and more cost-effective wind turbines . DLR also operates solar tower power plants in Jülich and at the Plataforma Solar de Almería , in collaboration with the Spanish research institute CIEMAT .\nIn June 2026, in collaboration with the researchers from the Karlsruhe Institute of Technology , the German Aerospace Center published PAINT (Pre-processed and Aligned Information of a Solar Tower), the world's first open-access, high-resolution database for an operational concentrating solar power (CSP) tower plant. Published in *Nature Energy*, the 849 GB dataset provides machine-readable operational and meteorological data from the Jülich Solar Tower to accelerate global solar thermal research and AI-driven automation."
+      },
+      {
+        "heading": "Transport",
+        "text": "DLR's transport research focuses on the development of technological solutions for rail , road and maritime transport . Through a wide range of projects, DLR is working to promote safe, future-proof mobility and to make transport more sustainable through climate-compatible propulsion concepts. The respective infrastructure includes autonomous research vehicles, test benches, simulators , as well as measurement and test tracks. These facilities enable DLR to conduct research into both concepts that affect the transport system as a whole and vehicle concepts such as the Next Generation Car family, as well as their subsystems. DLR is also active in maritime traffic management and implements projects on emission-free shipping, automated assistance systems and transport chain coordination at the national and international levels."
+      },
+      {
+        "heading": "Security and defense",
+        "text": "DLR contributes to the development, testing and evaluation of security- and defense-related technologies. Its strategic focus encompasses the protection and monitoring of critical infrastructure , crisis and disaster management , border security and protection against terrorism ."
+      },
+      {
+        "heading": "Digitalization",
+        "text": "DLR's research into digitalization aims to provide impulses for industry and to develop new technologies, methods and processes in an application-oriented manner, deploying them in research and research management. Key areas include artificial intelligence and autonomous systems.\nLow-speed wind tunnel of the DLR in Braunschweig LUNA mission simulation, cooperation between humans and robots Automatic traffic detection at the Allianz Arena ( Munich ) Krummendeich : DLR wind turbine OPUS-1 Remote-controlled off-road vehicle SHERP Aircraft manufacturing : Research on digitalization at DLR"
+      },
+      {
+        "heading": "Organization and legal basis",
+        "text": "The German Space Agency at DLR serves as Germany's national space agency. It is based in Bonn and employs approximately 350 people. Part of DLR, it coordinates all German space activities. The federal government has assigned DLR sovereign tasks in the field of spaceflight under the Space Affairs Delegation Act ( Raumfahrtaufgabenübertragungsgesetz ; RAÜG)."
+      },
+      {
+        "heading": "Key responsibilities",
+        "text": "Central tasks of the agency include:\nProgram planning: development and management of the national space program and budget International representation: representing Germany in international space organizations and managing German contributions to ESA and EUMETSAT Consulting and strategy: advising the German Federal Government and implementing the national space strategy\nManagement functions include:\nResearch funding: support and financing of research experiments under space conditions, such as parabolic flight campaigns Technology transfer: promoting commercialization, innovation and competitiveness in the space industry Digitalization: advancing digitalization and the development of innovative space technologies\nSocietal responsibilities include:\nClimate protection and the environment: providing data to support climate protection and environmental monitoring through space missions Public outreach and education: informing the public and fostering interest in space, particularly among young people Security and defense: contributing to national security, including operation of the Space Situational Awareness Centre together with the Bundeswehr (German Armed Forces)"
+      },
+      {
+        "heading": "Fundamental tasks",
+        "text": "DLR operates two independent project management units with distinct service profiles and thematic priorities."
+      },
+      {
+        "heading": "DLR Projektträger",
+        "text": "Since 1975, DLR Projektträge r has been part of DLR and acts as a service provider for the management of research, education and innovation programs on behalf of federal and state ministries, the European Commission and other organizations. It develops strategies, manages funding programs and projects, facilitates expert and public dialogue and supports the exploitation of knowledge."
+      },
+      {
+        "heading": "Programme Management Agency for Aviation Research",
+        "text": "Since 1994, the Programme Management Agency for Aviation Research has been a distinct organizational unit of DLR. It acts as the central service institution for aeronautics research in Germany. The agency supports the Federal Ministry for Economic Affairs and Energy ( Bundesministerium für Wirtschaft und Energie ; BMWE) in implementing the LuFo Climate federal civil aviation research program ( Luftfahrtforschungsprogramm des Bundes ; LuFo Klima). As the national contact point for aeronautics research within the EU Framework Programme, the Programme Management Agency for Aeronautics Research coordinates collaboration with European partners and programs."
+      },
+      {
+        "heading": "Research aircraft",
+        "text": "DLR operates Europe's largest research aircraft fleet."
+      },
+      {
+        "heading": "Gallery",
+        "text": "Dornier 328 ″UpLift″ Dassault Falcon 2000LX ″ISTAR″ Gulfstream G550, ″HALO″ Airbus A320-232 ″ATRA Research aircraft DO 228-212 D-CMET – Dassault Falcon 20E-5 Helicopter EC 135 Helicopter BO 105 CB"
+      },
+      {
+        "heading": "ALICIA",
+        "text": "The ALICIA project (Aviation Life Cycle and Impact Assessment) is developing a digital assessment platform to systematically and comparatively analyze the climate, environmental and economic impacts of new aircraft technologies and aviation procedures across their entire life cycle . Its aim is to provide industry and policymakers with a well-founded basis for decision-making on climate-compatible and sustainable aviation, including an interactive dashboard for scenario comparisons and simulations."
+      },
+      {
+        "heading": "EXACT",
+        "text": "The EXACT project (\"Exploration of Electric Aircraft Concepts and Technologies\") is one of the most comprehensive studies addressing the development of climate-friendly and economically viable aircraft concepts. It systematically compares technologies such as hydrogen, batteries and sustainable aviation fuels and aims to develop and evaluate realistic aircraft designs for deployment from 2040 onwards. The project involves up to 20 DLR institutes and numerous external partners."
+      },
+      {
+        "heading": "HAP-alpha",
+        "text": "The HAP-alpha project is developing a solar-powered, unmanned stratospheric platform with a wingspan of 27 meters and a weight of under 140 kg. Designed as a technological demonstrator in the lower stratosphere, it is intended to perform tasks for earth observation and communications as a flexible, serviceable alternative to satellites , enabling long-duration missions with a wide variety of payloads . A first low-altitude flight is planned for 2026."
+      },
+      {
+        "heading": "Emissions research",
+        "text": "DLR conducts research into CO 2 and noise emissions in air traffic. In addition to exploring ways to reduce carbon dioxide input into the atmosphere, DLR also researches non-CO 2 emissions such as contrails , which are likewise harmful to the climate. To this end, DLR conducted a 100-flight measurement program together with DFS Deutsche Flugsicherung and selected airlines.\nDLR is also involved in research into sustainable fuels – without a fossil basis – in aviation.\nTo avoid an increase in noise pollution from air traffic despite rising traffic volumes, DLR conducts dedicated research projects on noise reduction."
+      },
+      {
+        "heading": "German Space Operations Center",
+        "text": "The German Space Operations Center (GSOC) of DLR in Oberpfaffenhofen has been conducting spaceflight missions with a wide range of applications since 1969 – from commanding earth observation satellites to operating the Columbus module on the International Space Station . In addition, the \"Human Exploration Control Center\" (HECC) is being developed at GSOC to support European crewed missions to the Moon , Mars and beyond.\nDLR joined the International Charter on Space and Major Disasters in 2010. The Center for Satellite-Based Crisis Information (ZKI) provides satellite imagery from its earth observation satellites for disaster coordination – including in the case of tsunamis , floods , earthquakes , volcanic eruptions , wildfires and other natural disasters."
+      },
+      {
+        "heading": "TerraSAR-X and TanDEM-X",
+        "text": "The Earth observation satellite TerraSAR-X entered service in 2008. The mission's aim is to supply users in research and industry with radar-based remote sensing data. The satellite can image the earth's surface in areas of 10 to 100 km with a resolution of up to 16 m. Since the launch of the twin satellite TanDEM-X in 2010, both have been orbiting the Earth in close formation, providing data for high-resolution digital elevation models of land structures. The radar images serve diverse applications, including topographic mapping , defense and security applications, crisis response planning and environmental monitoring."
+      },
+      {
+        "heading": "Research under space conditions",
+        "text": "In February 2008, the Columbus laboratory , Europe's central contribution to the International Space Station (ISS), was launched and docked to the ISS. The cylindrical module, with a diameter of 4.5 m, is equipped with modern research facilities, including a biology laboratory, a facility for fluid investigations and experimental units for materials science . Hundreds of experiments have already been conducted, serving research in materials sciences, medicine, biology and physics. DLR operates the Columbus Control Centre in Oberpfaffenhofen on behalf of ESA and is responsible for coordinating research activities as well as system operations and life support aboard the Columbus laboratory in orbit."
+      },
+      {
+        "heading": "Robotics",
+        "text": "DLR develops robots at the Institute of Robotics and Mechatronics intended to help humans interact more effectively and safely with their environment. Research spans system analysis and design, mechanical construction, electronics development, control engineering and dynamic simulation. In the field of space robotics, DLR develops robotic systems particularly for the exploration of distant celestial bodies that are inaccessible to humans due to distance or hostile conditions."
+      },
+      {
+        "heading": "HRSC on Mars Express",
+        "text": "The High Resolution Stereo Camera (HRSC) is Germany's most important contribution to the Mars Express mission of the European Space Agency ESA. Originally developed for Mars 96 at DLR's Institute of Planetary Research, the camera images the Martian surface at resolutions of 10 to 30 m and enables three-dimensional analysis."
+      },
+      {
+        "heading": "Martian Moons Exploration (MMX)",
+        "text": "The launch of the Japanese spacecraft Martian Moons eXploration (MMX) is planned for 2026. It will orbit Phobos and Deimos and bring back samples from Phobos for the first time. The mission aims to clarify the origin of the Martian moons. Led by the Japan Aerospace Exploration Agency (JAXA), DLR is collaborating with a number of international partners. The mission is scheduled to last until 2031."
+      },
+      {
+        "heading": "Jupiter Icy Moons Explorer (JUICE)",
+        "text": "JUICE is ESA's current flagship mission to Jupiter and its three largest ice-covered moons: Ganymede , Europa and Callisto . The orbiter was launched on 14 April 2023 and is expected to reach the Jupiter system in 2031. The mission's goal is to investigate the internal structure, oceans and potential habitability of these moons, and to gather evidence of subsurface oceans and their geodynamics . DLR is a project partner, contributing measuring instruments, a specialized camera and data analysis."
+      },
+      {
+        "heading": "Artemis II",
+        "text": "Artemis II was the first crewed lunar fly-by mission of NASA’s Artemis program and was completed in April 2026. The crew flew around the Moon aboard the Orion spacecraft and returned safely to Earth after about ten days. During the mission, Orion’s life-support and other critical systems were tested under real spaceflight conditions with astronauts on board for the first time. The mission provided experience for future crewed lunar missions and planned lunar landings . DLR contributed radiation detectors. Artemis II also carried the small satellite TACHELES , which tested electronic components for a future lunar rover on its journey toward the Moon."
+      },
+      {
+        "heading": "Wind energy",
+        "text": "At Krummendeich , DLR is developing the Wind Energy Research Park (WiValdi) together with research partners, testing new technologies and rotor blades under real conditions. The aim is to develop efficient wind turbines that are climate-compatible and sustainable."
+      },
+      {
+        "heading": "Solar energy",
+        "text": "In 2007, the world's first commercially operated solar tower power plant , the PS10 , went into operation near Sanlúcar la Mayor (Spain). DLR was involved in the technology development for this type of power plant.\nThe Jülich solar tower power plant , in operation since 2008, concentrates the light of more than 2,000 computer-controlled mirrors ( heliostats ), generating air heated to up to 700 °C. Research focuses on the further development and testing of receivers, storage technologies and processes for the energy transition, including the production of climate-neutral fuels (e.g. hydrogen, synthetic kerosene ) and high-temperature industrial processes.\nDLR uses test facilities at sites in Cologne, Stuttgart and Jülich for its own research, as well as the Plataforma Solar de Almería , the European test center for concentrating solar technologies operated by the Spanish research organization CIEMAT."
+      },
+      {
+        "heading": "Power to Liquid (TPP Leuna)",
+        "text": "In Leuna , Europe's largest research and demonstration plant for the production of electricity-based, synthetic fuels (power-to-liquid; PtL) is currently being built. DLR is constructing the \"Technology Platform for Power-to-Liquid Fuels\" (TPP), which can produce up to 2,500 tonnes of CO₂-neutral aviation fuel and other e-fuels per year. The aim is the industrial scaling and optimization of processes for the production of synthetic kerosene and other e-fuels from renewable electricity, CO₂ and hydrogen."
+      },
+      {
+        "heading": "Hydrogen",
+        "text": "As part of its wide-ranging hydrogen research, DLR also investigates the possibilities and conditions for converting the world's aircraft fleet to hydrogen propulsion . DLR scientists have worked on hydrosol projects, through which it was first possible to thermally split water into hydrogen and oxygen using solar energy, without CO₂ emissions. For this, the team was awarded the Descartes Prize of the European Commission for research in 2007, together with other working groups."
+      },
+      {
+        "heading": "Transport systems",
+        "text": "The DLR MovingLab is a data collection system for transport research that automatically records mobility data via smartphone apps and sensors. The platform enables l ongitudinal studies on journeys, modes of transport used and their combination – going beyond the capabilities of traditional surveys. It provides well-founded data on real mobility behavior in order to analyze new mobility concepts, public offerings ( carsharing , autonomous driving ) and their social use in detail."
+      },
+      {
+        "heading": "Road transport",
+        "text": "The DLR Next Generation Car (NGC) family bundles research on the development of future road vehicles. Focus areas include new mobility concepts, lightweight construction, digitalization, automated driving and climate-friendly propulsion technologies – in particular electric mobility, hydrogen and hybrid systems . The NGC family encompasses various vehicle types, including the autonomous, driverless, electric U-Shift vehicle concept, the Safe Light Regional Vehicle (SLRV) for regional mobility, the Urban Modular Vehicle (UMV) for urban areas and the Interurban Vehicle for longer distances."
+      },
+      {
+        "heading": "Rail transport",
+        "text": "The Next Generation Train project at DLR, running since 2007, is a comprehensive research program for the development of novel trains. Areas of focus include lightweight construction, energy savings, noise reduction, drive modularity , passenger comfort, the design and optimization of life cycles and improved accident prevention. The concept addresses new high-speed trains with speeds of up to 400 km/h, regional feeder trains and freight trains ."
+      },
+      {
+        "heading": "Further reading",
+        "text": "Reinke, Niklas (2004). Geschichte der deutschen Raumfahrtpolitik. Konzepte, Einflussfaktoren und Interdependenzen 1923–2002 . Schriften des Forschungsinstituts der Deutschen Gesellschaft für Auswärtige Politik e. V., Berlin. Internationale Politik und Wirtschaft, Bd. 71. München: Oldenbourg. ISBN 3-486-56842-6 . Helmuth Trischler (1992). Luft- und Raumfahrtforschung in Deutschland 1900–1970. Politische Geschichte einer Wissenschaft . Studien zur Geschichte der deutschen Großforschungseinrichtungen, Bd. 4. Frankfurt/New York: Campus. ISBN 978-3-593-34586-4 ."
+      },
+      {
+        "heading": "See also",
+        "text": "List of aerospace flight test centres List of government space agencies"
+      },
+      {
+        "heading": "External links",
+        "text": "Official website of the German Aerospace Center History of DLR DLR sites and offices Literature by and about German Aerospace Center in the German National Library catalogue\n50°51′10.282″N 7°7′23.430″E ﻿ / ﻿ 50.85285611°N 7.12317500°E ﻿ / 50.85285611; 7.12317500"
+      }
+    ],
+    "full_text": "Introduction\nThe German Aerospace Center ( German : Deutsches Zentrum für Luft- und Raumfahrt e.V. ; DLR ) is Germany's research and technology organization for aeronautics and space . It conducts research for these fields, as well as in energy , transport , security and defense . The German Space Agency at the DLR is Germany's space agency . DLR also serves as a project management agency ( Projektträger ) both nationally and internationally.\nDLR is headquartered in Cologne . It operates at 30 locations across Germany with 51 institutes, facilities and competence centers . DLR employs a total of 11,786 people (as of 2024).\nDLR is actively engaged in European and international research networks and maintains offices in Brussels , Paris , Washington D.C. and Tokyo . It also collaborates with several international research infrastructures, including Andøya , Norway ( launch site for sounding rockets ), Almería , Spain (research, development and test center for concentrating solar technologies ), Évora , Portugal ( solar field with parabolic trough test facility for molten salt ), Gars O'Higgins , Antarctica (satellite data receiving station), Inuvik , Canada (satellite data reception station), and Kiruna , Sweden (launch site for sounding rockets).\n\n1907 to 1945\nThe origins of aeronautics and space research in Germany date back to 1907, when Ludwig Prandtl founded the MVA, the Modellversuchsanstalt für Aerodynamik der Motorluftschiff-Studiengesellschaft in Göttingen , which later became the Aerodynamics Research Institute ( Aerodynamische Versuchsanstalt ; AVA). Other important predecessors include the German Experimental Institute for Aviation ( Deutsche Versuchsanstalt für Luftfahrt ; DVL) in Berlin-Adlershof , founded in 1912; the German Aeronautical Research Institute ( Deutsche Forschungsanstalt für Luftfahrt ; DFL) in Braunschweig , founded in 1936; and the Aeronautical Radio Research Institute Oberpfaffenhofen ( Flugfunk Forschungsinstitut Oberpfaffenhofen ; FFO), founded in 1937 and led by Max Dieckmann. During the Nazi era , these institutions were involved in armaments research and, in some cases, made use of forced labor . The predecessor of today's Institute of Aerospace Medicine ( Institut für Luft- und Raumfahrtmedizin ) was involved in human experiments , in which physician Siegfried Ruff played a central role.\n\n1946 to 1969\nAfter the World War II , aeronautical research was initially subject to Allied restrictions. Reconstruction began in the 1950s, particularly in Bavaria , where the FFO was integrated into the DVL.\n\nSince 1969\nBy the late 1960s, the fragmented research landscape was considered unsustainable, despite strong resistance from individual stakeholders. In 1969, the German Research and Test Institute for Aviation and Space Flight ( Deutsche Forschungs- und Versuchsanstalt für Luft- und Raumfahrt ; DFVLR) was founded through the merger of the DVL, AVA, DFL and other institutes. In 1989, it was renamed the German Research Institute for Aviation and Spaceflight ( Deutsche Forschungsanstalt für Luft- und Raumfahrt ; DLR) and in 1997 it merged with the German Agency for Spaceflight Affairs ( Deutsche Agentur für Raumfahrtangelegenheiten ; DARA), forming the present-day DLR.\n\nCore activities\nDLR conducts research and development with a focus on aeronautics, space, energy, transport, security and defense. As an independent organizational unit alongside the research institutes, the German Space Agency at DLR is responsible for planning and implementing Germany's space activities on behalf of the German Federal Government . Other independent organizational units are Projektträger (DLR's project management agency) and, for aviation, the Programme Management Agency for Aviation Research. Both oversee funding programs and promote knowledge transfer .\n\nFunding\nDLR's institutional research is funded by the federal government and by the federal states in which it has sites. DLR also raises third-party funds. In 2024, DLR's total funding amounted to 1.701 billion euros. The federal and state governments contributed 52.9 per cent of this, while 47.1 per cent came from third-party funding.\n\nMemberships\nAmong others, DLR is a member of the Consultative Committee for Space Data Systems (CCSDS), the European Cooperation for Space Standardization (ECSS) and the Helmholtz Association of German Research Centres .\n\nResearch overview\nDLR conducts research in the key areas of aeronautics, space, energy and transport, as well as the cross-cutting fields of security, defense and digitalization . Its focus is on the development of new applications as well as the associated societal, technological and economic challenges. DLR collaborates with public stakeholders – including ministries, local authorities and agencies – providing data and evidence to support decision-making . It also cooperates with industry. DLR's goal is to drive innovation and technology transfer , contributing to practical new technical and technological applications, developing intellectual property rights and licenses and supporting startups.\n\nAeronautics\nDLR's aeronautics research focuses on climate-compatible and safe aviation , including efficient, low-emission electric propulsion systems, uncrewed aerial systems (UAS), aerodynamics , noise reduction and assistance systems. With its research infrastructure, including test benches and research aircraft , DLR carries out projects on environmentally compatible fuels, propulsion technologies, aerodynamics and atmospheric research. The respective research infrastructure includes wind tunnels in Göttingen and Braunschweig for airflow testing, as well as the ACT/FHS Flying Helicopter Simulator.\n\nSpace\nDLR's space research develops concepts for earth observation , communication and navigation. It develops, tests and qualifies space technologies. With a focus on sustainability , it focuses on reusable space systems, environmentally compatible fuels, maintainable satellites and space debris removal. DLR's exploration projects are carried out within international collaborations and target destinations both within and outside the Solar System, such as the Martian Moons eXploration (MMX) mission to Mars's moon Phobos – a German-French-Japanese collaboration. DLR conducts research under space conditions, using sounding rockets to carry experiments to the edge of space. DLR also operates the German Space Operations Center (GSOC) and supports decision-makers and disaster relief teams on the ground and in crisis situations worldwide through its Center for Satellite-Based Crisis Information ( Zentrum für satellitengestützte Kriseninformation , ZKI).\n\nEnergy\nDLR's energy research focuses on solutions in electricity, heat and chemical energy carriers. Through numerous projects, it investigates concepts for renewable energy generation, storage and conversion . The energy research area operates 64 test and experimental facilities, advancing projects to high levels of technology readiness. Research includes technology concepts for generating electricity and hydrogen from renewable sources, the development of efficient energy storage systems and the modeling and simulation of entire energy systems. At the Wind Energy Research Park (WiValdi) in Krummendeich , DLR is researching quieter and more cost-effective wind turbines . DLR also operates solar tower power plants in Jülich and at the Plataforma Solar de Almería , in collaboration with the Spanish research institute CIEMAT .\nIn June 2026, in collaboration with the researchers from the Karlsruhe Institute of Technology , the German Aerospace Center published PAINT (Pre-processed and Aligned Information of a Solar Tower), the world's first open-access, high-resolution database for an operational concentrating solar power (CSP) tower plant. Published in *Nature Energy*, the 849 GB dataset provides machine-readable operational and meteorological data from the Jülich Solar Tower to accelerate global solar thermal research and AI-driven automation.\n\nTransport\nDLR's transport research focuses on the development of technological solutions for rail , road and maritime transport . Through a wide range of projects, DLR is working to promote safe, future-proof mobility and to make transport more sustainable through climate-compatible propulsion concepts. The respective infrastructure includes autonomous research vehicles, test benches, simulators , as well as measurement and test tracks. These facilities enable DLR to conduct research into both concepts that affect the transport system as a whole and vehicle concepts such as the Next Generation Car family, as well as their subsystems. DLR is also active in maritime traffic management and implements projects on emission-free shipping, automated assistance systems and transport chain coordination at the national and international levels.\n\nSecurity and defense\nDLR contributes to the development, testing and evaluation of security- and defense-related technologies. Its strategic focus encompasses the protection and monitoring of critical infrastructure , crisis and disaster management , border security and protection against terrorism .\n\nDigitalization\nDLR's research into digitalization aims to provide impulses for industry and to develop new technologies, methods and processes in an application-oriented manner, deploying them in research and research management. Key areas include artificial intelligence and autonomous systems.\nLow-speed wind tunnel of the DLR in Braunschweig LUNA mission simulation, cooperation between humans and robots Automatic traffic detection at the Allianz Arena ( Munich ) Krummendeich : DLR wind turbine OPUS-1 Remote-controlled off-road vehicle SHERP Aircraft manufacturing : Research on digitalization at DLR\n\nOrganization and legal basis\nThe German Space Agency at DLR serves as Germany's national space agency. It is based in Bonn and employs approximately 350 people. Part of DLR, it coordinates all German space activities. The federal government has assigned DLR sovereign tasks in the field of spaceflight under the Space Affairs Delegation Act ( Raumfahrtaufgabenübertragungsgesetz ; RAÜG).\n\nKey responsibilities\nCentral tasks of the agency include:\nProgram planning: development and management of the national space program and budget International representation: representing Germany in international space organizations and managing German contributions to ESA and EUMETSAT Consulting and strategy: advising the German Federal Government and implementing the national space strategy\nManagement functions include:\nResearch funding: support and financing of research experiments under space conditions, such as parabolic flight campaigns Technology transfer: promoting commercialization, innovation and competitiveness in the space industry Digitalization: advancing digitalization and the development of innovative space technologies\nSocietal responsibilities include:\nClimate protection and the environment: providing data to support climate protection and environmental monitoring through space missions Public outreach and education: informing the public and fostering interest in space, particularly among young people Security and defense: contributing to national security, including operation of the Space Situational Awareness Centre together with the Bundeswehr (German Armed Forces)\n\nFundamental tasks\nDLR operates two independent project management units with distinct service profiles and thematic priorities.\n\nDLR Projektträger\nSince 1975, DLR Projektträge r has been part of DLR and acts as a service provider for the management of research, education and innovation programs on behalf of federal and state ministries, the European Commission and other organizations. It develops strategies, manages funding programs and projects, facilitates expert and public dialogue and supports the exploitation of knowledge.\n\nProgramme Management Agency for Aviation Research\nSince 1994, the Programme Management Agency for Aviation Research has been a distinct organizational unit of DLR. It acts as the central service institution for aeronautics research in Germany. The agency supports the Federal Ministry for Economic Affairs and Energy ( Bundesministerium für Wirtschaft und Energie ; BMWE) in implementing the LuFo Climate federal civil aviation research program ( Luftfahrtforschungsprogramm des Bundes ; LuFo Klima). As the national contact point for aeronautics research within the EU Framework Programme, the Programme Management Agency for Aeronautics Research coordinates collaboration with European partners and programs.\n\nResearch aircraft\nDLR operates Europe's largest research aircraft fleet.\n\nGallery\nDornier 328 ″UpLift″ Dassault Falcon 2000LX ″ISTAR″ Gulfstream G550, ″HALO″ Airbus A320-232 ″ATRA Research aircraft DO 228-212 D-CMET – Dassault Falcon 20E-5 Helicopter EC 135 Helicopter BO 105 CB\n\nALICIA\nThe ALICIA project (Aviation Life Cycle and Impact Assessment) is developing a digital assessment platform to systematically and comparatively analyze the climate, environmental and economic impacts of new aircraft technologies and aviation procedures across their entire life cycle . Its aim is to provide industry and policymakers with a well-founded basis for decision-making on climate-compatible and sustainable aviation, including an interactive dashboard for scenario comparisons and simulations.\n\nEXACT\nThe EXACT project (\"Exploration of Electric Aircraft Concepts and Technologies\") is one of the most comprehensive studies addressing the development of climate-friendly and economically viable aircraft concepts. It systematically compares technologies such as hydrogen, batteries and sustainable aviation fuels and aims to develop and evaluate realistic aircraft designs for deployment from 2040 onwards. The project involves up to 20 DLR institutes and numerous external partners.\n\nHAP-alpha\nThe HAP-alpha project is developing a solar-powered, unmanned stratospheric platform with a wingspan of 27 meters and a weight of under 140 kg. Designed as a technological demonstrator in the lower stratosphere, it is intended to perform tasks for earth observation and communications as a flexible, serviceable alternative to satellites , enabling long-duration missions with a wide variety of payloads . A first low-altitude flight is planned for 2026.\n\nEmissions research\nDLR conducts research into CO 2 and noise emissions in air traffic. In addition to exploring ways to reduce carbon dioxide input into the atmosphere, DLR also researches non-CO 2 emissions such as contrails , which are likewise harmful to the climate. To this end, DLR conducted a 100-flight measurement program together with DFS Deutsche Flugsicherung and selected airlines.\nDLR is also involved in research into sustainable fuels – without a fossil basis – in aviation.\nTo avoid an increase in noise pollution from air traffic despite rising traffic volumes, DLR conducts dedicated research projects on noise reduction.\n\nGerman Space Operations Center\nThe German Space Operations Center (GSOC) of DLR in Oberpfaffenhofen has been conducting spaceflight missions with a wide range of applications since 1969 – from commanding earth observation satellites to operating the Columbus module on the International Space Station . In addition, the \"Human Exploration Control Center\" (HECC) is being developed at GSOC to support European crewed missions to the Moon , Mars and beyond.\nDLR joined the International Charter on Space and Major Disasters in 2010. The Center for Satellite-Based Crisis Information (ZKI) provides satellite imagery from its earth observation satellites for disaster coordination – including in the case of tsunamis , floods , earthquakes , volcanic eruptions , wildfires and other natural disasters.\n\nTerraSAR-X and TanDEM-X\nThe Earth observation satellite TerraSAR-X entered service in 2008. The mission's aim is to supply users in research and industry with radar-based remote sensing data. The satellite can image the earth's surface in areas of 10 to 100 km with a resolution of up to 16 m. Since the launch of the twin satellite TanDEM-X in 2010, both have been orbiting the Earth in close formation, providing data for high-resolution digital elevation models of land structures. The radar images serve diverse applications, including topographic mapping , defense and security applications, crisis response planning and environmental monitoring.\n\nResearch under space conditions\nIn February 2008, the Columbus laboratory , Europe's central contribution to the International Space Station (ISS), was launched and docked to the ISS. The cylindrical module, with a diameter of 4.5 m, is equipped with modern research facilities, including a biology laboratory, a facility for fluid investigations and experimental units for materials science . Hundreds of experiments have already been conducted, serving research in materials sciences, medicine, biology and physics. DLR operates the Columbus Control Centre in Oberpfaffenhofen on behalf of ESA and is responsible for coordinating research activities as well as system operations and life support aboard the Columbus laboratory in orbit.\n\nRobotics\nDLR develops robots at the Institute of Robotics and Mechatronics intended to help humans interact more effectively and safely with their environment. Research spans system analysis and design, mechanical construction, electronics development, control engineering and dynamic simulation. In the field of space robotics, DLR develops robotic systems particularly for the exploration of distant celestial bodies that are inaccessible to humans due to distance or hostile conditions.\n\nHRSC on Mars Express\nThe High Resolution Stereo Camera (HRSC) is Germany's most important contribution to the Mars Express mission of the European Space Agency ESA. Originally developed for Mars 96 at DLR's Institute of Planetary Research, the camera images the Martian surface at resolutions of 10 to 30 m and enables three-dimensional analysis.\n\nMartian Moons Exploration (MMX)\nThe launch of the Japanese spacecraft Martian Moons eXploration (MMX) is planned for 2026. It will orbit Phobos and Deimos and bring back samples from Phobos for the first time. The mission aims to clarify the origin of the Martian moons. Led by the Japan Aerospace Exploration Agency (JAXA), DLR is collaborating with a number of international partners. The mission is scheduled to last until 2031.\n\nJupiter Icy Moons Explorer (JUICE)\nJUICE is ESA's current flagship mission to Jupiter and its three largest ice-covered moons: Ganymede , Europa and Callisto . The orbiter was launched on 14 April 2023 and is expected to reach the Jupiter system in 2031. The mission's goal is to investigate the internal structure, oceans and potential habitability of these moons, and to gather evidence of subsurface oceans and their geodynamics . DLR is a project partner, contributing measuring instruments, a specialized camera and data analysis.\n\nArtemis II\nArtemis II was the first crewed lunar fly-by mission of NASA’s Artemis program and was completed in April 2026. The crew flew around the Moon aboard the Orion spacecraft and returned safely to Earth after about ten days. During the mission, Orion’s life-support and other critical systems were tested under real spaceflight conditions with astronauts on board for the first time. The mission provided experience for future crewed lunar missions and planned lunar landings . DLR contributed radiation detectors. Artemis II also carried the small satellite TACHELES , which tested electronic components for a future lunar rover on its journey toward the Moon.\n\nWind energy\nAt Krummendeich , DLR is developing the Wind Energy Research Park (WiValdi) together with research partners, testing new technologies and rotor blades under real conditions. The aim is to develop efficient wind turbines that are climate-compatible and sustainable.\n\nSolar energy\nIn 2007, the world's first commercially operated solar tower power plant , the PS10 , went into operation near Sanlúcar la Mayor (Spain). DLR was involved in the technology development for this type of power plant.\nThe Jülich solar tower power plant , in operation since 2008, concentrates the light of more than 2,000 computer-controlled mirrors ( heliostats ), generating air heated to up to 700 °C. Research focuses on the further development and testing of receivers, storage technologies and processes for the energy transition, including the production of climate-neutral fuels (e.g. hydrogen, synthetic kerosene ) and high-temperature industrial processes.\nDLR uses test facilities at sites in Cologne, Stuttgart and Jülich for its own research, as well as the Plataforma Solar de Almería , the European test center for concentrating solar technologies operated by the Spanish research organization CIEMAT.\n\nPower to Liquid (TPP Leuna)\nIn Leuna , Europe's largest research and demonstration plant for the production of electricity-based, synthetic fuels (power-to-liquid; PtL) is currently being built. DLR is constructing the \"Technology Platform for Power-to-Liquid Fuels\" (TPP), which can produce up to 2,500 tonnes of CO₂-neutral aviation fuel and other e-fuels per year. The aim is the industrial scaling and optimization of processes for the production of synthetic kerosene and other e-fuels from renewable electricity, CO₂ and hydrogen.\n\nHydrogen\nAs part of its wide-ranging hydrogen research, DLR also investigates the possibilities and conditions for converting the world's aircraft fleet to hydrogen propulsion . DLR scientists have worked on hydrosol projects, through which it was first possible to thermally split water into hydrogen and oxygen using solar energy, without CO₂ emissions. For this, the team was awarded the Descartes Prize of the European Commission for research in 2007, together with other working groups.\n\nTransport systems\nThe DLR MovingLab is a data collection system for transport research that automatically records mobility data via smartphone apps and sensors. The platform enables l ongitudinal studies on journeys, modes of transport used and their combination – going beyond the capabilities of traditional surveys. It provides well-founded data on real mobility behavior in order to analyze new mobility concepts, public offerings ( carsharing , autonomous driving ) and their social use in detail.\n\nRoad transport\nThe DLR Next Generation Car (NGC) family bundles research on the development of future road vehicles. Focus areas include new mobility concepts, lightweight construction, digitalization, automated driving and climate-friendly propulsion technologies – in particular electric mobility, hydrogen and hybrid systems . The NGC family encompasses various vehicle types, including the autonomous, driverless, electric U-Shift vehicle concept, the Safe Light Regional Vehicle (SLRV) for regional mobility, the Urban Modular Vehicle (UMV) for urban areas and the Interurban Vehicle for longer distances.\n\nRail transport\nThe Next Generation Train project at DLR, running since 2007, is a comprehensive research program for the development of novel trains. Areas of focus include lightweight construction, energy savings, noise reduction, drive modularity , passenger comfort, the design and optimization of life cycles and improved accident prevention. The concept addresses new high-speed trains with speeds of up to 400 km/h, regional feeder trains and freight trains .\n\nFurther reading\nReinke, Niklas (2004). Geschichte der deutschen Raumfahrtpolitik. Konzepte, Einflussfaktoren und Interdependenzen 1923–2002 . Schriften des Forschungsinstituts der Deutschen Gesellschaft für Auswärtige Politik e. V., Berlin. Internationale Politik und Wirtschaft, Bd. 71. München: Oldenbourg. ISBN 3-486-56842-6 . Helmuth Trischler (1992). Luft- und Raumfahrtforschung in Deutschland 1900–1970. Politische Geschichte einer Wissenschaft . Studien zur Geschichte der deutschen Großforschungseinrichtungen, Bd. 4. Frankfurt/New York: Campus. ISBN 978-3-593-34586-4 .\n\nSee also\nList of aerospace flight test centres List of government space agencies\n\nExternal links\nOfficial website of the German Aerospace Center History of DLR DLR sites and offices Literature by and about German Aerospace Center in the German National Library catalogue\n50°51′10.282″N 7°7′23.430″E ﻿ / ﻿ 50.85285611°N 7.12317500°E ﻿ / 50.85285611; 7.12317500"
+  },
+  "references": [
+    {
+      "url": "https://www.dlr.de/en/dlr/locations-and-offices",
+      "label": "\"Locations and offices in Germany and abroad\""
+    },
+    {
+      "url": "https://www.dlr.de/en/dlr/about-us/dlr-in-numbers/personnel",
+      "label": "\"Personnel\""
+    },
+    {
+      "url": "https://www.historisches-lexikon-bayerns.de/Lexikon/Deutsches_Zentrum_f%C3%BCr_Luft-_und_Raumfahrt_e._V._(DLR)",
+      "label": "\"Historisches Lexikon Bayerns: Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)\""
+    },
+    {
+      "url": "https://www.thuenen.de/media/ti/Newsroom/Aktuelles/Geschichtsbuch_Ein_Ort_der_Forschung/Daniel_Jankowski_Ein_Ort_der_Forschung_1_DFL_LFA_neu.pdf",
+      "label": "Ein Ort der Forschung. Die Geschichte der Deutschen Forschungsanstalt für Luftfahrt/Luftfahrtforschungsanstalt Hermann Göring und der Forschungsanstalt für Landwirtschaft bei Braunschweig-Völkenrode zwischen 1936 und 1966"
+    },
+    {
+      "url": "https://www.dlr.de/de/das-dlr/ueber-uns/geschichte-des-dlr/die-geschichte-des-dlr-standorts-oberpfaffenhofen-von-1937-bis-2004",
+      "label": "\"TDie Geschichte des DLR-Standorts Oberpfaffenhofen – von 1937 bis 2004\""
+    },
+    {
+      "url": "https://www.adlershof.de/fileadmin/user_upload/downloads/Geschichte_der_DVL.pdf",
+      "label": "100 Jahre Innovation aus Adlershof. Wiege der deutschen Motorluftfahrt (Adlershofer Geschichten Band 1)"
+    },
+    {
+      "url": "https://www.spiegel.de/politik/ruff-unter-druck-a-d26e71ed-0002-0001-0000-000043067077",
+      "label": "\"Ruff unter Druck\""
+    },
+    {
+      "url": "https://www.dlr.de/en/dlr/about-us",
+      "label": "\"About us\""
+    },
+    {
+      "url": "https://www.dlr.de/de/das-dlr/ueber-uns/das-dlr-in-zahlen/finanzierung",
+      "label": "\"Finanzen\""
+    },
+    {
+      "url": "https://ccsds.org/participation/member-agencies/",
+      "label": "\"Member Agencies\""
+    },
+    {
+      "url": "https://ecss.nl/organization/members/",
+      "label": "\"Members\""
+    },
+    {
+      "url": "https://www.helmholtz.de/en/about-us/helmholtz-centers/centers-a-z/centre/german-aerospace-center-dlr/",
+      "label": "\"German Aerospace Center (DLR)\""
+    },
+    {
+      "url": "https://www.dlr.de/en/research-and-transfer",
+      "label": "\"Research and Transfer\""
+    },
+    {
+      "url": "https://www.dlr.de/en/research-and-transfer/innovation-and-transfer",
+      "label": "\"Innovation and Transfer\""
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=F4pCJ0Eo3HM",
+      "label": "\"Windkanal des DLR wird 50 Jahre alt - HNA-Volontärin im Selbstversuch\""
+    },
+    {
+      "url": "https://www.dnw.aero/wind-tunnels/nwb/",
+      "label": "\"Niedergeschwindigkeits-Windkanal Braunschweig\""
+    },
+    {
+      "url": "https://www.braunschweig.de/innovationsportal/smarte-wissenschaft/dlr.php",
+      "label": "\"Deutsches Zentrum für Luft- und Raumfahrt\""
+    },
+    {
+      "url": "https://niedersachsen-aviation.de/news/20%20Jah%C2%ADre%20For%C2%ADschungs%C2%ADhub%C2%ADschrau%C2%ADber%20ACT/FHS",
+      "label": "\"20 Jahre Forschungshubschrauber ACT/FHS\""
+    },
+    {
+      "url": "https://www.fe-lexikon.info/lexikon/deutsches_raumfahrtkontrollzentrum",
+      "label": "\"Deutsches Raumfahrtkontrollzentrum (GSOC)\""
+    },
+    {
+      "url": "https://www.un-spider.org/book/5098/dlr-center-satellite-based-crisis-information-zki-current-status-and-considerations",
+      "label": "\"The DLR Center for Satellite based Crisis Information (ZKI): Current status and considerations for the future\""
+    },
+    {
+      "url": "https://www.dlr.de/en/research-and-transfer/space",
+      "label": "\"Space\""
+    },
+    {
+      "url": "https://www.golem.de/news/dlr-turbulenzen-im-windpark-2308-177046.html",
+      "label": "\"Turbulenzen im Windpark\""
+    },
+    {
+      "url": "https://www.energieforschung.de/en/home/news/2019/10-years-of-research-at-the-juelich-solar-tower",
+      "label": "\"10 years of research at Solar Tower Jülich\""
+    },
+    {
+      "url": "https://www.psa.es/en/gen/colaboracion.php",
+      "label": "\"Scope of collaboration\""
+    },
+    {
+      "url": "https://www.dlr.de/en/research-and-transfer/energy",
+      "label": "\"Energy\""
+    },
+    {
+      "url": "https://nature.com",
+      "label": "\"The PAINT database for operational concentrating solar power plant data following FAIR data principles\""
+    },
+    {
+      "url": "https://doi.org/10.1038%2Fs41560-026-02070-1",
+      "label": "10.1038/s41560-026-02070-1"
+    },
+    {
+      "url": "https://pv-magazine.com",
+      "label": "\"KIT, DLR publish dataset from German solar power tower\""
+    },
+    {
+      "url": "https://www.golem.de/news/next-generation-car-das-fahrzeug-der-zukunft-ist-modular-1903-140149.html",
+      "label": "\"Das Fahrzeug der Zukunft ist modular\""
+    },
+    {
+      "url": "https://www.auto-medienportal.net/artikel/detail/45475",
+      "label": "\"DLR entwickelt sicheres Leichtauto für die Zukunft\""
+    },
+    {
+      "url": "https://www.dlr.de/en/research-and-transfer/transport",
+      "label": "\"Transport\""
+    },
+    {
+      "url": "https://www.krankenhaus-it.de/print.1985/neue-forschungskooperation-zum-schutz-kritischer-infrastrukturen.html",
+      "label": "\"Die Universität der Bundeswehr München und das Deutsche Zentrum für Luft- und Raumfahrt (DLR) haben einen Kooperationsvertrag über die gemeinsame Forschung und Entwicklung für den verbesserten Schutz kritischer Infrastrukturen in Deutschland geschlossen\""
+    },
+    {
+      "url": "https://issuu.com/h-brs/docs/hbrs_21_02_jahresbericht_2020_gesamt_rz16_issuu/s/13104731",
+      "label": "\"Gebündelte Kräfte für die Sicherheit\""
+    },
+    {
+      "url": "https://www.dlr.de/en/research-and-transfer/security",
+      "label": "\"Security and defence\""
+    },
+    {
+      "url": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2017/12/artikel-1-aktuelle-themen-und-analysen.html?cms_artId=f8f9a4dc-d5d9-4ad1-b70f-fd9e4fe9fb79",
+      "label": "\"Das Deutsche Zentrum für Luft- und Raumfahrt (DLR) hat eine neue Strategie\""
+    },
+    {
+      "url": "https://www.dlr.de/en/research-and-transfer/digitalisation",
+      "label": "\"Digitalisation\""
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/ra_g/BJNR010140990.html",
+      "label": "\"Gesetz zur Übertragung von Verwaltungsaufgaben auf dem Gebiet der Raumfahrt (Raumfahrtaufgabenübertragungsgesetz – RAÜG)\""
+    },
+    {
+      "url": "https://www.dlr.de/en/dlr/german-space-agency-at-dlr",
+      "label": "\"German Space Agency at DLR\""
+    },
+    {
+      "url": "https://www.dlr.de/en/ar",
+      "label": "\"The German Space Agency at DLR\""
+    },
+    {
+      "url": "https://www.dlr.de/en/pt-lf/news/news/2024/project-management-organisation-for-aeronautics-research-celebrates-its-30th-anniversary",
+      "label": "\"Project Management Organisation for Aeronautics Research celebrates its 30th anniversary\""
+    },
+    {
+      "url": "https://www.dlr.de/en/pt-lf/about-us/the-programme-management-agency-for-aviation-research",
+      "label": "\"The Programme Management Agency for Aviation Research\""
+    },
+    {
+      "url": "https://www.foerderinfo.bund.de/foerderinfo/de/beratung/projekttraeger/projekttraeger_node.html",
+      "label": "\"Projektträger in der Forschungsförderung\""
+    },
+    {
+      "url": "https://www.dlr.de/en/pt-lf/funding-programmes/european-level/horizon-europe",
+      "label": "\"Horizon Europe\""
+    },
+    {
+      "url": "https://www.tu-braunschweig.de/nfl/forschungsflugzeuge-1",
+      "label": "\"Forschungsluftfahrzeuge\""
+    },
+    {
+      "url": "https://www.dlr.de/content/de/downloads/publikationen/magazin/2021_dlrmagazin-169-bahn-digital.pdf",
+      "label": "\"Eine stattliche Flotte. Ein Überblick über die DLR-Forschungsflugzeuge\""
+    },
+    {
+      "url": "https://www.dlr.de/en/research-and-transfer/research-infrastructure/research-aircraft-fleet/uplift-dornier-328-100",
+      "label": "\"UpLift Dornier 328-100: D-CUPL\""
+    },
+    {
+      "url": "https://www.airliners.de/dlr-praesentiert-luftfahrt-forschungsprojekte-paris-air-show/81295",
+      "label": "\"DLR präsentiert Luftfahrt-Forschungsprojekte auf Paris Air Show\""
+    },
+    {
+      "url": "https://www.dglr.de/publikationen/2025/630388.pdf",
+      "label": "Exact Sustainable Aircraft Concepts Results and Comparison"
+    },
+    {
+      "url": "https://www.heise.de/news/DLR-testet-unbemanntes-hochfliegendes-Solarflugzeug-HAP-alpha-am-Boden-11111505.html",
+      "label": "\"DLR testet unbemanntes hochfliegendes Solarflugzeug HAP-alpha am Boden\""
+    },
+    {
+      "url": "https://www.bmv.de/SharedDocs/DE/Anlage/LF/mantelpapier-ergebnisse-akkl.pdf?__blob=publicationFile",
+      "label": "\"Ergebnisse des Arbeitskreises klimaneutrale Luftfahrt\""
+    },
+    {
+      "url": "https://www.luftfahrtmagazin.de/umwelt/nachhaltigkeit-in-der-luftfahrt-saf-forschung-zur-klimareduktion-259784.html",
+      "label": "\"Nachhaltigkeit in der Luftfahrt: SAF-Forschung zur Klimareduktion\""
+    },
+    {
+      "url": "https://www.dlr.de/en/media/publications/magazines/all-digital-magazines/dlrmagazine-175/a-balancing-act",
+      "label": "\"A balancing act\""
+    },
+    {
+      "url": "https://www.welt.de/regionales/bayern/article256348862/Soeder-Bayern-verdoppelt-Zuschuss-fuer-Mondkontrollzentrum.html",
+      "label": "\"Söder: Bayern verdoppelt Zuschuss für Mondkontrollzentrum\""
+    },
+    {
+      "url": "https://www.raumfahrer.net/dlr-wird-mitglied-der-charta-fuer-katastrophenhilfe/",
+      "label": "\"DLR wird Mitglied der Charta für Katastrophenhilfe\""
+    },
+    {
+      "url": "https://www.sueddeutsche.de/muenchen/starnberg/oberpfaffenhofen-satellit-umweltschutz-weltall-terrasar-x-dlr-klima-1.5605934",
+      "label": "\"Der Methusalem unter den Satelliten\""
+    },
+    {
+      "url": "https://www.esa.int/Space_in_Member_States/Germany/Columbus_Europas_Forschungszentrale_auf_der_ISS",
+      "label": "\"Columbus: Europas Forschungszentrale auf der ISS\""
+    },
+    {
+      "url": "https://www.deutschlandfunk.de/das-forschungslabor-der-iss-columbus-im-weltall-100.html",
+      "label": "\"Columbus im Weltall\""
+    },
+    {
+      "url": "https://www.esa.int/Space_in_Member_States/Germany/Columbus-Kontrollzentrum_Oberpfaffenhofen_Deutschland",
+      "label": "\"Columbus Control Centre, Oberpfaffenhofen, Germany\""
+    },
+    {
+      "url": "https://www.aerospace-and-defence.com/iss-based-astronaut-controls-robot-team-in-final-phase-of-esas-surface-avatar-experiment-a-c74fb97da2ad3bcd790a51b01b3e3c03/",
+      "label": "\"ISS-Based Astronaut Controls Robot Team in Final Phase of ESA's Surface Avatar Experiment\""
+    },
+    {
+      "url": "https://articles.adsabs.harvard.edu/pdf/2004ESASP1240...17N",
+      "label": "\"HRSC: the High Resolution Stereo Camera of Mars Express\""
+    },
+    {
+      "url": "https://www.planetary.org/space-missions/mmx",
+      "label": "\"MMX, Japan's Martian Moons eXploration mission\""
+    },
+    {
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_factsheet",
+      "label": "\"Juice factsheet\""
+    },
+    {
+      "url": "https://www.raumfahrer.net/die-raumsonde-juice-auf-ihrem-weg-zum-europaeischen-weltraumbahnhof/",
+      "label": "\"Die Raumsonde JUICE auf ihrem Weg zum europäischen Weltraumbahnhof\""
+    },
+    {
+      "url": "https://www.reuters.com/science/artemis-ii-astronauts-hurtle-home-moon-toward-splashdown-2026-04-10/",
+      "label": "\"Artemis II astronauts safely back on Earth after historic trip around moon\""
+    },
+    {
+      "url": "https://www.space.com/space-exploration/artemis/artemis-2-astronauts-return-to-earth-ending-historic-moon-mission",
+      "label": "\"Splashdown! Artemis 2 astronauts return to Earth after historic NASA mission to the moon\""
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=lOEc4oAguoM",
+      "label": "\"Artemis II: Return to the Moon\""
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/c75kr702z75o",
+      "label": "\"High above Earth, Artemis II crew prepare to thrust on to the Moon\""
+    },
+    {
+      "url": "https://www.nasa.gov/news-release/nasa-german-aerospace-center-to-expand-artemis-campaign-cooperation/",
+      "label": "\"NASA, German Aerospace Center to Expand Artemis Campaign Cooperation\""
+    },
+    {
+      "url": "https://www.tu.berlin/news/detail/artemis-mission-berliner-satellit-erfolgreich-im-all-ausgesetzt",
+      "label": "\"Artemis-Mission: Berliner Satellit erfolgreich im All ausgesetzt\""
+    },
+    {
+      "url": "https://www.the-berliner.com/english-news-berlin/berlin-satellite-goes-to-space/",
+      "label": "\"Berlin satellite goes to space\""
+    },
+    {
+      "url": "https://www.iwr.de/news/innovativer-forschungsansatz-dlr-untersucht-nachlauf-an-windturbinen-mit-drohnenschwarm-news39231",
+      "label": "\"Innovativer Forschungsansatz: DLR untersucht Nachlauf an Windturbinen mit Drohnenschwarm\""
+    },
+    {
+      "url": "https://www.dlr.de/de/aktuelles/nachrichten/2007/20070405_erstes-solarturmkraftwerk-geht-ans-netz_8384/@@download/file/20070405_erstes-solarturmkraftwerk-geht-ans-netz_8384.pdf",
+      "label": "\"Erstes Solarturmkraftwerk geht ans Netz\""
+    },
+    {
+      "url": "https://www.energieforschung.de/de/aktuelles/news/2022/solar-produzierter-treibstoff-made-in-juelich",
+      "label": "\"Solar produzierter Treibstoff „Made in Jülich\" \""
+    },
+    {
+      "url": "https://www.dlr.de/en/sf/research-and-transfer/research-infrastructure/julich-solar-towers",
+      "label": "\"Solar Towers Jülich\""
+    },
+    {
+      "url": "https://web.archive.org/web/20160904074329/https://www.dlr.de/en/Portaldata/1/Resources/kommunikation/publikationen/109_nachrichten/dlr-nari109_en_22-27.pdf",
+      "label": "\"Plataforma Solar de Almería\""
+    },
+    {
+      "url": "https://www.dlr.de/en/Portaldata/1/Resources/kommunikation/publikationen/109_nachrichten/dlr-nari109_en_22-27.pdf",
+      "label": "the original"
+    },
+    {
+      "url": "https://www.infraleuna.de/home",
+      "label": "\"Chemical site Leuna – THE location for sustainable chemistry\""
+    },
+    {
+      "url": "https://www.vdi-nachrichten.com/technik/mobilitaet/dlr-studie-wasserstoff-auch-fuer-die-langstrecke-eine-option/",
+      "label": "\"DLR-Studie: Wasserstoff auch für die Langstrecke eine Option\""
+    },
+    {
+      "url": "https://www.solarserver.de/2008/11/25/dlr-wissenschaftler-produzieren-erstmals-solar-wasserstoff-in-100-kilowatt-pilotanlage/",
+      "label": "\"DLR-Wissenschaftler produzieren erstmals Solar-Wasserstoff in 100-Kilowatt-Pilotanlage\""
+    },
+    {
+      "url": "https://www.dlr.de/en/site/movinglab",
+      "label": "\"DLR Moving Lab\""
+    },
+    {
+      "url": "https://www.dlr.de/en/fk/research-and-transfer/projects/global-projects/next-generation-car",
+      "label": "\"Next Generation Car\""
+    },
+    {
+      "url": "https://elib.dlr.de/215506/1/Eurail_ETR_2019_003_ETR_003_19_17-21.pdf",
+      "label": "\"Next Generation Train – 20 Jahre Forschung für die Eisenbahn\""
+    }
+  ],
+  "outgoing_links": [
+    {
+      "title": "Geographic coordinate system",
+      "url": "https://en.wikipedia.org/wiki/Geographic_coordinate_system"
+    },
+    {
+      "title": "High Resolution Stereo Camera",
+      "url": "https://en.wikipedia.org/wiki/High_Resolution_Stereo_Camera"
+    },
+    {
+      "title": "Jupiter Icy Moons Explorer",
+      "url": "https://en.wikipedia.org/wiki/Jupiter_Icy_Moons_Explorer"
+    },
+    {
+      "title": "Artemis II",
+      "url": "https://en.wikipedia.org/wiki/Artemis_II"
+    },
+    {
+      "title": "Actuator",
+      "url": "https://en.wikipedia.org/wiki/Actuator"
+    },
+    {
+      "title": "Aerial photography",
+      "url": "https://en.wikipedia.org/wiki/Aerial_photography"
+    },
+    {
+      "title": "Aerodynamics",
+      "url": "https://en.wikipedia.org/wiki/Aerodynamics"
+    },
+    {
+      "title": "Aerodynamics Research Institute",
+      "url": "https://en.wikipedia.org/wiki/Aerodynamics_Research_Institute"
+    },
+    {
+      "title": "Aeronautics",
+      "url": "https://en.wikipedia.org/wiki/Aeronautics"
+    },
+    {
+      "title": "Aerospace manufacturer",
+      "url": "https://en.wikipedia.org/wiki/Aerospace_manufacturer"
+    },
+    {
+      "title": "Agencia Espacial Española",
+      "url": "https://en.wikipedia.org/wiki/Agencia_Espacial_Espa%C3%B1ola"
+    },
+    {
+      "title": "Agencia Espacial Mexicana",
+      "url": "https://en.wikipedia.org/wiki/Agencia_Espacial_Mexicana"
+    },
+    {
+      "title": "Air pollution",
+      "url": "https://en.wikipedia.org/wiki/Air_pollution"
+    },
+    {
+      "title": "Airbus A320 family",
+      "url": "https://en.wikipedia.org/wiki/Airbus_A320_family"
+    },
+    {
+      "title": "Airflow",
+      "url": "https://en.wikipedia.org/wiki/Airflow"
+    },
+    {
+      "title": "Algerian Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Algerian_Space_Agency"
+    },
+    {
+      "title": "Allianz Arena",
+      "url": "https://en.wikipedia.org/wiki/Allianz_Arena"
+    },
+    {
+      "title": "Andøya Space",
+      "url": "https://en.wikipedia.org/wiki/And%C3%B8ya_Space"
+    },
+    {
+      "title": "Anke Kaysser-Pyzalla",
+      "url": "https://en.wikipedia.org/wiki/Anke_Kaysser-Pyzalla"
+    },
+    {
+      "title": "Antarctica",
+      "url": "https://en.wikipedia.org/wiki/Antarctica"
+    },
+    {
+      "title": "Antrix Corporation",
+      "url": "https://en.wikipedia.org/wiki/Antrix_Corporation"
+    },
+    {
+      "title": "Applied science",
+      "url": "https://en.wikipedia.org/wiki/Applied_science"
+    },
+    {
+      "title": "Arab Satellite Communications Organization",
+      "url": "https://en.wikipedia.org/wiki/Arab_Satellite_Communications_Organization"
+    },
+    {
+      "title": "ArmCosmos",
+      "url": "https://en.wikipedia.org/wiki/ArmCosmos"
+    },
+    {
+      "title": "Artemis program",
+      "url": "https://en.wikipedia.org/wiki/Artemis_program"
+    },
+    {
+      "title": "Artificial intelligence",
+      "url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+    },
+    {
+      "title": "Asia-Pacific Space Cooperation Organization",
+      "url": "https://en.wikipedia.org/wiki/Asia-Pacific_Space_Cooperation_Organization"
+    },
+    {
+      "title": "Astronomical object",
+      "url": "https://en.wikipedia.org/wiki/Astronomical_object"
+    },
+    {
+      "title": "Australian Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Australian_Space_Agency"
+    },
+    {
+      "title": "Austrian Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Austrian_Space_Agency"
+    },
+    {
+      "title": "Autonomous driving",
+      "url": "https://en.wikipedia.org/wiki/Autonomous_driving"
+    },
+    {
+      "title": "Aviation biofuel",
+      "url": "https://en.wikipedia.org/wiki/Aviation_biofuel"
+    },
+    {
+      "title": "Aviation safety",
+      "url": "https://en.wikipedia.org/wiki/Aviation_safety"
+    },
+    {
+      "title": "Azerbaijan National Aerospace Agency",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijan_National_Aerospace_Agency"
+    },
+    {
+      "title": "BBC News",
+      "url": "https://en.wikipedia.org/wiki/BBC_News"
+    },
+    {
+      "title": "Bangladesh Space Research and Remote Sensing Organization",
+      "url": "https://en.wikipedia.org/wiki/Bangladesh_Space_Research_and_Remote_Sensing_Organization"
+    },
+    {
+      "title": "Basic research",
+      "url": "https://en.wikipedia.org/wiki/Basic_research"
+    },
+    {
+      "title": "Bavaria",
+      "url": "https://en.wikipedia.org/wiki/Bavaria"
+    },
+    {
+      "title": "Belarus Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Belarus_Space_Agency"
+    },
+    {
+      "title": "Belgian Institute for Space Aeronomy",
+      "url": "https://en.wikipedia.org/wiki/Belgian_Institute_for_Space_Aeronomy"
+    },
+    {
+      "title": "Berlin-Adlershof",
+      "url": "https://en.wikipedia.org/wiki/Berlin-Adlershof"
+    },
+    {
+      "title": "Body of European Regulators for Electronic Communications",
+      "url": "https://en.wikipedia.org/wiki/Body_of_European_Regulators_for_Electronic_Communications"
+    },
+    {
+      "title": "Bolivarian Agency for Space Activities",
+      "url": "https://en.wikipedia.org/wiki/Bolivarian_Agency_for_Space_Activities"
+    },
+    {
+      "title": "Bolivian Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Bolivian_Space_Agency"
+    },
+    {
+      "title": "Bonn",
+      "url": "https://en.wikipedia.org/wiki/Bonn"
+    },
+    {
+      "title": "Border control",
+      "url": "https://en.wikipedia.org/wiki/Border_control"
+    },
+    {
+      "title": "Braunschweig",
+      "url": "https://en.wikipedia.org/wiki/Braunschweig"
+    },
+    {
+      "title": "Brazilian Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Brazilian_Space_Agency"
+    },
+    {
+      "title": "British National Space Centre",
+      "url": "https://en.wikipedia.org/wiki/British_National_Space_Centre"
+    },
+    {
+      "title": "Brussels",
+      "url": "https://en.wikipedia.org/wiki/Brussels"
+    },
+    {
+      "title": "Bundeswehr",
+      "url": "https://en.wikipedia.org/wiki/Bundeswehr"
+    },
+    {
+      "title": "CIEMAT",
+      "url": "https://en.wikipedia.org/wiki/CIEMAT"
+    },
+    {
+      "title": "CNES",
+      "url": "https://en.wikipedia.org/wiki/CNES"
+    },
+    {
+      "title": "CSIRO",
+      "url": "https://en.wikipedia.org/wiki/CSIRO"
+    },
+    {
+      "title": "Callisto (moon)",
+      "url": "https://en.wikipedia.org/wiki/Callisto_%28moon%29"
+    },
+    {
+      "title": "Canadian Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Canadian_Space_Agency"
+    },
+    {
+      "title": "Carbon dioxide",
+      "url": "https://en.wikipedia.org/wiki/Carbon_dioxide"
+    },
+    {
+      "title": "Carsharing",
+      "url": "https://en.wikipedia.org/wiki/Carsharing"
+    },
+    {
+      "title": "Catalan Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Catalan_Space_Agency"
+    },
+    {
+      "title": "Center of excellence",
+      "url": "https://en.wikipedia.org/wiki/Center_of_excellence"
+    },
+    {
+      "title": "Cessna 208 Caravan",
+      "url": "https://en.wikipedia.org/wiki/Cessna_208_Caravan"
+    },
+    {
+      "title": "China Academy of Launch Vehicle Technology",
+      "url": "https://en.wikipedia.org/wiki/China_Academy_of_Launch_Vehicle_Technology"
+    },
+    {
+      "title": "China Academy of Space Technology",
+      "url": "https://en.wikipedia.org/wiki/China_Academy_of_Space_Technology"
+    },
+    {
+      "title": "China Aerospace Science and Industry Corporation",
+      "url": "https://en.wikipedia.org/wiki/China_Aerospace_Science_and_Industry_Corporation"
+    },
+    {
+      "title": "China Aerospace Science and Technology Corporation",
+      "url": "https://en.wikipedia.org/wiki/China_Aerospace_Science_and_Technology_Corporation"
+    },
+    {
+      "title": "China Chang Feng",
+      "url": "https://en.wikipedia.org/wiki/China_Chang_Feng"
+    },
+    {
+      "title": "China National Space Administration",
+      "url": "https://en.wikipedia.org/wiki/China_National_Space_Administration"
+    },
+    {
+      "title": "Civil Aviation Authority (Poland)",
+      "url": "https://en.wikipedia.org/wiki/Civil_Aviation_Authority_%28Poland%29"
+    },
+    {
+      "title": "Climate change mitigation",
+      "url": "https://en.wikipedia.org/wiki/Climate_change_mitigation"
+    },
+    {
+      "title": "Cologne",
+      "url": "https://en.wikipedia.org/wiki/Cologne"
+    },
+    {
+      "title": "Colombian Space Commission",
+      "url": "https://en.wikipedia.org/wiki/Colombian_Space_Commission"
+    },
+    {
+      "title": "Columbus (ISS module)",
+      "url": "https://en.wikipedia.org/wiki/Columbus_%28ISS_module%29"
+    },
+    {
+      "title": "Committee on Earth Observation Satellites",
+      "url": "https://en.wikipedia.org/wiki/Committee_on_Earth_Observation_Satellites"
+    },
+    {
+      "title": "Committee on Space Research",
+      "url": "https://en.wikipedia.org/wiki/Committee_on_Space_Research"
+    },
+    {
+      "title": "Computec",
+      "url": "https://en.wikipedia.org/wiki/Computec"
+    },
+    {
+      "title": "Consultative Committee for Space Data Systems",
+      "url": "https://en.wikipedia.org/wiki/Consultative_Committee_for_Space_Data_Systems"
+    },
+    {
+      "title": "Contrail",
+      "url": "https://en.wikipedia.org/wiki/Contrail"
+    },
+    {
+      "title": "Crisis management",
+      "url": "https://en.wikipedia.org/wiki/Crisis_management"
+    },
+    {
+      "title": "Critical infrastructure",
+      "url": "https://en.wikipedia.org/wiki/Critical_infrastructure"
+    },
+    {
+      "title": "Czech Space Office",
+      "url": "https://en.wikipedia.org/wiki/Czech_Space_Office"
+    },
+    {
+      "title": "DTU Space",
+      "url": "https://en.wikipedia.org/wiki/DTU_Space"
+    },
+    {
+      "title": "Dassault Falcon 20",
+      "url": "https://en.wikipedia.org/wiki/Dassault_Falcon_20"
+    },
+    {
+      "title": "Dassault Falcon 2000",
+      "url": "https://en.wikipedia.org/wiki/Dassault_Falcon_2000"
+    },
+    {
+      "title": "Debris",
+      "url": "https://en.wikipedia.org/wiki/Debris"
+    },
+    {
+      "title": "Decision-making",
+      "url": "https://en.wikipedia.org/wiki/Decision-making"
+    },
+    {
+      "title": "Defence Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Defence_Space_Agency"
+    },
+    {
+      "title": "Deimos (moon)",
+      "url": "https://en.wikipedia.org/wiki/Deimos_%28moon%29"
+    },
+    {
+      "title": "Department of Aerospace Science and Technology",
+      "url": "https://en.wikipedia.org/wiki/Department_of_Aerospace_Science_and_Technology"
+    },
+    {
+      "title": "Department of Space",
+      "url": "https://en.wikipedia.org/wiki/Department_of_Space"
+    },
+    {
+      "title": "Der Spiegel",
+      "url": "https://en.wikipedia.org/wiki/Der_Spiegel"
+    },
+    {
+      "title": "Descartes Prize",
+      "url": "https://en.wikipedia.org/wiki/Descartes_Prize"
+    },
+    {
+      "title": "Deutsche Flugsicherung",
+      "url": "https://en.wikipedia.org/wiki/Deutsche_Flugsicherung"
+    },
+    {
+      "title": "Deutschlandfunk",
+      "url": "https://en.wikipedia.org/wiki/Deutschlandfunk"
+    },
+    {
+      "title": "Die Welt",
+      "url": "https://en.wikipedia.org/wiki/Die_Welt"
+    },
+    {
+      "title": "Digital elevation model",
+      "url": "https://en.wikipedia.org/wiki/Digital_elevation_model"
+    },
+    {
+      "title": "Digital transformation",
+      "url": "https://en.wikipedia.org/wiki/Digital_transformation"
+    },
+    {
+      "title": "Directorate-General for Defence Industry and Space",
+      "url": "https://en.wikipedia.org/wiki/Directorate-General_for_Defence_Industry_and_Space"
+    },
+    {
+      "title": "Doi (identifier)",
+      "url": "https://en.wikipedia.org/wiki/Doi_%28identifier%29"
+    },
+    {
+      "title": "Dornier 228",
+      "url": "https://en.wikipedia.org/wiki/Dornier_228"
+    },
+    {
+      "title": "Dornier 328",
+      "url": "https://en.wikipedia.org/wiki/Dornier_328"
+    },
+    {
+      "title": "ESA Centre for Earth Observation",
+      "url": "https://en.wikipedia.org/wiki/ESA_Centre_for_Earth_Observation"
+    },
+    {
+      "title": "ESTRACK",
+      "url": "https://en.wikipedia.org/wiki/ESTRACK"
+    },
+    {
+      "title": "EUMETSAT",
+      "url": "https://en.wikipedia.org/wiki/EUMETSAT"
+    },
+    {
+      "title": "Earth observation",
+      "url": "https://en.wikipedia.org/wiki/Earth_observation"
+    },
+    {
+      "title": "Earthquake",
+      "url": "https://en.wikipedia.org/wiki/Earthquake"
+    },
+    {
+      "title": "Egyptian Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Egyptian_Space_Agency"
+    },
+    {
+      "title": "Electricity",
+      "url": "https://en.wikipedia.org/wiki/Electricity"
+    },
+    {
+      "title": "Emergency management",
+      "url": "https://en.wikipedia.org/wiki/Emergency_management"
+    },
+    {
+      "title": "Energy",
+      "url": "https://en.wikipedia.org/wiki/Energy"
+    },
+    {
+      "title": "Energy storage",
+      "url": "https://en.wikipedia.org/wiki/Energy_storage"
+    },
+    {
+      "title": "Energy transformation",
+      "url": "https://en.wikipedia.org/wiki/Energy_transformation"
+    },
+    {
+      "title": "Environmental monitoring",
+      "url": "https://en.wikipedia.org/wiki/Environmental_monitoring"
+    },
+    {
+      "title": "Esrange",
+      "url": "https://en.wikipedia.org/wiki/Esrange"
+    },
+    {
+      "title": "Estonian Space Office",
+      "url": "https://en.wikipedia.org/wiki/Estonian_Space_Office"
+    },
+    {
+      "title": "Ethiopian Space Science and Technology Institute",
+      "url": "https://en.wikipedia.org/wiki/Ethiopian_Space_Science_and_Technology_Institute"
+    },
+    {
+      "title": "Eurocontrol",
+      "url": "https://en.wikipedia.org/wiki/Eurocontrol"
+    },
+    {
+      "title": "Eurocopter EC135",
+      "url": "https://en.wikipedia.org/wiki/Eurocopter_EC135"
+    },
+    {
+      "title": "Europa (moon)",
+      "url": "https://en.wikipedia.org/wiki/Europa_%28moon%29"
+    },
+    {
+      "title": "European Astronaut Centre",
+      "url": "https://en.wikipedia.org/wiki/European_Astronaut_Centre"
+    },
+    {
+      "title": "European Centre for Space Applications and Telecommunications",
+      "url": "https://en.wikipedia.org/wiki/European_Centre_for_Space_Applications_and_Telecommunications"
+    },
+    {
+      "title": "European Civil Aviation Conference",
+      "url": "https://en.wikipedia.org/wiki/European_Civil_Aviation_Conference"
+    },
+    {
+      "title": "European Commission",
+      "url": "https://en.wikipedia.org/wiki/European_Commission"
+    },
+    {
+      "title": "European Committee for Electrotechnical Standardization",
+      "url": "https://en.wikipedia.org/wiki/European_Committee_for_Electrotechnical_Standardization"
+    },
+    {
+      "title": "European Committee for Standardization",
+      "url": "https://en.wikipedia.org/wiki/European_Committee_for_Standardization"
+    },
+    {
+      "title": "European Conference of Postal and Telecommunications Administrations",
+      "url": "https://en.wikipedia.org/wiki/European_Conference_of_Postal_and_Telecommunications_Administrations"
+    },
+    {
+      "title": "European Cooperation for Space Standardization",
+      "url": "https://en.wikipedia.org/wiki/European_Cooperation_for_Space_Standardization"
+    },
+    {
+      "title": "European Economic Area",
+      "url": "https://en.wikipedia.org/wiki/European_Economic_Area"
+    },
+    {
+      "title": "European Organisation for the Exploitation of Meteorological Satellites",
+      "url": "https://en.wikipedia.org/wiki/European_Organisation_for_the_Exploitation_of_Meteorological_Satellites"
+    },
+    {
+      "title": "European Southern Observatory",
+      "url": "https://en.wikipedia.org/wiki/European_Southern_Observatory"
+    },
+    {
+      "title": "European Space Agency",
+      "url": "https://en.wikipedia.org/wiki/European_Space_Agency"
+    },
+    {
+      "title": "European Space Astronomy Centre",
+      "url": "https://en.wikipedia.org/wiki/European_Space_Astronomy_Centre"
+    },
+    {
+      "title": "European Space Operations Centre",
+      "url": "https://en.wikipedia.org/wiki/European_Space_Operations_Centre"
+    },
+    {
+      "title": "European Space Research and Technology Centre",
+      "url": "https://en.wikipedia.org/wiki/European_Space_Research_and_Technology_Centre"
+    },
+    {
+      "title": "European Telecommunications Satellite Organization",
+      "url": "https://en.wikipedia.org/wiki/European_Telecommunications_Satellite_Organization"
+    },
+    {
+      "title": "European Telecommunications Standards Institute",
+      "url": "https://en.wikipedia.org/wiki/European_Telecommunications_Standards_Institute"
+    },
+    {
+      "title": "European Union",
+      "url": "https://en.wikipedia.org/wiki/European_Union"
+    },
+    {
+      "title": "European Union Agency for the Space Programme",
+      "url": "https://en.wikipedia.org/wiki/European_Union_Agency_for_the_Space_Programme"
+    },
+    {
+      "title": "European Union Aviation Safety Agency",
+      "url": "https://en.wikipedia.org/wiki/European_Union_Aviation_Safety_Agency"
+    },
+    {
+      "title": "European Union Satellite Centre",
+      "url": "https://en.wikipedia.org/wiki/European_Union_Satellite_Centre"
+    },
+    {
+      "title": "Experimental aircraft",
+      "url": "https://en.wikipedia.org/wiki/Experimental_aircraft"
+    },
+    {
+      "title": "Federal Communications Commission",
+      "url": "https://en.wikipedia.org/wiki/Federal_Communications_Commission"
+    },
+    {
+      "title": "Federal Ministry for Economic Affairs and Energy",
+      "url": "https://en.wikipedia.org/wiki/Federal_Ministry_for_Economic_Affairs_and_Energy"
+    },
+    {
+      "title": "Federal Ministry of Research, Technology and Space",
+      "url": "https://en.wikipedia.org/wiki/Federal_Ministry_of_Research%2C_Technology_and_Space"
+    },
+    {
+      "title": "Federal Public Planning Service Science Policy",
+      "url": "https://en.wikipedia.org/wiki/Federal_Public_Planning_Service_Science_Policy"
+    },
+    {
+      "title": "Flood",
+      "url": "https://en.wikipedia.org/wiki/Flood"
+    },
+    {
+      "title": "Forced labour under German rule during World War II",
+      "url": "https://en.wikipedia.org/wiki/Forced_labour_under_German_rule_during_World_War_II"
+    },
+    {
+      "title": "Freight train",
+      "url": "https://en.wikipedia.org/wiki/Freight_train"
+    },
+    {
+      "title": "French Air and Space Force",
+      "url": "https://en.wikipedia.org/wiki/French_Air_and_Space_Force"
+    },
+    {
+      "title": "French Space Command",
+      "url": "https://en.wikipedia.org/wiki/French_Space_Command"
+    },
+    {
+      "title": "Funding of science",
+      "url": "https://en.wikipedia.org/wiki/Funding_of_science"
+    },
+    {
+      "title": "Ganymede (moon)",
+      "url": "https://en.wikipedia.org/wiki/Ganymede_%28moon%29"
+    },
+    {
+      "title": "General Organization of Remote Sensing",
+      "url": "https://en.wikipedia.org/wiki/General_Organization_of_Remote_Sensing"
+    },
+    {
+      "title": "Geo-Informatics and Space Technology Development Agency",
+      "url": "https://en.wikipedia.org/wiki/Geo-Informatics_and_Space_Technology_Development_Agency"
+    },
+    {
+      "title": "Geodynamics",
+      "url": "https://en.wikipedia.org/wiki/Geodynamics"
+    },
+    {
+      "title": "German Aeronautical Research Institute",
+      "url": "https://en.wikipedia.org/wiki/German_Aeronautical_Research_Institute"
+    },
+    {
+      "title": "German Antarctic Receiving Station",
+      "url": "https://en.wikipedia.org/wiki/German_Antarctic_Receiving_Station"
+    },
+    {
+      "title": "German Federal Government",
+      "url": "https://en.wikipedia.org/wiki/German_Federal_Government"
+    },
+    {
+      "title": "German National Library",
+      "url": "https://en.wikipedia.org/wiki/German_National_Library"
+    },
+    {
+      "title": "German Society for Aeronautics and Astronautics",
+      "url": "https://en.wikipedia.org/wiki/German_Society_for_Aeronautics_and_Astronautics"
+    },
+    {
+      "title": "German Space Operations Center",
+      "url": "https://en.wikipedia.org/wiki/German_Space_Operations_Center"
+    },
+    {
+      "title": "German language",
+      "url": "https://en.wikipedia.org/wiki/German_language"
+    },
+    {
+      "title": "Ghana Space Science and Technology Centre",
+      "url": "https://en.wikipedia.org/wiki/Ghana_Space_Science_and_Technology_Centre"
+    },
+    {
+      "title": "Global Standards Collaboration",
+      "url": "https://en.wikipedia.org/wiki/Global_Standards_Collaboration"
+    },
+    {
+      "title": "Group on Earth Observations",
+      "url": "https://en.wikipedia.org/wiki/Group_on_Earth_Observations"
+    },
+    {
+      "title": "Guiana Space Centre",
+      "url": "https://en.wikipedia.org/wiki/Guiana_Space_Centre"
+    },
+    {
+      "title": "Gulfstream G550",
+      "url": "https://en.wikipedia.org/wiki/Gulfstream_G550"
+    },
+    {
+      "title": "Göttingen",
+      "url": "https://en.wikipedia.org/wiki/G%C3%B6ttingen"
+    },
+    {
+      "title": "Heise Group",
+      "url": "https://en.wikipedia.org/wiki/Heise_Group"
+    },
+    {
+      "title": "Heliostat",
+      "url": "https://en.wikipedia.org/wiki/Heliostat"
+    },
+    {
+      "title": "Hellenic Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Hellenic_Space_Agency"
+    },
+    {
+      "title": "Helmholtz Association of German Research Centres",
+      "url": "https://en.wikipedia.org/wiki/Helmholtz_Association_of_German_Research_Centres"
+    },
+    {
+      "title": "Hessische/Niedersächsische Allgemeine",
+      "url": "https://en.wikipedia.org/wiki/Hessische%2FNieders%C3%A4chsische_Allgemeine"
+    },
+    {
+      "title": "High-speed rail",
+      "url": "https://en.wikipedia.org/wiki/High-speed_rail"
+    },
+    {
+      "title": "Hochschule Bonn-Rhein-Sieg University of Applied Sciences",
+      "url": "https://en.wikipedia.org/wiki/Hochschule_Bonn-Rhein-Sieg_University_of_Applied_Sciences"
+    },
+    {
+      "title": "Human subject research",
+      "url": "https://en.wikipedia.org/wiki/Human_subject_research"
+    },
+    {
+      "title": "Hungarian Space Office",
+      "url": "https://en.wikipedia.org/wiki/Hungarian_Space_Office"
+    },
+    {
+      "title": "Hybrid system",
+      "url": "https://en.wikipedia.org/wiki/Hybrid_system"
+    },
+    {
+      "title": "Hydrogen",
+      "url": "https://en.wikipedia.org/wiki/Hydrogen"
+    },
+    {
+      "title": "Hydrogen propulsion",
+      "url": "https://en.wikipedia.org/wiki/Hydrogen_propulsion"
+    },
+    {
+      "title": "ISBN (identifier)",
+      "url": "https://en.wikipedia.org/wiki/ISBN_%28identifier%29"
+    },
+    {
+      "title": "ISRO",
+      "url": "https://en.wikipedia.org/wiki/ISRO"
+    },
+    {
+      "title": "ITU-R",
+      "url": "https://en.wikipedia.org/wiki/ITU-R"
+    },
+    {
+      "title": "Indian National Committee for Space Research",
+      "url": "https://en.wikipedia.org/wiki/Indian_National_Committee_for_Space_Research"
+    },
+    {
+      "title": "Indonesian Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Indonesian_Space_Agency"
+    },
+    {
+      "title": "Institute of Space and Astronautical Science",
+      "url": "https://en.wikipedia.org/wiki/Institute_of_Space_and_Astronautical_Science"
+    },
+    {
+      "title": "Instituto Tecnológico de Aeronáutica",
+      "url": "https://en.wikipedia.org/wiki/Instituto_Tecnol%C3%B3gico_de_Aeron%C3%A1utica"
+    },
+    {
+      "title": "Inter-Agency Space Debris Coordination Committee",
+      "url": "https://en.wikipedia.org/wiki/Inter-Agency_Space_Debris_Coordination_Committee"
+    },
+    {
+      "title": "Interkosmos",
+      "url": "https://en.wikipedia.org/wiki/Interkosmos"
+    },
+    {
+      "title": "International Charter 'Space and Major Disasters'",
+      "url": "https://en.wikipedia.org/wiki/International_Charter_%27Space_and_Major_Disasters%27"
+    },
+    {
+      "title": "International Charter on Space and Major Disasters",
+      "url": "https://en.wikipedia.org/wiki/International_Charter_on_Space_and_Major_Disasters"
+    },
+    {
+      "title": "International Cospas-Sarsat Programme",
+      "url": "https://en.wikipedia.org/wiki/International_Cospas-Sarsat_Programme"
+    },
+    {
+      "title": "International Mobile Satellite Organization",
+      "url": "https://en.wikipedia.org/wiki/International_Mobile_Satellite_Organization"
+    },
+    {
+      "title": "International Planetary Data Alliance",
+      "url": "https://en.wikipedia.org/wiki/International_Planetary_Data_Alliance"
+    },
+    {
+      "title": "International Space Station",
+      "url": "https://en.wikipedia.org/wiki/International_Space_Station"
+    },
+    {
+      "title": "International Space Station Multilateral Coordination Board",
+      "url": "https://en.wikipedia.org/wiki/International_Space_Station_Multilateral_Coordination_Board"
+    },
+    {
+      "title": "International Telecommunications Satellite Organization",
+      "url": "https://en.wikipedia.org/wiki/International_Telecommunications_Satellite_Organization"
+    },
+    {
+      "title": "Intersputnik",
+      "url": "https://en.wikipedia.org/wiki/Intersputnik"
+    },
+    {
+      "title": "Inuvik",
+      "url": "https://en.wikipedia.org/wiki/Inuvik"
+    },
+    {
+      "title": "Iranian Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Iranian_Space_Agency"
+    },
+    {
+      "title": "Iranian Space Research Center",
+      "url": "https://en.wikipedia.org/wiki/Iranian_Space_Research_Center"
+    },
+    {
+      "title": "Islamic Revolutionary Guard Corps Aerospace Force",
+      "url": "https://en.wikipedia.org/wiki/Islamic_Revolutionary_Guard_Corps_Aerospace_Force"
+    },
+    {
+      "title": "Israel Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Israel_Space_Agency"
+    },
+    {
+      "title": "Italian Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Italian_Space_Agency"
+    },
+    {
+      "title": "JAXA",
+      "url": "https://en.wikipedia.org/wiki/JAXA"
+    },
+    {
+      "title": "Japan Aerospace Exploration Agency",
+      "url": "https://en.wikipedia.org/wiki/Japan_Aerospace_Exploration_Agency"
+    },
+    {
+      "title": "Japan Space Systems",
+      "url": "https://en.wikipedia.org/wiki/Japan_Space_Systems"
+    },
+    {
+      "title": "Jupiter",
+      "url": "https://en.wikipedia.org/wiki/Jupiter"
+    },
+    {
+      "title": "Jülich",
+      "url": "https://en.wikipedia.org/wiki/J%C3%BClich"
+    },
+    {
+      "title": "Jülich Solar Tower",
+      "url": "https://en.wikipedia.org/wiki/J%C3%BClich_Solar_Tower"
+    },
+    {
+      "title": "KAIST Satellite Technology Research Center",
+      "url": "https://en.wikipedia.org/wiki/KAIST_Satellite_Technology_Research_Center"
+    },
+    {
+      "title": "Karlsruhe Institute of Technology",
+      "url": "https://en.wikipedia.org/wiki/Karlsruhe_Institute_of_Technology"
+    },
+    {
+      "title": "KazCosmos",
+      "url": "https://en.wikipedia.org/wiki/KazCosmos"
+    },
+    {
+      "title": "Kenya Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Kenya_Space_Agency"
+    },
+    {
+      "title": "Kerosene",
+      "url": "https://en.wikipedia.org/wiki/Kerosene"
+    },
+    {
+      "title": "King Abdulaziz City for Science and Technology",
+      "url": "https://en.wikipedia.org/wiki/King_Abdulaziz_City_for_Science_and_Technology"
+    },
+    {
+      "title": "Knowledge transfer",
+      "url": "https://en.wikipedia.org/wiki/Knowledge_transfer"
+    },
+    {
+      "title": "Korea AeroSpace Administration",
+      "url": "https://en.wikipedia.org/wiki/Korea_AeroSpace_Administration"
+    },
+    {
+      "title": "Korea Aerospace Research Institute",
+      "url": "https://en.wikipedia.org/wiki/Korea_Aerospace_Research_Institute"
+    },
+    {
+      "title": "Korea Astronomy and Space Science Institute",
+      "url": "https://en.wikipedia.org/wiki/Korea_Astronomy_and_Space_Science_Institute"
+    },
+    {
+      "title": "Korean Committee of Space Technology",
+      "url": "https://en.wikipedia.org/wiki/Korean_Committee_of_Space_Technology"
+    },
+    {
+      "title": "Krummendeich",
+      "url": "https://en.wikipedia.org/wiki/Krummendeich"
+    },
+    {
+      "title": "Kölnische Rundschau",
+      "url": "https://en.wikipedia.org/wiki/K%C3%B6lnische_Rundschau"
+    },
+    {
+      "title": "Latin American and Caribbean Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Latin_American_and_Caribbean_Space_Agency"
+    },
+    {
+      "title": "Leuna",
+      "url": "https://en.wikipedia.org/wiki/Leuna"
+    },
+    {
+      "title": "List of aerospace flight test centres",
+      "url": "https://en.wikipedia.org/wiki/List_of_aerospace_flight_test_centres"
+    },
+    {
+      "title": "List of government space agencies",
+      "url": "https://en.wikipedia.org/wiki/List_of_government_space_agencies"
+    },
+    {
+      "title": "Longitudinal study",
+      "url": "https://en.wikipedia.org/wiki/Longitudinal_study"
+    },
+    {
+      "title": "Ludwig Prandtl",
+      "url": "https://en.wikipedia.org/wiki/Ludwig_Prandtl"
+    },
+    {
+      "title": "Luxembourg Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Luxembourg_Space_Agency"
+    },
+    {
+      "title": "MBB Bo 105",
+      "url": "https://en.wikipedia.org/wiki/MBB_Bo_105"
+    },
+    {
+      "title": "Maintainability",
+      "url": "https://en.wikipedia.org/wiki/Maintainability"
+    },
+    {
+      "title": "Malaysian Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Malaysian_Space_Agency"
+    },
+    {
+      "title": "Maritime transport",
+      "url": "https://en.wikipedia.org/wiki/Maritime_transport"
+    },
+    {
+      "title": "Mars",
+      "url": "https://en.wikipedia.org/wiki/Mars"
+    },
+    {
+      "title": "Mars 96",
+      "url": "https://en.wikipedia.org/wiki/Mars_96"
+    },
+    {
+      "title": "Mars Express",
+      "url": "https://en.wikipedia.org/wiki/Mars_Express"
+    },
+    {
+      "title": "Martian Moons eXploration",
+      "url": "https://en.wikipedia.org/wiki/Martian_Moons_eXploration"
+    },
+    {
+      "title": "Materials science",
+      "url": "https://en.wikipedia.org/wiki/Materials_science"
+    },
+    {
+      "title": "Ministry of General Machine-Building",
+      "url": "https://en.wikipedia.org/wiki/Ministry_of_General_Machine-Building"
+    },
+    {
+      "title": "Mobile app",
+      "url": "https://en.wikipedia.org/wiki/Mobile_app"
+    },
+    {
+      "title": "Modularity",
+      "url": "https://en.wikipedia.org/wiki/Modularity"
+    },
+    {
+      "title": "Mohammed bin Rashid Space Centre",
+      "url": "https://en.wikipedia.org/wiki/Mohammed_bin_Rashid_Space_Centre"
+    },
+    {
+      "title": "Molten salt",
+      "url": "https://en.wikipedia.org/wiki/Molten_salt"
+    },
+    {
+      "title": "Moon",
+      "url": "https://en.wikipedia.org/wiki/Moon"
+    },
+    {
+      "title": "Moon landing",
+      "url": "https://en.wikipedia.org/wiki/Moon_landing"
+    },
+    {
+      "title": "Munich",
+      "url": "https://en.wikipedia.org/wiki/Munich"
+    },
+    {
+      "title": "Myanmar Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Myanmar_Space_Agency"
+    },
+    {
+      "title": "NASA",
+      "url": "https://en.wikipedia.org/wiki/NASA"
+    },
+    {
+      "title": "National Aerospace Laboratory of Japan",
+      "url": "https://en.wikipedia.org/wiki/National_Aerospace_Laboratory_of_Japan"
+    },
+    {
+      "title": "National Aerospace Technology Administration",
+      "url": "https://en.wikipedia.org/wiki/National_Aerospace_Technology_Administration"
+    },
+    {
+      "title": "National Authority for Remote Sensing and Space Sciences",
+      "url": "https://en.wikipedia.org/wiki/National_Authority_for_Remote_Sensing_and_Space_Sciences"
+    },
+    {
+      "title": "National Broadcasting Council",
+      "url": "https://en.wikipedia.org/wiki/National_Broadcasting_Council"
+    },
+    {
+      "title": "National Committee for Space Research",
+      "url": "https://en.wikipedia.org/wiki/National_Committee_for_Space_Research"
+    },
+    {
+      "title": "National Environmental Satellite, Data, and Information Service",
+      "url": "https://en.wikipedia.org/wiki/National_Environmental_Satellite%2C_Data%2C_and_Information_Service"
+    },
+    {
+      "title": "National Institute for Aerospace Technology",
+      "url": "https://en.wikipedia.org/wiki/National_Institute_for_Aerospace_Technology"
+    },
+    {
+      "title": "National Institute for Space Research",
+      "url": "https://en.wikipedia.org/wiki/National_Institute_for_Space_Research"
+    },
+    {
+      "title": "National Institute of Aeronautics and Space",
+      "url": "https://en.wikipedia.org/wiki/National_Institute_of_Aeronautics_and_Space"
+    },
+    {
+      "title": "National Institute of Information and Communications Technology",
+      "url": "https://en.wikipedia.org/wiki/National_Institute_of_Information_and_Communications_Technology"
+    },
+    {
+      "title": "National Reconnaissance Office",
+      "url": "https://en.wikipedia.org/wiki/National_Reconnaissance_Office"
+    },
+    {
+      "title": "National Remote Sensing Centre",
+      "url": "https://en.wikipedia.org/wiki/National_Remote_Sensing_Centre"
+    },
+    {
+      "title": "National Research and Innovation Agency",
+      "url": "https://en.wikipedia.org/wiki/National_Research_and_Innovation_Agency"
+    },
+    {
+      "title": "National Space Activities Commission",
+      "url": "https://en.wikipedia.org/wiki/National_Space_Activities_Commission"
+    },
+    {
+      "title": "National Space Agency of Singapore",
+      "url": "https://en.wikipedia.org/wiki/National_Space_Agency_of_Singapore"
+    },
+    {
+      "title": "National Space Development Agency of Japan",
+      "url": "https://en.wikipedia.org/wiki/National_Space_Development_Agency_of_Japan"
+    },
+    {
+      "title": "National Space Research and Development Agency",
+      "url": "https://en.wikipedia.org/wiki/National_Space_Research_and_Development_Agency"
+    },
+    {
+      "title": "National Space Science Agency",
+      "url": "https://en.wikipedia.org/wiki/National_Space_Science_Agency"
+    },
+    {
+      "title": "National security",
+      "url": "https://en.wikipedia.org/wiki/National_security"
+    },
+    {
+      "title": "Nazi Germany",
+      "url": "https://en.wikipedia.org/wiki/Nazi_Germany"
+    },
+    {
+      "title": "Net-zero emissions",
+      "url": "https://en.wikipedia.org/wiki/Net-zero_emissions"
+    },
+    {
+      "title": "Netherlands Institute for Space Research",
+      "url": "https://en.wikipedia.org/wiki/Netherlands_Institute_for_Space_Research"
+    },
+    {
+      "title": "Netherlands Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Netherlands_Space_Agency"
+    },
+    {
+      "title": "Neue Ruhr Zeitung",
+      "url": "https://en.wikipedia.org/wiki/Neue_Ruhr_Zeitung"
+    },
+    {
+      "title": "NewSpace India Limited",
+      "url": "https://en.wikipedia.org/wiki/NewSpace_India_Limited"
+    },
+    {
+      "title": "New Zealand Space Agency",
+      "url": "https://en.wikipedia.org/wiki/New_Zealand_Space_Agency"
+    },
+    {
+      "title": "Noise reduction",
+      "url": "https://en.wikipedia.org/wiki/Noise_reduction"
+    },
+    {
+      "title": "Non-profit organization",
+      "url": "https://en.wikipedia.org/wiki/Non-profit_organization"
+    },
+    {
+      "title": "Norwegian Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Norwegian_Space_Agency"
+    },
+    {
+      "title": "Oberpfaffenhofen",
+      "url": "https://en.wikipedia.org/wiki/Oberpfaffenhofen"
+    },
+    {
+      "title": "Office of Commercial Space Transportation",
+      "url": "https://en.wikipedia.org/wiki/Office_of_Commercial_Space_Transportation"
+    },
+    {
+      "title": "Office of Space Commerce",
+      "url": "https://en.wikipedia.org/wiki/Office_of_Space_Commerce"
+    },
+    {
+      "title": "Orbital Debris Co-ordination Working Group",
+      "url": "https://en.wikipedia.org/wiki/Orbital_Debris_Co-ordination_Working_Group"
+    },
+    {
+      "title": "Orion (spacecraft)",
+      "url": "https://en.wikipedia.org/wiki/Orion_%28spacecraft%29"
+    },
+    {
+      "title": "Outline of space science",
+      "url": "https://en.wikipedia.org/wiki/Outline_of_space_science"
+    },
+    {
+      "title": "Outreach",
+      "url": "https://en.wikipedia.org/wiki/Outreach"
+    },
+    {
+      "title": "Oxygen",
+      "url": "https://en.wikipedia.org/wiki/Oxygen"
+    },
+    {
+      "title": "PS10 solar power plant",
+      "url": "https://en.wikipedia.org/wiki/PS10_solar_power_plant"
+    },
+    {
+      "title": "Paris",
+      "url": "https://en.wikipedia.org/wiki/Paris"
+    },
+    {
+      "title": "Payload",
+      "url": "https://en.wikipedia.org/wiki/Payload"
+    },
+    {
+      "title": "People's Liberation Army Aerospace Force",
+      "url": "https://en.wikipedia.org/wiki/People%27s_Liberation_Army_Aerospace_Force"
+    },
+    {
+      "title": "Philippine Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Philippine_Space_Agency"
+    },
+    {
+      "title": "Phobos (moon)",
+      "url": "https://en.wikipedia.org/wiki/Phobos_%28moon%29"
+    },
+    {
+      "title": "Plataforma Solar de Almería",
+      "url": "https://en.wikipedia.org/wiki/Plataforma_Solar_de_Almer%C3%ADa"
+    },
+    {
+      "title": "Policy",
+      "url": "https://en.wikipedia.org/wiki/Policy"
+    },
+    {
+      "title": "Polish Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Polish_Space_Agency"
+    },
+    {
+      "title": "Portuguese Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Portuguese_Space_Agency"
+    },
+    {
+      "title": "Predictive maintenance",
+      "url": "https://en.wikipedia.org/wiki/Predictive_maintenance"
+    },
+    {
+      "title": "Product lifecycle",
+      "url": "https://en.wikipedia.org/wiki/Product_lifecycle"
+    },
+    {
+      "title": "Project management office",
+      "url": "https://en.wikipedia.org/wiki/Project_management_office"
+    },
+    {
+      "title": "Propulsion",
+      "url": "https://en.wikipedia.org/wiki/Propulsion"
+    },
+    {
+      "title": "Radar",
+      "url": "https://en.wikipedia.org/wiki/Radar"
+    },
+    {
+      "title": "Radiation",
+      "url": "https://en.wikipedia.org/wiki/Radiation"
+    },
+    {
+      "title": "Rail transport",
+      "url": "https://en.wikipedia.org/wiki/Rail_transport"
+    },
+    {
+      "title": "Regional African Satellite Communication Organization",
+      "url": "https://en.wikipedia.org/wiki/Regional_African_Satellite_Communication_Organization"
+    },
+    {
+      "title": "Registered association",
+      "url": "https://en.wikipedia.org/wiki/Registered_association"
+    },
+    {
+      "title": "Registered association (Germany)",
+      "url": "https://en.wikipedia.org/wiki/Registered_association_%28Germany%29"
+    },
+    {
+      "title": "Renewable energy",
+      "url": "https://en.wikipedia.org/wiki/Renewable_energy"
+    },
+    {
+      "title": "Research Organization for Aeronautics and Space",
+      "url": "https://en.wikipedia.org/wiki/Research_Organization_for_Aeronautics_and_Space"
+    },
+    {
+      "title": "Reuse",
+      "url": "https://en.wikipedia.org/wiki/Reuse"
+    },
+    {
+      "title": "Reuters",
+      "url": "https://en.wikipedia.org/wiki/Reuters"
+    },
+    {
+      "title": "Road transport",
+      "url": "https://en.wikipedia.org/wiki/Road_transport"
+    },
+    {
+      "title": "Robot",
+      "url": "https://en.wikipedia.org/wiki/Robot"
+    },
+    {
+      "title": "Romanian Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Romanian_Space_Agency"
+    },
+    {
+      "title": "Roscosmos",
+      "url": "https://en.wikipedia.org/wiki/Roscosmos"
+    },
+    {
+      "title": "Royal Center for Remote Sensing",
+      "url": "https://en.wikipedia.org/wiki/Royal_Center_for_Remote_Sensing"
+    },
+    {
+      "title": "Russian Aerospace Defence Forces",
+      "url": "https://en.wikipedia.org/wiki/Russian_Aerospace_Defence_Forces"
+    },
+    {
+      "title": "Russian Space Forces",
+      "url": "https://en.wikipedia.org/wiki/Russian_Space_Forces"
+    },
+    {
+      "title": "Russian Space Research Institute",
+      "url": "https://en.wikipedia.org/wiki/Russian_Space_Research_Institute"
+    },
+    {
+      "title": "SUPARCO",
+      "url": "https://en.wikipedia.org/wiki/SUPARCO"
+    },
+    {
+      "title": "Sanlúcar la Mayor",
+      "url": "https://en.wikipedia.org/wiki/Sanl%C3%BAcar_la_Mayor"
+    },
+    {
+      "title": "Satellite",
+      "url": "https://en.wikipedia.org/wiki/Satellite"
+    },
+    {
+      "title": "Satellite imagery",
+      "url": "https://en.wikipedia.org/wiki/Satellite_imagery"
+    },
+    {
+      "title": "Saudi Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Saudi_Space_Agency"
+    },
+    {
+      "title": "Schempp-Hirth Discus-2",
+      "url": "https://en.wikipedia.org/wiki/Schempp-Hirth_Discus-2"
+    },
+    {
+      "title": "Scientific collaboration network",
+      "url": "https://en.wikipedia.org/wiki/Scientific_collaboration_network"
+    },
+    {
+      "title": "Siegfried Ruff",
+      "url": "https://en.wikipedia.org/wiki/Siegfried_Ruff"
+    },
+    {
+      "title": "Simulation",
+      "url": "https://en.wikipedia.org/wiki/Simulation"
+    },
+    {
+      "title": "Solar energy",
+      "url": "https://en.wikipedia.org/wiki/Solar_energy"
+    },
+    {
+      "title": "Solar power",
+      "url": "https://en.wikipedia.org/wiki/Solar_power"
+    },
+    {
+      "title": "Solar power tower",
+      "url": "https://en.wikipedia.org/wiki/Solar_power_tower"
+    },
+    {
+      "title": "Sounding rocket",
+      "url": "https://en.wikipedia.org/wiki/Sounding_rocket"
+    },
+    {
+      "title": "South African National Space Agency",
+      "url": "https://en.wikipedia.org/wiki/South_African_National_Space_Agency"
+    },
+    {
+      "title": "Soviet space program",
+      "url": "https://en.wikipedia.org/wiki/Soviet_space_program"
+    },
+    {
+      "title": "Space.com",
+      "url": "https://en.wikipedia.org/wiki/Space.com"
+    },
+    {
+      "title": "Space Research Centre of Polish Academy of Sciences",
+      "url": "https://en.wikipedia.org/wiki/Space_Research_Centre_of_Polish_Academy_of_Sciences"
+    },
+    {
+      "title": "Space Research and Technology Institute",
+      "url": "https://en.wikipedia.org/wiki/Space_Research_and_Technology_Institute"
+    },
+    {
+      "title": "Spaceport",
+      "url": "https://en.wikipedia.org/wiki/Spaceport"
+    },
+    {
+      "title": "Spanish Air and Space Force",
+      "url": "https://en.wikipedia.org/wiki/Spanish_Air_and_Space_Force"
+    },
+    {
+      "title": "State Administration of Science, Technology and Industry for National Defense",
+      "url": "https://en.wikipedia.org/wiki/State_Administration_of_Science%2C_Technology_and_Industry_for_National_Defense"
+    },
+    {
+      "title": "State Space Agency of Ukraine",
+      "url": "https://en.wikipedia.org/wiki/State_Space_Agency_of_Ukraine"
+    },
+    {
+      "title": "States of Germany",
+      "url": "https://en.wikipedia.org/wiki/States_of_Germany"
+    },
+    {
+      "title": "Stratosphere",
+      "url": "https://en.wikipedia.org/wiki/Stratosphere"
+    },
+    {
+      "title": "Stuttgart",
+      "url": "https://en.wikipedia.org/wiki/Stuttgart"
+    },
+    {
+      "title": "Sustainability",
+      "url": "https://en.wikipedia.org/wiki/Sustainability"
+    },
+    {
+      "title": "Swedish National Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Swedish_National_Space_Agency"
+    },
+    {
+      "title": "Swiss Space Office",
+      "url": "https://en.wikipedia.org/wiki/Swiss_Space_Office"
+    },
+    {
+      "title": "Syrian Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Syrian_Space_Agency"
+    },
+    {
+      "title": "Süddeutsche Zeitung",
+      "url": "https://en.wikipedia.org/wiki/S%C3%BCddeutsche_Zeitung"
+    },
+    {
+      "title": "Tacheles (satellite)",
+      "url": "https://en.wikipedia.org/wiki/Tacheles_%28satellite%29"
+    },
+    {
+      "title": "Taiwan Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Taiwan_Space_Agency"
+    },
+    {
+      "title": "TanDEM-X",
+      "url": "https://en.wikipedia.org/wiki/TanDEM-X"
+    },
+    {
+      "title": "Technische Universität Berlin",
+      "url": "https://en.wikipedia.org/wiki/Technische_Universit%C3%A4t_Berlin"
+    },
+    {
+      "title": "Technology transfer",
+      "url": "https://en.wikipedia.org/wiki/Technology_transfer"
+    },
+    {
+      "title": "TerraSAR-X",
+      "url": "https://en.wikipedia.org/wiki/TerraSAR-X"
+    },
+    {
+      "title": "Terrorism",
+      "url": "https://en.wikipedia.org/wiki/Terrorism"
+    },
+    {
+      "title": "Test bench",
+      "url": "https://en.wikipedia.org/wiki/Test_bench"
+    },
+    {
+      "title": "Timeline of first orbital launches by country",
+      "url": "https://en.wikipedia.org/wiki/Timeline_of_first_orbital_launches_by_country"
+    },
+    {
+      "title": "Tokyo",
+      "url": "https://en.wikipedia.org/wiki/Tokyo"
+    },
+    {
+      "title": "Topographic map",
+      "url": "https://en.wikipedia.org/wiki/Topographic_map"
+    },
+    {
+      "title": "Transport",
+      "url": "https://en.wikipedia.org/wiki/Transport"
+    },
+    {
+      "title": "Tsunami",
+      "url": "https://en.wikipedia.org/wiki/Tsunami"
+    },
+    {
+      "title": "Turkish Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Turkish_Space_Agency"
+    },
+    {
+      "title": "Turkmenistan National Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_National_Space_Agency"
+    },
+    {
+      "title": "TÜBİTAK Space Technologies Research Institute",
+      "url": "https://en.wikipedia.org/wiki/T%C3%9CB%C4%B0TAK_Space_Technologies_Research_Institute"
+    },
+    {
+      "title": "UK Space Agency",
+      "url": "https://en.wikipedia.org/wiki/UK_Space_Agency"
+    },
+    {
+      "title": "UNOSAT",
+      "url": "https://en.wikipedia.org/wiki/UNOSAT"
+    },
+    {
+      "title": "United Arab Emirates Space Agency",
+      "url": "https://en.wikipedia.org/wiki/United_Arab_Emirates_Space_Agency"
+    },
+    {
+      "title": "United Nations Committee on the Peaceful Uses of Outer Space",
+      "url": "https://en.wikipedia.org/wiki/United_Nations_Committee_on_the_Peaceful_Uses_of_Outer_Space"
+    },
+    {
+      "title": "United Nations Office for Outer Space Affairs",
+      "url": "https://en.wikipedia.org/wiki/United_Nations_Office_for_Outer_Space_Affairs"
+    },
+    {
+      "title": "United States Space Command",
+      "url": "https://en.wikipedia.org/wiki/United_States_Space_Command"
+    },
+    {
+      "title": "United States Space Force",
+      "url": "https://en.wikipedia.org/wiki/United_States_Space_Force"
+    },
+    {
+      "title": "Unmanned aerial vehicle",
+      "url": "https://en.wikipedia.org/wiki/Unmanned_aerial_vehicle"
+    },
+    {
+      "title": "Venezuelan Institute for Scientific Research",
+      "url": "https://en.wikipedia.org/wiki/Venezuelan_Institute_for_Scientific_Research"
+    },
+    {
+      "title": "Verein Deutscher Ingenieure",
+      "url": "https://en.wikipedia.org/wiki/Verein_Deutscher_Ingenieure"
+    },
+    {
+      "title": "Vietnam Academy of Science and Technology",
+      "url": "https://en.wikipedia.org/wiki/Vietnam_Academy_of_Science_and_Technology"
+    },
+    {
+      "title": "Volcanic eruption",
+      "url": "https://en.wikipedia.org/wiki/Volcanic_eruption"
+    },
+    {
+      "title": "Washington, D.C.",
+      "url": "https://en.wikipedia.org/wiki/Washington%2C_D.C."
+    },
+    {
+      "title": "Wesel",
+      "url": "https://en.wikipedia.org/wiki/Wesel"
+    },
+    {
+      "title": "Wildfire",
+      "url": "https://en.wikipedia.org/wiki/Wildfire"
+    },
+    {
+      "title": "Wind tunnel",
+      "url": "https://en.wikipedia.org/wiki/Wind_tunnel"
+    },
+    {
+      "title": "Wind turbine",
+      "url": "https://en.wikipedia.org/wiki/Wind_turbine"
+    },
+    {
+      "title": "World War II",
+      "url": "https://en.wikipedia.org/wiki/World_War_II"
+    },
+    {
+      "title": "YouTube",
+      "url": "https://en.wikipedia.org/wiki/YouTube"
+    },
+    {
+      "title": "Évora",
+      "url": "https://en.wikipedia.org/wiki/%C3%89vora"
+    },
+    {
+      "title": "Lithuanian Space Office",
+      "url": "https://en.wikipedia.org/wiki/Lithuanian_Space_Office"
+    },
+    {
+      "title": "Urząd Komunikacji Elektronicznej",
+      "url": "https://en.wikipedia.org/wiki/Urz%C4%85d_Komunikacji_Elektronicznej"
+    },
+    {
+      "title": "Polish IMINT Centre",
+      "url": "https://en.wikipedia.org/wiki/Polish_IMINT_Centre"
+    },
+    {
+      "title": "International Space Exploration Coordination Group",
+      "url": "https://en.wikipedia.org/wiki/International_Space_Exploration_Coordination_Group"
+    }
+  ]
+}

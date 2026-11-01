@@ -1,0 +1,828 @@
+{
+  "document_id": "wikipedia_en_Q26924676",
+  "wikidata_id": "Q26924676",
+  "entity_label": "Anthony Levandowski",
+  "entity_type": "person",
+  "seed_categories": [],
+  "source": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Anthony_Levandowski",
+  "revision_id": 1381965197,
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1381965197",
+  "pageid": 51605297,
+  "title": "Anthony Levandowski",
+  "language": "en",
+  "collected_at": "2026-10-28T22:04:40.626623+00:00",
+  "content": {
+    "sections": [
+      {
+        "heading": "Introduction",
+        "text": "Anthony Levandowski (born March 15, 1980) is a French-American, self-proclaimed self-driving car engineer. In 2009, Levandowski co-founded Google 's self-driving car program, known as Waymo , and was a technical lead until 2016. In 2010, he co-founded Google X along with Yoky Matsuoka and Sebastian Thrun . In 2016, he co-founded and sold Otto , an autonomous trucking company, to Uber Technologies . In 2018, he co-founded the autonomous trucking company Pronto; the first self-driving technology company to complete a cross-country drive in an autonomous vehicle in October 2018. At the 2019 AV Summit hosted by The Information , Levandowski remarked that a fundamental breakthrough in artificial intelligence is needed to move autonomous vehicle technology forward.\nIn 2019, Levandowski was indicted on 33 federal charges of theft of self-driving car trade secrets. In August 2020, Levandowski pleaded guilty to one of the 33 charges, and was sentenced to 18 months in prison. He was pardoned less than six months later on January 20, 2021, the last day of Donald Trump 's first presidential term. In September, 2021 Levandowski rejoined Pronto as CEO; subsequently announcing the company's new offroad autonomous division."
+      },
+      {
+        "heading": "Early life and education",
+        "text": "Levandowski was born on March 15, 1980, in Brussels , Belgium to a French diplomat mother and an American businessman. He moved to California in the mid-1990s. During his teenage years, he developed websites for local businesses.\nIn 1998, Levandowski entered the University of California, Berkeley , where he earned bachelor's and master's degrees in industrial engineering and operations research . As a freshman, he founded La Raison, an intranet and IT services company that made fifty thousand dollars in its first year. His sophomore year, Levandowski built the BillSortBot, a robot made from 300 Lego pieces that sorted Monopoly money for the Sun Microsoft robotics competition. He won first place. In 2003, Levandowski launched Construction Control Systems with Randy Miller to build WorkTop, a portable blueprint reader and updater for construction sites.\nIn 2003, Levandowski and fellow Berkeley engineers, as the \"Blue Team\", started building an autonomous motorcycle , nicknamed Ghostrider, for the 2004 DARPA Grand Challenge . It was built over several years for an estimated $100,000 and competed in the DARPA Grand Challenge in 2004 and 2005. It was the only autonomous two-wheeled vehicle in the competitions. The motorcycle was retrofitted with video cameras, computers, a GPS receiver, an IMU, and motors to power the clutch and steering. At the DARPA Grand Challenge, the motorcycle collapsed at the starting line due to a forgotten switch preventing it from stabilizing.  Despite this, as the team lead, participation in the DARPA Grand Challenge paved the way for Levandowski to build PriBot, the first self-driving car to drive on public roads. In 2007, Levandowski donated Ghostrider to the Smithsonian National Museum of American History , where it resides."
+      },
+      {
+        "heading": "Career",
+        "text": "In 2006, Levandowski began working with Sebastian Thrun , whom he had met at the 2005 DARPA Grand Challenge, on VueTool. Vuetool was a Stanford street mapping project that used cameras mounted on vehicles to create maps. In early 2007, Google X hired Thrun, Levandowski, and their entire team to help develop the Google Street View system. To meet Larry Page 's target of capturing 1,000,000 kilometres (620,000 mi) of roadways before the end of 2007, Levandowski ordered 100 Toyota Priuses from a local dealership. The Street View team's success was partially due to the \"Topcon box\" or IP-S2 Mobile Mapping System, a roof mounted box composed of Lidar, cameras, GPS, IMUs, and wheel encoders that enabled a car to drive around and create a 3D map. The Topcon box was designed by 510 Systems, a start-up co-founded by Levandowski in early 2007 alongside Pierre-Yves Droz and Andrew Schultz. Google employed 510 Systems technology until it quietly acquired the company in 2011.\nIn 2008, Levandowski was approached by the director of Discovery Channel 's Prototype This! requesting to use the Ghost Rider in an episode to deliver a pizza using an unmanned vehicle. The Ghost Rider was in the Smithsonian at the time, so Levandowski offered to retrofit a Toyota Prius for the show. Levandowski approached Google and 510 Systems with the venture, but they both turned him down for liability reasons. Levandowski stated, in an interview with The Guardian , \"Google was very supportive of the idea, but it absolutely did not want its name associated with it. Google was worried about a Google engineer building a car that crashes and kills someone.\" In June 2008, with Google's blessing, Levandowski founded Anthony's Robots in order to build the PriBot. The PriBot was \"a self-driving Toyota Prius with one of the first spinning Lidar laser ranging units and the first-ever to drive on public roads .\" For the show footage, the police cleared the road and escorted the driverless Prius on a pre-determined route from San Francisco across the Bay Bridge. The drive was successful, aside from scraping against a guard rail on a sharp turn. Within the span of weeks, Levandowski had demonstrated that self-driving cars were possible, even on a budget. By early 2009, Levandowski and Thrun were greenlit by Brin and Page to launch their own driverless car project within Google. Anthony's Robots was acquired by Google in 2011 alongside his company 510 Systems for an estimated $20 million."
+      },
+      {
+        "heading": "Waymo and Otto",
+        "text": "In 2009, Levandowski and Thrun co-founded Google's self-driving car project Chauffeur, now known as Waymo. Over the next two years, Levandowski's 510 Systems built five additional self-driving Priuses for Google. In 2011, Levandowski lobbied Nevada to allow the testing of autonomous vehicles. In May 2012, the Las Vegas DMV performed the first self-driving car test with Chris Urmson in the driver's seat and Anthony Levandowski in the passenger seat. The car passed the test. Levandowski continued to work as a technical lead on Google's self-driving car project alongside Chris Urmson , Dmitri Dolgov, and Mike Montemerlo until January 2016, when he left to launch Otto . In addition to Project Chauffeur, Levandowski's contributions to Google include work on Street View, Cardboard, Telepresence, Ground Truth, Oblique Aerial Imagery, and Tiramisu. Levandowski allegedly downloaded 9.7 GB of Waymo's confidential files before resigning to found Otto.\nOtto was founded in January 2016 by Levandowski, Lior Ron, Claire Delaunay, and Don Burnette. Eleven Google employees also joined them. Otto retrofitted big rig trucks with self-driving kits. Levandowski stated he left Google because he, \"was eager to commercialize a self-driving vehicle as quickly as possible.\" Otto was acquired by Uber in late July 2016, at which point Levandowski assumed leadership of Uber's driverless car operation. ln May 2017 Levandowski was fired from Uber after Waymo and Google charged he had raided Waymo's design server.  In July 2018  Uber's autonomous trucking program was shut down.\nIn 2017, Levandowski established a religious organisation called Way of the Future with the stated intention of creating a god with \" Christian morals \" through artificial intelligence . He dissolved the organization in 2021."
+      },
+      {
+        "heading": "Pronto AI",
+        "text": "In 2018, Levandowski launched Pronto AI to produce a camera-based, self-driving highway-only retrofit system for semi-trucks . Levandwoski's bankruptcy filings in 2019 showed that he had invested over $8.5 million into the company. As proof of concept, Levandowski claimed to have taken a modified self-driving Prius 3,100 miles (5,000 km) across the United States. Some publications expressed doubt over the video's authenticity. Engadget noted that the video was uploaded as a timelapse, making it difficult to verify the footage. As of 2022, the company had pivoted to developing self-driving vehicles for more limited use in environments such as quarries.\nIn February 2022, Levandowski launched Pollen Mobile, an open-source wireless network. Pollen Mobile distributed antennas and other devices, called Flowers, Hummingbirds and Bumblebees to consumers. The network is used by Pronto AI’s autonomous vehicles and is operational in the Bay Area.\nIn October 2022, Levandowski expressed doubt that self-driving cars would find mainstream success in the near future."
+      },
+      {
+        "heading": "Civil lawsuit",
+        "text": "According to a February 2017 civil lawsuit filed by Waymo officially known as Waymo v. Uber (Levandowski was not a defendant in the case), Levandowski allegedly \"downloaded 9.7 GB of Waymo's confidential files and trade secrets, including blueprints, design files, and testing documentation\" before resigning to found Otto . Google co-founder Larry Page was reluctant to file the suit. However, he was pushed over the edge when one of Waymo's suppliers inadvertently copied a Waymo engineer on an email of a schematic of Uber's Lidar design. Uber's design appeared to be almost identical to that of Waymo. The civil suit between Uber and Waymo was settled in February 2018 with Uber agreeing to pay Waymo 0.34% of its equity, valued at approximately $245 million, and not to use the unit's technology.\nBefore filing its lawsuit against Uber in 2017, Google had separately taken Levandowski to private arbitration over a contract dispute. On March 4, 2020, Levandowski filed for bankruptcy protection after the court confirmed an arbitration panel's ruling that Levandowski and his colleague Lior Ron had breached their employment contracts with Google by poaching employees for their startup. The panel found that Levandowski owed Google $179 million—$120 million accounted for the salary he received while at the company, and the remainder for interest and legal fees accrued.\nOn March 30, 2020, Levandowski filed a motion with a California bankruptcy judge to force Uber to honor its contractual obligation to indemnify Levandowski. At issue is the validity of the indemnification agreement that Uber, Levandowski, and Ron entered into pre-acquisition. According to a court document, \"The indemnification agreement was structured to ensure that Mr. Levandowski would not be left unprotected against Google, which had inexhaustible resources to attack Mr. Levandowski.\" Uber initially honored the agreement and covered both Levandowski and Ron's legal costs. However, in April 2018, days before the final arbitration hearing that resulted in Levandowski owing Google $179 million, Uber informed him it would be seeking reimbursement for his defense costs, arguing he had breached their agreement by refusing to testify.\nIn March 2017, United States District Judge William Alsup referred the civil case to federal prosecutors, citing the Economic Espionage Act of 1996 after Levandowski exercised his Fifth Amendment right against self-incrimination . In May 2017, Judge Alsup ordered Levandowski to refrain from working on Lidar at Uber and required Uber to disclose its discussions on the technology. Levandowski was later fired by Uber for failing to cooperate in an internal investigation. Soon after the case went to trial, Uber, through its lawyers, publicly apologized for hiring Levandowski.\nIn February, 2022, Levandowski, Uber and Google negotiated a global settlement agreement for the lawsuit Google brought against Levandowski. According to court records, Uber agreed to pay Google a “Substantial Portion” of the settlement, honoring their indemnification clause with Levandowski. Levandowski was required to pay between $25M and $30M.\nIn April 2022, the settlement agreement faced objections from the U.S. Department of Justice and California’s Internal Revenue Service over the tax implications for Levandowski’s estate."
+      },
+      {
+        "heading": "Criminal conviction and pardon",
+        "text": "On August 27, 2019, Levandowski was charged by the Department of Justice for the alleged theft of trade secrets from Google's self-driving unit Waymo. In months before he left Google, the charges alleged Levandowski downloaded thousands of files from Waymo's predecessor, Project Chauffeur. The data allegedly included \"critical engineering information about the hardware used on Project Chauffeur self-driving vehicles,\" and that Levandowski transferred files onto his laptop before leaving the company. Following the indictment, Pronto, a new self-driving trucking company that Levandowski co-founded, announced that its Chief Safety Officer, Robbie Miller, would take over as CEO.\nOn March 19, 2020, Levandowski agreed to plead guilty to one of the thirty-three charges initially brought against him by the Department of Justice. Originally charged with stealing documents containing trade secrets, technical specifications, and Lidar design, Levandowski's pleaded guilty to downloading an internal project tracking document called, \"Chauffeur TL Weekly – Q4 2015\"—a spreadsheet consisting of team goals, project metrics, and weekly status updates accessible by Levandowski's team on an unsecured Google Drive. Levandowski admitted to accessing the document about one month after leaving Google in February 2016.\nOn August 4, 2020, Levandowski formally pleaded guilty to one count of trade secret theft, and Judge William Alsup sentenced him to 18 months in prison.  Prosecutors agreed to drop the remaining 32 charges as a part of the plea agreement. During the sentencing, Alsup said, \"this is the biggest trade secret crime I have ever seen.  This was not small.  This was massive in scale.\" He also described Levandowski as a \"brilliant, groundbreaking engineer that our country needs. We need those people with vision. I'm going to give him that.\" In addition to time served, Levandowski was ordered to pay $756,499.22 in restitution to Waymo and a fine of $95,000.\nOn January 20, 2021, his last day of his first term, President Donald Trump granted a full pardon to Levandowski."
+      },
+      {
+        "heading": "Media representations",
+        "text": "In February 2022, Showtime released the series Super Pumped , which portrays the history of Uber from CEO Travis Kalanick ’s perspective. Levandowski was portrayed by Jeremy Howard in episodes 5 and 6."
+      },
+      {
+        "heading": "Funding of Way of the Future",
+        "text": "In 2017 Anthony Levandowski founded Way of the Future and established it as a non-profit religious corporation with tax-exempt status. He serves as the church leader and its unpaid CEO. The primary mission of WOTF was to \"develop and promote the realization of a Godhead based on Artificial Intelligence.\" WOTF was closed by Levandowski in 2021 and reopened in 2023. Parallel to, and partly identical to, Syntheism , the WOTF is the first known religious organization dedicated to the worship of artificial intelligence (AI)."
+      },
+      {
+        "heading": "External links",
+        "text": "Official website"
+      }
+    ],
+    "full_text": "Introduction\nAnthony Levandowski (born March 15, 1980) is a French-American, self-proclaimed self-driving car engineer. In 2009, Levandowski co-founded Google 's self-driving car program, known as Waymo , and was a technical lead until 2016. In 2010, he co-founded Google X along with Yoky Matsuoka and Sebastian Thrun . In 2016, he co-founded and sold Otto , an autonomous trucking company, to Uber Technologies . In 2018, he co-founded the autonomous trucking company Pronto; the first self-driving technology company to complete a cross-country drive in an autonomous vehicle in October 2018. At the 2019 AV Summit hosted by The Information , Levandowski remarked that a fundamental breakthrough in artificial intelligence is needed to move autonomous vehicle technology forward.\nIn 2019, Levandowski was indicted on 33 federal charges of theft of self-driving car trade secrets. In August 2020, Levandowski pleaded guilty to one of the 33 charges, and was sentenced to 18 months in prison. He was pardoned less than six months later on January 20, 2021, the last day of Donald Trump 's first presidential term. In September, 2021 Levandowski rejoined Pronto as CEO; subsequently announcing the company's new offroad autonomous division.\n\nEarly life and education\nLevandowski was born on March 15, 1980, in Brussels , Belgium to a French diplomat mother and an American businessman. He moved to California in the mid-1990s. During his teenage years, he developed websites for local businesses.\nIn 1998, Levandowski entered the University of California, Berkeley , where he earned bachelor's and master's degrees in industrial engineering and operations research . As a freshman, he founded La Raison, an intranet and IT services company that made fifty thousand dollars in its first year. His sophomore year, Levandowski built the BillSortBot, a robot made from 300 Lego pieces that sorted Monopoly money for the Sun Microsoft robotics competition. He won first place. In 2003, Levandowski launched Construction Control Systems with Randy Miller to build WorkTop, a portable blueprint reader and updater for construction sites.\nIn 2003, Levandowski and fellow Berkeley engineers, as the \"Blue Team\", started building an autonomous motorcycle , nicknamed Ghostrider, for the 2004 DARPA Grand Challenge . It was built over several years for an estimated $100,000 and competed in the DARPA Grand Challenge in 2004 and 2005. It was the only autonomous two-wheeled vehicle in the competitions. The motorcycle was retrofitted with video cameras, computers, a GPS receiver, an IMU, and motors to power the clutch and steering. At the DARPA Grand Challenge, the motorcycle collapsed at the starting line due to a forgotten switch preventing it from stabilizing.  Despite this, as the team lead, participation in the DARPA Grand Challenge paved the way for Levandowski to build PriBot, the first self-driving car to drive on public roads. In 2007, Levandowski donated Ghostrider to the Smithsonian National Museum of American History , where it resides.\n\nCareer\nIn 2006, Levandowski began working with Sebastian Thrun , whom he had met at the 2005 DARPA Grand Challenge, on VueTool. Vuetool was a Stanford street mapping project that used cameras mounted on vehicles to create maps. In early 2007, Google X hired Thrun, Levandowski, and their entire team to help develop the Google Street View system. To meet Larry Page 's target of capturing 1,000,000 kilometres (620,000 mi) of roadways before the end of 2007, Levandowski ordered 100 Toyota Priuses from a local dealership. The Street View team's success was partially due to the \"Topcon box\" or IP-S2 Mobile Mapping System, a roof mounted box composed of Lidar, cameras, GPS, IMUs, and wheel encoders that enabled a car to drive around and create a 3D map. The Topcon box was designed by 510 Systems, a start-up co-founded by Levandowski in early 2007 alongside Pierre-Yves Droz and Andrew Schultz. Google employed 510 Systems technology until it quietly acquired the company in 2011.\nIn 2008, Levandowski was approached by the director of Discovery Channel 's Prototype This! requesting to use the Ghost Rider in an episode to deliver a pizza using an unmanned vehicle. The Ghost Rider was in the Smithsonian at the time, so Levandowski offered to retrofit a Toyota Prius for the show. Levandowski approached Google and 510 Systems with the venture, but they both turned him down for liability reasons. Levandowski stated, in an interview with The Guardian , \"Google was very supportive of the idea, but it absolutely did not want its name associated with it. Google was worried about a Google engineer building a car that crashes and kills someone.\" In June 2008, with Google's blessing, Levandowski founded Anthony's Robots in order to build the PriBot. The PriBot was \"a self-driving Toyota Prius with one of the first spinning Lidar laser ranging units and the first-ever to drive on public roads .\" For the show footage, the police cleared the road and escorted the driverless Prius on a pre-determined route from San Francisco across the Bay Bridge. The drive was successful, aside from scraping against a guard rail on a sharp turn. Within the span of weeks, Levandowski had demonstrated that self-driving cars were possible, even on a budget. By early 2009, Levandowski and Thrun were greenlit by Brin and Page to launch their own driverless car project within Google. Anthony's Robots was acquired by Google in 2011 alongside his company 510 Systems for an estimated $20 million.\n\nWaymo and Otto\nIn 2009, Levandowski and Thrun co-founded Google's self-driving car project Chauffeur, now known as Waymo. Over the next two years, Levandowski's 510 Systems built five additional self-driving Priuses for Google. In 2011, Levandowski lobbied Nevada to allow the testing of autonomous vehicles. In May 2012, the Las Vegas DMV performed the first self-driving car test with Chris Urmson in the driver's seat and Anthony Levandowski in the passenger seat. The car passed the test. Levandowski continued to work as a technical lead on Google's self-driving car project alongside Chris Urmson , Dmitri Dolgov, and Mike Montemerlo until January 2016, when he left to launch Otto . In addition to Project Chauffeur, Levandowski's contributions to Google include work on Street View, Cardboard, Telepresence, Ground Truth, Oblique Aerial Imagery, and Tiramisu. Levandowski allegedly downloaded 9.7 GB of Waymo's confidential files before resigning to found Otto.\nOtto was founded in January 2016 by Levandowski, Lior Ron, Claire Delaunay, and Don Burnette. Eleven Google employees also joined them. Otto retrofitted big rig trucks with self-driving kits. Levandowski stated he left Google because he, \"was eager to commercialize a self-driving vehicle as quickly as possible.\" Otto was acquired by Uber in late July 2016, at which point Levandowski assumed leadership of Uber's driverless car operation. ln May 2017 Levandowski was fired from Uber after Waymo and Google charged he had raided Waymo's design server.  In July 2018  Uber's autonomous trucking program was shut down.\nIn 2017, Levandowski established a religious organisation called Way of the Future with the stated intention of creating a god with \" Christian morals \" through artificial intelligence . He dissolved the organization in 2021.\n\nPronto AI\nIn 2018, Levandowski launched Pronto AI to produce a camera-based, self-driving highway-only retrofit system for semi-trucks . Levandwoski's bankruptcy filings in 2019 showed that he had invested over $8.5 million into the company. As proof of concept, Levandowski claimed to have taken a modified self-driving Prius 3,100 miles (5,000 km) across the United States. Some publications expressed doubt over the video's authenticity. Engadget noted that the video was uploaded as a timelapse, making it difficult to verify the footage. As of 2022, the company had pivoted to developing self-driving vehicles for more limited use in environments such as quarries.\nIn February 2022, Levandowski launched Pollen Mobile, an open-source wireless network. Pollen Mobile distributed antennas and other devices, called Flowers, Hummingbirds and Bumblebees to consumers. The network is used by Pronto AI’s autonomous vehicles and is operational in the Bay Area.\nIn October 2022, Levandowski expressed doubt that self-driving cars would find mainstream success in the near future.\n\nCivil lawsuit\nAccording to a February 2017 civil lawsuit filed by Waymo officially known as Waymo v. Uber (Levandowski was not a defendant in the case), Levandowski allegedly \"downloaded 9.7 GB of Waymo's confidential files and trade secrets, including blueprints, design files, and testing documentation\" before resigning to found Otto . Google co-founder Larry Page was reluctant to file the suit. However, he was pushed over the edge when one of Waymo's suppliers inadvertently copied a Waymo engineer on an email of a schematic of Uber's Lidar design. Uber's design appeared to be almost identical to that of Waymo. The civil suit between Uber and Waymo was settled in February 2018 with Uber agreeing to pay Waymo 0.34% of its equity, valued at approximately $245 million, and not to use the unit's technology.\nBefore filing its lawsuit against Uber in 2017, Google had separately taken Levandowski to private arbitration over a contract dispute. On March 4, 2020, Levandowski filed for bankruptcy protection after the court confirmed an arbitration panel's ruling that Levandowski and his colleague Lior Ron had breached their employment contracts with Google by poaching employees for their startup. The panel found that Levandowski owed Google $179 million—$120 million accounted for the salary he received while at the company, and the remainder for interest and legal fees accrued.\nOn March 30, 2020, Levandowski filed a motion with a California bankruptcy judge to force Uber to honor its contractual obligation to indemnify Levandowski. At issue is the validity of the indemnification agreement that Uber, Levandowski, and Ron entered into pre-acquisition. According to a court document, \"The indemnification agreement was structured to ensure that Mr. Levandowski would not be left unprotected against Google, which had inexhaustible resources to attack Mr. Levandowski.\" Uber initially honored the agreement and covered both Levandowski and Ron's legal costs. However, in April 2018, days before the final arbitration hearing that resulted in Levandowski owing Google $179 million, Uber informed him it would be seeking reimbursement for his defense costs, arguing he had breached their agreement by refusing to testify.\nIn March 2017, United States District Judge William Alsup referred the civil case to federal prosecutors, citing the Economic Espionage Act of 1996 after Levandowski exercised his Fifth Amendment right against self-incrimination . In May 2017, Judge Alsup ordered Levandowski to refrain from working on Lidar at Uber and required Uber to disclose its discussions on the technology. Levandowski was later fired by Uber for failing to cooperate in an internal investigation. Soon after the case went to trial, Uber, through its lawyers, publicly apologized for hiring Levandowski.\nIn February, 2022, Levandowski, Uber and Google negotiated a global settlement agreement for the lawsuit Google brought against Levandowski. According to court records, Uber agreed to pay Google a “Substantial Portion” of the settlement, honoring their indemnification clause with Levandowski. Levandowski was required to pay between $25M and $30M.\nIn April 2022, the settlement agreement faced objections from the U.S. Department of Justice and California’s Internal Revenue Service over the tax implications for Levandowski’s estate.\n\nCriminal conviction and pardon\nOn August 27, 2019, Levandowski was charged by the Department of Justice for the alleged theft of trade secrets from Google's self-driving unit Waymo. In months before he left Google, the charges alleged Levandowski downloaded thousands of files from Waymo's predecessor, Project Chauffeur. The data allegedly included \"critical engineering information about the hardware used on Project Chauffeur self-driving vehicles,\" and that Levandowski transferred files onto his laptop before leaving the company. Following the indictment, Pronto, a new self-driving trucking company that Levandowski co-founded, announced that its Chief Safety Officer, Robbie Miller, would take over as CEO.\nOn March 19, 2020, Levandowski agreed to plead guilty to one of the thirty-three charges initially brought against him by the Department of Justice. Originally charged with stealing documents containing trade secrets, technical specifications, and Lidar design, Levandowski's pleaded guilty to downloading an internal project tracking document called, \"Chauffeur TL Weekly – Q4 2015\"—a spreadsheet consisting of team goals, project metrics, and weekly status updates accessible by Levandowski's team on an unsecured Google Drive. Levandowski admitted to accessing the document about one month after leaving Google in February 2016.\nOn August 4, 2020, Levandowski formally pleaded guilty to one count of trade secret theft, and Judge William Alsup sentenced him to 18 months in prison.  Prosecutors agreed to drop the remaining 32 charges as a part of the plea agreement. During the sentencing, Alsup said, \"this is the biggest trade secret crime I have ever seen.  This was not small.  This was massive in scale.\" He also described Levandowski as a \"brilliant, groundbreaking engineer that our country needs. We need those people with vision. I'm going to give him that.\" In addition to time served, Levandowski was ordered to pay $756,499.22 in restitution to Waymo and a fine of $95,000.\nOn January 20, 2021, his last day of his first term, President Donald Trump granted a full pardon to Levandowski.\n\nMedia representations\nIn February 2022, Showtime released the series Super Pumped , which portrays the history of Uber from CEO Travis Kalanick ’s perspective. Levandowski was portrayed by Jeremy Howard in episodes 5 and 6.\n\nFunding of Way of the Future\nIn 2017 Anthony Levandowski founded Way of the Future and established it as a non-profit religious corporation with tax-exempt status. He serves as the church leader and its unpaid CEO. The primary mission of WOTF was to \"develop and promote the realization of a Godhead based on Artificial Intelligence.\" WOTF was closed by Levandowski in 2021 and reopened in 2023. Parallel to, and partly identical to, Syntheism , the WOTF is the first known religious organization dedicated to the worship of artificial intelligence (AI).\n\nExternal links\nOfficial website"
+  },
+  "references": [
+    {
+      "url": "https://web.archive.org/web/20160521053412/http://money.cnn.com/2016/05/17/technology/otto-self-driving-trucks/index.html",
+      "label": "\"Google self-driving car vets take on automated trucks\""
+    },
+    {
+      "url": "https://money.cnn.com/2016/05/17/technology/otto-self-driving-trucks/index.html",
+      "label": "the original"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/08/27/technology/google-trade-secrets-levandowski.html",
+      "label": "\"Former Star Google and Uber Engineer Charged With Theft of Trade Secrets\""
+    },
+    {
+      "url": "https://search.worldcat.org/issn/0362-4331",
+      "label": "0362-4331"
+    },
+    {
+      "url": "http://www.newyorker.com/magazine/2013/11/25/auto-correct",
+      "label": "\"Auto Correct\""
+    },
+    {
+      "url": "https://www.nytimes.com/2017/03/30/technology/uber-waymo-levandowski.html",
+      "label": "\"Uber Executive Invokes Fifth Amendment, Seeking to Avoid Potential Charges\""
+    },
+    {
+      "url": "http://www.businessinsider.com/otto-self-driving-truck-uber-purchased",
+      "label": "\"Uber just bought this self-driving truck startup created by former Googlers - take a look inside its HQ\""
+    },
+    {
+      "url": "https://techcrunch.com/2018/12/18/anthony-levandowski-prontoai-self-driving-trucks/",
+      "label": "\"Levandowski's Pronto.ai plans to ship automated driving systems for trucks in 2019\""
+    },
+    {
+      "url": "https://medium.com/pronto-ai/pronto-means-ready-e885bc8ec9e9",
+      "label": "\"Pronto Means Ready\""
+    },
+    {
+      "url": "https://www.theinformation.com/articles/software-insurance-dominated-discussions-at-2019-av-summit",
+      "label": "\"Software, Insurance Dominated Discussions at 2019 AV Summit\""
+    },
+    {
+      "url": "https://www.washingtonpost.com/technology/2019/08/27/former-google-self-driving-engineer-who-prompted-lawsuit-against-uber-gets-hit-with-criminal-charges/",
+      "label": "\"Former Google self-driving engineer, who prompted a lawsuit against Uber, gets hit with criminal charges\""
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2020-03-19/former-google-engineer-levandowski-to-plead-guilty-to-theft",
+      "label": "\"Former Google Engineer Levandowski to Plead Guilty to Theft\""
+    },
+    {
+      "url": "https://www.nbcnews.com/tech/tech-news/former-google-self-driving-engineer-pleads-guilty-trade-secrets-theft-n1164491",
+      "label": "\"Ex-Google self-driving engineer pleads guilty to trade secrets theft\""
+    },
+    {
+      "url": "https://techcrunch.com/2020/08/04/anthony-levandowski-sentenced-to-18-months-in-prison-as-new-4b-lawsuit-against-uber-is-filed/",
+      "label": "\"Anthony Levandowski sentenced to 18 months in prison, as new $4B lawsuit against Uber is filed\""
+    },
+    {
+      "url": "https://www.justice.gov/usao-ndca/pr/former-uber-executive-sentenced-18-months-jail-trade-secret-theft-google",
+      "label": "\"Former Uber Executive Sentenced to 18 Months in Jail for Trade Secret Theft from Google\""
+    },
+    {
+      "url": "https://trumpwhitehouse.archives.gov/briefings-statements/statement-press-secretary-regarding-executive-grants-clemency-012021/",
+      "label": "\"Statement from the Press Secretary Regarding Executive Grants of Clemency\""
+    },
+    {
+      "url": "https://www.theinformation.com/articles/in-first-post-pardon-interview-anthony-levandowski-explains-startups-pivot-to-mining",
+      "label": "\"In First Post-Pardon Interview, Anthony Levandowski Explains Startup's Pivot to Mining\""
+    },
+    {
+      "url": "http://www.berkeley.edu/news/media/releases/2003/02/13_levandowski.shtml",
+      "label": "\"Spotlight on student entrepreneurs: At 22, Anthony Levandowski is already a veteran businessman\""
+    },
+    {
+      "url": "https://www.berkeley.edu/news/media/releases/2003/02/13_levandowski.shtml",
+      "label": "\"At 23, Anthony Levandowski is already a veteran businessman\""
+    },
+    {
+      "url": "https://www.cnet.com/news/robotic-prius-takes-itself-for-a-spin-around-sf/",
+      "label": "\"Robotic Prius takes itself for a spin around SF\""
+    },
+    {
+      "url": "https://spectrum.ieee.org/the-unknown-startup-that-built-googles-first-selfdriving-car",
+      "label": "\"The Unknown Start-up That Built Google's First Self-Driving Car\""
+    },
+    {
+      "url": "https://americanhistory.si.edu/collections/search/object/nmah_1332301",
+      "label": "\" \"Ghostrider\" Robot Motorcycle\""
+    },
+    {
+      "url": "https://spectrum.ieee.org/ghostrider-the-self-driving-motorbike-that-launched-anthony-levandowski",
+      "label": "\"Full Page Reload\""
+    },
+    {
+      "url": "https://www.wired.com/story/god-is-a-bot-and-anthony-levandowski-is-his-messenger/",
+      "label": "\"God Is a Bot, and Anthony Levandowski Is His Messenger\""
+    },
+    {
+      "url": "https://www.wsj.com/articles/how-a-star-engineer-sparked-a-war-between-google-and-uber-1495556308",
+      "label": "\"Google vs. Uber: How One Engineer Sparked a War\""
+    },
+    {
+      "url": "https://search.worldcat.org/issn/0099-9660",
+      "label": "0099-9660"
+    },
+    {
+      "url": "https://www.theguardian.com/technology/2016/aug/19/self-driving-car-anthony-levandowski-uber-otto-google",
+      "label": "\"How a robot lover pioneered the driverless car, and why he's selling his latest to Uber\""
+    },
+    {
+      "url": "https://www.cbsnews.com/news/robotic-prius-takes-itself-for-a-spin/",
+      "label": "\"Robotic Prius Takes Itself For A Spin\""
+    },
+    {
+      "url": "https://www.bbc.com/news/technology-37117831",
+      "label": "\"Uber to deploy self-driving cars in Pittsburgh\""
+    },
+    {
+      "url": "https://spectrum.ieee.org/how-googles-autonomous-car-passed-the-first-us-state-selfdriving-test",
+      "label": "\"Full Page Reload\""
+    },
+    {
+      "url": "https://www.nytimes.com/2016/05/17/technology/want-to-buy-a-self-driving-car-trucks-may-come-first.html",
+      "label": "\"Want to Buy a Self-Driving Car? Big-Rig Trucks May Come First\""
+    },
+    {
+      "url": "https://blog.ot.to/introducing-otto-the-startup-rethinking-commercial-trucking-cfdc502ef452",
+      "label": "\"Introducing Otto, the startup rethinking commercial trucking\""
+    },
+    {
+      "url": "https://www.wired.com/2016/11/how-otto-defied-nevada-and-scored-a-680-million-payout-from-uber/",
+      "label": "\"How Otto defied Nevada and scored a $680m payout from Uber\""
+    },
+    {
+      "url": "https://www.wired.com/2017/02/how-my-public-records-request-triggered-waymos-self-driving-car-lawsuit/",
+      "label": "\"How my public records request triggered Waymo's self-driving car lawsuit\""
+    },
+    {
+      "url": "https://techcrunch.com/2016/08/18/uber-acquires-otto-to-lead-ubers-self-driving-car-effort-report-says/",
+      "label": "\"Uber acquires Otto to lead Uber's self-driving car effort\""
+    },
+    {
+      "url": "https://www.bloomberg.com/news/features/2016-08-18/uber-s-first-self-driving-fleet-arrives-in-pittsburgh-this-month-is06r7on",
+      "label": "\"Uber's First Self-Driving Fleet Arrives in Pittsburgh This Month\""
+    },
+    {
+      "url": "https://www.npr.org/2018/07/31/634331593/uber-parks-its-self-driving-truck-project-saying-it-will-push-for-autonomous-car",
+      "label": "\"Uber Parks Its Self-Driving Truck Project, Saying It Will Push For Autonomous Cars\""
+    },
+    {
+      "url": "https://techcrunch.com/2021/02/18/anthony-levandowski-closes-his-church-of-ai/",
+      "label": "\"Anthony Levandowski closes his Church of AI\""
+    },
+    {
+      "url": "https://techcrunch.com/2022/02/15/inside-the-uber-and-google-settlement-with-anthony-levandowski/",
+      "label": "\"Inside the Uber and Google settlement with Anthony Levandowski\""
+    },
+    {
+      "url": "https://www.wired.com/story/anthony-levandowsk-pronto-self-driving-truck/",
+      "label": "\"Self-Driving's Outcast Returns With a Robotruck Scheme\""
+    },
+    {
+      "url": "https://search.worldcat.org/issn/1059-1028",
+      "label": "1059-1028"
+    },
+    {
+      "url": "https://techcrunch.com/2018/07/02/anthony-levandowski-is-back-with-a-new-self-driving-startup-called-kache-ai/",
+      "label": "\"Anthony Levandowski is back with a new self-driving startup, called Kache.ai\""
+    },
+    {
+      "url": "https://www.cnbc.com/2018/12/18/anthony-levandowski-claims-cross-country-trip-in-self-driving-car.html",
+      "label": "\"Anthony Levandowski claims cross-country trip in self-driving car\""
+    },
+    {
+      "url": "https://www.engadget.com/2018-12-18-levandowski-claims-3099-mile-self-driving-car-trip.html",
+      "label": "\"Ex-Uber engineer claims to travel 3,099 miles in a self-driving car\""
+    },
+    {
+      "url": "https://www.bloomberg.com/news/features/2022-10-06/even-after-100-billion-self-driving-cars-are-going-nowhere",
+      "label": "\"Even After $100 Billion, Self-Driving Cars Are Going Nowhere\""
+    },
+    {
+      "url": "https://techcrunch.com/2022/02/02/anthony-levandowskis-latest-moonshot-is-a-peer-to-peer-telecom-network-powered-by-cryptocurrency/",
+      "label": "\"Anthony Levandowski's latest moonshot is a peer-to-peer telecom network powered by cryptocurrency\""
+    },
+    {
+      "url": "https://jolt.law.harvard.edu/digest/waymo-v-uber-surprise-settlement-five-days-into-trial",
+      "label": "\"Waymo v. Uber: Surprise Settlement Five Days into Trial\""
+    },
+    {
+      "url": "https://medium.com/@waymo/a-note-on-our-lawsuit-against-otto-and-uber-86f4f98902a1",
+      "label": "\"A note on our lawsuit against Otto and Uber\""
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2017-02-23/alphabet-s-waymo-sues-uber-for-stealing-self-driving-patents",
+      "label": "\"Alphabet's Waymo Alleges Uber Stole Self-Driving Secrets\""
+    },
+    {
+      "url": "https://www.bloomberg.com/news/features/2017-03-16/fury-road-did-uber-steal-the-driverless-future-from-google",
+      "label": "\"Did Uber Steal the Driverless Future From Google?\""
+    },
+    {
+      "url": "https://www.nytimes.com/2017/05/17/technology/silicon-valley-driverless-cars.html",
+      "label": "\"How Uber and Waymo Ended Up Rivals in the Race for Driverless Cars\""
+    },
+    {
+      "url": "https://www.washingtonpost.com/business/technology/uber-waymo-settled-trade-secrets-clash/2018/02/09/1a314c38-0db6-11e8-998c-96deb18cca19_story.html",
+      "label": "\"Uber to pay $245 million to settle Waymo's theft allegations\""
+    },
+    {
+      "url": "https://techcrunch.com/2017/03/29/waymo-pursued-arbitration-with-anthony-levandowski-before-it-sued-uber/",
+      "label": "\"Waymo pursued arbitration with Anthony Levandowski before it sued Uber\""
+    },
+    {
+      "url": "https://www.nytimes.com/2020/03/04/technology/anthony-levandowski-google-uber.html",
+      "label": "\"Star Engineer Who Crossed Google Is Ordered to Pay $179 Million to Company\""
+    },
+    {
+      "url": "https://www.law360.com/articles/1258840/levandowski-says-uber-must-arbitrate-contract-fight",
+      "label": "\"Levandowski Says Uber Must Arbitrate Contract Fight - Law360\""
+    },
+    {
+      "url": "https://www.nytimes.com/2019/09/10/business/dealbook/levandowski-trade-secret-uber.html",
+      "label": "\"What Is a Trade Secret? A Key Question in the Case Against Anthony Levandowski\""
+    },
+    {
+      "url": "https://www.nytimes.com/2017/05/15/technology/uber-self-driving-lawsuit-waymo.html",
+      "label": "\"Uber Engineer Barred From Work on Key Self-Driving Technology, Judge Says\""
+    },
+    {
+      "url": "https://arstechnica.com/tech-policy/2017/05/ubers-levandowski-gets-fired/",
+      "label": "\"Uber engineer Levandowski, accused of massive theft from Google, has been fired\""
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2022-02-15/uber-settles-waymo-litigation-in-saga-that-drew-in-thiel-trump",
+      "label": "\"Uber Settles Waymo Litigation in Saga That Drew in Thiel, Trump\""
+    },
+    {
+      "url": "https://news.bloomberglaw.com/bankruptcy-law/ubers-payment-in-engineers-bankruptcy-plan-may-carry-tax-bill",
+      "label": "\"Uber's Payment in Engineer's Bankruptcy Plan May Carry Tax Bill\""
+    },
+    {
+      "url": "https://www.cnbc.com/2019/08/27/ex-google-engineer-levandowski-charged-with-taking-trade-secrets-to-uber.html",
+      "label": "\"Ex-Google engineer charged with taking self-driving car trade secrets; DOJ considers flight risk and asks for $2 million bond\""
+    },
+    {
+      "url": "https://www.law360.com/articles/1255278/levandowski-cuts-plea-deal-to-end-google-ip-theft-charges",
+      "label": "\"Levandowski Cuts Plea Deal To End Google IP Theft Charges\""
+    },
+    {
+      "url": "https://www.washingtonpost.com/technology/2020/03/19/levandowski-guilty/",
+      "label": "\"Ex-Uber executive Anthony Levandowski pleads guilty to trade-secret theft\""
+    },
+    {
+      "url": "https://www.reuters.com/article/us-uber-autonomous-levandowski-idUSKBN21646I",
+      "label": "\"Former Uber self-driving head Levandowski agrees to plea deal over Google secrets\""
+    },
+    {
+      "url": "https://www.cnn.com/2020/08/04/tech/anthony-levandowski-google-uber-sentencing/index.html",
+      "label": "\"Former Uber self-driving car exec sentenced to 18 months in prison\""
+    },
+    {
+      "url": "https://www.theinformation.com/briefings/d428a2",
+      "label": "\"Briefing: Ex-Google Engineer Levandowski Sentenced to 18 Months in Prison\""
+    },
+    {
+      "url": "https://www.nytimes.com/live/2021/01/20/business/us-economy-coronavirus/anthony-levandowski-an-engineer-who-stole-trade-secrets-receives-a-trump-pardon",
+      "label": "\"Anthony Levandowski, an engineer who stole trade secrets, receives a Trump pardon\""
+    },
+    {
+      "url": "https://www.vulture.com/article/super-pumped-the-battle-for-uber-season-1-episode-5-recap-the-charm-offensive.html",
+      "label": "\"Super Pumped: The Battle for Uber Recap: Here Comes a Regular\""
+    },
+    {
+      "url": "https://www.vulture.com/article/super-pumped-the-battle-for-uber-season-1-episode-6-recap-time-bomb.html",
+      "label": "\"Super Pumped: The Battle for Uber Recap: Reaping and Sowing\""
+    }
+  ],
+  "outgoing_links": [
+    {
+      "title": "Waymo",
+      "url": "https://en.wikipedia.org/wiki/Waymo"
+    },
+    {
+      "title": "Waymo Ojai",
+      "url": "https://en.wikipedia.org/wiki/Waymo_Ojai"
+    },
+    {
+      "title": "Tesla Cybercab",
+      "url": "https://en.wikipedia.org/wiki/Tesla_Cybercab"
+    },
+    {
+      "title": "Adaptive cruise control",
+      "url": "https://en.wikipedia.org/wiki/Adaptive_cruise_control"
+    },
+    {
+      "title": "Advanced driver-assistance system",
+      "url": "https://en.wikipedia.org/wiki/Advanced_driver-assistance_system"
+    },
+    {
+      "title": "Alberto Broggi",
+      "url": "https://en.wikipedia.org/wiki/Alberto_Broggi"
+    },
+    {
+      "title": "Ambient intelligence",
+      "url": "https://en.wikipedia.org/wiki/Ambient_intelligence"
+    },
+    {
+      "title": "American Center for Mobility",
+      "url": "https://en.wikipedia.org/wiki/American_Center_for_Mobility"
+    },
+    {
+      "title": "Arbitration",
+      "url": "https://en.wikipedia.org/wiki/Arbitration"
+    },
+    {
+      "title": "Artificial intelligence",
+      "url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+    },
+    {
+      "title": "Artificial neural network",
+      "url": "https://en.wikipedia.org/wiki/Artificial_neural_network"
+    },
+    {
+      "title": "Assured clear distance ahead",
+      "url": "https://en.wikipedia.org/wiki/Assured_clear_distance_ahead"
+    },
+    {
+      "title": "Automated Lane Keeping System",
+      "url": "https://en.wikipedia.org/wiki/Automated_Lane_Keeping_System"
+    },
+    {
+      "title": "Automated Lane Keeping Systems",
+      "url": "https://en.wikipedia.org/wiki/Automated_Lane_Keeping_Systems"
+    },
+    {
+      "title": "Automated emergency braking system",
+      "url": "https://en.wikipedia.org/wiki/Automated_emergency_braking_system"
+    },
+    {
+      "title": "Automated guideway transit",
+      "url": "https://en.wikipedia.org/wiki/Automated_guideway_transit"
+    },
+    {
+      "title": "Automatic parking",
+      "url": "https://en.wikipedia.org/wiki/Automatic_parking"
+    },
+    {
+      "title": "Automotive navigation system",
+      "url": "https://en.wikipedia.org/wiki/Automotive_navigation_system"
+    },
+    {
+      "title": "Avride",
+      "url": "https://en.wikipedia.org/wiki/Avride"
+    },
+    {
+      "title": "Blind spot monitor",
+      "url": "https://en.wikipedia.org/wiki/Blind_spot_monitor"
+    },
+    {
+      "title": "Bloomberg Businessweek",
+      "url": "https://en.wikipedia.org/wiki/Bloomberg_Businessweek"
+    },
+    {
+      "title": "Brussels",
+      "url": "https://en.wikipedia.org/wiki/Brussels"
+    },
+    {
+      "title": "CAVForth",
+      "url": "https://en.wikipedia.org/wiki/CAVForth"
+    },
+    {
+      "title": "Chris Urmson",
+      "url": "https://en.wikipedia.org/wiki/Chris_Urmson"
+    },
+    {
+      "title": "Christian morality",
+      "url": "https://en.wikipedia.org/wiki/Christian_morality"
+    },
+    {
+      "title": "Collision avoidance system",
+      "url": "https://en.wikipedia.org/wiki/Collision_avoidance_system"
+    },
+    {
+      "title": "Computer stereo vision",
+      "url": "https://en.wikipedia.org/wiki/Computer_stereo_vision"
+    },
+    {
+      "title": "Computer vision",
+      "url": "https://en.wikipedia.org/wiki/Computer_vision"
+    },
+    {
+      "title": "Connected car",
+      "url": "https://en.wikipedia.org/wiki/Connected_car"
+    },
+    {
+      "title": "Context-aware pervasive systems",
+      "url": "https://en.wikipedia.org/wiki/Context-aware_pervasive_systems"
+    },
+    {
+      "title": "Cruise control",
+      "url": "https://en.wikipedia.org/wiki/Cruise_control"
+    },
+    {
+      "title": "DARPA Grand Challenge",
+      "url": "https://en.wikipedia.org/wiki/DARPA_Grand_Challenge"
+    },
+    {
+      "title": "DAVI",
+      "url": "https://en.wikipedia.org/wiki/DAVI"
+    },
+    {
+      "title": "Dedicated short-range communications",
+      "url": "https://en.wikipedia.org/wiki/Dedicated_short-range_communications"
+    },
+    {
+      "title": "Discovery Channel",
+      "url": "https://en.wikipedia.org/wiki/Discovery_Channel"
+    },
+    {
+      "title": "Donald Trump",
+      "url": "https://en.wikipedia.org/wiki/Donald_Trump"
+    },
+    {
+      "title": "Driver drowsiness detection",
+      "url": "https://en.wikipedia.org/wiki/Driver_drowsiness_detection"
+    },
+    {
+      "title": "Driverless tractor",
+      "url": "https://en.wikipedia.org/wiki/Driverless_tractor"
+    },
+    {
+      "title": "Economic Espionage Act of 1996",
+      "url": "https://en.wikipedia.org/wiki/Economic_Espionage_Act_of_1996"
+    },
+    {
+      "title": "Engadget",
+      "url": "https://en.wikipedia.org/wiki/Engadget"
+    },
+    {
+      "title": "Eureka Prometheus Project",
+      "url": "https://en.wikipedia.org/wiki/Eureka_Prometheus_Project"
+    },
+    {
+      "title": "European Land-Robot Trial",
+      "url": "https://en.wikipedia.org/wiki/European_Land-Robot_Trial"
+    },
+    {
+      "title": "Eye tracking",
+      "url": "https://en.wikipedia.org/wiki/Eye_tracking"
+    },
+    {
+      "title": "Freightliner Inspiration",
+      "url": "https://en.wikipedia.org/wiki/Freightliner_Inspiration"
+    },
+    {
+      "title": "General Motors EN-V",
+      "url": "https://en.wikipedia.org/wiki/General_Motors_EN-V"
+    },
+    {
+      "title": "Google",
+      "url": "https://en.wikipedia.org/wiki/Google"
+    },
+    {
+      "title": "Google Street View",
+      "url": "https://en.wikipedia.org/wiki/Google_Street_View"
+    },
+    {
+      "title": "Google X",
+      "url": "https://en.wikipedia.org/wiki/Google_X"
+    },
+    {
+      "title": "Harold Goddijn",
+      "url": "https://en.wikipedia.org/wiki/Harold_Goddijn"
+    },
+    {
+      "title": "History of self-driving cars",
+      "url": "https://en.wikipedia.org/wiki/History_of_self-driving_cars"
+    },
+    {
+      "title": "Honda Legend",
+      "url": "https://en.wikipedia.org/wiki/Honda_Legend"
+    },
+    {
+      "title": "IEEE 802.11p",
+      "url": "https://en.wikipedia.org/wiki/IEEE_802.11p"
+    },
+    {
+      "title": "IEEE Intelligent Transportation Systems Society",
+      "url": "https://en.wikipedia.org/wiki/IEEE_Intelligent_Transportation_Systems_Society"
+    },
+    {
+      "title": "ISBN (identifier)",
+      "url": "https://en.wikipedia.org/wiki/ISBN_%28identifier%29"
+    },
+    {
+      "title": "ISSN (identifier)",
+      "url": "https://en.wikipedia.org/wiki/ISSN_%28identifier%29"
+    },
+    {
+      "title": "Impact of self-driving cars",
+      "url": "https://en.wikipedia.org/wiki/Impact_of_self-driving_cars"
+    },
+    {
+      "title": "Industrial engineering",
+      "url": "https://en.wikipedia.org/wiki/Industrial_engineering"
+    },
+    {
+      "title": "Intelligent speed adaptation",
+      "url": "https://en.wikipedia.org/wiki/Intelligent_speed_adaptation"
+    },
+    {
+      "title": "Intelligent transportation system",
+      "url": "https://en.wikipedia.org/wiki/Intelligent_transportation_system"
+    },
+    {
+      "title": "Internet of things",
+      "url": "https://en.wikipedia.org/wiki/Internet_of_things"
+    },
+    {
+      "title": "Jeremy Howard (actor)",
+      "url": "https://en.wikipedia.org/wiki/Jeremy_Howard_%28actor%29"
+    },
+    {
+      "title": "LIDAR",
+      "url": "https://en.wikipedia.org/wiki/LIDAR"
+    },
+    {
+      "title": "LUTZ Pathfinder",
+      "url": "https://en.wikipedia.org/wiki/LUTZ_Pathfinder"
+    },
+    {
+      "title": "Lane departure warning system",
+      "url": "https://en.wikipedia.org/wiki/Lane_departure_warning_system"
+    },
+    {
+      "title": "Larry Page",
+      "url": "https://en.wikipedia.org/wiki/Larry_Page"
+    },
+    {
+      "title": "Laser",
+      "url": "https://en.wikipedia.org/wiki/Laser"
+    },
+    {
+      "title": "Lego",
+      "url": "https://en.wikipedia.org/wiki/Lego"
+    },
+    {
+      "title": "Lidar",
+      "url": "https://en.wikipedia.org/wiki/Lidar"
+    },
+    {
+      "title": "List of self-driving system suppliers",
+      "url": "https://en.wikipedia.org/wiki/List_of_self-driving_system_suppliers"
+    },
+    {
+      "title": "MadeInGermany",
+      "url": "https://en.wikipedia.org/wiki/MadeInGermany"
+    },
+    {
+      "title": "Mobile computing",
+      "url": "https://en.wikipedia.org/wiki/Mobile_computing"
+    },
+    {
+      "title": "Mobility as a service (transport)",
+      "url": "https://en.wikipedia.org/wiki/Mobility_as_a_service_%28transport%29"
+    },
+    {
+      "title": "Monopoly (game)",
+      "url": "https://en.wikipedia.org/wiki/Monopoly_%28game%29"
+    },
+    {
+      "title": "Motorcycle",
+      "url": "https://en.wikipedia.org/wiki/Motorcycle"
+    },
+    {
+      "title": "NBC News",
+      "url": "https://en.wikipedia.org/wiki/NBC_News"
+    },
+    {
+      "title": "National Museum of American History",
+      "url": "https://en.wikipedia.org/wiki/National_Museum_of_American_History"
+    },
+    {
+      "title": "Navia (vehicle)",
+      "url": "https://en.wikipedia.org/wiki/Navia_%28vehicle%29"
+    },
+    {
+      "title": "Navlab",
+      "url": "https://en.wikipedia.org/wiki/Navlab"
+    },
+    {
+      "title": "Nevada",
+      "url": "https://en.wikipedia.org/wiki/Nevada"
+    },
+    {
+      "title": "Nevada Department of Motor Vehicles",
+      "url": "https://en.wikipedia.org/wiki/Nevada_Department_of_Motor_Vehicles"
+    },
+    {
+      "title": "NuTonomy",
+      "url": "https://en.wikipedia.org/wiki/NuTonomy"
+    },
+    {
+      "title": "Operations research",
+      "url": "https://en.wikipedia.org/wiki/Operations_research"
+    },
+    {
+      "title": "Otto (company)",
+      "url": "https://en.wikipedia.org/wiki/Otto_%28company%29"
+    },
+    {
+      "title": "Ottomotto",
+      "url": "https://en.wikipedia.org/wiki/Ottomotto"
+    },
+    {
+      "title": "ParkShuttle",
+      "url": "https://en.wikipedia.org/wiki/ParkShuttle"
+    },
+    {
+      "title": "Prototype This!",
+      "url": "https://en.wikipedia.org/wiki/Prototype_This%21"
+    },
+    {
+      "title": "Public road",
+      "url": "https://en.wikipedia.org/wiki/Public_road"
+    },
+    {
+      "title": "RFpro",
+      "url": "https://en.wikipedia.org/wiki/RFpro"
+    },
+    {
+      "title": "Radar",
+      "url": "https://en.wikipedia.org/wiki/Radar"
+    },
+    {
+      "title": "Radio-frequency identification",
+      "url": "https://en.wikipedia.org/wiki/Radio-frequency_identification"
+    },
+    {
+      "title": "Real-time Control System",
+      "url": "https://en.wikipedia.org/wiki/Real-time_Control_System"
+    },
+    {
+      "title": "Regulation of self-driving cars",
+      "url": "https://en.wikipedia.org/wiki/Regulation_of_self-driving_cars"
+    },
+    {
+      "title": "Religious organisation",
+      "url": "https://en.wikipedia.org/wiki/Religious_organisation"
+    },
+    {
+      "title": "Sebastian Thrun",
+      "url": "https://en.wikipedia.org/wiki/Sebastian_Thrun"
+    },
+    {
+      "title": "Self-driving car",
+      "url": "https://en.wikipedia.org/wiki/Self-driving_car"
+    },
+    {
+      "title": "Self-driving car liability",
+      "url": "https://en.wikipedia.org/wiki/Self-driving_car_liability"
+    },
+    {
+      "title": "Self-driving truck",
+      "url": "https://en.wikipedia.org/wiki/Self-driving_truck"
+    },
+    {
+      "title": "Self-incrimination",
+      "url": "https://en.wikipedia.org/wiki/Self-incrimination"
+    },
+    {
+      "title": "Semi-trailer truck",
+      "url": "https://en.wikipedia.org/wiki/Semi-trailer_truck"
+    },
+    {
+      "title": "Semi-truck",
+      "url": "https://en.wikipedia.org/wiki/Semi-truck"
+    },
+    {
+      "title": "Showtime (TV network)",
+      "url": "https://en.wikipedia.org/wiki/Showtime_%28TV_network%29"
+    },
+    {
+      "title": "Smart, connected products",
+      "url": "https://en.wikipedia.org/wiki/Smart%2C_connected_products"
+    },
+    {
+      "title": "Smithsonian Institution",
+      "url": "https://en.wikipedia.org/wiki/Smithsonian_Institution"
+    },
+    {
+      "title": "Spirit of Berlin",
+      "url": "https://en.wikipedia.org/wiki/Spirit_of_Berlin"
+    },
+    {
+      "title": "Super Pumped",
+      "url": "https://en.wikipedia.org/wiki/Super_Pumped"
+    },
+    {
+      "title": "Super Pumped (TV series)",
+      "url": "https://en.wikipedia.org/wiki/Super_Pumped_%28TV_series%29"
+    },
+    {
+      "title": "Syntheism",
+      "url": "https://en.wikipedia.org/wiki/Syntheism"
+    },
+    {
+      "title": "Tesla Model S",
+      "url": "https://en.wikipedia.org/wiki/Tesla_Model_S"
+    },
+    {
+      "title": "The Information (company)",
+      "url": "https://en.wikipedia.org/wiki/The_Information_%28company%29"
+    },
+    {
+      "title": "The New York Times",
+      "url": "https://en.wikipedia.org/wiki/The_New_York_Times"
+    },
+    {
+      "title": "Travis Kalanick",
+      "url": "https://en.wikipedia.org/wiki/Travis_Kalanick"
+    },
+    {
+      "title": "Uber",
+      "url": "https://en.wikipedia.org/wiki/Uber"
+    },
+    {
+      "title": "Ubiquitous computing",
+      "url": "https://en.wikipedia.org/wiki/Ubiquitous_computing"
+    },
+    {
+      "title": "University of California, Berkeley",
+      "url": "https://en.wikipedia.org/wiki/University_of_California%2C_Berkeley"
+    },
+    {
+      "title": "VaMP",
+      "url": "https://en.wikipedia.org/wiki/VaMP"
+    },
+    {
+      "title": "Vehicular ad hoc network",
+      "url": "https://en.wikipedia.org/wiki/Vehicular_ad_hoc_network"
+    },
+    {
+      "title": "VisLab Intercontinental Autonomous Challenge",
+      "url": "https://en.wikipedia.org/wiki/VisLab_Intercontinental_Autonomous_Challenge"
+    },
+    {
+      "title": "W. W. Norton",
+      "url": "https://en.wikipedia.org/wiki/W._W._Norton"
+    },
+    {
+      "title": "Way of the Future",
+      "url": "https://en.wikipedia.org/wiki/Way_of_the_Future"
+    },
+    {
+      "title": "William Alsup",
+      "url": "https://en.wikipedia.org/wiki/William_Alsup"
+    },
+    {
+      "title": "X Development",
+      "url": "https://en.wikipedia.org/wiki/X_Development"
+    },
+    {
+      "title": "Yoky Matsuoka",
+      "url": "https://en.wikipedia.org/wiki/Yoky_Matsuoka"
+    }
+  ]
+}

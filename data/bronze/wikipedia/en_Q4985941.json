@@ -1,0 +1,136 @@
+{
+  "document_id": "wikipedia_en_Q4985941",
+  "wikidata_id": "Q4985941",
+  "entity_label": "BufferBox",
+  "entity_type": "organization",
+  "seed_categories": [],
+  "source": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/BufferBox",
+  "revision_id": 1363029460,
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1363029460",
+  "pageid": 37797484,
+  "title": "BufferBox",
+  "language": "en",
+  "collected_at": "2026-10-28T22:01:30.542243+00:00",
+  "content": {
+    "sections": [
+      {
+        "heading": "Introduction",
+        "text": "BufferBox Inc. was a Canadian startup from the University of Waterloo , Ontario, Canada that leveraged parcel kiosks to provide consumers the convenience of picking up their online purchases 24/7. Founded by Jay Shah, Aditya Bali and Mike McCauley, BufferBox's mission was to make missed delivery notices a thing of the past. When consumers signed up for the service, they received a unique 'BufferBox address' to use as their shipping address when shopping online. Members then received an email notification with a unique unlock code as soon as their package was delivered which enabled them to pick up their package from their local BufferBox."
+      },
+      {
+        "heading": "History",
+        "text": "One year after its founding BufferBox was awarded the 2012 Velocity Venture Fund, and went through the Y Combinator program in Silicon Valley. After conducting a pilot trial at the University of Waterloo, the service expanded to various locations in the Greater Toronto Area. A deal was announced in early November 2012 to install kiosks at GO Transit stations. It was also conducting testing phase of its technology with Walmart Canada's e-commerce unit.\nOn November 30, 2012, BufferBox was acquired by Google for a rumored $25 million. The acquisition was seen as a step to compete with Amazon 's Locker service. Google Waterloo engineering director Steve Woods said the BufferBox team — which consisted of seven employees beyond its trio of founders — would be kept intact, with Google providing additional resources to help the company grow. Google advised at the time of the acquisition, that they planned on keeping the BufferBox brand active for the foreseeable future. However, on February 21, 2014, Google announced that it was closing down BufferBox. The last day for warehouses accepting packages was set to March 31, 2014."
+      },
+      {
+        "heading": "External links",
+        "text": "Official Site"
+      }
+    ],
+    "full_text": "Introduction\nBufferBox Inc. was a Canadian startup from the University of Waterloo , Ontario, Canada that leveraged parcel kiosks to provide consumers the convenience of picking up their online purchases 24/7. Founded by Jay Shah, Aditya Bali and Mike McCauley, BufferBox's mission was to make missed delivery notices a thing of the past. When consumers signed up for the service, they received a unique 'BufferBox address' to use as their shipping address when shopping online. Members then received an email notification with a unique unlock code as soon as their package was delivered which enabled them to pick up their package from their local BufferBox.\n\nHistory\nOne year after its founding BufferBox was awarded the 2012 Velocity Venture Fund, and went through the Y Combinator program in Silicon Valley. After conducting a pilot trial at the University of Waterloo, the service expanded to various locations in the Greater Toronto Area. A deal was announced in early November 2012 to install kiosks at GO Transit stations. It was also conducting testing phase of its technology with Walmart Canada's e-commerce unit.\nOn November 30, 2012, BufferBox was acquired by Google for a rumored $25 million. The acquisition was seen as a step to compete with Amazon 's Locker service. Google Waterloo engineering director Steve Woods said the BufferBox team — which consisted of seven employees beyond its trio of founders — would be kept intact, with Google providing additional resources to help the company grow. Google advised at the time of the acquisition, that they planned on keeping the BufferBox brand active for the foreseeable future. However, on February 21, 2014, Google announced that it was closing down BufferBox. The last day for warehouses accepting packages was set to March 31, 2014.\n\nExternal links\nOfficial Site"
+  },
+  "references": [
+    {
+      "url": "https://web.archive.org/web/20121118095713/http://www.bufferbox.com/about",
+      "label": "\"BufferBox\""
+    },
+    {
+      "url": "https://www.bufferbox.com/about",
+      "label": "the original"
+    },
+    {
+      "url": "https://techcrunch.com/2013/09/30/googles-bufferbox-expands-its-shipping-kiosk-service-for-parcel-pickups-to-san-francisco/",
+      "label": "\"Google's BufferBox Expands its Shipping Kiosk Service for Parcel Pickups to San Francisco\""
+    },
+    {
+      "url": "https://web.archive.org/web/20131203041351/http://startupnorth.ca/2012/11/30/bufferbox-acquired/",
+      "label": "\"Bufferbox Acquired\""
+    },
+    {
+      "url": "http://startupnorth.ca/2012/11/30/bufferbox-acquired/",
+      "label": "the original"
+    },
+    {
+      "url": "https://www.theglobeandmail.com/report-on-business/small-business/sb-managing/google-buys-waterloo-startup-bufferbox/article5844395/",
+      "label": "\"Google buys Waterloo startup BufferBox\""
+    },
+    {
+      "url": "http://business.financialpost.com/2012/11/30/google-snaps-up-waterloo-startup-bufferbox/",
+      "label": "\"Google snaps up Waterloo startup BufferBox\""
+    },
+    {
+      "url": "https://techcrunch.com/2012/11/30/google-acquires-waterloo-based-e-commerce-startup-amazon-locker-competitor-and-yc-graduate-bufferbox/",
+      "label": "\"Google Acquires Waterloo-Based E-Commerce Startup, Amazon Locker Competitor and YC Graduate BufferBox\""
+    },
+    {
+      "url": "http://business.financialpost.com/2012/11/30/google-snaps-up-waterloo-startup-bufferbox/?__lsa=b03d-b67b",
+      "label": "\"Google snaps up Waterloo startup BufferBox | Financial Post\""
+    },
+    {
+      "url": "https://web.archive.org/web/20140502053030/http://blog.bufferbox.com/2014/02/important-bufferbox-update.html#!/2014/02/important-bufferbox-update.html",
+      "label": "\"BufferBox blog: Important BufferBox Update\""
+    },
+    {
+      "url": "http://blog.bufferbox.com/2014/02/important-bufferbox-update.html#!/2014/02/important-bufferbox-update.html",
+      "label": "the original"
+    }
+  ],
+  "outgoing_links": [
+    {
+      "title": "Alphabet Inc.",
+      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc."
+    },
+    {
+      "title": "Amazon (company)",
+      "url": "https://en.wikipedia.org/wiki/Amazon_%28company%29"
+    },
+    {
+      "title": "Financial Post",
+      "url": "https://en.wikipedia.org/wiki/Financial_Post"
+    },
+    {
+      "title": "Finch Bus Terminal",
+      "url": "https://en.wikipedia.org/wiki/Finch_Bus_Terminal"
+    },
+    {
+      "title": "GO Transit",
+      "url": "https://en.wikipedia.org/wiki/GO_Transit"
+    },
+    {
+      "title": "Google",
+      "url": "https://en.wikipedia.org/wiki/Google"
+    },
+    {
+      "title": "Greater Toronto Area",
+      "url": "https://en.wikipedia.org/wiki/Greater_Toronto_Area"
+    },
+    {
+      "title": "Kitchener, Ontario",
+      "url": "https://en.wikipedia.org/wiki/Kitchener%2C_Ontario"
+    },
+    {
+      "title": "Ontario",
+      "url": "https://en.wikipedia.org/wiki/Ontario"
+    },
+    {
+      "title": "Parent company",
+      "url": "https://en.wikipedia.org/wiki/Parent_company"
+    },
+    {
+      "title": "San Francisco",
+      "url": "https://en.wikipedia.org/wiki/San_Francisco"
+    },
+    {
+      "title": "University of Waterloo",
+      "url": "https://en.wikipedia.org/wiki/University_of_Waterloo"
+    },
+    {
+      "title": "Waterloo, Ontario",
+      "url": "https://en.wikipedia.org/wiki/Waterloo%2C_Ontario"
+    },
+    {
+      "title": "Y Combinator (company)",
+      "url": "https://en.wikipedia.org/wiki/Y_Combinator_%28company%29"
+    }
+  ]
+}

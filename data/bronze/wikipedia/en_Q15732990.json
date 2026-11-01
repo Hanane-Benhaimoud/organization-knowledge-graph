@@ -1,0 +1,124 @@
+{
+  "document_id": "wikipedia_en_Q15732990",
+  "wikidata_id": "Q15732990",
+  "entity_label": "SlickLogin",
+  "entity_type": "organization",
+  "seed_categories": [],
+  "source": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/SlickLogin",
+  "revision_id": 1379893276,
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1379893276",
+  "pageid": 41966084,
+  "title": "SlickLogin",
+  "language": "en",
+  "collected_at": "2026-10-28T21:59:20.144609+00:00",
+  "content": {
+    "sections": [
+      {
+        "heading": "Introduction",
+        "text": "SlickLogin was an Israeli start-up company that developed sound-based password alternatives. The company's goal was to enable end users to log in easily to password-protected websites by using a uniquely generated sound.\nThe company was founded by Or Zelig, who served as the firm's CEO , Eran Galili, CTO , and Ori Kabeli, VP of R&D . All three were graduates of elite IDF cyber-security units and had worked together for six years.\nIn February 2014, Google announced the acquisition of the company.\nSlickLogin used various protocols to start verifying your phone's position: WiFi , Bluetooth , NFC , visual markers like QR codes , and GPS . Their self-dubbed \" secret sauce \" was the use of uniquely generated sounds intentionally made inaudible to the human ear. [ citation needed ] The user's computer played sound through speakers, while a mobile app used the device's built-in microphone to pick up the audio, analyze it, and send the signal to the site's server for authentication ."
+      },
+      {
+        "heading": "See also",
+        "text": "SilverPush Near sound data transfer"
+      },
+      {
+        "heading": "External links",
+        "text": "Official website at the Wayback Machine (archived 2014-02-17)"
+      }
+    ],
+    "full_text": "Introduction\nSlickLogin was an Israeli start-up company that developed sound-based password alternatives. The company's goal was to enable end users to log in easily to password-protected websites by using a uniquely generated sound.\nThe company was founded by Or Zelig, who served as the firm's CEO , Eran Galili, CTO , and Ori Kabeli, VP of R&D . All three were graduates of elite IDF cyber-security units and had worked together for six years.\nIn February 2014, Google announced the acquisition of the company.\nSlickLogin used various protocols to start verifying your phone's position: WiFi , Bluetooth , NFC , visual markers like QR codes , and GPS . Their self-dubbed \" secret sauce \" was the use of uniquely generated sounds intentionally made inaudible to the human ear. [ citation needed ] The user's computer played sound through speakers, while a mobile app used the device's built-in microphone to pick up the audio, analyze it, and send the signal to the site's server for authentication .\n\nSee also\nSilverPush Near sound data transfer\n\nExternal links\nOfficial website at the Wayback Machine (archived 2014-02-17)"
+  },
+  "references": [
+    {
+      "url": "http://news.biharprabha.com/2014/02/google-acquires-sound-based-password-developing-firm-slicklogin/",
+      "label": "\"Google acquires Sound Based Password Developing Firm SlickLogin\""
+    },
+    {
+      "url": "https://techcrunch.com/2013/09/09/slicklogin-wants-to-kill-the-password-by-singing-a-silent-song-to-your-smartphone/",
+      "label": "\"SlickLogin Aims To Kill The Password By Singing A Silent Song To Your Smartphone\""
+    },
+    {
+      "url": "https://www.timesofisrael.com/google-buys-israeli-security-start-up-slicklogin/",
+      "label": "\"Google buys Israeli security start-up SlickLogin\""
+    },
+    {
+      "url": "http://tech.firstpost.com/news-analysis/google-acquires-slicklogin-sound-based-passwords-become-mainstream-218342.html",
+      "label": "\"Maker of sound-based password systems\""
+    }
+  ],
+  "outgoing_links": [
+    {
+      "title": "Authentication",
+      "url": "https://en.wikipedia.org/wiki/Authentication"
+    },
+    {
+      "title": "Bluetooth",
+      "url": "https://en.wikipedia.org/wiki/Bluetooth"
+    },
+    {
+      "title": "Chief executive officer",
+      "url": "https://en.wikipedia.org/wiki/Chief_executive_officer"
+    },
+    {
+      "title": "Chief technology officer",
+      "url": "https://en.wikipedia.org/wiki/Chief_technology_officer"
+    },
+    {
+      "title": "Global Positioning System",
+      "url": "https://en.wikipedia.org/wiki/Global_Positioning_System"
+    },
+    {
+      "title": "Google",
+      "url": "https://en.wikipedia.org/wiki/Google"
+    },
+    {
+      "title": "Israel Defense Forces",
+      "url": "https://en.wikipedia.org/wiki/Israel_Defense_Forces"
+    },
+    {
+      "title": "Login",
+      "url": "https://en.wikipedia.org/wiki/Login"
+    },
+    {
+      "title": "Near field communication",
+      "url": "https://en.wikipedia.org/wiki/Near_field_communication"
+    },
+    {
+      "title": "Near sound data transfer",
+      "url": "https://en.wikipedia.org/wiki/Near_sound_data_transfer"
+    },
+    {
+      "title": "Password",
+      "url": "https://en.wikipedia.org/wiki/Password"
+    },
+    {
+      "title": "QR code",
+      "url": "https://en.wikipedia.org/wiki/QR_code"
+    },
+    {
+      "title": "Research and development",
+      "url": "https://en.wikipedia.org/wiki/Research_and_development"
+    },
+    {
+      "title": "Secret ingredient",
+      "url": "https://en.wikipedia.org/wiki/Secret_ingredient"
+    },
+    {
+      "title": "SilverPush",
+      "url": "https://en.wikipedia.org/wiki/SilverPush"
+    },
+    {
+      "title": "Vice president",
+      "url": "https://en.wikipedia.org/wiki/Vice_president"
+    },
+    {
+      "title": "Wayback Machine",
+      "url": "https://en.wikipedia.org/wiki/Wayback_Machine"
+    },
+    {
+      "title": "WiFi",
+      "url": "https://en.wikipedia.org/wiki/WiFi"
+    }
+  ]
+}

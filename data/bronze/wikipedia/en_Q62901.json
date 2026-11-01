@@ -1,0 +1,892 @@
+{
+  "document_id": "wikipedia_en_Q62901",
+  "wikidata_id": "Q62901",
+  "entity_label": "Sebastian Thrun",
+  "entity_type": "person",
+  "seed_categories": [],
+  "source": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Sebastian_Thrun",
+  "revision_id": 1380596412,
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1380596412",
+  "pageid": 3538953,
+  "title": "Sebastian Thrun",
+  "language": "en",
+  "collected_at": "2026-10-28T22:05:36.045366+00:00",
+  "content": {
+    "sections": [
+      {
+        "heading": "Introduction",
+        "text": "Sebastian Thrun (born May 14, 1967)  is a German-American computer scientist, entrepreneur, and educator. He is an adjunct professor at Stanford University and is known for his work in self-driving cars , robotics , artificial intelligence , and online education . He is the co-founder of Google X , co-founder of Udacity , and former chief executive officer of Kitty Hawk Corporation .\nHe is widely recognized for his contributions to autonomous driving systems, particularly as leader of the Google Chauffeur Project (now known as Waymo ) and as the leader of the Stanford Racing that won the 2005 DARPA Grand Challenge , an event widely credited with accelerating research in self-driving technology."
+      },
+      {
+        "heading": "Early life and education",
+        "text": "Thrun was born in Solingen, West Germany , to Winfried and Kristin (Grüner) Thrun. He studied computer science, economics, and medicine at the University of Hildesheim , where he earned his Vordiplom (intermediate diploma) in 1988.\nHe later transferred to the University of Bonn , receiving a Diplom in 1993 and completing a PhD summa cum laude in computer science and statistics in 1995. His doctoral dissertation, Explanation-Based Neural Network Learning: A Lifelong Learning Approach , was supervised by Armin B. Cremers and Tom Mitchell ."
+      },
+      {
+        "heading": "Carnegie Mellon University",
+        "text": "In 1995, Thrun joined Carnegie Mellon University as a research computer scientist in the Computer Science Department.\nIn 1998, he became assistant professor and director of the Robot Learning Laboratory, later serving as the Finmeccanica Associate Professor of Computer Science and Robotics.\nDuring this period, he developed Minerva, an autonomous robotic museum tour guide deployed at the Smithsonian National Museum of American History in 1998. The robot interacted with thousands of visitors over a two-week deployment and contributed to advances in simultaneous localization and mapping (SLAM). He also led the Nursebot project, which focused on assistive robots in elder care environments.\nThrun co-founded the Center for Automated Learning and Discovery (CALD), later renamed the Machine Learning Department, recognized as the first academic department dedicated to machine learning. He co-chaired its early graduate program, the Master’s in Automated Learning and Discovery, which formed the basis for later machine learning doctoral programs at Carnegie Mellon University ."
+      },
+      {
+        "heading": "Stanford University",
+        "text": "In 2003, Thrun joined Stanford University as an associate professor. In 2004, he re-established the Stanford Artificial Intelligence Laboratory (SAIL), originally founded in 1963 by John McCarthy, and served as its director. He was promoted to full professor of computer science and electrical engineering in 2007.\nAt Stanford, he led the development of Stanley , the autonomous vehicle that won the 2005 DARPA Grand Challenge by completing a 212-kilometer desert course in approximately 6 hours and 54 minutes, earning a $2 million prize. The vehicle is now housed at the Smithsonian Institution’s National Museum of American History .His team also developed Junior, which placed second in the 2007 DARPA Urban Challenge .\nIn 2004, Thrun founded the Robotics: Science and Systems (RSS) conference, which has since become a major venue in robotics research. He now serves as an adjunct professor at Stanford."
+      },
+      {
+        "heading": "Google",
+        "text": "In 2011, Thrun joined Google as a Google Fellow and Vice President. He co-founded Google X (the “moonshot factory”) with Yoky Matsuoka and Astro Teller , an advanced research lab focused on experimental and high-risk technology projects.\nIn X, he initiated Project Chauffeur, Google’s autonomous vehicle program, which later became Waymo in 2016. Waymo has since developed into one of the major autonomous ride-hailing companies, operating large-scale autonomous driving systems on public roads.\nHe also co-founded Google Brain , a deep learning research initiative that contributed to large-scale neural network systems used in products such as YouTube and later influenced the development of transformer-based architectures. Google Brain later merged with DeepMind to form Google DeepMind , and today forms the backbone of Google’s Gemini platform.\nDuring his tenure at Google, Thrun was involved in several additional initiatives, including Google Street View (2007), which originated from mapping research conducted at Stanford University ; Google Glass (2012), a wearable computing platform; Project Ground Truth, which contributed to the development and refinement of Google Maps data systems; Project Wing , a drone-based delivery initiative; Project Loon , a high-altitude balloon internet access project that was discontinued in 2021; and GCam, a computational photography system used in Google’s Pixel smartphones."
+      },
+      {
+        "heading": "Udacity and education initiatives",
+        "text": "In 2011, Thrun taught a free online artificial intelligence course at Stanford University , which attracted approximately 160,000 students from 190 countries and became a major early event in the massive open online course (MOOC) movement. He is often referred to in media as the “Godfather of the MOOC.”\nIn 2012, he co-founded Udacity , an online education company focused on technical training and “nanodegree” programs. The platform has served tens of millions of learners globally. In 2024, Udacity was sold to Accenture .\nThrun also collaborated with Georgia Tech and Zvi Galil to develop the Online Master of Science in Computer Science (OMSCS), a low-cost online graduate degree program. The program has graduated more than 10,000 students and has been described by Forbes as “The Greatest Degree Program Ever.”"
+      },
+      {
+        "heading": "Kitty Hawk and Wisk Aero",
+        "text": "Thrun co-founded Zee.Aero with Larry Page , a company focused on electric vertical takeoff and landing (eVTOL) aircraft, which later became Kitty Hawk Corporation , where he served as CEO. The company developed the Flyer , a personal electric vertical takeoff and landing (eVTOL) aircraft designed to enable rapid pilot training, and Cora , an autonomous air taxi prototype.\nIn 2019, the Cora program was separated into a joint venture with Boeing under the name Wisk Aero , which continues to develop autonomous aircraft for urban air mobility applications. Kitty Hawk subsequently ceased operations."
+      },
+      {
+        "heading": "Other ventures",
+        "text": "Thrun co-founded Cresta in 2017, a company focused on AI systems for contact centers that provide real-time assistance, automation, and workflow optimization for customer service operations.\nHe also founded Sage AI Labs, which developed “GOLD,” an AI-based shopping platform focused on personalized and automated commerce experiences using agent-based systems."
+      },
+      {
+        "heading": "Autonomous vehicles",
+        "text": "Thrun is widely recognized for his contributions to autonomous driving systems. His work includes leadership of the Stanford Racing Team’s Stanley vehicle , which won the 2005 DARPA Grand Challenge ; development of Junior , which placed second in the 2007 DARPA Urban Challenge ; and foundational work at Google that led to Project Chauffeur, later developed into Waymo .\nHis research contributed to perception systems, navigation, probabilistic decision-making, and large-scale robotic autonomy ."
+      },
+      {
+        "heading": "Probabilistic robotics",
+        "text": "Together with Wolfram Burgard and Dieter Fox , Thrun helped establish probabilistic robotics, a field that applies statistical methods to robotics problems such as localization, mapping, and navigation.\nTheir book Probabilistic Robotics (2005, MIT Press) is widely used in the field and has been translated into multiple languages.\nKey contributions include Monte Carlo localization , simultaneous localization and mapping (SLAM), and probabilistic mapping and navigation algorithms."
+      },
+      {
+        "heading": "Interactive robots",
+        "text": "Thrun’s early work includes the development of autonomous and interactive robotic systems such as Rhino ( University of Bonn , 1994), one of the earliest autonomous museum tour guide robots; Minerva (1998), deployed at the Smithsonian museum; the Nursebot project, focused on assistive robotics in healthcare environments; and collaborative work on mine-mapping robotics with William L. Whittaker ."
+      },
+      {
+        "heading": "Projects at Google and Google X",
+        "text": "Thrun contributed to or co-founded several projects at Google and Google X:\nGoogle Street View (2007): Panoramic mapping imagery  system; Active Google X (~2010): Experimental research laboratory (“moonshot factory”); Active Google Brain (2011): Deep learning research division;  later merged into Google DeepMind Project Chauffeur (Waymo) (2009): Autonomous vehicle     program; Active Google Glass (2012): Wearable computing platform;   Discontinued (consumer) Project Ground Truth (~2008): Mapping data  infrastructure; Active Project Wing (~2012): Drone delivery system; Active  (Alphabet subsidiary) Project Loon (~2011): Balloon-based internet system;     Shut down (2021) GCam (2011): Computational photography system; Active"
+      },
+      {
+        "heading": "Honorary doctorates",
+        "text": "Delft University of Technology (2016) Instituto Politécnico Nacional (2016) University of Hildesheim (2020). Georgia Institute of Technology (2024)\nAcademy memberships\nNational Academy of Engineering (2007) German Academy of Sciences Leopoldina (2007) AAAI Fellow (2006) EurAI Fellow (2006)"
+      },
+      {
+        "heading": "Selected awards",
+        "text": "DARPA Grand Challenge winner (2005) NSF CAREER Award (1999) Olympus Award by the German Society for Pattern Recognition (2001) World Technology Award (2006) Braunschweig Research Prize (2007) IEEE ITSS Distinguished Researcher Award (2010) Crunchie / TechCrunch Award (2010) Max Planck Research Award (2011) AAAI Ed Feigenbaum Prize (2011) Smithsonian American Ingenuity Award (2012) Carnegie Corporation Great Immigrants Award (2013) IEEE ICRA Milestone Award (2020) Carl-Friedrich Gauss Medal (2022) Lamarr Award (2024)"
+      },
+      {
+        "heading": "Recognition in media and rankings",
+        "text": "Named one of the \"Brilliant 10\" by Popular Science in 2005 Scientific American 50 (2006) Named as the fifth-most creative person in the business world by Fast Company in 2011 No. 4 on Foreign Policy magazine's Top 100 Global Thinkers of 2012 Wired 25 (2018) ScholarGPS ranking: #2 worldwide in robotics (2025)"
+      },
+      {
+        "heading": "Selected publications",
+        "text": "Thrun, S.; Burgard, W.; Fox, D. Probabilistic  Robotics . MIT Press, 2005 Thrun et al. “Stanley: The robot that won the DARPA  Grand Challenge.” Journal of Field Robotics (2006). Fox et al. “Monte Carlo Localization.” AAAI (1999). Thrun. “Learning Metric-Topological Maps for Indoor  Navigation.” Artificial Intelligence (1998). Thrun et al. “Probabilistic Algorithms and the Interactive Museum Tour-Guide Robot Minerva.” IJRR (2000). Thrun. PhD thesis (1995), University of Bonn ."
+      },
+      {
+        "heading": "External links",
+        "text": "Media related to Sebastian Thrun at Wikimedia Commons Sebastian Thrun publications indexed by Google Scholar Appearances on C-SPAN"
+      }
+    ],
+    "full_text": "Introduction\nSebastian Thrun (born May 14, 1967)  is a German-American computer scientist, entrepreneur, and educator. He is an adjunct professor at Stanford University and is known for his work in self-driving cars , robotics , artificial intelligence , and online education . He is the co-founder of Google X , co-founder of Udacity , and former chief executive officer of Kitty Hawk Corporation .\nHe is widely recognized for his contributions to autonomous driving systems, particularly as leader of the Google Chauffeur Project (now known as Waymo ) and as the leader of the Stanford Racing that won the 2005 DARPA Grand Challenge , an event widely credited with accelerating research in self-driving technology.\n\nEarly life and education\nThrun was born in Solingen, West Germany , to Winfried and Kristin (Grüner) Thrun. He studied computer science, economics, and medicine at the University of Hildesheim , where he earned his Vordiplom (intermediate diploma) in 1988.\nHe later transferred to the University of Bonn , receiving a Diplom in 1993 and completing a PhD summa cum laude in computer science and statistics in 1995. His doctoral dissertation, Explanation-Based Neural Network Learning: A Lifelong Learning Approach , was supervised by Armin B. Cremers and Tom Mitchell .\n\nCarnegie Mellon University\nIn 1995, Thrun joined Carnegie Mellon University as a research computer scientist in the Computer Science Department.\nIn 1998, he became assistant professor and director of the Robot Learning Laboratory, later serving as the Finmeccanica Associate Professor of Computer Science and Robotics.\nDuring this period, he developed Minerva, an autonomous robotic museum tour guide deployed at the Smithsonian National Museum of American History in 1998. The robot interacted with thousands of visitors over a two-week deployment and contributed to advances in simultaneous localization and mapping (SLAM). He also led the Nursebot project, which focused on assistive robots in elder care environments.\nThrun co-founded the Center for Automated Learning and Discovery (CALD), later renamed the Machine Learning Department, recognized as the first academic department dedicated to machine learning. He co-chaired its early graduate program, the Master’s in Automated Learning and Discovery, which formed the basis for later machine learning doctoral programs at Carnegie Mellon University .\n\nStanford University\nIn 2003, Thrun joined Stanford University as an associate professor. In 2004, he re-established the Stanford Artificial Intelligence Laboratory (SAIL), originally founded in 1963 by John McCarthy, and served as its director. He was promoted to full professor of computer science and electrical engineering in 2007.\nAt Stanford, he led the development of Stanley , the autonomous vehicle that won the 2005 DARPA Grand Challenge by completing a 212-kilometer desert course in approximately 6 hours and 54 minutes, earning a $2 million prize. The vehicle is now housed at the Smithsonian Institution’s National Museum of American History .His team also developed Junior, which placed second in the 2007 DARPA Urban Challenge .\nIn 2004, Thrun founded the Robotics: Science and Systems (RSS) conference, which has since become a major venue in robotics research. He now serves as an adjunct professor at Stanford.\n\nGoogle\nIn 2011, Thrun joined Google as a Google Fellow and Vice President. He co-founded Google X (the “moonshot factory”) with Yoky Matsuoka and Astro Teller , an advanced research lab focused on experimental and high-risk technology projects.\nIn X, he initiated Project Chauffeur, Google’s autonomous vehicle program, which later became Waymo in 2016. Waymo has since developed into one of the major autonomous ride-hailing companies, operating large-scale autonomous driving systems on public roads.\nHe also co-founded Google Brain , a deep learning research initiative that contributed to large-scale neural network systems used in products such as YouTube and later influenced the development of transformer-based architectures. Google Brain later merged with DeepMind to form Google DeepMind , and today forms the backbone of Google’s Gemini platform.\nDuring his tenure at Google, Thrun was involved in several additional initiatives, including Google Street View (2007), which originated from mapping research conducted at Stanford University ; Google Glass (2012), a wearable computing platform; Project Ground Truth, which contributed to the development and refinement of Google Maps data systems; Project Wing , a drone-based delivery initiative; Project Loon , a high-altitude balloon internet access project that was discontinued in 2021; and GCam, a computational photography system used in Google’s Pixel smartphones.\n\nUdacity and education initiatives\nIn 2011, Thrun taught a free online artificial intelligence course at Stanford University , which attracted approximately 160,000 students from 190 countries and became a major early event in the massive open online course (MOOC) movement. He is often referred to in media as the “Godfather of the MOOC.”\nIn 2012, he co-founded Udacity , an online education company focused on technical training and “nanodegree” programs. The platform has served tens of millions of learners globally. In 2024, Udacity was sold to Accenture .\nThrun also collaborated with Georgia Tech and Zvi Galil to develop the Online Master of Science in Computer Science (OMSCS), a low-cost online graduate degree program. The program has graduated more than 10,000 students and has been described by Forbes as “The Greatest Degree Program Ever.”\n\nKitty Hawk and Wisk Aero\nThrun co-founded Zee.Aero with Larry Page , a company focused on electric vertical takeoff and landing (eVTOL) aircraft, which later became Kitty Hawk Corporation , where he served as CEO. The company developed the Flyer , a personal electric vertical takeoff and landing (eVTOL) aircraft designed to enable rapid pilot training, and Cora , an autonomous air taxi prototype.\nIn 2019, the Cora program was separated into a joint venture with Boeing under the name Wisk Aero , which continues to develop autonomous aircraft for urban air mobility applications. Kitty Hawk subsequently ceased operations.\n\nOther ventures\nThrun co-founded Cresta in 2017, a company focused on AI systems for contact centers that provide real-time assistance, automation, and workflow optimization for customer service operations.\nHe also founded Sage AI Labs, which developed “GOLD,” an AI-based shopping platform focused on personalized and automated commerce experiences using agent-based systems.\n\nAutonomous vehicles\nThrun is widely recognized for his contributions to autonomous driving systems. His work includes leadership of the Stanford Racing Team’s Stanley vehicle , which won the 2005 DARPA Grand Challenge ; development of Junior , which placed second in the 2007 DARPA Urban Challenge ; and foundational work at Google that led to Project Chauffeur, later developed into Waymo .\nHis research contributed to perception systems, navigation, probabilistic decision-making, and large-scale robotic autonomy .\n\nProbabilistic robotics\nTogether with Wolfram Burgard and Dieter Fox , Thrun helped establish probabilistic robotics, a field that applies statistical methods to robotics problems such as localization, mapping, and navigation.\nTheir book Probabilistic Robotics (2005, MIT Press) is widely used in the field and has been translated into multiple languages.\nKey contributions include Monte Carlo localization , simultaneous localization and mapping (SLAM), and probabilistic mapping and navigation algorithms.\n\nInteractive robots\nThrun’s early work includes the development of autonomous and interactive robotic systems such as Rhino ( University of Bonn , 1994), one of the earliest autonomous museum tour guide robots; Minerva (1998), deployed at the Smithsonian museum; the Nursebot project, focused on assistive robotics in healthcare environments; and collaborative work on mine-mapping robotics with William L. Whittaker .\n\nProjects at Google and Google X\nThrun contributed to or co-founded several projects at Google and Google X:\nGoogle Street View (2007): Panoramic mapping imagery  system; Active Google X (~2010): Experimental research laboratory (“moonshot factory”); Active Google Brain (2011): Deep learning research division;  later merged into Google DeepMind Project Chauffeur (Waymo) (2009): Autonomous vehicle     program; Active Google Glass (2012): Wearable computing platform;   Discontinued (consumer) Project Ground Truth (~2008): Mapping data  infrastructure; Active Project Wing (~2012): Drone delivery system; Active  (Alphabet subsidiary) Project Loon (~2011): Balloon-based internet system;     Shut down (2021) GCam (2011): Computational photography system; Active\n\nHonorary doctorates\nDelft University of Technology (2016) Instituto Politécnico Nacional (2016) University of Hildesheim (2020). Georgia Institute of Technology (2024)\nAcademy memberships\nNational Academy of Engineering (2007) German Academy of Sciences Leopoldina (2007) AAAI Fellow (2006) EurAI Fellow (2006)\n\nSelected awards\nDARPA Grand Challenge winner (2005) NSF CAREER Award (1999) Olympus Award by the German Society for Pattern Recognition (2001) World Technology Award (2006) Braunschweig Research Prize (2007) IEEE ITSS Distinguished Researcher Award (2010) Crunchie / TechCrunch Award (2010) Max Planck Research Award (2011) AAAI Ed Feigenbaum Prize (2011) Smithsonian American Ingenuity Award (2012) Carnegie Corporation Great Immigrants Award (2013) IEEE ICRA Milestone Award (2020) Carl-Friedrich Gauss Medal (2022) Lamarr Award (2024)\n\nRecognition in media and rankings\nNamed one of the \"Brilliant 10\" by Popular Science in 2005 Scientific American 50 (2006) Named as the fifth-most creative person in the business world by Fast Company in 2011 No. 4 on Foreign Policy magazine's Top 100 Global Thinkers of 2012 Wired 25 (2018) ScholarGPS ranking: #2 worldwide in robotics (2025)\n\nSelected publications\nThrun, S.; Burgard, W.; Fox, D. Probabilistic  Robotics . MIT Press, 2005 Thrun et al. “Stanley: The robot that won the DARPA  Grand Challenge.” Journal of Field Robotics (2006). Fox et al. “Monte Carlo Localization.” AAAI (1999). Thrun. “Learning Metric-Topological Maps for Indoor  Navigation.” Artificial Intelligence (1998). Thrun et al. “Probabilistic Algorithms and the Interactive Museum Tour-Guide Robot Minerva.” IJRR (2000). Thrun. PhD thesis (1995), University of Bonn .\n\nExternal links\nMedia related to Sebastian Thrun at Wikimedia Commons Sebastian Thrun publications indexed by Google Scholar Appearances on C-SPAN"
+  },
+  "references": [
+    {
+      "url": "https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf",
+      "label": "\"Probabilistic robotics\""
+    },
+    {
+      "url": "https://doi.org/10.1145%2F504729.504754",
+      "label": "10.1145/504729.504754"
+    },
+    {
+      "url": "https://api.semanticscholar.org/CorpusID:14552983",
+      "label": "14552983"
+    },
+    {
+      "url": "http://www.kamalnigam.com/papers/emcat-mlj99.pdf",
+      "label": "\"Text Classification from Labeled and Unlabeled Documents using EM\""
+    },
+    {
+      "url": "https://ui.adsabs.harvard.edu/abs/2000MLear..39..103N",
+      "label": "2000MLear..39..103N"
+    },
+    {
+      "url": "https://doi.org/10.1023%2FA%3A1007692713085",
+      "label": "10.1023/A:1007692713085"
+    },
+    {
+      "url": "https://api.semanticscholar.org/CorpusID:686980",
+      "label": "686980"
+    },
+    {
+      "url": "https://mathgenealogy.org/id.php?id=100193",
+      "label": "Sebastian Thrun"
+    },
+    {
+      "url": "https://www.bizjournals.com/sanjose/news/2026/02/23/stanford-athletics-waymo-silicon-valley.html",
+      "label": "\"Waymo brings autonomous rides to Stanford in partnership with athletic department\""
+    },
+    {
+      "url": "https://www.nytimes.com/2010/10/10/science/10google.html",
+      "label": "\"Google Cars Drive Themselves, in Traffic\""
+    },
+    {
+      "url": "https://coingeek.com/driverless-flying-cars-sebastian-thrun-says-theyre-closer-than-you-think/",
+      "label": "\"Driverless flying cars? Sebastian Thrun says they're closer than you think\""
+    },
+    {
+      "url": "https://bworldonline.com/technology/2026/06/05/754795/traditional-degrees-may-matter-less-in-ai-era-says-udacity-founder/",
+      "label": "\"Traditional degrees may matter less in AI era, says Udacity founder\""
+    },
+    {
+      "url": "https://www.businessinsider.com/udacity-google-x-founder-sebastian-thrun-interview-2015-8",
+      "label": "\"The founder of Google's top secret project lab has a new plan to double the world's GDP\""
+    },
+    {
+      "url": "https://www.forbes.com/sites/peterhigh/2013/12/09/udacity-ceo-sebastian-thrun-on-the-future-of-education/",
+      "label": "\"Udacity CEO Sebastian Thrun On The Future Of Education\""
+    },
+    {
+      "url": "https://techcrunch.com/2019/08/27/kitty-hawk-ceo-sebastian-thrun-is-coming-to-disrupt-sf/",
+      "label": "\"Kitty Hawk CEO Sebastian Thrun is coming to Disrupt SF\""
+    },
+    {
+      "url": "https://www.bvp.com/atlas/seven-lessons-for-every-robotics-founder-from-the-godfather-of-self-driving-cars",
+      "label": "\"Seven lessons for every robotics founder from the 'godfather of self-driving cars' \""
+    },
+    {
+      "url": "https://www.rdworldonline.com/darpa-grand-challenge-at-21-two-decades-ago-driverless-vehicles-made-history-in-the-mojave-desert/",
+      "label": "\"DARPA Grand Challenge: 20 Years of Autonomous Vehicles\""
+    },
+    {
+      "url": "https://moneyweek.com/30710/profile-of-sebastian-thrun-58942",
+      "label": "\"Sebastian Thrun: The man making magic at Google\""
+    },
+    {
+      "url": "https://doi.org/10.1007/978-1-4613-1381-6_2",
+      "label": "\"Explanation-Based Neural Network Learning\""
+    },
+    {
+      "url": "https://doi.org/10.1007%2F978-1-4613-1381-6_2",
+      "label": "10.1007/978-1-4613-1381-6_2"
+    },
+    {
+      "url": "https://web.archive.org/web/20251107095716/https://roboticsarchive.library.cmu.edu/taxonomy/term/13352",
+      "label": "\"Thrun, Sebastian, 1967-\""
+    },
+    {
+      "url": "https://roboticsarchive.library.cmu.edu/taxonomy/term/13352",
+      "label": "the original"
+    },
+    {
+      "url": "https://www.onthisday.com/people/sebastian-thrun",
+      "label": "\"Sebastian Thrun (Computer Scientist)\""
+    },
+    {
+      "url": "https://ui.adsabs.harvard.edu/abs/1999robo....3...56T",
+      "label": "1999robo....3...56T"
+    },
+    {
+      "url": "https://doi.org/10.1109%2FROBOT.1999.770401",
+      "label": "10.1109/ROBOT.1999.770401"
+    },
+    {
+      "url": "https://www.cs.cmu.edu/~flo/research-track.html",
+      "label": "\"CMU/Pitt Nursebot Project\""
+    },
+    {
+      "url": "https://www.deutschland.de/en/topic/business/innovation-technology/the-robot-man",
+      "label": "\"The robot man\""
+    },
+    {
+      "url": "https://robots.stanford.edu/",
+      "label": "\"Sebastian Thrun - Adjunct Professor Stanford\""
+    },
+    {
+      "url": "https://web.archive.org/web/20251208190629/https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/1910",
+      "label": "\"A Personal Account of the Development of Stanley, the Robot That Won the DARPA Grand Challenge\""
+    },
+    {
+      "url": "https://search.worldcat.org/issn/2371-9621",
+      "label": "2371-9621"
+    },
+    {
+      "url": "https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/1910",
+      "label": "the original"
+    },
+    {
+      "url": "http://link.springer.com/10.1007/978-3-540-73429-1_1",
+      "label": "\"Stanley: The Robot That Won the DARPA Grand Challenge\""
+    },
+    {
+      "url": "https://doi.org/10.1007%2F978-3-540-73429-1_1",
+      "label": "10.1007/978-3-540-73429-1_1"
+    },
+    {
+      "url": "https://cs.stanford.edu/group/roadrunner/",
+      "label": "\"DARPA Challenge invites Stanford Racing team to build a robotic car\""
+    },
+    {
+      "url": "https://www.ri.cmu.edu/downloads/other_pdfs/RoboticsCFP.pdf",
+      "label": "\"ROBOTICS: SCIENCE AND SYSTEMS June 8-11, 2005 Massachusetts Institute of Technology, Cambridge, Massachusetts, U.S.A.\""
+    },
+    {
+      "url": "https://techcrunch.com/2014/09/23/google-x-founder-sebastian-thrun-has-left-his-role-as-google-vp-and-fellow/",
+      "label": "\"Google X Founder Sebastian Thrun Has Left His Role As Google VP And Fellow\""
+    },
+    {
+      "url": "https://www.businessinsider.com/google-glass-inventor-it-could-outsource-our-brains-2014-7",
+      "label": "\"The Inventor Of Google Glass Says It Could Outsource Our Brains\""
+    },
+    {
+      "url": "https://schlaff.com/wp/the-secret-to-googles-self-driving-cars-google-street-view/",
+      "label": "\"The Secret to Google's Self Driving Cars -- Google Street View\""
+    },
+    {
+      "url": "https://www.vox.com/2015/2/8/11558788/ten-years-of-google-maps-from-slashdot-to-ground-truth",
+      "label": "\"Ten Years of Google Maps, From Slashdot to Ground Truth\""
+    },
+    {
+      "url": "https://www.theatlantic.com/technology/archive/2014/08/inside-googles-secret-drone-delivery-program/379306/",
+      "label": "\"Inside Google's Secret Drone-Delivery Program\""
+    },
+    {
+      "url": "https://www.designboom.com/technology/sebastian-thrun-interview-on-innovation-what-makes-an-innovator-12-02-2013/",
+      "label": "\"what makes an innovator? an interview with sebastian thrun\""
+    },
+    {
+      "url": "https://x.company/blog/posts/meet-gcam-the-x-graduate-that-gave-us-a-whole-new-point-of-view/",
+      "label": "\"Meet G-Cam: The X Graduate That Gave Us a Whole New Point of View - Google X Blog\""
+    },
+    {
+      "url": "https://radioopensource.org/sebastian-thrun-college-moocs/",
+      "label": "\"Sebastian Thrun: MOOCs, Angry Birds, and Lifelong Learning\""
+    },
+    {
+      "url": "https://www.nbcnews.com/id/wbna46138856",
+      "label": "\"Professor leaving Stanford for online education startup\""
+    },
+    {
+      "url": "https://techcrunch.com/2024/03/05/accenture-to-acquire-udacity-to-build-a-learning-platform-focused-on-ai/",
+      "label": "\"Accenture to acquire Udacity to build a learning platform focused on AI\""
+    },
+    {
+      "url": "https://president.gatech.edu/blog/celebrating-sebastian-thrun",
+      "label": "\"Celebrating Sebastian Thrun | Office of the President\""
+    },
+    {
+      "url": "https://www.businessinsider.com/larry-page-zee-aero-kitty-hawk-flying-car-startups-registering-new-aircraft-2017-3",
+      "label": "\"Larry Page's mystery flying car startup is expanding its fleet of oddball aircraft\""
+    },
+    {
+      "url": "https://www.forbes.com/sites/jeremybogaisky/2019/12/01/inside-larry-pages-kitty-hawk-returned-deposits-battery-fires-boeing-cora/",
+      "label": "\"Inside Larry Page's Turbulent Kitty Hawk: Returned Deposits, Battery Fires And A Boeing Shakeup\""
+    },
+    {
+      "url": "https://wisk.aero/newsroom/boeing-and-kitty-hawk-form-strategic-partnership",
+      "label": "\"Boeing and Kitty Hawk Form Strategic Partnership\""
+    },
+    {
+      "url": "https://www.wsj.com/articles/porsche-venture-arm-backs-cresta-ai-startup-with-a-list-co-founder-11611939060",
+      "label": "\"Porsche Venture Arm Backs Cresta, AI Startup With A-List Co-Founder\""
+    },
+    {
+      "url": "https://search.worldcat.org/issn/0099-9660",
+      "label": "0099-9660"
+    },
+    {
+      "url": "https://happiness.info/building-the-impossible/",
+      "label": "\"#152 – Building the Impossible: Moonshots, AI, and Zero to One | Sebastian Thrun\""
+    },
+    {
+      "url": "https://web.archive.org/web/20120110204333/http://video.google.com/videoplay?docid=8594517128412883394",
+      "label": "\"Winning The DARPA Grand Challenge\""
+    },
+    {
+      "url": "http://video.google.com/videoplay?docid=8594517128412883394",
+      "label": "the original"
+    },
+    {
+      "url": "https://web.archive.org/web/20061113154833/http://www.popularmechanics.com/science/robotics/2169012.html?page=1",
+      "label": "\"DARPA Grand Challenge Winner - Popular Mechanics\""
+    },
+    {
+      "url": "http://www.popularmechanics.com/science/robotics/2169012.html?page=1",
+      "label": "the original"
+    },
+    {
+      "url": "https://engineering.stanford.edu/news/junior-takes-runner-and-place-technology-history",
+      "label": "\"Junior takes runner-up and a place in technology history | Stanford University School of Engineering\""
+    },
+    {
+      "url": "https://techcrunch.com/2019/02/08/waymo-cto-on-the-companys-past-present-and-what-comes-next/",
+      "label": "\"Waymo CTO on the company's past, present and what comes next | TechCrunch\""
+    },
+    {
+      "url": "http://robots.stanford.edu/probabilistic-robotics/",
+      "label": "\"Probabilistic Robotics\""
+    },
+    {
+      "url": "https://publications.ri.cmu.edu/storage/publications/pub_files/pub1/dellaert_frank_1999_2/dellaert_frank_1999_2.pdf",
+      "label": "\"Monte Carlo Localization for Mobile Robots\""
+    },
+    {
+      "url": "https://doi.org/10.1007/978-3-540-75388-9_3",
+      "label": "\"Simultaneous Localization and Mapping\""
+    },
+    {
+      "url": "https://doi.org/10.1007%2F978-3-540-75388-9_3",
+      "label": "10.1007/978-3-540-75388-9_3"
+    },
+    {
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1609/aimag.v21i4.1534",
+      "label": "\"Probabilistic Algorithms in Robotics\""
+    },
+    {
+      "url": "https://doi.org/10.1609%2Faimag.v21i4.1534",
+      "label": "10.1609/aimag.v21i4.1534"
+    },
+    {
+      "url": "http://link.springer.com/10.1007/978-1-4471-3087-1_26",
+      "label": "\"The Mobile Robot Rhino\""
+    },
+    {
+      "url": "https://doi.org/10.1007%2F978-1-4471-3087-1_26",
+      "label": "10.1007/978-1-4471-3087-1_26"
+    },
+    {
+      "url": "https://ui.adsabs.harvard.edu/abs/2003robo....3..220T",
+      "label": "2003robo....3..220T"
+    },
+    {
+      "url": "https://doi.org/10.1109%2FROBOT.2003.1242260",
+      "label": "10.1109/ROBOT.2003.1242260"
+    },
+    {
+      "url": "https://www.cnbc.com/2017/05/11/google-larry-page-moonshot-lab.html",
+      "label": "\"Google's Larry Page disguised himself during a driverless car race to hire the founder of his moonshot lab\""
+    },
+    {
+      "url": "https://googleblog.blogspot.com/2010/10/what-were-driving-at.html",
+      "label": "\"What we're driving at\""
+    },
+    {
+      "url": "https://www.swisslife.com/en/home/blog/interview-sebastian-thrun.html",
+      "label": "\"Sebastian Thrun: \"It will be hard to change the world without optimism\" \""
+    },
+    {
+      "url": "https://delta.tudelft.nl/en/article/delft-has-one-strongest-robotics-groups-europe",
+      "label": "\"Delft has one of the strongest robotics groups in Europe\""
+    },
+    {
+      "url": "https://www.cronica.com.mx/notas-entrega_ipn_doctorados_honoris_causa_a_investigadores-988853-2016.html",
+      "label": "\"Entrega IPN doctorados Honoris Causa a investigadores\""
+    },
+    {
+      "url": "https://www.uni-hildesheim.de/neuigkeiten/verleihung-der-ehrendoktorwuerde-der-universitaet-hildesheim-an-informatiker-sebastian-thrun/",
+      "label": "\"Informatiker Sebastian Thrun: \"Die Ausbildung hier an der Universität war weltklasse\" / Ehrendoktorwürde der Universität Hildesheim\""
+    },
+    {
+      "url": "http://robots.stanford.edu/cv.pdf",
+      "label": "\"Thrun's CV\""
+    },
+    {
+      "url": "https://www.hmc.edu/about/2018/12/05/sebastian-thrun-to-deliver-harvey-mudd-commencement-address/",
+      "label": "\"Sebastian Thrun to Deliver Harvey Mudd Commencement Address | Harvey Mudd College News | Harvey Mudd College\""
+    },
+    {
+      "url": "https://gabagala.org/speaker/sebastian-thrun/",
+      "label": "\"Sebastian Thrun\""
+    },
+    {
+      "url": "https://www.aaai.org/Awards/feigenbaum.php",
+      "label": "\"Sebastian Thrun\""
+    },
+    {
+      "url": "https://www.eurai.org/awards_and_grants/fellows",
+      "label": "\"Fellows | European Association for Artificial Intelligence\""
+    },
+    {
+      "url": "http://search.marquiswhoswho.com/profile/100026513144",
+      "label": "\"Marquis biographies online: Profile detail, Sebastian Burkhard Thrun\""
+    },
+    {
+      "url": "https://www.dagm.de/award-winners/german-pattern-recognition-award/former-olympus-award-winners",
+      "label": "\"Olympus Award Winners\""
+    },
+    {
+      "url": "https://research.com/u/sebastian-thrun",
+      "label": "\"2026 Sebastian Thrun: Computer Science Researcher – H-Index, Publications & Awards\""
+    },
+    {
+      "url": "https://www.fiercesensors.com/components/braunschweig-2007-research-prize-for-dr-sebastian-thrun",
+      "label": "\"Braunschweig 2007 Research Prize for Dr. Sebastian Thrun | Fierce Sensors\""
+    },
+    {
+      "url": "https://ieee-itss.org/awards/outstanding-research/",
+      "label": "\"IEEE ITS Outstanding Research Award\""
+    },
+    {
+      "url": "https://techcrunch.com/2017/01/12/marissa-mayer-sebastian-thrun-and-troy-carter-to-present-awards-at-10th-annual-crunchies/",
+      "label": "\"Marissa Mayer, Sebastian Thrun, and Troy Carter to present awards at 10th Annual Crunchies\""
+    },
+    {
+      "url": "https://www.mpg.de/1229446/max-planck-research-award-2011",
+      "label": "\"Max Planck Research Award 2011\""
+    },
+    {
+      "url": "https://aaai.org/aaai-awards-inaugural-feigenbaum-prize/",
+      "label": "\"AAAI Awards Inaugural Feigenbaum Prize\""
+    },
+    {
+      "url": "https://www.smithsonianmag.com/innovation/how-artificial-intelligence-can-change-higher-education-136983766/",
+      "label": "\"How Artificial Intelligence Can Change Higher Education\""
+    },
+    {
+      "url": "https://carnegie.org/our-work/special-projects/great-immigrants/all-honorees/",
+      "label": "\"All Honorees\""
+    },
+    {
+      "url": "https://icra.cc.gatech.edu/dellaert-awarded-ieee-icra-milestone-award/",
+      "label": "\"Dellaert Awarded IEEE ICRA Milestone Award\""
+    },
+    {
+      "url": "https://www.bwg-nds.de/gauss-medaille/gaus-medaille-2022",
+      "label": "\"2022 Carl Friedrich Gauß-Medaille\""
+    },
+    {
+      "url": "https://lamarr-institute.org/lamarr-award/",
+      "label": "\"Lamarr Award » Lamarr Institute\""
+    },
+    {
+      "url": "https://utsc.utoronto.ca/news-events/archived/maydianne-andrade-named-among-popular-science-brilliant-10",
+      "label": "\"Maydianne Andrade named among Popular Science 'Brilliant 10' \""
+    },
+    {
+      "url": "http://robots.stanford.edu/personal.html",
+      "label": "\"Sebastian Thrun – Personal\""
+    },
+    {
+      "url": "https://www.fastcompany.com/person/sebastian-thrun",
+      "label": "\"MMOST CREATIVE PEOPLE 2011 Profile detail, Sebastian Thrun\""
+    },
+    {
+      "url": "https://www.hmc.edu/about-hmc/2018/12/05/sebastian-thrun-to-deliver-harvey-mudd-commencement-address/",
+      "label": "\"Sebastian Thrun to Deliver Harvey Mudd Commencement Address\""
+    },
+    {
+      "url": "https://web.archive.org/web/20121203163909/http://www.foreignpolicy.com/articles/2012/11/26/the_fp_100_global_thinkers?page=0,3#thinker4",
+      "label": "\"4 – Sebastian Thrun\""
+    },
+    {
+      "url": "https://foreignpolicy.com/articles/2012/11/26/the_fp_100_global_thinkers?page=0,3#thinker4",
+      "label": "the original"
+    },
+    {
+      "url": "https://www.wired.com/story/wired25-sebastian-thrun-sam-altman-artificial-intelligence/",
+      "label": "\"Sebastian Thrun on AI, Flying Cars, and Sam Altman\""
+    },
+    {
+      "url": "https://search.worldcat.org/issn/1059-1028",
+      "label": "1059-1028"
+    },
+    {
+      "url": "https://scholargps.com/specialties/78174119465984/robotics",
+      "label": "\"Highly Ranked Scholars™\""
+    },
+    {
+      "url": "https://web.archive.org/web/20240918025104/https://mitpress.mit.edu/9780262303804/probabilistic-robotics/",
+      "label": "\"Probabilistic Robotics\""
+    },
+    {
+      "url": "https://mitpress.mit.edu/9780262303804/probabilistic-robotics/",
+      "label": "the original"
+    },
+    {
+      "url": "https://web.archive.org/web/20240429050721/https://www.sciencedirect.com/science/article/pii/S0004370201000698",
+      "label": "\"Robust Monte Carlo localization for mobile robots\""
+    },
+    {
+      "url": "https://doi.org/10.1016%2FS0004-3702%2801%2900069-8",
+      "label": "10.1016/S0004-3702(01)00069-8"
+    },
+    {
+      "url": "https://search.worldcat.org/issn/0004-3702",
+      "label": "0004-3702"
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S0004370201000698",
+      "label": "the original"
+    },
+    {
+      "url": "https://web.archive.org/web/20240201201259/https://www.sciencedirect.com/science/article/pii/S0004370297000787",
+      "label": "\"Learning metric-topological maps for indoor mobile robot navigation\""
+    },
+    {
+      "url": "https://doi.org/10.1016%2FS0004-3702%2897%2900078-7",
+      "label": "10.1016/S0004-3702(97)00078-7"
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S0004370297000787",
+      "label": "the original"
+    }
+  ],
+  "outgoing_links": [
+    {
+      "title": "2005 DARPA Grand Challenge",
+      "url": "https://en.wikipedia.org/wiki/2005_DARPA_Grand_Challenge"
+    },
+    {
+      "title": "2007 DARPA Urban Challenge",
+      "url": "https://en.wikipedia.org/wiki/2007_DARPA_Urban_Challenge"
+    },
+    {
+      "title": "AAAI Fellow",
+      "url": "https://en.wikipedia.org/wiki/AAAI_Fellow"
+    },
+    {
+      "title": "Accenture",
+      "url": "https://en.wikipedia.org/wiki/Accenture"
+    },
+    {
+      "title": "Armin B. Cremers",
+      "url": "https://en.wikipedia.org/wiki/Armin_B._Cremers"
+    },
+    {
+      "title": "Artificial Intelligence",
+      "url": "https://en.wikipedia.org/wiki/Artificial_Intelligence"
+    },
+    {
+      "title": "Artificial intelligence",
+      "url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+    },
+    {
+      "title": "Astro Teller",
+      "url": "https://en.wikipedia.org/wiki/Astro_Teller"
+    },
+    {
+      "title": "Autonomous driving",
+      "url": "https://en.wikipedia.org/wiki/Autonomous_driving"
+    },
+    {
+      "title": "Bibcode (identifier)",
+      "url": "https://en.wikipedia.org/wiki/Bibcode_%28identifier%29"
+    },
+    {
+      "title": "C-SPAN",
+      "url": "https://en.wikipedia.org/wiki/C-SPAN"
+    },
+    {
+      "title": "Carnegie Mellon University",
+      "url": "https://en.wikipedia.org/wiki/Carnegie_Mellon_University"
+    },
+    {
+      "title": "DARPA Grand Challenge",
+      "url": "https://en.wikipedia.org/wiki/DARPA_Grand_Challenge"
+    },
+    {
+      "title": "DARPA Grand Challenge (2005)",
+      "url": "https://en.wikipedia.org/wiki/DARPA_Grand_Challenge_%282005%29"
+    },
+    {
+      "title": "DARPA Grand Challenge (2007)",
+      "url": "https://en.wikipedia.org/wiki/DARPA_Grand_Challenge_%282007%29"
+    },
+    {
+      "title": "David Stavens",
+      "url": "https://en.wikipedia.org/wiki/David_Stavens"
+    },
+    {
+      "title": "DeepMind",
+      "url": "https://en.wikipedia.org/wiki/DeepMind"
+    },
+    {
+      "title": "Delft University of Technology",
+      "url": "https://en.wikipedia.org/wiki/Delft_University_of_Technology"
+    },
+    {
+      "title": "Dieter Fox",
+      "url": "https://en.wikipedia.org/wiki/Dieter_Fox"
+    },
+    {
+      "title": "Doctoral advisor",
+      "url": "https://en.wikipedia.org/wiki/Doctoral_advisor"
+    },
+    {
+      "title": "Doi (identifier)",
+      "url": "https://en.wikipedia.org/wiki/Doi_%28identifier%29"
+    },
+    {
+      "title": "European Association for Artificial Intelligence",
+      "url": "https://en.wikipedia.org/wiki/European_Association_for_Artificial_Intelligence"
+    },
+    {
+      "title": "Fast Company",
+      "url": "https://en.wikipedia.org/wiki/Fast_Company"
+    },
+    {
+      "title": "Foreign Policy",
+      "url": "https://en.wikipedia.org/wiki/Foreign_Policy"
+    },
+    {
+      "title": "Frank Dellaert",
+      "url": "https://en.wikipedia.org/wiki/Frank_Dellaert"
+    },
+    {
+      "title": "Georgia Institute of Technology",
+      "url": "https://en.wikipedia.org/wiki/Georgia_Institute_of_Technology"
+    },
+    {
+      "title": "Georgia Tech",
+      "url": "https://en.wikipedia.org/wiki/Georgia_Tech"
+    },
+    {
+      "title": "German Academy of Sciences Leopoldina",
+      "url": "https://en.wikipedia.org/wiki/German_Academy_of_Sciences_Leopoldina"
+    },
+    {
+      "title": "Google",
+      "url": "https://en.wikipedia.org/wiki/Google"
+    },
+    {
+      "title": "Google's Gemini",
+      "url": "https://en.wikipedia.org/wiki/Google%27s_Gemini"
+    },
+    {
+      "title": "Google Brain",
+      "url": "https://en.wikipedia.org/wiki/Google_Brain"
+    },
+    {
+      "title": "Google DeepMind",
+      "url": "https://en.wikipedia.org/wiki/Google_DeepMind"
+    },
+    {
+      "title": "Google Glass",
+      "url": "https://en.wikipedia.org/wiki/Google_Glass"
+    },
+    {
+      "title": "Google Maps",
+      "url": "https://en.wikipedia.org/wiki/Google_Maps"
+    },
+    {
+      "title": "Google Pixel",
+      "url": "https://en.wikipedia.org/wiki/Google_Pixel"
+    },
+    {
+      "title": "Google Scholar",
+      "url": "https://en.wikipedia.org/wiki/Google_Scholar"
+    },
+    {
+      "title": "Google Street View",
+      "url": "https://en.wikipedia.org/wiki/Google_Street_View"
+    },
+    {
+      "title": "Google X",
+      "url": "https://en.wikipedia.org/wiki/Google_X"
+    },
+    {
+      "title": "Great Immigrants Award",
+      "url": "https://en.wikipedia.org/wiki/Great_Immigrants_Award"
+    },
+    {
+      "title": "ISBN (identifier)",
+      "url": "https://en.wikipedia.org/wiki/ISBN_%28identifier%29"
+    },
+    {
+      "title": "ISSN (identifier)",
+      "url": "https://en.wikipedia.org/wiki/ISSN_%28identifier%29"
+    },
+    {
+      "title": "Institute of Electrical and Electronics Engineers",
+      "url": "https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers"
+    },
+    {
+      "title": "Instituto Politécnico Nacional",
+      "url": "https://en.wikipedia.org/wiki/Instituto_Polit%C3%A9cnico_Nacional"
+    },
+    {
+      "title": "John Langford (computer scientist)",
+      "url": "https://en.wikipedia.org/wiki/John_Langford_%28computer_scientist%29"
+    },
+    {
+      "title": "Joëlle Pineau",
+      "url": "https://en.wikipedia.org/wiki/Jo%C3%ABlle_Pineau"
+    },
+    {
+      "title": "Kitty Hawk Corporation",
+      "url": "https://en.wikipedia.org/wiki/Kitty_Hawk_Corporation"
+    },
+    {
+      "title": "La Crónica de Hoy",
+      "url": "https://en.wikipedia.org/wiki/La_Cr%C3%B3nica_de_Hoy"
+    },
+    {
+      "title": "Larry Page",
+      "url": "https://en.wikipedia.org/wiki/Larry_Page"
+    },
+    {
+      "title": "Leonardo (company)",
+      "url": "https://en.wikipedia.org/wiki/Leonardo_%28company%29"
+    },
+    {
+      "title": "Loon LLC",
+      "url": "https://en.wikipedia.org/wiki/Loon_LLC"
+    },
+    {
+      "title": "Master of Science",
+      "url": "https://en.wikipedia.org/wiki/Master_of_Science"
+    },
+    {
+      "title": "Mathematics Genealogy Project",
+      "url": "https://en.wikipedia.org/wiki/Mathematics_Genealogy_Project"
+    },
+    {
+      "title": "Monte Carlo localization",
+      "url": "https://en.wikipedia.org/wiki/Monte_Carlo_localization"
+    },
+    {
+      "title": "NSF CAREER Award",
+      "url": "https://en.wikipedia.org/wiki/NSF_CAREER_Award"
+    },
+    {
+      "title": "National Academy of Engineering",
+      "url": "https://en.wikipedia.org/wiki/National_Academy_of_Engineering"
+    },
+    {
+      "title": "National Museum of American History",
+      "url": "https://en.wikipedia.org/wiki/National_Museum_of_American_History"
+    },
+    {
+      "title": "National Science Foundation CAREER Awards",
+      "url": "https://en.wikipedia.org/wiki/National_Science_Foundation_CAREER_Awards"
+    },
+    {
+      "title": "Notimex",
+      "url": "https://en.wikipedia.org/wiki/Notimex"
+    },
+    {
+      "title": "Online education",
+      "url": "https://en.wikipedia.org/wiki/Online_education"
+    },
+    {
+      "title": "Popular Science",
+      "url": "https://en.wikipedia.org/wiki/Popular_Science"
+    },
+    {
+      "title": "Red Whittaker",
+      "url": "https://en.wikipedia.org/wiki/Red_Whittaker"
+    },
+    {
+      "title": "Robotic autonomy",
+      "url": "https://en.wikipedia.org/wiki/Robotic_autonomy"
+    },
+    {
+      "title": "Robotics",
+      "url": "https://en.wikipedia.org/wiki/Robotics"
+    },
+    {
+      "title": "S2CID (identifier)",
+      "url": "https://en.wikipedia.org/wiki/S2CID_%28identifier%29"
+    },
+    {
+      "title": "Scientific American 50",
+      "url": "https://en.wikipedia.org/wiki/Scientific_American_50"
+    },
+    {
+      "title": "Self-driving",
+      "url": "https://en.wikipedia.org/wiki/Self-driving"
+    },
+    {
+      "title": "Self-driving cars",
+      "url": "https://en.wikipedia.org/wiki/Self-driving_cars"
+    },
+    {
+      "title": "Simultaneous localization and mapping",
+      "url": "https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping"
+    },
+    {
+      "title": "Solingen",
+      "url": "https://en.wikipedia.org/wiki/Solingen"
+    },
+    {
+      "title": "Stanford Artificial Intelligence Laboratory",
+      "url": "https://en.wikipedia.org/wiki/Stanford_Artificial_Intelligence_Laboratory"
+    },
+    {
+      "title": "Stanford University",
+      "url": "https://en.wikipedia.org/wiki/Stanford_University"
+    },
+    {
+      "title": "Stanley (vehicle)",
+      "url": "https://en.wikipedia.org/wiki/Stanley_%28vehicle%29"
+    },
+    {
+      "title": "The New York Times",
+      "url": "https://en.wikipedia.org/wiki/The_New_York_Times"
+    },
+    {
+      "title": "Thesis",
+      "url": "https://en.wikipedia.org/wiki/Thesis"
+    },
+    {
+      "title": "Tom M. Mitchell",
+      "url": "https://en.wikipedia.org/wiki/Tom_M._Mitchell"
+    },
+    {
+      "title": "Tom Mitchell (computer scientist)",
+      "url": "https://en.wikipedia.org/wiki/Tom_Mitchell_%28computer_scientist%29"
+    },
+    {
+      "title": "Udacity",
+      "url": "https://en.wikipedia.org/wiki/Udacity"
+    },
+    {
+      "title": "University of Bonn",
+      "url": "https://en.wikipedia.org/wiki/University_of_Bonn"
+    },
+    {
+      "title": "University of Hildesheim",
+      "url": "https://en.wikipedia.org/wiki/University_of_Hildesheim"
+    },
+    {
+      "title": "University of Toronto Scarborough",
+      "url": "https://en.wikipedia.org/wiki/University_of_Toronto_Scarborough"
+    },
+    {
+      "title": "Waymo",
+      "url": "https://en.wikipedia.org/wiki/Waymo"
+    },
+    {
+      "title": "West Germany",
+      "url": "https://en.wikipedia.org/wiki/West_Germany"
+    },
+    {
+      "title": "Wing Aviation",
+      "url": "https://en.wikipedia.org/wiki/Wing_Aviation"
+    },
+    {
+      "title": "Wired (magazine)",
+      "url": "https://en.wikipedia.org/wiki/Wired_%28magazine%29"
+    },
+    {
+      "title": "Wisk Aero",
+      "url": "https://en.wikipedia.org/wiki/Wisk_Aero"
+    },
+    {
+      "title": "Wolfram Burgard",
+      "url": "https://en.wikipedia.org/wiki/Wolfram_Burgard"
+    },
+    {
+      "title": "X Development",
+      "url": "https://en.wikipedia.org/wiki/X_Development"
+    },
+    {
+      "title": "Yoky Matsuoka",
+      "url": "https://en.wikipedia.org/wiki/Yoky_Matsuoka"
+    },
+    {
+      "title": "Zvi Galil",
+      "url": "https://en.wikipedia.org/wiki/Zvi_Galil"
+    },
+    {
+      "title": "ScholarGPS",
+      "url": "https://en.wikipedia.org/wiki/ScholarGPS"
+    }
+  ]
+}

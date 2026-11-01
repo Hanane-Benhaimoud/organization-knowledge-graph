@@ -1,0 +1,840 @@
+{
+  "document_id": "wikipedia_en_Q3552257",
+  "wikidata_id": "Q3552257",
+  "entity_label": "Urchin Software Corporation",
+  "entity_type": "organization",
+  "seed_categories": [],
+  "source": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Google_Analytics",
+  "revision_id": 1363461928,
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1363461928",
+  "pageid": 3161187,
+  "title": "Google Analytics",
+  "language": "en",
+  "collected_at": "2026-10-28T22:00:59.039470+00:00",
+  "content": {
+    "sections": [
+      {
+        "heading": "Introduction",
+        "text": "Google Analytics is a web analytics service offered by Google that tracks and reports website traffic and mobile app traffic and events, currently as a platform inside the Google Marketing Platform brand. Google launched the service in November 2005 after acquiring Urchin .\nAs of 2019, Google Analytics is the most widely used web analytics service on the web. Google Analytics provides an SDK that allows gathering usage data from iOS and Android apps , known as Google Analytics for Mobile Apps .\nGoogle Analytics has undergone many updates since its inception and is currently on its 4th iteration i.e. GA4. GA4 is the default Google Analytics installation and is the renamed version for the (App + Web) Property that Google released in 2019 in a Beta form. GA4 has also replaced Universal Analytics (UA). One notable feature of GA4 is a natural integration with Google's BigQuery —a feature previously only available with the enterprise GA 360. This move indicates efforts by Google to integrate GA and its free users into their wider cloud offering.\nAs of July 1, 2023, Universal Analytics ceased collecting new data, with Google Analytics 4 succeeding it as the primary analytics platform. Google had previously announced this change in March 2022. While users had the ability to use Universal Analytics up to the July 2023 deadline, no new data has been added to UA since its sunset. On July 1, 2024, all users, including GA 360, will lose access to all Universal Analytics properties.\nGoogle Analytics has also faced scrutiny from data protection authorities in several jurisdictions. In the early 2020s, regulators in countries including Austria, France, and Italy found that certain uses of Google Analytics could violate the General Data Protection Regulation (GDPR) due to data transfers to the United States."
+      },
+      {
+        "heading": "Features",
+        "text": "Google Analytics is used to track website activity such as session duration, pages per session and the engagement rate of individuals using the site, along with the information on the source of the traffic. It can be integrated with Google Ads , with which users can create and review online campaigns by tracking landing page quality and conversions (key events). Goals might include sales, lead generation, viewing a specific page, or downloading a particular file. Google Analytics' approach is to show high-level, dashboard -type data for the casual user, and more in-depth data further into the report set. Google Analytics analysis can identify poorly performing pages with techniques such as funnel visualization, where visitors came from ( referrers ), how long they stayed on the website and their geographical position. It also provides more advanced features, including custom visitor segmentation. Google Analytics e-commerce reporting can track sales activity and performance. The e-commerce reports show a site's transactions, revenue, and many other commerce-related metrics.\nOn September 29, 2011, Google Analytics launched Real-Time analytics, enabling a user to have insights about visitors currently on the site. A user can have 100 site profiles. Each profile generally corresponds to one website . It is limited to sites that have online traffic of fewer than 5 million page views per month (roughly 2 page-views per second) unless the site is linked to a Google Ads campaign. Google Analytics includes Google Website Optimizer , re-branded as Google Analytics Content Experiments . Google Analytics' Cohort analysis helps in understanding the behavior of component groups of users apart from your user population. It is beneficial to marketers and analysts for the successful implementation of a marketing strategy .\nThe latest version of Google Analytics, commonly referred to as GA4, encompasses additional features focusing on predictions, customizability, and privacy. Some of these features can be listed as follows:\nA new concept to allow the same property to be used both for website and mobile app, AI-powered predictive metrics supported by machine learning, A customizable, easy-to-navigate homepage, An Explore section to provide completely custom reports for specific business needs, A built-in DebugView to analyze and debug the upcoming data instantly, Anomaly detection , Improved e-commerce reports. Has feature to analysis user journey from behavior analysis section."
+      },
+      {
+        "heading": "History",
+        "text": "Google acquired Urchin Software Corp. in April 2005. Google's service was developed from Urchin on Demand . The system also brings ideas from Adaptive Path, whose product, Measure Map, was acquired and used in the redesign of Google Analytics in 2006. Google continued to sell the standalone, installable Urchin WebAnalytics Software through a network of value-added resellers until discontinuation on March 28, 2012. The Google-branded version was rolled out in November 2005 to anyone who wished to sign up. However, due to extremely high demand for the service, new sign-ups were suspended a week later. As capacity was added to the system, Google began using a lottery -type invitation-code model. Before August 2006, Google was sending out batches of invitation codes as server availability permitted; since mid-August 2006 the service has been fully available to all users – whether they use Google for advertising or not.\nThe newer version of Google Analytics tracking code is known as the asynchronous tracking code, which Google claims is more sensitive and accurate, and is able to track very short activities on the website. The previous version delayed page loading, and so, for performance reasons, it was generally placed just before the </body> body close HTML tag. The new code can be placed between the <head> ... </head> HTML head tags because, once triggered, it runs in parallel with page loading. In April 2011 Google announced the availability of a new version of Google Analytics featuring multiple dashboards, more custom report options, and a new interface design. This version was later updated with some other features such as real-time analytics and goal flow charts. Instead of being \"hit-based,\" like Universal Analytics, GA4 is \"event-based.\"\nIn October 2012 another new version of Google Analytics was announced, called Universal Analytics. The key differences from the previous versions were: cross-platform tracking, flexible tracking code to collect data from any device, and the introduction of custom dimensions and custom metrics.\nIn March 2016, Google released Google Analytics 360 , which is a software suite that provides analytics on return on investment and other marketing indicators. Google Analytics 360 includes seven main products: Analytics, Tag Manager, Optimize, Data Studio, Surveys, Attribution, and Audience Center.\nIn October 2017 a new methodology to collect data for Google Analytics was announced, called Global Site Tag , or gTag.js. Its stated purpose was to unify the tagging system to simplify implementation. This new tag type is an alternative to the existing Analytics.js tag type or Google Tag Manager.\nIn June 2018, Google introduced Google Marketing Platform , an online advertisement and analytics brand. It consists of two former brands of Google, DoubleClick Digital Marketing and Google Analytics 360.\nIn October 2020, Google released Google Analytics 4, under the acronym GA4.\nAs of July 1, 2023, Universal Analytics ceased collecting new data, with Google Analytics 4 succeeding it as the primary analytics platform. Google had previously announced this transition in March 2022. While users had the option to use Universal Analytics up to the July 2023 deadline, no new data has been added to UA since its discontinuation.\nJuly 1, 2024: Standard Universal Analytics properties completely stopped processing data and users lost access to the interface and API. There is a one-time exception for Google Analytics 360 customers, whose access ends on that date as well."
+      },
+      {
+        "heading": "Technology",
+        "text": "Google Analytics is implemented with \" page tags \", in this case, called the Google Analytics Tracking Code, which is a snippet of JavaScript code that the website owner adds to every page of the website. The tracking code runs in the client browser when the client browses the page (if JavaScript is enabled in the browser) and collects visitor data and sends it to a Google data collection server as part of a request for a web beacon .\nThe tracking code loads a larger JavaScript file from the Google web server and then sets variables with the user's account number. The larger file (currently known as ga.js) was typically 40 kb as of May 2018.\nThe file does not usually have to be loaded, however, due to browser caching. Assuming caching is enabled in the browser, it downloads ga.js only once at the start of the visit.\nIn addition to transmitting information to a Google server, the tracking code sets a first party cookie (If cookies are enabled in the browser) on each visitor's computer. This cookie stores anonymous information called the ClientId. Before the launch of Universal Analytics, there were several cookies storing information such as whether the visitor had been to the site before (new or returning visitor), the timestamp of the current visit, and the referrer site or campaign that directed the visitor to the page (e.g., search engine , keywords, banner, or email ).\nIf the visitor arrived at the site by clicking on a link tagged with UTM parameters (Urchin Tracking Module) such as:\nthen the tag values are passed to the database too."
+      },
+      {
+        "heading": "Limitations",
+        "text": "In addition, Google Analytics for Mobile Package allows Google Analytics to be applied to mobile websites. The Mobile Package contains server-side tracking codes that use PHP , JavaServer Pages , ASP.NET , or Perl for its server-side language. However, many ad filtering programs and extensions such as Firefox 's Enhanced Tracking Protection, the browser extension NoScript and the mobile phone app Disconnect Mobile can block the Google Analytics Tracking Code. This prevents some traffic and users from being tracked and leads to holes in the collected data. Also, privacy networks like Tor will mask the user's actual location and present inaccurate geographical data. A small fraction of users do not have JavaScript-enabled/capable browsers or turn this feature off. These limitations, mainly ad filtering programs, can allow a significant number—sometimes the majority—of visitors to avoid the tracker.\nOne potential impact on data accuracy comes from users deleting or blocking Google Analytics cookies. Without cookies being set, Google Analytics cannot collect data. Any individual web user can block or delete cookies resulting in the data loss of those visits for Google Analytics users. Website owners can encourage users not to disable cookies by, for example, making visitors more comfortable using the site through posting a privacy policy . As a user navigates between web pages, Google Analytics provides website owners JavaScript tags (libraries) to record information about the page a user has seen, for example the URL of the page. Google analytics JavaScript libraries uses HTTP cookies, with which it remembers what a user has done on previous pages and his interactions.\nAnother limitation of Google Analytics for large websites is the use of sampling in the generation of many of its reports. To reduce the load on their servers and to provide users with a relatively quick response to their query, Google Analytics limits reports to 500,000 randomly sampled sessions at the profile level for its calculations. While margins of error are indicated for the visits metric, margins of error are not provided for any other metrics in the Google Analytics reports. For small segments of data, the margin of error can be very large.\nOne of the biggest limitation of Google Analytics, is its inability to track and attribute offline conversions. Offline conversion tracking is required to measure the impact of online marketing campaigns in \"offline\" environments, such as Point of Sale , Call Centers, Affiliate Networks, or payment gateways. Since Google Analytics is a JavaScript tag set on a website, when the visitor switch from the website environment to a phone conversation, the tracking is lost, and the \"call center\" activity can not be directly linked to the initial visit or visitor. Third-party tools integrated with Google Analytics, are now capable of tracking customer journey from online to offline environments.\nThe retention period for user-level data and for event data used in Explorations is limited to 2 months by default and can be extended to a maximum of 14 months in the standard product. The retention setting does not affect standard aggregated reports in GA4. Google Analytics 360 offers longer options, up to 50 months."
+      },
+      {
+        "heading": "Performance",
+        "text": "There have been several online discussions about the impact of Google Analytics on site performance. However, Google introduced asynchronous JavaScript code in December 2009 to reduce the risk of slowing the loading of pages tagged with the ga.js script."
+      },
+      {
+        "heading": "Privacy",
+        "text": "Due to its ubiquity, Google Analytics raises some privacy concerns. Whenever someone visits a website that uses Google Analytics, Google tracks that visit via the user's IP address in order to determine the user's approximate geographic location. To meet German legal requirements, Google Analytics can anonymize the IP address. Google has also released a browser plug-in that turns off data about a page visit being sent to Google, however, this browser extension is not available for mobile browsers. Since this plug-in is produced and distributed by Google itself, it has met much discussion and criticism. Furthermore, the realization of Google scripts tracking user behavior has spawned the production of multiple, often open-source , browser plug-ins to reject tracking cookies. These plug-ins allow users to block Google Analytics and similar sites from tracking their activities. Many browsers allow users to reject third-party cookies and tracking scripts, in some cases this is the default option.\nIt has been anecdotally reported that errors can occur behind proxy servers and multiple firewalls, changing timestamps and registering invalid searches. Webmasters who seek to mitigate Google Analytics' specific privacy issues can employ a number of alternatives having their backends hosted on their own machines . Until its discontinuation, an example of such a product was Urchin WebAnalytics Software from Google itself. On January 20, 2015, the Associated Press reported that HealthCare.gov was providing access to enrollees' personal data to private companies that specialized in advertising , mentioning Google Analytics specifically. Additionally, in 2022, countries such as Austria, France, and Italy have prohibited the service which lets webmaster tools track and analyze their site traffic. The government stated in its decisions that information are collected via cookies and transmitted to the United States could potentially be seen by third parties and the government which could breach GDPR as users are not ensured due process for redress.\nThe new version of Google Analytics, also known as GA4, is equipped with deeper anonymization of user data through which the GA4 anonymizes IP addresses of all users by default, meaning it's not possible to perform any changes for this setting."
+      },
+      {
+        "heading": "Support and training",
+        "text": "Google offers training for Google Analytics 4 (GA4) through its Skillshop platform, which includes four courses and a certification as of August 2024. For developers and those seeking in-depth technical details, Google provides detailed GA4 documentation. Announcements related to updates and new features for GA4 are made on the Google Marketing Platform Blog. Support for enterprise-level users is accessible via the Google Enterprise Marketing Portal. The official Google Analytics YouTube channel also hosts a range of video tutorials and insights."
+      },
+      {
+        "heading": "Third-party support",
+        "text": "The Google Analytics API is used by third parties to build custom applications such as reporting tools. Many such applications exist. One was built to run on iOS (Apple) devices and is featured in Apple's app store . There are some third-party products that also provide Google Analytics-based tracking. The Management API, Core Reporting API, MCF Reporting API, and Real Time Reporting API are subject to limits and quotas."
+      },
+      {
+        "heading": "Popularity",
+        "text": "Google Analytics is the most widely used website statistics service. In May 2008, Pingdom released a survey stating that 161 of the 500 (32%) biggest sites globally according to their Alexa rank were using Google Analytics.\nA later piece of market share analysis claimed that Google Analytics was used by around 49.95% of the top 1,000,000 websites (as ranked in 2010 by Alexa Internet ).\nIn 2012, its use was around 55% of the 10,000 most popular websites. And as of April 2022, Google Analytics was used by 73.7% of the 10,000 most popular websites ordered by popularity, as reported by BuiltWith.\nAs of August 2023, the newer version, Google Analytics 4 (GA4), is used by approximately 13.5 million websites.\nWebsite builders such as Wix , Squarespace , Readymag and Webflow offer integration with Google Analytics, either by directly entering a tracking ID or by using Google Tag Manager . On Wix, users can connect Google Analytics through the site's dashboard or embed it using Tag Manager. Squarespace allows users to install Google Tag Manager to manage Analytics and other tags. Redyamg allows it for projects with custom domains thru enhanced measurement feature. Similarly, Webflow users can implement Google Analytics by configuring Tag Manager in their project settings."
+      },
+      {
+        "heading": "See also",
+        "text": "Google Search Console – Web service from Google for webmasters Google Trends – Popularity analysis of search queries List of web analytics software"
+      },
+      {
+        "heading": "External links",
+        "text": "Official website Official blog Google marketing platform Google analytics help Google Analytics Academy"
+      }
+    ],
+    "full_text": "Introduction\nGoogle Analytics is a web analytics service offered by Google that tracks and reports website traffic and mobile app traffic and events, currently as a platform inside the Google Marketing Platform brand. Google launched the service in November 2005 after acquiring Urchin .\nAs of 2019, Google Analytics is the most widely used web analytics service on the web. Google Analytics provides an SDK that allows gathering usage data from iOS and Android apps , known as Google Analytics for Mobile Apps .\nGoogle Analytics has undergone many updates since its inception and is currently on its 4th iteration i.e. GA4. GA4 is the default Google Analytics installation and is the renamed version for the (App + Web) Property that Google released in 2019 in a Beta form. GA4 has also replaced Universal Analytics (UA). One notable feature of GA4 is a natural integration with Google's BigQuery —a feature previously only available with the enterprise GA 360. This move indicates efforts by Google to integrate GA and its free users into their wider cloud offering.\nAs of July 1, 2023, Universal Analytics ceased collecting new data, with Google Analytics 4 succeeding it as the primary analytics platform. Google had previously announced this change in March 2022. While users had the ability to use Universal Analytics up to the July 2023 deadline, no new data has been added to UA since its sunset. On July 1, 2024, all users, including GA 360, will lose access to all Universal Analytics properties.\nGoogle Analytics has also faced scrutiny from data protection authorities in several jurisdictions. In the early 2020s, regulators in countries including Austria, France, and Italy found that certain uses of Google Analytics could violate the General Data Protection Regulation (GDPR) due to data transfers to the United States.\n\nFeatures\nGoogle Analytics is used to track website activity such as session duration, pages per session and the engagement rate of individuals using the site, along with the information on the source of the traffic. It can be integrated with Google Ads , with which users can create and review online campaigns by tracking landing page quality and conversions (key events). Goals might include sales, lead generation, viewing a specific page, or downloading a particular file. Google Analytics' approach is to show high-level, dashboard -type data for the casual user, and more in-depth data further into the report set. Google Analytics analysis can identify poorly performing pages with techniques such as funnel visualization, where visitors came from ( referrers ), how long they stayed on the website and their geographical position. It also provides more advanced features, including custom visitor segmentation. Google Analytics e-commerce reporting can track sales activity and performance. The e-commerce reports show a site's transactions, revenue, and many other commerce-related metrics.\nOn September 29, 2011, Google Analytics launched Real-Time analytics, enabling a user to have insights about visitors currently on the site. A user can have 100 site profiles. Each profile generally corresponds to one website . It is limited to sites that have online traffic of fewer than 5 million page views per month (roughly 2 page-views per second) unless the site is linked to a Google Ads campaign. Google Analytics includes Google Website Optimizer , re-branded as Google Analytics Content Experiments . Google Analytics' Cohort analysis helps in understanding the behavior of component groups of users apart from your user population. It is beneficial to marketers and analysts for the successful implementation of a marketing strategy .\nThe latest version of Google Analytics, commonly referred to as GA4, encompasses additional features focusing on predictions, customizability, and privacy. Some of these features can be listed as follows:\nA new concept to allow the same property to be used both for website and mobile app, AI-powered predictive metrics supported by machine learning, A customizable, easy-to-navigate homepage, An Explore section to provide completely custom reports for specific business needs, A built-in DebugView to analyze and debug the upcoming data instantly, Anomaly detection , Improved e-commerce reports. Has feature to analysis user journey from behavior analysis section.\n\nHistory\nGoogle acquired Urchin Software Corp. in April 2005. Google's service was developed from Urchin on Demand . The system also brings ideas from Adaptive Path, whose product, Measure Map, was acquired and used in the redesign of Google Analytics in 2006. Google continued to sell the standalone, installable Urchin WebAnalytics Software through a network of value-added resellers until discontinuation on March 28, 2012. The Google-branded version was rolled out in November 2005 to anyone who wished to sign up. However, due to extremely high demand for the service, new sign-ups were suspended a week later. As capacity was added to the system, Google began using a lottery -type invitation-code model. Before August 2006, Google was sending out batches of invitation codes as server availability permitted; since mid-August 2006 the service has been fully available to all users – whether they use Google for advertising or not.\nThe newer version of Google Analytics tracking code is known as the asynchronous tracking code, which Google claims is more sensitive and accurate, and is able to track very short activities on the website. The previous version delayed page loading, and so, for performance reasons, it was generally placed just before the </body> body close HTML tag. The new code can be placed between the <head> ... </head> HTML head tags because, once triggered, it runs in parallel with page loading. In April 2011 Google announced the availability of a new version of Google Analytics featuring multiple dashboards, more custom report options, and a new interface design. This version was later updated with some other features such as real-time analytics and goal flow charts. Instead of being \"hit-based,\" like Universal Analytics, GA4 is \"event-based.\"\nIn October 2012 another new version of Google Analytics was announced, called Universal Analytics. The key differences from the previous versions were: cross-platform tracking, flexible tracking code to collect data from any device, and the introduction of custom dimensions and custom metrics.\nIn March 2016, Google released Google Analytics 360 , which is a software suite that provides analytics on return on investment and other marketing indicators. Google Analytics 360 includes seven main products: Analytics, Tag Manager, Optimize, Data Studio, Surveys, Attribution, and Audience Center.\nIn October 2017 a new methodology to collect data for Google Analytics was announced, called Global Site Tag , or gTag.js. Its stated purpose was to unify the tagging system to simplify implementation. This new tag type is an alternative to the existing Analytics.js tag type or Google Tag Manager.\nIn June 2018, Google introduced Google Marketing Platform , an online advertisement and analytics brand. It consists of two former brands of Google, DoubleClick Digital Marketing and Google Analytics 360.\nIn October 2020, Google released Google Analytics 4, under the acronym GA4.\nAs of July 1, 2023, Universal Analytics ceased collecting new data, with Google Analytics 4 succeeding it as the primary analytics platform. Google had previously announced this transition in March 2022. While users had the option to use Universal Analytics up to the July 2023 deadline, no new data has been added to UA since its discontinuation.\nJuly 1, 2024: Standard Universal Analytics properties completely stopped processing data and users lost access to the interface and API. There is a one-time exception for Google Analytics 360 customers, whose access ends on that date as well.\n\nTechnology\nGoogle Analytics is implemented with \" page tags \", in this case, called the Google Analytics Tracking Code, which is a snippet of JavaScript code that the website owner adds to every page of the website. The tracking code runs in the client browser when the client browses the page (if JavaScript is enabled in the browser) and collects visitor data and sends it to a Google data collection server as part of a request for a web beacon .\nThe tracking code loads a larger JavaScript file from the Google web server and then sets variables with the user's account number. The larger file (currently known as ga.js) was typically 40 kb as of May 2018.\nThe file does not usually have to be loaded, however, due to browser caching. Assuming caching is enabled in the browser, it downloads ga.js only once at the start of the visit.\nIn addition to transmitting information to a Google server, the tracking code sets a first party cookie (If cookies are enabled in the browser) on each visitor's computer. This cookie stores anonymous information called the ClientId. Before the launch of Universal Analytics, there were several cookies storing information such as whether the visitor had been to the site before (new or returning visitor), the timestamp of the current visit, and the referrer site or campaign that directed the visitor to the page (e.g., search engine , keywords, banner, or email ).\nIf the visitor arrived at the site by clicking on a link tagged with UTM parameters (Urchin Tracking Module) such as:\nthen the tag values are passed to the database too.\n\nLimitations\nIn addition, Google Analytics for Mobile Package allows Google Analytics to be applied to mobile websites. The Mobile Package contains server-side tracking codes that use PHP , JavaServer Pages , ASP.NET , or Perl for its server-side language. However, many ad filtering programs and extensions such as Firefox 's Enhanced Tracking Protection, the browser extension NoScript and the mobile phone app Disconnect Mobile can block the Google Analytics Tracking Code. This prevents some traffic and users from being tracked and leads to holes in the collected data. Also, privacy networks like Tor will mask the user's actual location and present inaccurate geographical data. A small fraction of users do not have JavaScript-enabled/capable browsers or turn this feature off. These limitations, mainly ad filtering programs, can allow a significant number—sometimes the majority—of visitors to avoid the tracker.\nOne potential impact on data accuracy comes from users deleting or blocking Google Analytics cookies. Without cookies being set, Google Analytics cannot collect data. Any individual web user can block or delete cookies resulting in the data loss of those visits for Google Analytics users. Website owners can encourage users not to disable cookies by, for example, making visitors more comfortable using the site through posting a privacy policy . As a user navigates between web pages, Google Analytics provides website owners JavaScript tags (libraries) to record information about the page a user has seen, for example the URL of the page. Google analytics JavaScript libraries uses HTTP cookies, with which it remembers what a user has done on previous pages and his interactions.\nAnother limitation of Google Analytics for large websites is the use of sampling in the generation of many of its reports. To reduce the load on their servers and to provide users with a relatively quick response to their query, Google Analytics limits reports to 500,000 randomly sampled sessions at the profile level for its calculations. While margins of error are indicated for the visits metric, margins of error are not provided for any other metrics in the Google Analytics reports. For small segments of data, the margin of error can be very large.\nOne of the biggest limitation of Google Analytics, is its inability to track and attribute offline conversions. Offline conversion tracking is required to measure the impact of online marketing campaigns in \"offline\" environments, such as Point of Sale , Call Centers, Affiliate Networks, or payment gateways. Since Google Analytics is a JavaScript tag set on a website, when the visitor switch from the website environment to a phone conversation, the tracking is lost, and the \"call center\" activity can not be directly linked to the initial visit or visitor. Third-party tools integrated with Google Analytics, are now capable of tracking customer journey from online to offline environments.\nThe retention period for user-level data and for event data used in Explorations is limited to 2 months by default and can be extended to a maximum of 14 months in the standard product. The retention setting does not affect standard aggregated reports in GA4. Google Analytics 360 offers longer options, up to 50 months.\n\nPerformance\nThere have been several online discussions about the impact of Google Analytics on site performance. However, Google introduced asynchronous JavaScript code in December 2009 to reduce the risk of slowing the loading of pages tagged with the ga.js script.\n\nPrivacy\nDue to its ubiquity, Google Analytics raises some privacy concerns. Whenever someone visits a website that uses Google Analytics, Google tracks that visit via the user's IP address in order to determine the user's approximate geographic location. To meet German legal requirements, Google Analytics can anonymize the IP address. Google has also released a browser plug-in that turns off data about a page visit being sent to Google, however, this browser extension is not available for mobile browsers. Since this plug-in is produced and distributed by Google itself, it has met much discussion and criticism. Furthermore, the realization of Google scripts tracking user behavior has spawned the production of multiple, often open-source , browser plug-ins to reject tracking cookies. These plug-ins allow users to block Google Analytics and similar sites from tracking their activities. Many browsers allow users to reject third-party cookies and tracking scripts, in some cases this is the default option.\nIt has been anecdotally reported that errors can occur behind proxy servers and multiple firewalls, changing timestamps and registering invalid searches. Webmasters who seek to mitigate Google Analytics' specific privacy issues can employ a number of alternatives having their backends hosted on their own machines . Until its discontinuation, an example of such a product was Urchin WebAnalytics Software from Google itself. On January 20, 2015, the Associated Press reported that HealthCare.gov was providing access to enrollees' personal data to private companies that specialized in advertising , mentioning Google Analytics specifically. Additionally, in 2022, countries such as Austria, France, and Italy have prohibited the service which lets webmaster tools track and analyze their site traffic. The government stated in its decisions that information are collected via cookies and transmitted to the United States could potentially be seen by third parties and the government which could breach GDPR as users are not ensured due process for redress.\nThe new version of Google Analytics, also known as GA4, is equipped with deeper anonymization of user data through which the GA4 anonymizes IP addresses of all users by default, meaning it's not possible to perform any changes for this setting.\n\nSupport and training\nGoogle offers training for Google Analytics 4 (GA4) through its Skillshop platform, which includes four courses and a certification as of August 2024. For developers and those seeking in-depth technical details, Google provides detailed GA4 documentation. Announcements related to updates and new features for GA4 are made on the Google Marketing Platform Blog. Support for enterprise-level users is accessible via the Google Enterprise Marketing Portal. The official Google Analytics YouTube channel also hosts a range of video tutorials and insights.\n\nThird-party support\nThe Google Analytics API is used by third parties to build custom applications such as reporting tools. Many such applications exist. One was built to run on iOS (Apple) devices and is featured in Apple's app store . There are some third-party products that also provide Google Analytics-based tracking. The Management API, Core Reporting API, MCF Reporting API, and Real Time Reporting API are subject to limits and quotas.\n\nPopularity\nGoogle Analytics is the most widely used website statistics service. In May 2008, Pingdom released a survey stating that 161 of the 500 (32%) biggest sites globally according to their Alexa rank were using Google Analytics.\nA later piece of market share analysis claimed that Google Analytics was used by around 49.95% of the top 1,000,000 websites (as ranked in 2010 by Alexa Internet ).\nIn 2012, its use was around 55% of the 10,000 most popular websites. And as of April 2022, Google Analytics was used by 73.7% of the 10,000 most popular websites ordered by popularity, as reported by BuiltWith.\nAs of August 2023, the newer version, Google Analytics 4 (GA4), is used by approximately 13.5 million websites.\nWebsite builders such as Wix , Squarespace , Readymag and Webflow offer integration with Google Analytics, either by directly entering a tracking ID or by using Google Tag Manager . On Wix, users can connect Google Analytics through the site's dashboard or embed it using Tag Manager. Squarespace allows users to install Google Tag Manager to manage Analytics and other tags. Redyamg allows it for projects with custom domains thru enhanced measurement feature. Similarly, Webflow users can implement Google Analytics by configuring Tag Manager in their project settings.\n\nSee also\nGoogle Search Console – Web service from Google for webmasters Google Trends – Popularity analysis of search queries List of web analytics software\n\nExternal links\nOfficial website Official blog Google marketing platform Google analytics help Google Analytics Academy"
+  },
+  "references": [
+    {
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.giant",
+      "label": "\"Google Analytics\""
+    },
+    {
+      "url": "https://www.apkmirror.com/apk/google-inc/analytics/google-analytics-4-14-826693224-release/",
+      "label": "\"Google Analytics 4.14.826693224\""
+    },
+    {
+      "url": "https://apps.apple.com/us/app/google-analytics/id881599038",
+      "label": "\"Google Analytics\""
+    },
+    {
+      "url": "https://www.google.com/analytics/premium/features.html",
+      "label": "\"Get the Power of Google Analytics: Now available in Standard or Premium, whatever your needs are Google Analytics can help\""
+    },
+    {
+      "url": "https://www.google.com/about/company/history/",
+      "label": "\"Our history in depth\""
+    },
+    {
+      "url": "https://www.nytimes.com/2005/03/29/technology/google-acquires-urchin-software.html",
+      "label": "\"Google Acquires Urchin Software\""
+    },
+    {
+      "url": "https://search.worldcat.org/issn/0362-4331",
+      "label": "0362-4331"
+    },
+    {
+      "url": "https://w3techs.com/technologies/overview/traffic_analysis/all",
+      "label": "\"Usage of traffic analysis tools for websites\""
+    },
+    {
+      "url": "https://developers.google.com/analytics/solutions/mobile",
+      "label": "\"Google Analytics for Mobile Apps | Analytics Implementation Guides and Solutions | Google Developers\""
+    },
+    {
+      "url": "https://developers.google.com/analytics/devguides/collection/ga4",
+      "label": "\"Add the Google Analytics tag for Google Analytics 4 properties to your site with gtag.js\""
+    },
+    {
+      "url": "https://support.google.com/analytics/answer/9823238",
+      "label": "\"GA4 BigQuery Export\""
+    },
+    {
+      "url": "https://support.google.com/analytics/answer/11583528?hl=en",
+      "label": "\"Google Analytics 4 has replaced Universal Analytics\""
+    },
+    {
+      "url": "https://www.infoq.com/news/2022/01/austrian-privacy-gdpr-google/",
+      "label": "\"Austrian DPA Ruling against Google Analytics Paves the Way to EU-based Cloud Services\""
+    },
+    {
+      "url": "https://support.google.com/google-ads/answer/1704341?co=ADWORDS.IsAWNCustomer=false&hl=en",
+      "label": "\"Link Google Analytics and Google Ads accounts - Previous - Google Ads Help\""
+    },
+    {
+      "url": "https://support.google.com/analytics/answer/3124493?hl=en",
+      "label": "Build new segments"
+    },
+    {
+      "url": "https://support.google.com/analytics/answer/6014872?hl=en",
+      "label": "Enhanced Ecommerce Reports"
+    },
+    {
+      "url": "https://analytics.googleblog.com/2011/09/whats-happening-on-your-site-right-now.html",
+      "label": "\"What's happening on your site right now?\""
+    },
+    {
+      "url": "https://support.google.com/analytics/answer/1070983?hl=en#zippy=%2Cin-this-article",
+      "label": "\"Google Analytics Help: Does Google Analytics have a pageview limit?\""
+    },
+    {
+      "url": "https://www.google.com/websiteoptimizer/",
+      "label": "\"Website Optimizer\""
+    },
+    {
+      "url": "https://analytics.blogspot.com/2012/06/helping-to-create-better-websites.html",
+      "label": "\"Helping to Create Better Websites: Introducing Content Experiments\""
+    },
+    {
+      "url": "https://support.google.com/analytics/answer/9213390",
+      "label": "\"[GA4] Measure activity across platforms - Analytics Help\""
+    },
+    {
+      "url": "https://support.google.com/analytics/answer/9304153",
+      "label": "\"[GA4] Set up Analytics for a website and/or app - Analytics Help\""
+    },
+    {
+      "url": "https://support.google.com/analytics/answer/9846734",
+      "label": "\"[GA4] Predictive metrics - Analytics Help\""
+    },
+    {
+      "url": "https://web.archive.org/web/20220817192415/https://www.datadrivenu.com/machine-learning-google-analytics-4/",
+      "label": "\"Everything You Need to Know About Machine Learning in Google Analytics 4\""
+    },
+    {
+      "url": "https://www.datadrivenu.com/machine-learning-google-analytics-4/",
+      "label": "the original"
+    },
+    {
+      "url": "https://analyzify.app/hub/latest-ga4-updates/",
+      "label": "\"Latest GA4 Updates & Tips & Tricks That You Will Love\""
+    },
+    {
+      "url": "https://support.google.com/analytics/answer/7579450",
+      "label": "\"[GA4] Get started with Explorations - Analytics Help\""
+    },
+    {
+      "url": "https://ken-williams.com/guide/installation/validating-google-analytics-4-with-debug-mode/",
+      "label": "\"Validating Google Analytics 4 With Debug Mode\""
+    },
+    {
+      "url": "https://www.searchenginejournal.com/useful-google-analytics-4-features/413920/",
+      "label": "\"7 GA4 Features That Will (Hopefully) Make You Hate It Less\""
+    },
+    {
+      "url": "https://analyzify.app/hub/ga4-ecommerce-reports-shopify/",
+      "label": "\"Important GA4 eCommerce reports for Shopify Stores\""
+    },
+    {
+      "url": "https://googleblog.blogspot.com/2006/02/here-comes-measure-map.html",
+      "label": "\"Here comes Measure Map\""
+    },
+    {
+      "url": "https://web.archive.org/web/20120413093651/https://www.google.com/urchin/",
+      "label": "\"The End of an Era for Urchin Software\""
+    },
+    {
+      "url": "https://analytics.blogspot.com/2012/01/end-of-era-for-urchin-software.html",
+      "label": "the original"
+    },
+    {
+      "url": "https://www.google.com/urchin/",
+      "label": "\"The End of an Era for Urchin Software\""
+    },
+    {
+      "url": "https://sites.google.com/site/zenbatetanola/02-google-analytics",
+      "label": "\"Google Analytics - zenbatetanola\""
+    },
+    {
+      "url": "https://www.google.com/support/analytics/bin/answer.py?answer=161379",
+      "label": "\"Asynchronous Tracking Code\""
+    },
+    {
+      "url": "https://web.archive.org/web/20160317051844/http://online-behavior.com/analytics/google-tag-manager",
+      "label": "\"Google Tag Manager: A Step-By-Step Guide | Analytics & Optimization\""
+    },
+    {
+      "url": "http://online-behavior.com/analytics/google-tag-manager",
+      "label": "the original"
+    },
+    {
+      "url": "https://analytics.blogspot.com/2011/04/new-google-analytics-available-to.html",
+      "label": "\"The New Google Analytics Available to Everyone\""
+    },
+    {
+      "url": "https://analytics.blogspot.com/2011/10/introducing-flow-visualization.html",
+      "label": "\"Introducing Flow Visualization: visualizing visitor flow\""
+    },
+    {
+      "url": "https://bradgerick.com/google-tag-manager/google-analytics-4-events-tracking-creation",
+      "label": "\"Google Analytics 4 Events Tracking, Creation\""
+    },
+    {
+      "url": "https://analytics.blogspot.com/2012/10/universal-analytics.html",
+      "label": "\"Re-imagining Google Analytics to support the versatile usage patterns of today's users\""
+    },
+    {
+      "url": "https://support.google.com/analytics/answer/2790010?hl=en",
+      "label": "\"About Universal Analytics - Analytics Help\""
+    },
+    {
+      "url": "https://www.blog.google/products/marketingplatform/360/introducing-google-analytics-360-suite/",
+      "label": "\"Introducing the Google Analytics 360 suite\""
+    },
+    {
+      "url": "https://developers.google.com/analytics/devguides/collection/gtagjs/",
+      "label": "\"Add gtag.js to your site\""
+    },
+    {
+      "url": "https://www.blog.google/technology/ads/new-advertising-brands/",
+      "label": "\"Introducing simpler brands and solutions for advertisers and publishers\""
+    },
+    {
+      "url": "https://variety.com/2018/digital/news/google-doubleclick-adwords-rebranding-1202859088/",
+      "label": "\"Google Killing Off DoubleClick, AdWords Names in Rebranding of Ad Products\""
+    },
+    {
+      "url": "https://blog.google/products/marketingplatform/analytics/new_google_analytics",
+      "label": "\"Introducing the new Google Analytics\""
+    },
+    {
+      "url": "https://www.matthewwoodward.co.uk/seo/reporting/google-analytics-event-tracking/?unapproved=2220589&moderation-hash=3f6ed00ccc19a7132d4fd61312754533#comment-2220589",
+      "label": "\"How To Use Google Analytics Event Tracking\""
+    },
+    {
+      "url": "https://developers.google.com/analytics/resources/concepts/gaConceptsTrackingOverview",
+      "label": "\"Tracking Code Overview | Google Analytics\""
+    },
+    {
+      "url": "https://support.google.com/analytics/answer/1102152?hl=en#zippy=%2Cin-this-article",
+      "label": "\"Example account structures - Analytics Help\""
+    },
+    {
+      "url": "https://developers.google.com/analytics/devguides/collection/analyticsjs/domains",
+      "label": "\"Cookies and User Identification\""
+    },
+    {
+      "url": "https://code.google.com/intl/en/mobile/analytics/docs/web/",
+      "label": "\"Google Analytics for Mobile package\""
+    },
+    {
+      "url": "https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop#w_what-enhanced-tracking-protection-blocks",
+      "label": "\"Enhanced Tracking Protection in Firefox for desktop | Firefox Help\""
+    },
+    {
+      "url": "https://web.archive.org/web/20190426002333/https://blockmetry.com/blog/javascript-disabled",
+      "label": "\"What percentage of browsers with javascript disabled? - Blockmetry\""
+    },
+    {
+      "url": "https://blockmetry.com/blog/javascript-disabled",
+      "label": "the original"
+    },
+    {
+      "url": "https://www.usenix.org/conference/soups2018/presentation/mathur",
+      "label": "Characterizing the Use of Browser-Based Blocking Extensions To Prevent Online Tracking"
+    },
+    {
+      "url": "https://www.advanced-web-metrics.com/blog/2008/02/16/accuracy-whitepaper/",
+      "label": "\"Accuracy Whitepaper for web analytics\""
+    },
+    {
+      "url": "https://developers.google.com/analytics/devguides/collection/analyticsjs/cookies-user-id",
+      "label": "\"Cookies and User Identification | Analytics for Web (analytics.js)\""
+    },
+    {
+      "url": "https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage",
+      "label": "\"Google Analytics Cookie Usage on Websites\""
+    },
+    {
+      "url": "https://web.archive.org/web/20090622173444/http://www.epikone.com/blog/2009/04/21/segmentation-options-in-google-analytics/",
+      "label": "\"Segmentation Options in Google Analytics\""
+    },
+    {
+      "url": "https://www.searchenginewatch.com/2021/01/05/what-affiliate-marketers-have-missed-about-google-analytics/",
+      "label": "\"What affiliate marketers have missed about Google Analytics\""
+    },
+    {
+      "url": "https://support.google.com/analytics/answer/7667196?hl=en",
+      "label": "\"Data retention\""
+    },
+    {
+      "url": "https://support.google.com/analytics/answer/11202874?hl=en",
+      "label": "\"Google Analytics 360 (Google Analytics 4 properties)\""
+    },
+    {
+      "url": "https://groups.google.com/group/analytics-help-basics/browse_thread/thread/62997a00d5a50406?pli=1",
+      "label": "\"Google Groups\""
+    },
+    {
+      "url": "https://www.analyticsmarket.com/blog/tracking-code-slows-my-site",
+      "label": "\"Google Analytics Code is Slowing Down My Site - Analytics Market\""
+    },
+    {
+      "url": "https://web.archive.org/web/20100215174004/http://www.woopra.com/blog/2009/02/04/is-google-analytics-slow-or-not/",
+      "label": "\"Is Google Analytics Slow or Not? — Woopra\""
+    },
+    {
+      "url": "http://www.woopra.com/blog/2009/02/04/is-google-analytics-slow-or-not/",
+      "label": "the original"
+    },
+    {
+      "url": "https://googlecode.blogspot.com/2009/12/google-analytics-launches-asynchronous.html",
+      "label": "\"Google Analytics Launches Asynchronous Tracking - The official Google Code blog\""
+    },
+    {
+      "url": "https://analytics.googleblog.com/2010/04/making-web-faster.html",
+      "label": "\"Making the Web Faster\""
+    },
+    {
+      "url": "https://developers.google.com/analytics/devguides/collection/gajs/methods/gaJSApi_gat#_gat._anonymizeIp",
+      "label": "\"Tracking Code: The _gat Global Object\""
+    },
+    {
+      "url": "https://www.pcmag.com/article2/0,2817,2364174,00.asp",
+      "label": "\"Opt Out of Google Analytics Data Gathering With New Beta Tool\""
+    },
+    {
+      "url": "https://analytics.blogspot.jp/2010/05/greater-choice-and-transparency-for.html",
+      "label": "\"Greater choice and transparency for Google Analytics\""
+    },
+    {
+      "url": "https://noscript.net/",
+      "label": "\"The NoScript Firefox extension provides extra protection for Firefox, Flock, Seamonkey, and other Mozilla-based browsers\""
+    },
+    {
+      "url": "https://www.forbes.com/2008/12/11/virus-filter-avira-tech-security-cx_ag_1211virus.html",
+      "label": "\"The Virus Filters\""
+    },
+    {
+      "url": "https://web.archive.org/web/20150714061716/http://bigstory.ap.org/article/31490a20926d4ed3b98ff2d0ed8fc81d/new-privacy-concerns-over-governments-health-care-website",
+      "label": "\"Government health care website quietly sharing personal data. Associated Press\""
+    },
+    {
+      "url": "http://bigstory.ap.org/article/31490a20926d4ed3b98ff2d0ed8fc81d/new-privacy-concerns-over-governments-health-care-website",
+      "label": "the original"
+    },
+    {
+      "url": "https://www.androidpolice.com/google-analytics-gdpr-eu-violation/",
+      "label": "\"Google Analytics is losing track of millions of users as regulators ban the service\""
+    },
+    {
+      "url": "https://www.bounteous.com/insights/2021/09/29/privacy-features-google-analytics-4-properties/",
+      "label": "\"Privacy Features in Google Analytics 4 Properties | Bounteous\""
+    },
+    {
+      "url": "https://support.google.com/analytics/answer/15068052",
+      "label": "\"[GA4] Enroll in Analytics Academy courses on Skillshop\""
+    },
+    {
+      "url": "https://blog.google/products/marketingplatform/analytics/",
+      "label": "\"Google Marketing Platform Blog\""
+    },
+    {
+      "url": "https://enterprisemarketingportal.google/",
+      "label": "\"Google Enterprise Marketing Portal\""
+    },
+    {
+      "url": "https://www.youtube.com/user/googleanalytics",
+      "label": "\"Google Analytics YouTube Channel\""
+    },
+    {
+      "url": "https://developers.google.com/analytics/devguides/",
+      "label": "\"Google Analytics - Google Developers\""
+    },
+    {
+      "url": "https://www.google.com/analytics/apps/results?q=google%20analytics%20api%20applications",
+      "label": "\"Apps - Google Analytics Partner Services and Technologies\""
+    },
+    {
+      "url": "https://web.archive.org/web/20120626020445/http://itunes.apple.com/us/app/analytics-by-net-conversion/id421164239?mt=8",
+      "label": "\"Analytics by Net Conversion\""
+    },
+    {
+      "url": "https://itunes.apple.com/us/app/analytics-by-net-conversion/id421164239?mt=8",
+      "label": "the original"
+    },
+    {
+      "url": "https://blog.lakmali.com/2012/12/google-analytics-tracking-for-wso2-api.html",
+      "label": "\"Google Analytics Tracking for WSO2 API Manager\""
+    },
+    {
+      "url": "https://developers.google.com/analytics/devguides/config/mgmt/v3/limits-quotas",
+      "label": "\"API Limits and Quotas - Analytics Management API - Google Developers\""
+    },
+    {
+      "url": "https://web.archive.org/web/20120716031212/http://royal.pingdom.com/2008/05/28/google-analytics-dominate-the-top-500-websites/",
+      "label": "\"Google Analytics dominates the top 500 websites\""
+    },
+    {
+      "url": "http://royal.pingdom.com/2008/05/28/google-analytics-dominate-the-top-500-websites/",
+      "label": "the original"
+    },
+    {
+      "url": "https://www.frikipandi.com/internet/20140403/la-terminologia-de-google-analytics-marketing-seo/",
+      "label": "\"La terminología de Google Analytics #marketing #seo\""
+    },
+    {
+      "url": "https://web.archive.org/web/20100827225233/http://metricmail.tumblr.com/post/904126172/google-analytics-market-share",
+      "label": "\"Google Analytics Market Share\""
+    },
+    {
+      "url": "https://metricmail.tumblr.com/post/904126172/google-analytics-market-share",
+      "label": "the original"
+    },
+    {
+      "url": "https://techcrunch.com/2012/04/12/google-analytics-officially-at-10m",
+      "label": "\"Google Biz Chief: Over 10M Websites Now Using Google Analytics\""
+    },
+    {
+      "url": "https://trends.builtwith.com/analytics/Google-Analytics",
+      "label": "\"Google Analytics Usage Statistics\""
+    },
+    {
+      "url": "https://ga4.com/ga4-stats",
+      "label": "\"Google Analytics 4 (GA4) Usage Statistics\""
+    },
+    {
+      "url": "https://www.semrush.com/blog/wix-google-analytics/",
+      "label": "\"How to Set Up Google Analytics on Wix (Step-by-Step Guide)\""
+    },
+    {
+      "url": "https://support.google.com/tagmanager/answer/11900235",
+      "label": "\"Set up Tag Manager on Squarespace\""
+    },
+    {
+      "url": "https://help.readymag.com/hc/en-us/articles/360020844511-Google-Analytics",
+      "label": "\"Google Analytics\""
+    },
+    {
+      "url": "https://support.google.com/tagmanager/answer/13739349",
+      "label": "\"Set up Tag Manager on Webflow\""
+    }
+  ],
+  "outgoing_links": [
+    {
+      "title": "Browser security",
+      "url": "https://en.wikipedia.org/wiki/Browser_security"
+    },
+    {
+      "title": "Privacy concerns regarding Google",
+      "url": "https://en.wikipedia.org/wiki/Privacy_concerns_regarding_Google"
+    },
+    {
+      "title": "List of web analytics software",
+      "url": "https://en.wikipedia.org/wiki/List_of_web_analytics_software"
+    },
+    {
+      "title": "Google Search Console",
+      "url": "https://en.wikipedia.org/wiki/Google_Search_Console"
+    },
+    {
+      "title": "Google Trends",
+      "url": "https://en.wikipedia.org/wiki/Google_Trends"
+    },
+    {
+      "title": "ASP.NET",
+      "url": "https://en.wikipedia.org/wiki/ASP.NET"
+    },
+    {
+      "title": "AdMob",
+      "url": "https://en.wikipedia.org/wiki/AdMob"
+    },
+    {
+      "title": "Ad filtering",
+      "url": "https://en.wikipedia.org/wiki/Ad_filtering"
+    },
+    {
+      "title": "Adscape",
+      "url": "https://en.wikipedia.org/wiki/Adscape"
+    },
+    {
+      "title": "Advertising",
+      "url": "https://en.wikipedia.org/wiki/Advertising"
+    },
+    {
+      "title": "Alexa Internet",
+      "url": "https://en.wikipedia.org/wiki/Alexa_Internet"
+    },
+    {
+      "title": "Android (operating system)",
+      "url": "https://en.wikipedia.org/wiki/Android_%28operating_system%29"
+    },
+    {
+      "title": "Anomaly detection",
+      "url": "https://en.wikipedia.org/wiki/Anomaly_detection"
+    },
+    {
+      "title": "App Store (iOS)",
+      "url": "https://en.wikipedia.org/wiki/App_Store_%28iOS%29"
+    },
+    {
+      "title": "Associated Press",
+      "url": "https://en.wikipedia.org/wiki/Associated_Press"
+    },
+    {
+      "title": "BigQuery",
+      "url": "https://en.wikipedia.org/wiki/BigQuery"
+    },
+    {
+      "title": "Browser extension",
+      "url": "https://en.wikipedia.org/wiki/Browser_extension"
+    },
+    {
+      "title": "Cohort analysis",
+      "url": "https://en.wikipedia.org/wiki/Cohort_analysis"
+    },
+    {
+      "title": "Computing platform",
+      "url": "https://en.wikipedia.org/wiki/Computing_platform"
+    },
+    {
+      "title": "Conversion (marketing)",
+      "url": "https://en.wikipedia.org/wiki/Conversion_%28marketing%29"
+    },
+    {
+      "title": "Dashboard (business)",
+      "url": "https://en.wikipedia.org/wiki/Dashboard_%28business%29"
+    },
+    {
+      "title": "Data loss",
+      "url": "https://en.wikipedia.org/wiki/Data_loss"
+    },
+    {
+      "title": "Disconnect Mobile",
+      "url": "https://en.wikipedia.org/wiki/Disconnect_Mobile"
+    },
+    {
+      "title": "DoubleClick",
+      "url": "https://en.wikipedia.org/wiki/DoubleClick"
+    },
+    {
+      "title": "E-commerce",
+      "url": "https://en.wikipedia.org/wiki/E-commerce"
+    },
+    {
+      "title": "Email",
+      "url": "https://en.wikipedia.org/wiki/Email"
+    },
+    {
+      "title": "Firefox",
+      "url": "https://en.wikipedia.org/wiki/Firefox"
+    },
+    {
+      "title": "General Data Protection Regulation",
+      "url": "https://en.wikipedia.org/wiki/General_Data_Protection_Regulation"
+    },
+    {
+      "title": "Goal",
+      "url": "https://en.wikipedia.org/wiki/Goal"
+    },
+    {
+      "title": "Google",
+      "url": "https://en.wikipedia.org/wiki/Google"
+    },
+    {
+      "title": "Google AdSense",
+      "url": "https://en.wikipedia.org/wiki/Google_AdSense"
+    },
+    {
+      "title": "Google Ad Manager",
+      "url": "https://en.wikipedia.org/wiki/Google_Ad_Manager"
+    },
+    {
+      "title": "Google Ads",
+      "url": "https://en.wikipedia.org/wiki/Google_Ads"
+    },
+    {
+      "title": "Google Contributor",
+      "url": "https://en.wikipedia.org/wiki/Google_Contributor"
+    },
+    {
+      "title": "Google Marketing Platform",
+      "url": "https://en.wikipedia.org/wiki/Google_Marketing_Platform"
+    },
+    {
+      "title": "Google Tag Manager",
+      "url": "https://en.wikipedia.org/wiki/Google_Tag_Manager"
+    },
+    {
+      "title": "Google Website Optimizer",
+      "url": "https://en.wikipedia.org/wiki/Google_Website_Optimizer"
+    },
+    {
+      "title": "Google web server",
+      "url": "https://en.wikipedia.org/wiki/Google_web_server"
+    },
+    {
+      "title": "HTTP",
+      "url": "https://en.wikipedia.org/wiki/HTTP"
+    },
+    {
+      "title": "HTTP cookie",
+      "url": "https://en.wikipedia.org/wiki/HTTP_cookie"
+    },
+    {
+      "title": "HealthCare.gov",
+      "url": "https://en.wikipedia.org/wiki/HealthCare.gov"
+    },
+    {
+      "title": "IOS",
+      "url": "https://en.wikipedia.org/wiki/IOS"
+    },
+    {
+      "title": "IP address",
+      "url": "https://en.wikipedia.org/wiki/IP_address"
+    },
+    {
+      "title": "ISBN (identifier)",
+      "url": "https://en.wikipedia.org/wiki/ISBN_%28identifier%29"
+    },
+    {
+      "title": "ISSN (identifier)",
+      "url": "https://en.wikipedia.org/wiki/ISSN_%28identifier%29"
+    },
+    {
+      "title": "ITunes",
+      "url": "https://en.wikipedia.org/wiki/ITunes"
+    },
+    {
+      "title": "JavaScript",
+      "url": "https://en.wikipedia.org/wiki/JavaScript"
+    },
+    {
+      "title": "JavaServer Pages",
+      "url": "https://en.wikipedia.org/wiki/JavaServer_Pages"
+    },
+    {
+      "title": "Jessica Vitak",
+      "url": "https://en.wikipedia.org/wiki/Jessica_Vitak"
+    },
+    {
+      "title": "Landing page",
+      "url": "https://en.wikipedia.org/wiki/Landing_page"
+    },
+    {
+      "title": "Lottery",
+      "url": "https://en.wikipedia.org/wiki/Lottery"
+    },
+    {
+      "title": "Margin of error",
+      "url": "https://en.wikipedia.org/wiki/Margin_of_error"
+    },
+    {
+      "title": "Marketing strategy",
+      "url": "https://en.wikipedia.org/wiki/Marketing_strategy"
+    },
+    {
+      "title": "Mobile app",
+      "url": "https://en.wikipedia.org/wiki/Mobile_app"
+    },
+    {
+      "title": "NoScript",
+      "url": "https://en.wikipedia.org/wiki/NoScript"
+    },
+    {
+      "title": "Online advertising",
+      "url": "https://en.wikipedia.org/wiki/Online_advertising"
+    },
+    {
+      "title": "Online analytical processing",
+      "url": "https://en.wikipedia.org/wiki/Online_analytical_processing"
+    },
+    {
+      "title": "Open-source software",
+      "url": "https://en.wikipedia.org/wiki/Open-source_software"
+    },
+    {
+      "title": "PHP",
+      "url": "https://en.wikipedia.org/wiki/PHP"
+    },
+    {
+      "title": "Perl",
+      "url": "https://en.wikipedia.org/wiki/Perl"
+    },
+    {
+      "title": "Pingdom",
+      "url": "https://en.wikipedia.org/wiki/Pingdom"
+    },
+    {
+      "title": "Point of sale",
+      "url": "https://en.wikipedia.org/wiki/Point_of_sale"
+    },
+    {
+      "title": "Privacy policy",
+      "url": "https://en.wikipedia.org/wiki/Privacy_policy"
+    },
+    {
+      "title": "Programmer",
+      "url": "https://en.wikipedia.org/wiki/Programmer"
+    },
+    {
+      "title": "Readymag",
+      "url": "https://en.wikipedia.org/wiki/Readymag"
+    },
+    {
+      "title": "Referrer",
+      "url": "https://en.wikipedia.org/wiki/Referrer"
+    },
+    {
+      "title": "Return on investment",
+      "url": "https://en.wikipedia.org/wiki/Return_on_investment"
+    },
+    {
+      "title": "Sampling (statistics)",
+      "url": "https://en.wikipedia.org/wiki/Sampling_%28statistics%29"
+    },
+    {
+      "title": "Server-side tracking",
+      "url": "https://en.wikipedia.org/wiki/Server-side_tracking"
+    },
+    {
+      "title": "Server (computing)",
+      "url": "https://en.wikipedia.org/wiki/Server_%28computing%29"
+    },
+    {
+      "title": "Session (web analytics)",
+      "url": "https://en.wikipedia.org/wiki/Session_%28web_analytics%29"
+    },
+    {
+      "title": "Software categories",
+      "url": "https://en.wikipedia.org/wiki/Software_categories"
+    },
+    {
+      "title": "Software development kit",
+      "url": "https://en.wikipedia.org/wiki/Software_development_kit"
+    },
+    {
+      "title": "Software release life cycle",
+      "url": "https://en.wikipedia.org/wiki/Software_release_life_cycle"
+    },
+    {
+      "title": "Software suite",
+      "url": "https://en.wikipedia.org/wiki/Software_suite"
+    },
+    {
+      "title": "Squarespace",
+      "url": "https://en.wikipedia.org/wiki/Squarespace"
+    },
+    {
+      "title": "Timestamp",
+      "url": "https://en.wikipedia.org/wiki/Timestamp"
+    },
+    {
+      "title": "Tor (anonymity network)",
+      "url": "https://en.wikipedia.org/wiki/Tor_%28anonymity_network%29"
+    },
+    {
+      "title": "UTM parameters",
+      "url": "https://en.wikipedia.org/wiki/UTM_parameters"
+    },
+    {
+      "title": "Urchin (software)",
+      "url": "https://en.wikipedia.org/wiki/Urchin_%28software%29"
+    },
+    {
+      "title": "Value-added reseller",
+      "url": "https://en.wikipedia.org/wiki/Value-added_reseller"
+    },
+    {
+      "title": "Web analytics",
+      "url": "https://en.wikipedia.org/wiki/Web_analytics"
+    },
+    {
+      "title": "Web beacon",
+      "url": "https://en.wikipedia.org/wiki/Web_beacon"
+    },
+    {
+      "title": "Web search engine",
+      "url": "https://en.wikipedia.org/wiki/Web_search_engine"
+    },
+    {
+      "title": "Web tracking",
+      "url": "https://en.wikipedia.org/wiki/Web_tracking"
+    },
+    {
+      "title": "Webflow",
+      "url": "https://en.wikipedia.org/wiki/Webflow"
+    },
+    {
+      "title": "Website",
+      "url": "https://en.wikipedia.org/wiki/Website"
+    },
+    {
+      "title": "Website traffic",
+      "url": "https://en.wikipedia.org/wiki/Website_traffic"
+    },
+    {
+      "title": "Wix.com",
+      "url": "https://en.wikipedia.org/wiki/Wix.com"
+    },
+    {
+      "title": "World Wide Web",
+      "url": "https://en.wikipedia.org/wiki/World_Wide_Web"
+    },
+    {
+      "title": "YouTube",
+      "url": "https://en.wikipedia.org/wiki/YouTube"
+    }
+  ]
+}

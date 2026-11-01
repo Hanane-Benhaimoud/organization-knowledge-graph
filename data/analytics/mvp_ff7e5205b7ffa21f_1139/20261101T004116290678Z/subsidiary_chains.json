@@ -1,0 +1,1215 @@
+{
+  "query_id": "subsidiary_chains",
+  "question": "Quelles organisations sont accessibles depuis cette organisation par un à trois liens de filiation ?",
+  "method": "cypher",
+  "dataset_id": "mvp_ff7e5205b7ffa21f_1139",
+  "parameters": {
+    "dataset": "mvp_ff7e5205b7ffa21f_1139",
+    "person": "Thomas Schäfer",
+    "organization": "Volkswagen Group"
+  },
+  "cypher": "\n            MATCH path =\n                (parent:Organization)-[:PARENT_OF*1..3]->\n                (child:Organization)\n            WHERE parent.name_key = toLower(trim($organization))\n              AND parent.entity_id <> child.entity_id\n              AND all(\n                  rel IN relationships(path)\n                  WHERE rel.dataset_id = $dataset\n              )\n            RETURN parent.name AS parent,\n                   child.name AS subsidiary,\n                   length(path) AS hops,\n                   [n IN nodes(path) | n.name] AS chain,\n                   [rel IN relationships(path) |\n                       {\n                           relation_id: rel.relation_id,\n                           temporal_status: rel.temporal_status,\n                           evidence: rel.evidence,\n                           source_urls: rel.source_urls\n                       }\n                   ] AS supporting_relations\n            ORDER BY hops, subsidiary, chain\n            LIMIT 50\n        ",
+  "measured_client_latency_ms": 95.42,
+  "row_count": 50,
+  "rows": [
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "Audi",
+      "hops": 1,
+      "chain": [
+        "Volkswagen Group",
+        "Audi"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "Volkswagen Passenger Cars is the Group's original marque, and the other major subsidiaries include passenger car marques such as Audi , Bentley , Lamborghini , Porsche , SEAT , and Škoda ."
+          ],
+          "temporal_status": "unknown",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Volkswagen_Group"
+          ],
+          "relation_id": "972aa36a87e185333628a62a3ad406d30ee65c6efe2a3219e045d16e104c9ea3"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "Auto Union",
+      "hops": 1,
+      "chain": [
+        "Volkswagen Group",
+        "Auto Union"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "In 1965, it acquired Auto Union , which subsequently produced the first postwar Audi models."
+          ],
+          "temporal_status": "current_at_source",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Volkswagen_Group"
+          ],
+          "relation_id": "bba9f41194871bfe7e2c57942f65fbb107d8b9ec661c1907321ab4a5c91ce9bd"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "Bentley",
+      "hops": 1,
+      "chain": [
+        "Volkswagen Group",
+        "Bentley"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "Volkswagen Passenger Cars is the Group's original marque, and the other major subsidiaries include passenger car marques such as Audi , Bentley , Lamborghini , Porsche , SEAT , and Škoda ."
+          ],
+          "temporal_status": "unknown",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Volkswagen_Group"
+          ],
+          "relation_id": "dfbe98b575ab239724c87c6bd30f0b48b8b644114cbbf6c3c991d269fe3af1b1"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "CARIAD",
+      "hops": 1,
+      "chain": [
+        "Volkswagen Group",
+        "CARIAD"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "CARIAD : 100% ownership"
+          ],
+          "temporal_status": "current_at_source",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Volkswagen_Group"
+          ],
+          "relation_id": "02b6f848841580f89981491d8c34af2bfe0fe9bd6376e58e1fce996cdfae7ef8"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "CARIAD",
+      "hops": 1,
+      "chain": [
+        "Volkswagen Group",
+        "CARIAD"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "developing software under a new subsidiary CARIAD."
+          ],
+          "temporal_status": "unknown",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Volkswagen_Group"
+          ],
+          "relation_id": "8ee0a195b5e80948b72003bc04127c7676ee752af2a98972614b427e2cc34fa7"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "Diconium",
+      "hops": 1,
+      "chain": [
+        "Volkswagen Group",
+        "Diconium"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "Diconium : 100% ownership"
+          ],
+          "temporal_status": "current_at_source",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Volkswagen_Group"
+          ],
+          "relation_id": "02fab24af741e364d649b7ddb2ccc1c61cfa4734d1a2ff66c0b6da60ae5f6135"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "Everllence",
+      "hops": 1,
+      "chain": [
+        "Volkswagen Group",
+        "Everllence"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "Everllence : 100% ownership — formerly called MAN Energy Solutions."
+          ],
+          "temporal_status": "current_at_source",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Volkswagen_Group"
+          ],
+          "relation_id": "55923e41b8ee6df4fbc289c4511017d6251ad425e2a63f1bd88d1712ddfafa5a"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "Gotion",
+      "hops": 1,
+      "chain": [
+        "Volkswagen Group",
+        "Gotion"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "Gotion : 24% stake since 2022."
+          ],
+          "temporal_status": "current_at_source",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Volkswagen_Group"
+          ],
+          "relation_id": "88683e64e0fa17950567f19e6c3790e58dd5bcab544b97cf746da31583e5d659"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "IAV",
+      "hops": 1,
+      "chain": [
+        "Volkswagen Group",
+        "IAV"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "IAV : 50% ownership"
+          ],
+          "temporal_status": "current_at_source",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Volkswagen_Group"
+          ],
+          "relation_id": "f628616b4d22cd39c9183ec7b09a4ade6d1380169280b8f0e13841ff20c3e335"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "Lamborghini",
+      "hops": 1,
+      "chain": [
+        "Volkswagen Group",
+        "Lamborghini"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "Volkswagen Passenger Cars is the Group's original marque, and the other major subsidiaries include passenger car marques such as Audi , Bentley , Lamborghini , Porsche , SEAT , and Škoda ."
+          ],
+          "temporal_status": "unknown",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Volkswagen_Group"
+          ],
+          "relation_id": "8db109162b8f28974a2f0e043d264942b40d3954b40c3de6dbde63da47a0c653"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "Lamborghini",
+      "hops": 1,
+      "chain": [
+        "Volkswagen Group",
+        "Lamborghini"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "Lamborghini (part of the Volkswagen Group via its subsidiary Audi ) acquired 90.1% of the shares of Italdesign-Giugiaro S.p.A."
+          ],
+          "temporal_status": "current_at_source",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Italdesign_Giugiaro"
+          ],
+          "relation_id": "b9bbabcdcdf6b21cfac2433698e6494d3135b9f66b8e73941fb47cc59936a825"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "MOIA",
+      "hops": 1,
+      "chain": [
+        "Volkswagen Group",
+        "MOIA"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "MOIA : 100% ownership — new mobility services company."
+          ],
+          "temporal_status": "current_at_source",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Volkswagen_Group"
+          ],
+          "relation_id": "eb14215b8472199c1462e0b00fd0c602fe1326163e944a14b08bff7c1c8978d9"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "Porsche",
+      "hops": 1,
+      "chain": [
+        "Volkswagen Group",
+        "Porsche"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "Volkswagen Passenger Cars is the Group's original marque, and the other major subsidiaries include passenger car marques such as Audi , Bentley , Lamborghini , Porsche , SEAT , and Škoda ."
+          ],
+          "temporal_status": "unknown",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Volkswagen_Group"
+          ],
+          "relation_id": "188967f5f1ae61a0ff22bfa5082a2353163156f1a21da422681c212ec40d597e"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "Rivian Automotive",
+      "hops": 1,
+      "chain": [
+        "Volkswagen Group",
+        "Rivian Automotive"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "Rivian Automotive : 16% ownership"
+          ],
+          "temporal_status": "current_at_source",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Volkswagen_Group"
+          ],
+          "relation_id": "c57a649a88eed3f25fde3575d4e4db5ed9eda62421b7923d0c22e2720cad8dc0"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "Rivian and Volkswagen Group Technologies",
+      "hops": 1,
+      "chain": [
+        "Volkswagen Group",
+        "Rivian and Volkswagen Group Technologies"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "Rivian and Volkswagen Group Technologies : 50% ownership — joint venture with Rivian."
+          ],
+          "temporal_status": "current_at_source",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Volkswagen_Group"
+          ],
+          "relation_id": "e856b5b510f6b0afeded701e2aa41b9d8c220901bb3647108682dd1cdaac2f4b"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "SEAT",
+      "hops": 1,
+      "chain": [
+        "Volkswagen Group",
+        "SEAT"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "On 18 December 1990, the Volkswagen Group bought the remaining 25% of the company, thus making SEAT the first non-German wholly-owned subsidiary of the group."
+          ],
+          "temporal_status": "current_at_source",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/SEAT"
+          ],
+          "relation_id": "36eb78140b0f3dc834f8f3b7e1ddf1bb9d13cbf7c7e2621595c5ce3b750f324b"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "SEAT",
+      "hops": 1,
+      "chain": [
+        "Volkswagen Group",
+        "SEAT"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "SEAT's corporate tradition, as a Volkswagen Group subsidiary, dictates that the nomenclature of its model range be inspired by Spanish culture.",
+            "Today as a Volkswagen Group subsidiary, SEAT's leading people are appointed after approval from the group's supervisory board.",
+            "Under Volkswagen Group's ownership, numerous SEAT models have been rebadged under other brands, either inside the Volkswagen Group's portfolio or out of it."
+          ],
+          "temporal_status": "current_at_source",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/SEAT"
+          ],
+          "relation_id": "40bc8c133249df35f121b0504593a1d537ffc338a51496f27bd2466cfc56d920"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "SEAT",
+      "hops": 1,
+      "chain": [
+        "Volkswagen Group",
+        "SEAT"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "Volkswagen Passenger Cars is the Group's original marque, and the other major subsidiaries include passenger car marques such as Audi , Bentley , Lamborghini , Porsche , SEAT , and Škoda ."
+          ],
+          "temporal_status": "unknown",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Volkswagen_Group"
+          ],
+          "relation_id": "65d509441ad0658bde6809f43a0cd75801c10f656e0ef92678acd3c4e011a095"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "SEAT",
+      "hops": 1,
+      "chain": [
+        "Volkswagen Group",
+        "SEAT"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "Volkswagen acquired a controlling stake in SEAT in 1986, making it the first non-German marque of the company"
+          ],
+          "temporal_status": "current_at_source",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Volkswagen_Group"
+          ],
+          "relation_id": "73f89fb175df2fcb9bc6aaa9649caf1651ace0752bdbcf814a0ff3f705ead15f"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "SEAT S.A.",
+      "hops": 1,
+      "chain": [
+        "Volkswagen Group",
+        "SEAT S.A."
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "the Spanish government sold SEAT to the Volkswagen Group in 1986, and it remains a fully owned subsidiary of the group."
+          ],
+          "temporal_status": "current_at_source",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/SEAT"
+          ],
+          "relation_id": "301b02134769cad7a8d47b98d5ca82bfaa7edc2b26632b10241063785c16c18d"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "SEAT, S.A.",
+      "hops": 1,
+      "chain": [
+        "Volkswagen Group",
+        "SEAT, S.A."
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "SEAT, S.A. : 100% ownership — initially in 1982 a co-operation agreement with AUDI AG; 51% and 75% ownership in 1986, and full ownership in 1990."
+          ],
+          "temporal_status": "current_at_source",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Volkswagen_Group"
+          ],
+          "relation_id": "26ad831ce0c575bcc2c6ce22f192110aca6f08b11c6ca878f7157c3336f50353"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "Scania AB",
+      "hops": 1,
+      "chain": [
+        "Volkswagen Group",
+        "Scania AB"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "The German automotive company Volkswagen Group gained ownership of Scania by first buying Volvo's stake in 2000, after the latter's aborted takeover attempt, increasing it to 36.4% in the first quarter 2007."
+          ],
+          "temporal_status": "unknown",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Scania_AB"
+          ],
+          "relation_id": "0bef6bac16999fbd5bf3b3b2ad47ed9aff536bab75d655ce9ecd1e54e0937117"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "Scout Motors",
+      "hops": 1,
+      "chain": [
+        "Volkswagen Group",
+        "Scout Motors"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "Scout Motors : 100% ownership — founded in 2022."
+          ],
+          "temporal_status": "current_at_source",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Volkswagen_Group"
+          ],
+          "relation_id": "ec71865da79a70fb1f2a86f64407438b78dd215bace8634a269ee2231f0bc040"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "Traton",
+      "hops": 1,
+      "chain": [
+        "Volkswagen Group",
+        "Traton"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "Volkswagen AG also has operations in commercial vehicles , owning Volkswagen Commercial Vehicles , along with a controlling stake in truck, bus and diesel engine manufacturer Traton ."
+          ],
+          "temporal_status": "unknown",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Volkswagen_Group"
+          ],
+          "relation_id": "dcadc3af4b1d38216e85fafe8082f40804ab3145eac39ce3d653a3ca6f5a950b"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "Traton",
+      "hops": 1,
+      "chain": [
+        "Volkswagen Group",
+        "Traton"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "heavy commercial vehicles via the marques of the listed subsidiary Traton ( International , MAN , Scania , and Volkswagen Truck & Bus )."
+          ],
+          "temporal_status": "current_at_source",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Volkswagen_Group"
+          ],
+          "relation_id": "26fba86d7c8557013f1d0994704803e8b0d2448a61ecd7a410e14500ff49f973"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "Volkswagen Commercial Vehicles",
+      "hops": 1,
+      "chain": [
+        "Volkswagen Group",
+        "Volkswagen Commercial Vehicles"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "Volkswagen Commercial Vehicles (Volkswagen Nutzfahrzeuge): 100% ownership — Volkswagen's light commercial vehicle division started operations as an independent entity in 1995."
+          ],
+          "temporal_status": "current_at_source",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Volkswagen_Group"
+          ],
+          "relation_id": "966ee88f015672a16ba41c6c7e2ffe93d01661b1d60f6d6279d7bdba82580c2d"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "Volkswagen Commercial Vehicles",
+      "hops": 1,
+      "chain": [
+        "Volkswagen Group",
+        "Volkswagen Commercial Vehicles"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "Volkswagen AG also has operations in commercial vehicles , owning Volkswagen Commercial Vehicles , along with a controlling stake in truck, bus and diesel engine manufacturer Traton ."
+          ],
+          "temporal_status": "unknown",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Volkswagen_Group"
+          ],
+          "relation_id": "adad08ca2d912c6bf7981eb32e3c483a1eaa3ea52f7c8eabe7a16eeec20132b2"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "Volkswagen Financial Services",
+      "hops": 1,
+      "chain": [
+        "Volkswagen Group",
+        "Volkswagen Financial Services"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "Volkswagen Financial Services : 100% ownership"
+          ],
+          "temporal_status": "current_at_source",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Volkswagen_Group"
+          ],
+          "relation_id": "c42881bc44fe1d996b4f21c13a8f903400991dd86d22f3fe4dd800797d5ecf2b"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "Volkswagen Group Argentina",
+      "hops": 1,
+      "chain": [
+        "Volkswagen Group",
+        "Volkswagen Group Argentina"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "Volkswagen Group Argentina is the Argentine subsidiary of German automotive manufacturing company Volkswagen Group ."
+          ],
+          "temporal_status": "current_at_source",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Volkswagen_Argentina"
+          ],
+          "relation_id": "4358cde3aa6d4682b3f4b171a8d0e688d844ea87c8a25ee1f2bf2298bc0049d0"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "Volkswagen Group of America",
+      "hops": 1,
+      "chain": [
+        "Volkswagen Group",
+        "Volkswagen Group of America"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "Volkswagen Group of America, Inc. (also known as Volkswagen of America and abbreviated to VWoA ) is the North American operational headquarters and subsidiary of the Volkswagen Group of automobile companies of Germany."
+          ],
+          "temporal_status": "current_at_source",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Volkswagen_Group_of_America"
+          ],
+          "relation_id": "90402a7909bfdd70df0bd83efe3dc869c70de578aac899f84518b4206e6b7c00"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "Volkswagen Passenger Cars",
+      "hops": 1,
+      "chain": [
+        "Volkswagen Group",
+        "Volkswagen Passenger Cars"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "Volkswagen Passenger Cars : 100% ownership — the founding and flagship marque of the company."
+          ],
+          "temporal_status": "current_at_source",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Volkswagen_Group"
+          ],
+          "relation_id": "965ffe813baded45f329b9f6a76e12f3a748a8afd37d8c7eaa8a426c2d033fad"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "Volkswagen do Brasil Ltda.",
+      "hops": 1,
+      "chain": [
+        "Volkswagen Group",
+        "Volkswagen do Brasil Ltda."
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "Volkswagen do Brasil Ltda. is a subsidiary arm of Volkswagen Group"
+          ],
+          "temporal_status": "current_at_source",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Volkswagen_do_Brasil"
+          ],
+          "relation_id": "bc19dffd1eb1b42c80e4363239014538dca592394a4cd9ed2e0e2aa8da6d4528"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "XPeng Motors",
+      "hops": 1,
+      "chain": [
+        "Volkswagen Group",
+        "XPeng Motors"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "XPeng Motors : 4.99% ownership"
+          ],
+          "temporal_status": "current_at_source",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Volkswagen_Group"
+          ],
+          "relation_id": "5140be75e0400501c1472d3b108c78b40d052e4a36c4e76e45026f35ca27c6a8"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "Škoda",
+      "hops": 1,
+      "chain": [
+        "Volkswagen Group",
+        "Škoda"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "Volkswagen Passenger Cars is the Group's original marque, and the other major subsidiaries include passenger car marques such as Audi , Bentley , Lamborghini , Porsche , SEAT , and Škoda ."
+          ],
+          "temporal_status": "unknown",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Volkswagen_Group"
+          ],
+          "relation_id": "eaaa4802105207b37a953a41d1dbedd0e6bfdc016613693cceb7f5ee135b67eb"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "Škoda",
+      "hops": 1,
+      "chain": [
+        "Volkswagen Group",
+        "Škoda"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "acquired control of Škoda in 1994"
+          ],
+          "temporal_status": "current_at_source",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Volkswagen_Group"
+          ],
+          "relation_id": "d414eb5bf0e2b004660447ffae761f5faac88ed6ee5d85d54aa8fe6759b99d5a"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "Škoda Auto Volkswagen India Private Limited",
+      "hops": 1,
+      "chain": [
+        "Volkswagen Group",
+        "Škoda Auto Volkswagen India Private Limited"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "Škoda Auto Volkswagen India Private Limited is the wholly owned Indian subsidiary of German automotive manufacturing company Volkswagen Group , formed in 2001."
+          ],
+          "temporal_status": "current_at_source",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/%C5%A0koda_Auto_Volkswagen_India"
+          ],
+          "relation_id": "70fde3319481bca95dace57cfef6adaadad0b24ea9107fc325fc0daff765e916"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "Škoda Auto a.s.",
+      "hops": 1,
+      "chain": [
+        "Volkswagen Group",
+        "Škoda Auto a.s."
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "Škoda Auto a.s. : 100% ownership — initially in 1991 a co-operation agreement and 30% ownership; 60.3% and 70% ownership in 1994 and 1995 respectively, 100% ownership since 2000."
+          ],
+          "temporal_status": "current_at_source",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Volkswagen_Group"
+          ],
+          "relation_id": "6216e03442de2b03f4392c6e7de63f80bba46b95948fdedded0c3d95944bd8d5"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "Audi Sport GmbH",
+      "hops": 2,
+      "chain": [
+        "Volkswagen Group",
+        "Audi",
+        "Audi Sport GmbH"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "Volkswagen Passenger Cars is the Group's original marque, and the other major subsidiaries include passenger car marques such as Audi , Bentley , Lamborghini , Porsche , SEAT , and Škoda ."
+          ],
+          "temporal_status": "unknown",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Volkswagen_Group"
+          ],
+          "relation_id": "972aa36a87e185333628a62a3ad406d30ee65c6efe2a3219e045d16e104c9ea3"
+        },
+        {
+          "evidence": [
+            "Audi Sport GmbH , formerly known as quattro GmbH , is the high- performance car manufacturing subsidiary of Audi , itself a subsidiary of the greater Volkswagen Group ."
+          ],
+          "temporal_status": "current_at_source",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Audi_Sport_GmbH"
+          ],
+          "relation_id": "ac09c31dbe7b985ecde4b53116817820e7b716050ccd83e7545d9e5f1e3b5756"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "Bentley",
+      "hops": 2,
+      "chain": [
+        "Volkswagen Group",
+        "Audi",
+        "Bentley"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "Volkswagen Passenger Cars is the Group's original marque, and the other major subsidiaries include passenger car marques such as Audi , Bentley , Lamborghini , Porsche , SEAT , and Škoda ."
+          ],
+          "temporal_status": "unknown",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Volkswagen_Group"
+          ],
+          "relation_id": "972aa36a87e185333628a62a3ad406d30ee65c6efe2a3219e045d16e104c9ea3"
+        },
+        {
+          "evidence": [
+            "Bentley was transferred to Audi in 2022 and Bugatti left the Volkswagen Group in 2021, as a result of the combination with Rimac Automobili to form Bugatti Rimac ."
+          ],
+          "temporal_status": "unknown",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Volkswagen_Group"
+          ],
+          "relation_id": "d05d6a7ec73dc0f497ea3a540dd2a5f499242404b97e23f4158dc94dc33c59ab"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "Cupra",
+      "hops": 2,
+      "chain": [
+        "Volkswagen Group",
+        "SEAT",
+        "Cupra"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "Volkswagen acquired a controlling stake in SEAT in 1986, making it the first non-German marque of the company"
+          ],
+          "temporal_status": "current_at_source",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Volkswagen_Group"
+          ],
+          "relation_id": "73f89fb175df2fcb9bc6aaa9649caf1651ace0752bdbcf814a0ff3f705ead15f"
+        },
+        {
+          "evidence": [
+            "Cupra : 100% ownership by SEAT."
+          ],
+          "temporal_status": "current_at_source",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Volkswagen_Group"
+          ],
+          "relation_id": "6db22033fc7b8611fbbcfc0497db357ddfa5dcfa45503b875df0c0207f65a07c"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "Cupra",
+      "hops": 2,
+      "chain": [
+        "Volkswagen Group",
+        "SEAT",
+        "Cupra"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "SEAT's corporate tradition, as a Volkswagen Group subsidiary, dictates that the nomenclature of its model range be inspired by Spanish culture.",
+            "Today as a Volkswagen Group subsidiary, SEAT's leading people are appointed after approval from the group's supervisory board.",
+            "Under Volkswagen Group's ownership, numerous SEAT models have been rebadged under other brands, either inside the Volkswagen Group's portfolio or out of it."
+          ],
+          "temporal_status": "current_at_source",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/SEAT"
+          ],
+          "relation_id": "40bc8c133249df35f121b0504593a1d537ffc338a51496f27bd2466cfc56d920"
+        },
+        {
+          "evidence": [
+            "Cupra : 100% ownership by SEAT."
+          ],
+          "temporal_status": "current_at_source",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Volkswagen_Group"
+          ],
+          "relation_id": "6db22033fc7b8611fbbcfc0497db357ddfa5dcfa45503b875df0c0207f65a07c"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "Cupra",
+      "hops": 2,
+      "chain": [
+        "Volkswagen Group",
+        "SEAT",
+        "Cupra"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "On 18 December 1990, the Volkswagen Group bought the remaining 25% of the company, thus making SEAT the first non-German wholly-owned subsidiary of the group."
+          ],
+          "temporal_status": "current_at_source",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/SEAT"
+          ],
+          "relation_id": "36eb78140b0f3dc834f8f3b7e1ddf1bb9d13cbf7c7e2621595c5ce3b750f324b"
+        },
+        {
+          "evidence": [
+            "Cupra : 100% ownership by SEAT."
+          ],
+          "temporal_status": "current_at_source",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Volkswagen_Group"
+          ],
+          "relation_id": "6db22033fc7b8611fbbcfc0497db357ddfa5dcfa45503b875df0c0207f65a07c"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "Cupra",
+      "hops": 2,
+      "chain": [
+        "Volkswagen Group",
+        "SEAT",
+        "Cupra"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "Volkswagen Passenger Cars is the Group's original marque, and the other major subsidiaries include passenger car marques such as Audi , Bentley , Lamborghini , Porsche , SEAT , and Škoda ."
+          ],
+          "temporal_status": "unknown",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Volkswagen_Group"
+          ],
+          "relation_id": "65d509441ad0658bde6809f43a0cd75801c10f656e0ef92678acd3c4e011a095"
+        },
+        {
+          "evidence": [
+            "Cupra : 100% ownership by SEAT."
+          ],
+          "temporal_status": "current_at_source",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Volkswagen_Group"
+          ],
+          "relation_id": "6db22033fc7b8611fbbcfc0497db357ddfa5dcfa45503b875df0c0207f65a07c"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "Landaben plant",
+      "hops": 2,
+      "chain": [
+        "Volkswagen Group",
+        "SEAT",
+        "Landaben plant"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "SEAT's corporate tradition, as a Volkswagen Group subsidiary, dictates that the nomenclature of its model range be inspired by Spanish culture.",
+            "Today as a Volkswagen Group subsidiary, SEAT's leading people are appointed after approval from the group's supervisory board.",
+            "Under Volkswagen Group's ownership, numerous SEAT models have been rebadged under other brands, either inside the Volkswagen Group's portfolio or out of it."
+          ],
+          "temporal_status": "current_at_source",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/SEAT"
+          ],
+          "relation_id": "40bc8c133249df35f121b0504593a1d537ffc338a51496f27bd2466cfc56d920"
+        },
+        {
+          "evidence": [
+            "Another plant owned directly by SEAT from 1975 was the Landaben plant in Pamplona , but in December 1993 its ownership was transferred to the Volkswagen Group subsidiary \"Volkswagen-Audi-Espana, S.A.\", and the site today is producing Volkswagen cars in Spain."
+          ],
+          "temporal_status": "former",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/SEAT"
+          ],
+          "relation_id": "69afa33af4bb5a4c20529cfa91395d52eeeb42b9901347744a1d4403abd74c75"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "Landaben plant",
+      "hops": 2,
+      "chain": [
+        "Volkswagen Group",
+        "SEAT",
+        "Landaben plant"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "Volkswagen Passenger Cars is the Group's original marque, and the other major subsidiaries include passenger car marques such as Audi , Bentley , Lamborghini , Porsche , SEAT , and Škoda ."
+          ],
+          "temporal_status": "unknown",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Volkswagen_Group"
+          ],
+          "relation_id": "65d509441ad0658bde6809f43a0cd75801c10f656e0ef92678acd3c4e011a095"
+        },
+        {
+          "evidence": [
+            "Another plant owned directly by SEAT from 1975 was the Landaben plant in Pamplona , but in December 1993 its ownership was transferred to the Volkswagen Group subsidiary \"Volkswagen-Audi-Espana, S.A.\", and the site today is producing Volkswagen cars in Spain."
+          ],
+          "temporal_status": "former",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/SEAT"
+          ],
+          "relation_id": "69afa33af4bb5a4c20529cfa91395d52eeeb42b9901347744a1d4403abd74c75"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "Landaben plant",
+      "hops": 2,
+      "chain": [
+        "Volkswagen Group",
+        "SEAT",
+        "Landaben plant"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "Volkswagen acquired a controlling stake in SEAT in 1986, making it the first non-German marque of the company"
+          ],
+          "temporal_status": "current_at_source",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Volkswagen_Group"
+          ],
+          "relation_id": "73f89fb175df2fcb9bc6aaa9649caf1651ace0752bdbcf814a0ff3f705ead15f"
+        },
+        {
+          "evidence": [
+            "Another plant owned directly by SEAT from 1975 was the Landaben plant in Pamplona , but in December 1993 its ownership was transferred to the Volkswagen Group subsidiary \"Volkswagen-Audi-Espana, S.A.\", and the site today is producing Volkswagen cars in Spain."
+          ],
+          "temporal_status": "former",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/SEAT"
+          ],
+          "relation_id": "69afa33af4bb5a4c20529cfa91395d52eeeb42b9901347744a1d4403abd74c75"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "Landaben plant",
+      "hops": 2,
+      "chain": [
+        "Volkswagen Group",
+        "SEAT",
+        "Landaben plant"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "On 18 December 1990, the Volkswagen Group bought the remaining 25% of the company, thus making SEAT the first non-German wholly-owned subsidiary of the group."
+          ],
+          "temporal_status": "current_at_source",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/SEAT"
+          ],
+          "relation_id": "36eb78140b0f3dc834f8f3b7e1ddf1bb9d13cbf7c7e2621595c5ce3b750f324b"
+        },
+        {
+          "evidence": [
+            "Another plant owned directly by SEAT from 1975 was the Landaben plant in Pamplona , but in December 1993 its ownership was transferred to the Volkswagen Group subsidiary \"Volkswagen-Audi-Espana, S.A.\", and the site today is producing Volkswagen cars in Spain."
+          ],
+          "temporal_status": "former",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/SEAT"
+          ],
+          "relation_id": "69afa33af4bb5a4c20529cfa91395d52eeeb42b9901347744a1d4403abd74c75"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "MAN SE",
+      "hops": 2,
+      "chain": [
+        "Volkswagen Group",
+        "Traton",
+        "MAN SE"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "Volkswagen AG also has operations in commercial vehicles , owning Volkswagen Commercial Vehicles , along with a controlling stake in truck, bus and diesel engine manufacturer Traton ."
+          ],
+          "temporal_status": "unknown",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Volkswagen_Group"
+          ],
+          "relation_id": "dcadc3af4b1d38216e85fafe8082f40804ab3145eac39ce3d653a3ca6f5a950b"
+        },
+        {
+          "evidence": [
+            "MAN SE was majority-owned by Traton , the heavy commercial vehicle subsidiary of automaker Volkswagen AG , until August 2021 when Traton completed a squeeze-out of all remaining shareholders and formally merged MAN SE into Traton SE, meaning the former subsidiaries of MAN SE were now directly owned by Traton, and MAN SE ceased to exist."
+          ],
+          "temporal_status": "former",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/MAN_SE"
+          ],
+          "relation_id": "1f0f9572f907a2006ba9176a397e7df90af5c2527c29d94663011429fa1b5ff0"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "MAN SE",
+      "hops": 2,
+      "chain": [
+        "Volkswagen Group",
+        "Traton",
+        "MAN SE"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "heavy commercial vehicles via the marques of the listed subsidiary Traton ( International , MAN , Scania , and Volkswagen Truck & Bus )."
+          ],
+          "temporal_status": "current_at_source",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Volkswagen_Group"
+          ],
+          "relation_id": "26fba86d7c8557013f1d0994704803e8b0d2448a61ecd7a410e14500ff49f973"
+        },
+        {
+          "evidence": [
+            "MAN SE was majority-owned by Traton , the heavy commercial vehicle subsidiary of automaker Volkswagen AG , until August 2021 when Traton completed a squeeze-out of all remaining shareholders and formally merged MAN SE into Traton SE, meaning the former subsidiaries of MAN SE were now directly owned by Traton, and MAN SE ceased to exist."
+          ],
+          "temporal_status": "former",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/MAN_SE"
+          ],
+          "relation_id": "1f0f9572f907a2006ba9176a397e7df90af5c2527c29d94663011429fa1b5ff0"
+        }
+      ]
+    },
+    {
+      "parent": "Volkswagen Group",
+      "subsidiary": "SEAT Deutschland GmbH",
+      "hops": 2,
+      "chain": [
+        "Volkswagen Group",
+        "SEAT",
+        "SEAT Deutschland GmbH"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "Volkswagen acquired a controlling stake in SEAT in 1986, making it the first non-German marque of the company"
+          ],
+          "temporal_status": "current_at_source",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Volkswagen_Group"
+          ],
+          "relation_id": "73f89fb175df2fcb9bc6aaa9649caf1651ace0752bdbcf814a0ff3f705ead15f"
+        },
+        {
+          "evidence": [
+            "Among SEAT's subsidiaries, the SEAT Deutschland GmbH subsidiary company is based in Mörfelden-Walldorf , Germany"
+          ],
+          "temporal_status": "unknown",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/SEAT"
+          ],
+          "relation_id": "2d159659e1be151b25dd614dde892901348a7b62bda907ad67d43ccd7d1958a8"
+        }
+      ]
+    }
+  ]
+}

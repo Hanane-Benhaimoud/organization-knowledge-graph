@@ -1,0 +1,248 @@
+{
+  "document_id": "wikipedia_en_Q5974704",
+  "wikidata_id": "Q5974704",
+  "entity_label": "ITA Software",
+  "entity_type": "organization",
+  "seed_categories": [],
+  "source": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/ITA_Software",
+  "revision_id": 1359543818,
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1359543818",
+  "pageid": 2634154,
+  "title": "ITA Software",
+  "language": "en",
+  "collected_at": "2026-10-28T22:02:12.315651+00:00",
+  "content": {
+    "sections": [
+      {
+        "heading": "Introduction",
+        "text": "ITA Software is a travel industry software division of Google , formerly an independent company, in Cambridge, Massachusetts . The company was founded by Jeremy Wertheimer, a computer scientist from the MIT Artificial Intelligence Laboratory , with his partner Richard Aiken in 1996. On July 1, 2010, ITA agreed to be acquired by Google. On April 8, 2011, the US Department of Justice approved the buyout.  As part of the agreement, Google was required to license ITA software to other websites for five years."
+      },
+      {
+        "heading": "History",
+        "text": "ITA's first product was an airfare search and pricing system called QPX. This system has been and is used by travel companies such as Bing Travel , CheapTickets , Kayak.com , and Orbitz , and by airlines such as Alitalia , American , ANA , Cape Air , Delta Air Lines , United Airlines , US Airways , and Virgin Atlantic . ITA also hosts its own airfare search website based on QPX, called \"Matrix\", although it is not possible to buy tickets from it.\nITA was known for using programming puzzles to attract and evaluate potential employees since 2001.  Some of these puzzles have appeared in ads on Boston's MBTA subway system. ITA is also one of the highest-profile companies to base their software on Common Lisp .\nIn January 2006, ITA received $100 million in venture capital money from a syndicate of five investment firms led by Battery Ventures , marking the largest investment in a software firm in New England in five years.\nIn September 2006, ITA announced a several-million-dollar deal with Air Canada to develop a new computer reservations system to power its reservations, inventory control, seat availability, check-in, and airport operations. In August 2009, Air Canada announced that the project had been suspended.\nIn July 2010, Google announced the acquisition of ITA for $700 million in cash, subject to DOJ review and approval. On April 8, 2011, the US Dept. of Justice and Google reached an agreement in terms to allow the purchase and dismiss a potential antitrust lawsuit .\nOn March 1, 2012, Google and Cape Air announced that Cape Air had migrated to ITA Software's passenger service system (PSS). One year later, Google announced that it was discontinuing the PSS.\nIn 2013, Google started offering a simplified API to QPX called QPX Express; it was discontinued on April 10, 2018."
+      },
+      {
+        "heading": "See also",
+        "text": "Google Flights List of global distribution systems (computer reservation systems)"
+      },
+      {
+        "heading": "External links",
+        "text": "Official website"
+      }
+    ],
+    "full_text": "Introduction\nITA Software is a travel industry software division of Google , formerly an independent company, in Cambridge, Massachusetts . The company was founded by Jeremy Wertheimer, a computer scientist from the MIT Artificial Intelligence Laboratory , with his partner Richard Aiken in 1996. On July 1, 2010, ITA agreed to be acquired by Google. On April 8, 2011, the US Department of Justice approved the buyout.  As part of the agreement, Google was required to license ITA software to other websites for five years.\n\nHistory\nITA's first product was an airfare search and pricing system called QPX. This system has been and is used by travel companies such as Bing Travel , CheapTickets , Kayak.com , and Orbitz , and by airlines such as Alitalia , American , ANA , Cape Air , Delta Air Lines , United Airlines , US Airways , and Virgin Atlantic . ITA also hosts its own airfare search website based on QPX, called \"Matrix\", although it is not possible to buy tickets from it.\nITA was known for using programming puzzles to attract and evaluate potential employees since 2001.  Some of these puzzles have appeared in ads on Boston's MBTA subway system. ITA is also one of the highest-profile companies to base their software on Common Lisp .\nIn January 2006, ITA received $100 million in venture capital money from a syndicate of five investment firms led by Battery Ventures , marking the largest investment in a software firm in New England in five years.\nIn September 2006, ITA announced a several-million-dollar deal with Air Canada to develop a new computer reservations system to power its reservations, inventory control, seat availability, check-in, and airport operations. In August 2009, Air Canada announced that the project had been suspended.\nIn July 2010, Google announced the acquisition of ITA for $700 million in cash, subject to DOJ review and approval. On April 8, 2011, the US Dept. of Justice and Google reached an agreement in terms to allow the purchase and dismiss a potential antitrust lawsuit .\nOn March 1, 2012, Google and Cape Air announced that Cape Air had migrated to ITA Software's passenger service system (PSS). One year later, Google announced that it was discontinuing the PSS.\nIn 2013, Google started offering a simplified API to QPX called QPX Express; it was discontinued on April 10, 2018.\n\nSee also\nGoogle Flights List of global distribution systems (computer reservation systems)\n\nExternal links\nOfficial website"
+  },
+  "references": [
+    {
+      "url": "http://hasbrouck.org/blog/archives/001879.html",
+      "label": "Edward Hasbrouck, The Practical Nomad blog, July 12, 2010: Google buys ITA Software, Part 1: The back story"
+    },
+    {
+      "url": "https://web.archive.org/web/20201111230200/http://www.pbs.org/nbr/site/onair/latest_nbr_video_home/index.html",
+      "label": "\"Nightly Business Report for Friday, April 8th, 2011\""
+    },
+    {
+      "url": "https://www.pbs.org/nbr/site/onair/latest_nbr_video_home/index.html",
+      "label": "the original"
+    },
+    {
+      "url": "http://matrix.itasoftware.com/",
+      "label": "\"Matrix - ITA Software by Google\""
+    },
+    {
+      "url": "http://www.franz.com/success/customer_apps/data_mining/itastory.lhtml",
+      "label": "\"Lisp and ITA Software move airline travel to a higher altitude\""
+    },
+    {
+      "url": "http://archive.boston.com/business/technology/articles/2006/01/23/software_firm_gets_100m_in_backing/",
+      "label": "\"Software firm gets $100m in backing\""
+    },
+    {
+      "url": "https://web.archive.org/web/20120623044840/http://www.boston.com/business/ticker/2006/09/ita_software_si.html",
+      "label": "\"ITA Software signs deal with Air Canada\""
+    },
+    {
+      "url": "http://www.boston.com/business/ticker/2006/09/ita_software_si.html",
+      "label": "the original"
+    },
+    {
+      "url": "http://www.generalcatalyst.com/news/view/342",
+      "label": "General Catalyst Partners :: News"
+    },
+    {
+      "url": "https://web.archive.org/web/20070927195219/http://www.generalcatalyst.com/news/view/342",
+      "label": "Archived"
+    },
+    {
+      "url": "http://atwonline.com/operations/air-canada-suspends-implementation-next-gen-polaris-reservations-system",
+      "label": "\"Air Canada suspends implementation of next-gen Polaris reservations system.\""
+    },
+    {
+      "url": "http://www.google.com/press/ita/",
+      "label": "\"Facts about Google's acquisition of ITA Software\""
+    },
+    {
+      "url": "https://www.washingtonpost.com/business/economy/with-shutdown-imminent-justice-department-likely-to-approve-google-deal-today/2011/04/08/AFvkXq1C_story.html",
+      "label": "\"Justice Dept. allows Google to buy online travel company\""
+    },
+    {
+      "url": "http://papersplease.org/wp/2012/03/01/google-is-now-in-the-pnr-hosting-business/",
+      "label": "\"Google is now in the PNR hosting business\""
+    },
+    {
+      "url": "https://skift.com/2013/05/15/google-and-ita-software-abandon-airline-reservations-business/",
+      "label": "May 15, 2013"
+    },
+    {
+      "url": "https://web.archive.org/web/20171101090140/https://developers.google.com/qpx-express/faq#EndOfServiceFAQs",
+      "label": "\"FAQ\""
+    },
+    {
+      "url": "https://developers.google.com/qpx-express/faq#EndOfServiceFAQs",
+      "label": "the original"
+    }
+  ],
+  "outgoing_links": [
+    {
+      "title": "Venture capital",
+      "url": "https://en.wikipedia.org/wiki/Venture_capital"
+    },
+    {
+      "title": "API",
+      "url": "https://en.wikipedia.org/wiki/API"
+    },
+    {
+      "title": "Air Canada",
+      "url": "https://en.wikipedia.org/wiki/Air_Canada"
+    },
+    {
+      "title": "Airline",
+      "url": "https://en.wikipedia.org/wiki/Airline"
+    },
+    {
+      "title": "Alitalia",
+      "url": "https://en.wikipedia.org/wiki/Alitalia"
+    },
+    {
+      "title": "All Nippon Airways",
+      "url": "https://en.wikipedia.org/wiki/All_Nippon_Airways"
+    },
+    {
+      "title": "American Airlines",
+      "url": "https://en.wikipedia.org/wiki/American_Airlines"
+    },
+    {
+      "title": "Antitrust law",
+      "url": "https://en.wikipedia.org/wiki/Antitrust_law"
+    },
+    {
+      "title": "Battery Ventures",
+      "url": "https://en.wikipedia.org/wiki/Battery_Ventures"
+    },
+    {
+      "title": "Bing Travel",
+      "url": "https://en.wikipedia.org/wiki/Bing_Travel"
+    },
+    {
+      "title": "Cambridge, Massachusetts",
+      "url": "https://en.wikipedia.org/wiki/Cambridge%2C_Massachusetts"
+    },
+    {
+      "title": "Cape Air",
+      "url": "https://en.wikipedia.org/wiki/Cape_Air"
+    },
+    {
+      "title": "CheapTickets",
+      "url": "https://en.wikipedia.org/wiki/CheapTickets"
+    },
+    {
+      "title": "Common Lisp",
+      "url": "https://en.wikipedia.org/wiki/Common_Lisp"
+    },
+    {
+      "title": "Computer reservations system",
+      "url": "https://en.wikipedia.org/wiki/Computer_reservations_system"
+    },
+    {
+      "title": "Delta Air Lines",
+      "url": "https://en.wikipedia.org/wiki/Delta_Air_Lines"
+    },
+    {
+      "title": "Google",
+      "url": "https://en.wikipedia.org/wiki/Google"
+    },
+    {
+      "title": "Google Flights",
+      "url": "https://en.wikipedia.org/wiki/Google_Flights"
+    },
+    {
+      "title": "Kayak.com",
+      "url": "https://en.wikipedia.org/wiki/Kayak.com"
+    },
+    {
+      "title": "List of global distribution systems",
+      "url": "https://en.wikipedia.org/wiki/List_of_global_distribution_systems"
+    },
+    {
+      "title": "MBTA",
+      "url": "https://en.wikipedia.org/wiki/MBTA"
+    },
+    {
+      "title": "MIT Computer Science and Artificial Intelligence Laboratory",
+      "url": "https://en.wikipedia.org/wiki/MIT_Computer_Science_and_Artificial_Intelligence_Laboratory"
+    },
+    {
+      "title": "Orbitz",
+      "url": "https://en.wikipedia.org/wiki/Orbitz"
+    },
+    {
+      "title": "PBS",
+      "url": "https://en.wikipedia.org/wiki/PBS"
+    },
+    {
+      "title": "Parent company",
+      "url": "https://en.wikipedia.org/wiki/Parent_company"
+    },
+    {
+      "title": "Passenger service system",
+      "url": "https://en.wikipedia.org/wiki/Passenger_service_system"
+    },
+    {
+      "title": "Software",
+      "url": "https://en.wikipedia.org/wiki/Software"
+    },
+    {
+      "title": "Subsidiary",
+      "url": "https://en.wikipedia.org/wiki/Subsidiary"
+    },
+    {
+      "title": "Travel",
+      "url": "https://en.wikipedia.org/wiki/Travel"
+    },
+    {
+      "title": "US Airways",
+      "url": "https://en.wikipedia.org/wiki/US_Airways"
+    },
+    {
+      "title": "US Department of Justice",
+      "url": "https://en.wikipedia.org/wiki/US_Department_of_Justice"
+    },
+    {
+      "title": "United Airlines",
+      "url": "https://en.wikipedia.org/wiki/United_Airlines"
+    },
+    {
+      "title": "United States Department of Justice",
+      "url": "https://en.wikipedia.org/wiki/United_States_Department_of_Justice"
+    },
+    {
+      "title": "Virgin Atlantic",
+      "url": "https://en.wikipedia.org/wiki/Virgin_Atlantic"
+    },
+    {
+      "title": "Wayback Machine",
+      "url": "https://en.wikipedia.org/wiki/Wayback_Machine"
+    }
+  ]
+}

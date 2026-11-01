@@ -1,0 +1,1784 @@
+{
+  "document_id": "wikipedia_en_Q899383",
+  "wikidata_id": "Q899383",
+  "entity_label": "European Telecommunications Standards Institute",
+  "entity_type": "organization",
+  "seed_categories": [],
+  "source": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/European_Telecommunications_Standards_Institute",
+  "revision_id": 1381050261,
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1381050261",
+  "pageid": 18934452,
+  "title": "European Telecommunications Standards Institute",
+  "language": "en",
+  "collected_at": "2026-10-28T22:02:56.062392+00:00",
+  "content": {
+    "sections": [
+      {
+        "heading": "Introduction",
+        "text": "The European Telecommunications Standards Institute ( ETSI ) is an independent, not-for-profit, standardization organization operating in the field of information and communications . ETSI supports the development and testing of global technical standards for ICT-enabled systems, applications and services."
+      },
+      {
+        "heading": "Overview and history",
+        "text": "ETSI was set up in 1988 by the European Conference of Postal and Telecommunications Administrations (CEPT) following a proposal from the European Commission (EC). ETSI is the officially recognized body with a responsibility for the standardization of information and communication technologies (ICT). It is one of the three bodies officially recognized by the European Union as a European Standards Organisation (ESO), the others being CEN and CENELEC . The role of the ESOs is to support EU regulation and policies through the production of harmonised European Standards (ENs) and other deliverables. The standards developed by ESOs are the only ones that can be recognized as ENs. [ citation needed ]\nETSI develops standards in key global technologies such as: GSM , TETRA , 3G , 4G , 5G , DECT . [ citation needed ]\nETSI's standardization activities are organized around sectors: Home & Office, Better Living with ICT, Content Delivery, Networks, Wireless Systems , Transportation, Connecting Things, Interoperability, Public Safety and Security. Technical activities are carried out in the different ETSI technical groups (Technical Committee (TC), ETSI Project (EP), ETSI Partnership Project (EPP), Industry Specification Group (ISG), and Special Committee (SC). ETSI's Cloud Group aims to consider standardisation within cloud computing and conformity with interoperability standards in this field.\nIn October 2023, ETSI reported a data breach. Hackers stole a database containing information on ETSI's online users."
+      },
+      {
+        "heading": "Membership",
+        "text": "ETSI has more than 900 member organizations worldwide from 65 countries and five continents. Its community is diverse and includes all the key stakeholders of the ICT sector: private companies, research entities, academia, government and public bodies as well as societal stakeholders. Small and Medium Enterprises (SMEs) and Micro-Enterprises (MEs) represent more than a quarter of ETSI's total membership. The list of current members can be found on the ETSI website.\nMembership contributions are calculated depending on the type of membership. Members' and associate members' contributions are calculated by class which is derived from the member company's annual ECRT band."
+      },
+      {
+        "heading": "Location",
+        "text": "The organisation is located in Sophia-Antipolis , in the south of France ."
+      },
+      {
+        "heading": "See also",
+        "text": "EN 301 549 Radio Equipment Directive List of EN standards"
+      },
+      {
+        "heading": "External links",
+        "text": "Official website"
+      }
+    ],
+    "full_text": "Introduction\nThe European Telecommunications Standards Institute ( ETSI ) is an independent, not-for-profit, standardization organization operating in the field of information and communications . ETSI supports the development and testing of global technical standards for ICT-enabled systems, applications and services.\n\nOverview and history\nETSI was set up in 1988 by the European Conference of Postal and Telecommunications Administrations (CEPT) following a proposal from the European Commission (EC). ETSI is the officially recognized body with a responsibility for the standardization of information and communication technologies (ICT). It is one of the three bodies officially recognized by the European Union as a European Standards Organisation (ESO), the others being CEN and CENELEC . The role of the ESOs is to support EU regulation and policies through the production of harmonised European Standards (ENs) and other deliverables. The standards developed by ESOs are the only ones that can be recognized as ENs. [ citation needed ]\nETSI develops standards in key global technologies such as: GSM , TETRA , 3G , 4G , 5G , DECT . [ citation needed ]\nETSI's standardization activities are organized around sectors: Home & Office, Better Living with ICT, Content Delivery, Networks, Wireless Systems , Transportation, Connecting Things, Interoperability, Public Safety and Security. Technical activities are carried out in the different ETSI technical groups (Technical Committee (TC), ETSI Project (EP), ETSI Partnership Project (EPP), Industry Specification Group (ISG), and Special Committee (SC). ETSI's Cloud Group aims to consider standardisation within cloud computing and conformity with interoperability standards in this field.\nIn October 2023, ETSI reported a data breach. Hackers stole a database containing information on ETSI's online users.\n\nMembership\nETSI has more than 900 member organizations worldwide from 65 countries and five continents. Its community is diverse and includes all the key stakeholders of the ICT sector: private companies, research entities, academia, government and public bodies as well as societal stakeholders. Small and Medium Enterprises (SMEs) and Micro-Enterprises (MEs) represent more than a quarter of ETSI's total membership. The list of current members can be found on the ETSI website.\nMembership contributions are calculated depending on the type of membership. Members' and associate members' contributions are calculated by class which is derived from the member company's annual ECRT band.\n\nLocation\nThe organisation is located in Sophia-Antipolis , in the south of France .\n\nSee also\nEN 301 549 Radio Equipment Directive List of EN standards\n\nExternal links\nOfficial website"
+  },
+  "references": [
+    {
+      "url": "https://uia.org/s/or/en/1100037130",
+      "label": "\"European Telecommunications Standards Institute (ETSI)\""
+    },
+    {
+      "url": "https://www.gartner.com/en/information-technology/glossary/etsi-european-telecommunications-standards-institute",
+      "label": "\"Definition of ETSI (European Telecommunications Standards Institute) - Gartner Information Technology Glossary\""
+    },
+    {
+      "url": "https://ec.europa.eu/info/law/better-regulation/",
+      "label": "\"Feedback from: ETSI\""
+    },
+    {
+      "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=COM:2012:0529:FIN:EN:PDF",
+      "label": "Unleashing the Potential of Cloud Computing in Europe"
+    },
+    {
+      "url": "https://www.telecomrevieweurope.com/articles/reports-and-coverage/etsi-faces-cyberattack-hackers-steal-user-database/",
+      "label": "\"ETSI Faces Cyberattack, Hackers Steal User Database - Telecom Review Europe\""
+    },
+    {
+      "url": "https://www.oodaloop.com/cyber/2023/10/03/european-telecommunications-standards-institute-discloses-data-breach/",
+      "label": "\"European Telecommunications Standards Institute Discloses Data Breach\""
+    },
+    {
+      "url": "https://gbhackers.com/hackers-steal-users-database/",
+      "label": "\"Hackers Steal User's Database From European Telecommunications Standards Institute\""
+    },
+    {
+      "url": "https://www.etsi.org/membership/dues",
+      "label": "\"Calculation of ETSI members' contributions\""
+    },
+    {
+      "url": "https://www.3gpp.org/about-us/mobile-competence-centre",
+      "label": "\"Mobile Competence Centre\""
+    }
+  ],
+  "outgoing_links": [
+    {
+      "title": "3G",
+      "url": "https://en.wikipedia.org/wiki/3G"
+    },
+    {
+      "title": "3GPP",
+      "url": "https://en.wikipedia.org/wiki/3GPP"
+    },
+    {
+      "title": "4G",
+      "url": "https://en.wikipedia.org/wiki/4G"
+    },
+    {
+      "title": "5G",
+      "url": "https://en.wikipedia.org/wiki/5G"
+    },
+    {
+      "title": "ARPANET",
+      "url": "https://en.wikipedia.org/wiki/ARPANET"
+    },
+    {
+      "title": "AUTOSAR",
+      "url": "https://en.wikipedia.org/wiki/AUTOSAR"
+    },
+    {
+      "title": "Accellera",
+      "url": "https://en.wikipedia.org/wiki/Accellera"
+    },
+    {
+      "title": "Agencia Espacial Española",
+      "url": "https://en.wikipedia.org/wiki/Agencia_Espacial_Espa%C3%B1ola"
+    },
+    {
+      "title": "Agencia Espacial Mexicana",
+      "url": "https://en.wikipedia.org/wiki/Agencia_Espacial_Mexicana"
+    },
+    {
+      "title": "Alexander Graham Bell",
+      "url": "https://en.wikipedia.org/wiki/Alexander_Graham_Bell"
+    },
+    {
+      "title": "Alexander Stepanovich Popov",
+      "url": "https://en.wikipedia.org/wiki/Alexander_Stepanovich_Popov"
+    },
+    {
+      "title": "Alfred Vail",
+      "url": "https://en.wikipedia.org/wiki/Alfred_Vail"
+    },
+    {
+      "title": "Algerian Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Algerian_Space_Agency"
+    },
+    {
+      "title": "Almon Brown Strowger",
+      "url": "https://en.wikipedia.org/wiki/Almon_Brown_Strowger"
+    },
+    {
+      "title": "Amos Dolbear",
+      "url": "https://en.wikipedia.org/wiki/Amos_Dolbear"
+    },
+    {
+      "title": "Antonio Meucci",
+      "url": "https://en.wikipedia.org/wiki/Antonio_Meucci"
+    },
+    {
+      "title": "Antrix Corporation",
+      "url": "https://en.wikipedia.org/wiki/Antrix_Corporation"
+    },
+    {
+      "title": "Arab Satellite Communications Organization",
+      "url": "https://en.wikipedia.org/wiki/Arab_Satellite_Communications_Organization"
+    },
+    {
+      "title": "ArmCosmos",
+      "url": "https://en.wikipedia.org/wiki/ArmCosmos"
+    },
+    {
+      "title": "Asia-Pacific Space Cooperation Organization",
+      "url": "https://en.wikipedia.org/wiki/Asia-Pacific_Space_Cooperation_Organization"
+    },
+    {
+      "title": "Association for Standardisation of Automation and Measuring Systems",
+      "url": "https://en.wikipedia.org/wiki/Association_for_Standardisation_of_Automation_and_Measuring_Systems"
+    },
+    {
+      "title": "Audio coding format",
+      "url": "https://en.wikipedia.org/wiki/Audio_coding_format"
+    },
+    {
+      "title": "Australian Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Australian_Space_Agency"
+    },
+    {
+      "title": "Austrian Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Austrian_Space_Agency"
+    },
+    {
+      "title": "Azerbaijan National Aerospace Agency",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijan_National_Aerospace_Agency"
+    },
+    {
+      "title": "BITNET",
+      "url": "https://en.wikipedia.org/wiki/BITNET"
+    },
+    {
+      "title": "Bandwidth (computing)",
+      "url": "https://en.wikipedia.org/wiki/Bandwidth_%28computing%29"
+    },
+    {
+      "title": "Bangladesh Space Research and Remote Sensing Organization",
+      "url": "https://en.wikipedia.org/wiki/Bangladesh_Space_Research_and_Remote_Sensing_Organization"
+    },
+    {
+      "title": "Beacon",
+      "url": "https://en.wikipedia.org/wiki/Beacon"
+    },
+    {
+      "title": "Belarus Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Belarus_Space_Agency"
+    },
+    {
+      "title": "Belgian Institute for Space Aeronomy",
+      "url": "https://en.wikipedia.org/wiki/Belgian_Institute_for_Space_Aeronomy"
+    },
+    {
+      "title": "Bluetooth Special Interest Group",
+      "url": "https://en.wikipedia.org/wiki/Bluetooth_Special_Interest_Group"
+    },
+    {
+      "title": "Bob Kahn",
+      "url": "https://en.wikipedia.org/wiki/Bob_Kahn"
+    },
+    {
+      "title": "Body of European Regulators for Electronic Communications",
+      "url": "https://en.wikipedia.org/wiki/Body_of_European_Regulators_for_Electronic_Communications"
+    },
+    {
+      "title": "Bolivarian Agency for Space Activities",
+      "url": "https://en.wikipedia.org/wiki/Bolivarian_Agency_for_Space_Activities"
+    },
+    {
+      "title": "Bolivian Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Bolivian_Space_Agency"
+    },
+    {
+      "title": "Brazilian Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Brazilian_Space_Agency"
+    },
+    {
+      "title": "British National Space Centre",
+      "url": "https://en.wikipedia.org/wiki/British_National_Space_Centre"
+    },
+    {
+      "title": "Broadband Forum",
+      "url": "https://en.wikipedia.org/wiki/Broadband_Forum"
+    },
+    {
+      "title": "CENELEC",
+      "url": "https://en.wikipedia.org/wiki/CENELEC"
+    },
+    {
+      "title": "CNES",
+      "url": "https://en.wikipedia.org/wiki/CNES"
+    },
+    {
+      "title": "CSIRO",
+      "url": "https://en.wikipedia.org/wiki/CSIRO"
+    },
+    {
+      "title": "CYCLADES",
+      "url": "https://en.wikipedia.org/wiki/CYCLADES"
+    },
+    {
+      "title": "Cable protection system",
+      "url": "https://en.wikipedia.org/wiki/Cable_protection_system"
+    },
+    {
+      "title": "Cable television",
+      "url": "https://en.wikipedia.org/wiki/Cable_television"
+    },
+    {
+      "title": "Camille Tissot",
+      "url": "https://en.wikipedia.org/wiki/Camille_Tissot"
+    },
+    {
+      "title": "Canadian Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Canadian_Space_Agency"
+    },
+    {
+      "title": "Catalan Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Catalan_Space_Agency"
+    },
+    {
+      "title": "Cellular network",
+      "url": "https://en.wikipedia.org/wiki/Cellular_network"
+    },
+    {
+      "title": "Charles Bourseul",
+      "url": "https://en.wikipedia.org/wiki/Charles_Bourseul"
+    },
+    {
+      "title": "Charles Grafton Page",
+      "url": "https://en.wikipedia.org/wiki/Charles_Grafton_Page"
+    },
+    {
+      "title": "Charles K. Kao",
+      "url": "https://en.wikipedia.org/wiki/Charles_K._Kao"
+    },
+    {
+      "title": "Charles Sumner Tainter",
+      "url": "https://en.wikipedia.org/wiki/Charles_Sumner_Tainter"
+    },
+    {
+      "title": "Charles Wheatstone",
+      "url": "https://en.wikipedia.org/wiki/Charles_Wheatstone"
+    },
+    {
+      "title": "China Academy of Launch Vehicle Technology",
+      "url": "https://en.wikipedia.org/wiki/China_Academy_of_Launch_Vehicle_Technology"
+    },
+    {
+      "title": "China Academy of Space Technology",
+      "url": "https://en.wikipedia.org/wiki/China_Academy_of_Space_Technology"
+    },
+    {
+      "title": "China Aerospace Science and Industry Corporation",
+      "url": "https://en.wikipedia.org/wiki/China_Aerospace_Science_and_Industry_Corporation"
+    },
+    {
+      "title": "China Aerospace Science and Technology Corporation",
+      "url": "https://en.wikipedia.org/wiki/China_Aerospace_Science_and_Technology_Corporation"
+    },
+    {
+      "title": "China Chang Feng",
+      "url": "https://en.wikipedia.org/wiki/China_Chang_Feng"
+    },
+    {
+      "title": "China National Space Administration",
+      "url": "https://en.wikipedia.org/wiki/China_National_Space_Administration"
+    },
+    {
+      "title": "Circuit switching",
+      "url": "https://en.wikipedia.org/wiki/Circuit_switching"
+    },
+    {
+      "title": "Civil Aviation Authority (Poland)",
+      "url": "https://en.wikipedia.org/wiki/Civil_Aviation_Authority_%28Poland%29"
+    },
+    {
+      "title": "Claude Chappe",
+      "url": "https://en.wikipedia.org/wiki/Claude_Chappe"
+    },
+    {
+      "title": "Claude Shannon",
+      "url": "https://en.wikipedia.org/wiki/Claude_Shannon"
+    },
+    {
+      "title": "Cloud computing",
+      "url": "https://en.wikipedia.org/wiki/Cloud_computing"
+    },
+    {
+      "title": "Coaxial cable",
+      "url": "https://en.wikipedia.org/wiki/Coaxial_cable"
+    },
+    {
+      "title": "Code-division multiple access",
+      "url": "https://en.wikipedia.org/wiki/Code-division_multiple_access"
+    },
+    {
+      "title": "Colombian Space Commission",
+      "url": "https://en.wikipedia.org/wiki/Colombian_Space_Commission"
+    },
+    {
+      "title": "Committee on Earth Observation Satellites",
+      "url": "https://en.wikipedia.org/wiki/Committee_on_Earth_Observation_Satellites"
+    },
+    {
+      "title": "Committee on Space Research",
+      "url": "https://en.wikipedia.org/wiki/Committee_on_Space_Research"
+    },
+    {
+      "title": "Communication protocol",
+      "url": "https://en.wikipedia.org/wiki/Communication_protocol"
+    },
+    {
+      "title": "Communications satellite",
+      "url": "https://en.wikipedia.org/wiki/Communications_satellite"
+    },
+    {
+      "title": "Computer network",
+      "url": "https://en.wikipedia.org/wiki/Computer_network"
+    },
+    {
+      "title": "Connectivity Standards Alliance",
+      "url": "https://en.wikipedia.org/wiki/Connectivity_Standards_Alliance"
+    },
+    {
+      "title": "Consultative Committee for Space Data Systems",
+      "url": "https://en.wikipedia.org/wiki/Consultative_Committee_for_Space_Data_Systems"
+    },
+    {
+      "title": "Czech Space Office",
+      "url": "https://en.wikipedia.org/wiki/Czech_Space_Office"
+    },
+    {
+      "title": "DECT",
+      "url": "https://en.wikipedia.org/wiki/DECT"
+    },
+    {
+      "title": "DMTF",
+      "url": "https://en.wikipedia.org/wiki/DMTF"
+    },
+    {
+      "title": "DTU Space",
+      "url": "https://en.wikipedia.org/wiki/DTU_Space"
+    },
+    {
+      "title": "Daniel Davis Jr.",
+      "url": "https://en.wikipedia.org/wiki/Daniel_Davis_Jr."
+    },
+    {
+      "title": "Data communication",
+      "url": "https://en.wikipedia.org/wiki/Data_communication"
+    },
+    {
+      "title": "Data compression",
+      "url": "https://en.wikipedia.org/wiki/Data_compression"
+    },
+    {
+      "title": "Dawon Kahng",
+      "url": "https://en.wikipedia.org/wiki/Dawon_Kahng"
+    },
+    {
+      "title": "Defence Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Defence_Space_Agency"
+    },
+    {
+      "title": "Department of Aerospace Science and Technology",
+      "url": "https://en.wikipedia.org/wiki/Department_of_Aerospace_Science_and_Technology"
+    },
+    {
+      "title": "Department of Space",
+      "url": "https://en.wikipedia.org/wiki/Department_of_Space"
+    },
+    {
+      "title": "Digital media",
+      "url": "https://en.wikipedia.org/wiki/Digital_media"
+    },
+    {
+      "title": "Digital television",
+      "url": "https://en.wikipedia.org/wiki/Digital_television"
+    },
+    {
+      "title": "Directorate-General for Defence Industry and Space",
+      "url": "https://en.wikipedia.org/wiki/Directorate-General_for_Defence_Industry_and_Space"
+    },
+    {
+      "title": "Discrete cosine transform",
+      "url": "https://en.wikipedia.org/wiki/Discrete_cosine_transform"
+    },
+    {
+      "title": "Donald Davies",
+      "url": "https://en.wikipedia.org/wiki/Donald_Davies"
+    },
+    {
+      "title": "Drums in communication",
+      "url": "https://en.wikipedia.org/wiki/Drums_in_communication"
+    },
+    {
+      "title": "EN 301 549",
+      "url": "https://en.wikipedia.org/wiki/EN_301_549"
+    },
+    {
+      "title": "ESA Centre for Earth Observation",
+      "url": "https://en.wikipedia.org/wiki/ESA_Centre_for_Earth_Observation"
+    },
+    {
+      "title": "ESTRACK",
+      "url": "https://en.wikipedia.org/wiki/ESTRACK"
+    },
+    {
+      "title": "Ecma International",
+      "url": "https://en.wikipedia.org/wiki/Ecma_International"
+    },
+    {
+      "title": "Edholm's law",
+      "url": "https://en.wikipedia.org/wiki/Edholm%27s_law"
+    },
+    {
+      "title": "Edwin Howard Armstrong",
+      "url": "https://en.wikipedia.org/wiki/Edwin_Howard_Armstrong"
+    },
+    {
+      "title": "Egyptian Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Egyptian_Space_Agency"
+    },
+    {
+      "title": "Electrical telegraph",
+      "url": "https://en.wikipedia.org/wiki/Electrical_telegraph"
+    },
+    {
+      "title": "Elisha Gray",
+      "url": "https://en.wikipedia.org/wiki/Elisha_Gray"
+    },
+    {
+      "title": "Emile Berliner",
+      "url": "https://en.wikipedia.org/wiki/Emile_Berliner"
+    },
+    {
+      "title": "Erna Schneider Hoover",
+      "url": "https://en.wikipedia.org/wiki/Erna_Schneider_Hoover"
+    },
+    {
+      "title": "Estonian Space Office",
+      "url": "https://en.wikipedia.org/wiki/Estonian_Space_Office"
+    },
+    {
+      "title": "Ethernet",
+      "url": "https://en.wikipedia.org/wiki/Ethernet"
+    },
+    {
+      "title": "Ethiopian Space Science and Technology Institute",
+      "url": "https://en.wikipedia.org/wiki/Ethiopian_Space_Science_and_Technology_Institute"
+    },
+    {
+      "title": "Etsy",
+      "url": "https://en.wikipedia.org/wiki/Etsy"
+    },
+    {
+      "title": "Eurocontrol",
+      "url": "https://en.wikipedia.org/wiki/Eurocontrol"
+    },
+    {
+      "title": "European Astronaut Centre",
+      "url": "https://en.wikipedia.org/wiki/European_Astronaut_Centre"
+    },
+    {
+      "title": "European Centre for Space Applications and Telecommunications",
+      "url": "https://en.wikipedia.org/wiki/European_Centre_for_Space_Applications_and_Telecommunications"
+    },
+    {
+      "title": "European Civil Aviation Conference",
+      "url": "https://en.wikipedia.org/wiki/European_Civil_Aviation_Conference"
+    },
+    {
+      "title": "European Commission",
+      "url": "https://en.wikipedia.org/wiki/European_Commission"
+    },
+    {
+      "title": "European Committee for Electrotechnical Standardization",
+      "url": "https://en.wikipedia.org/wiki/European_Committee_for_Electrotechnical_Standardization"
+    },
+    {
+      "title": "European Committee for Standardization",
+      "url": "https://en.wikipedia.org/wiki/European_Committee_for_Standardization"
+    },
+    {
+      "title": "European Conference of Postal and Telecommunications Administrations",
+      "url": "https://en.wikipedia.org/wiki/European_Conference_of_Postal_and_Telecommunications_Administrations"
+    },
+    {
+      "title": "European Cooperation for Space Standardization",
+      "url": "https://en.wikipedia.org/wiki/European_Cooperation_for_Space_Standardization"
+    },
+    {
+      "title": "European Economic Area",
+      "url": "https://en.wikipedia.org/wiki/European_Economic_Area"
+    },
+    {
+      "title": "European Organisation for the Exploitation of Meteorological Satellites",
+      "url": "https://en.wikipedia.org/wiki/European_Organisation_for_the_Exploitation_of_Meteorological_Satellites"
+    },
+    {
+      "title": "European Southern Observatory",
+      "url": "https://en.wikipedia.org/wiki/European_Southern_Observatory"
+    },
+    {
+      "title": "European Space Agency",
+      "url": "https://en.wikipedia.org/wiki/European_Space_Agency"
+    },
+    {
+      "title": "European Space Astronomy Centre",
+      "url": "https://en.wikipedia.org/wiki/European_Space_Astronomy_Centre"
+    },
+    {
+      "title": "European Space Operations Centre",
+      "url": "https://en.wikipedia.org/wiki/European_Space_Operations_Centre"
+    },
+    {
+      "title": "European Space Research and Technology Centre",
+      "url": "https://en.wikipedia.org/wiki/European_Space_Research_and_Technology_Centre"
+    },
+    {
+      "title": "European Standard",
+      "url": "https://en.wikipedia.org/wiki/European_Standard"
+    },
+    {
+      "title": "European Standards Organisation",
+      "url": "https://en.wikipedia.org/wiki/European_Standards_Organisation"
+    },
+    {
+      "title": "European Telecommunications Satellite Organization",
+      "url": "https://en.wikipedia.org/wiki/European_Telecommunications_Satellite_Organization"
+    },
+    {
+      "title": "European Union",
+      "url": "https://en.wikipedia.org/wiki/European_Union"
+    },
+    {
+      "title": "European Union Agency for the Space Programme",
+      "url": "https://en.wikipedia.org/wiki/European_Union_Agency_for_the_Space_Programme"
+    },
+    {
+      "title": "European Union Aviation Safety Agency",
+      "url": "https://en.wikipedia.org/wiki/European_Union_Aviation_Safety_Agency"
+    },
+    {
+      "title": "European Union Satellite Centre",
+      "url": "https://en.wikipedia.org/wiki/European_Union_Satellite_Centre"
+    },
+    {
+      "title": "Fax",
+      "url": "https://en.wikipedia.org/wiki/Fax"
+    },
+    {
+      "title": "Federal Communications Commission",
+      "url": "https://en.wikipedia.org/wiki/Federal_Communications_Commission"
+    },
+    {
+      "title": "Federal Public Planning Service Science Policy",
+      "url": "https://en.wikipedia.org/wiki/Federal_Public_Planning_Service_Science_Policy"
+    },
+    {
+      "title": "Fiber-optic communication",
+      "url": "https://en.wikipedia.org/wiki/Fiber-optic_communication"
+    },
+    {
+      "title": "FidoNet",
+      "url": "https://en.wikipedia.org/wiki/FidoNet"
+    },
+    {
+      "title": "France",
+      "url": "https://en.wikipedia.org/wiki/France"
+    },
+    {
+      "title": "Francis Blake (inventor)",
+      "url": "https://en.wikipedia.org/wiki/Francis_Blake_%28inventor%29"
+    },
+    {
+      "title": "Free-space optical communication",
+      "url": "https://en.wikipedia.org/wiki/Free-space_optical_communication"
+    },
+    {
+      "title": "French Air and Space Force",
+      "url": "https://en.wikipedia.org/wiki/French_Air_and_Space_Force"
+    },
+    {
+      "title": "French Space Command",
+      "url": "https://en.wikipedia.org/wiki/French_Space_Command"
+    },
+    {
+      "title": "Frequency-division multiplexing",
+      "url": "https://en.wikipedia.org/wiki/Frequency-division_multiplexing"
+    },
+    {
+      "title": "GSM",
+      "url": "https://en.wikipedia.org/wiki/GSM"
+    },
+    {
+      "title": "Gardiner Greene Hubbard",
+      "url": "https://en.wikipedia.org/wiki/Gardiner_Greene_Hubbard"
+    },
+    {
+      "title": "General Organization of Remote Sensing",
+      "url": "https://en.wikipedia.org/wiki/General_Organization_of_Remote_Sensing"
+    },
+    {
+      "title": "Geo-Informatics and Space Technology Development Agency",
+      "url": "https://en.wikipedia.org/wiki/Geo-Informatics_and_Space_Technology_Development_Agency"
+    },
+    {
+      "title": "German Aerospace Center",
+      "url": "https://en.wikipedia.org/wiki/German_Aerospace_Center"
+    },
+    {
+      "title": "Ghana Space Science and Technology Centre",
+      "url": "https://en.wikipedia.org/wiki/Ghana_Space_Science_and_Technology_Centre"
+    },
+    {
+      "title": "Global Standards Collaboration",
+      "url": "https://en.wikipedia.org/wiki/Global_Standards_Collaboration"
+    },
+    {
+      "title": "Group on Earth Observations",
+      "url": "https://en.wikipedia.org/wiki/Group_on_Earth_Observations"
+    },
+    {
+      "title": "Guglielmo Marconi",
+      "url": "https://en.wikipedia.org/wiki/Guglielmo_Marconi"
+    },
+    {
+      "title": "Guiana Space Centre",
+      "url": "https://en.wikipedia.org/wiki/Guiana_Space_Centre"
+    },
+    {
+      "title": "Harold Hopkins (physicist)",
+      "url": "https://en.wikipedia.org/wiki/Harold_Hopkins_%28physicist%29"
+    },
+    {
+      "title": "Hedy Lamarr",
+      "url": "https://en.wikipedia.org/wiki/Hedy_Lamarr"
+    },
+    {
+      "title": "Heliograph",
+      "url": "https://en.wikipedia.org/wiki/Heliograph"
+    },
+    {
+      "title": "Hellenic Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Hellenic_Space_Agency"
+    },
+    {
+      "title": "Henry Sutton (inventor)",
+      "url": "https://en.wikipedia.org/wiki/Henry_Sutton_%28inventor%29"
+    },
+    {
+      "title": "History of broadcasting",
+      "url": "https://en.wikipedia.org/wiki/History_of_broadcasting"
+    },
+    {
+      "title": "History of mobile phones",
+      "url": "https://en.wikipedia.org/wiki/History_of_mobile_phones"
+    },
+    {
+      "title": "History of prepaid mobile phones",
+      "url": "https://en.wikipedia.org/wiki/History_of_prepaid_mobile_phones"
+    },
+    {
+      "title": "History of radio",
+      "url": "https://en.wikipedia.org/wiki/History_of_radio"
+    },
+    {
+      "title": "History of telecommunication",
+      "url": "https://en.wikipedia.org/wiki/History_of_telecommunication"
+    },
+    {
+      "title": "History of television",
+      "url": "https://en.wikipedia.org/wiki/History_of_television"
+    },
+    {
+      "title": "History of the Internet",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_Internet"
+    },
+    {
+      "title": "History of the telephone",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_telephone"
+    },
+    {
+      "title": "History of the transistor",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_transistor"
+    },
+    {
+      "title": "History of videotelephony",
+      "url": "https://en.wikipedia.org/wiki/History_of_videotelephony"
+    },
+    {
+      "title": "Hungarian Space Office",
+      "url": "https://en.wikipedia.org/wiki/Hungarian_Space_Office"
+    },
+    {
+      "title": "Hydraulic telegraph",
+      "url": "https://en.wikipedia.org/wiki/Hydraulic_telegraph"
+    },
+    {
+      "title": "IEEE Standards Association",
+      "url": "https://en.wikipedia.org/wiki/IEEE_Standards_Association"
+    },
+    {
+      "title": "ISRO",
+      "url": "https://en.wikipedia.org/wiki/ISRO"
+    },
+    {
+      "title": "ITU-R",
+      "url": "https://en.wikipedia.org/wiki/ITU-R"
+    },
+    {
+      "title": "Image compression",
+      "url": "https://en.wikipedia.org/wiki/Image_compression"
+    },
+    {
+      "title": "Indian National Committee for Space Research",
+      "url": "https://en.wikipedia.org/wiki/Indian_National_Committee_for_Space_Research"
+    },
+    {
+      "title": "Indonesian Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Indonesian_Space_Agency"
+    },
+    {
+      "title": "Information Age",
+      "url": "https://en.wikipedia.org/wiki/Information_Age"
+    },
+    {
+      "title": "Information and communication technologies",
+      "url": "https://en.wikipedia.org/wiki/Information_and_communication_technologies"
+    },
+    {
+      "title": "Information and communications technology",
+      "url": "https://en.wikipedia.org/wiki/Information_and_communications_technology"
+    },
+    {
+      "title": "Information revolution",
+      "url": "https://en.wikipedia.org/wiki/Information_revolution"
+    },
+    {
+      "title": "Ingolstadt Manching Airport",
+      "url": "https://en.wikipedia.org/wiki/Ingolstadt_Manching_Airport"
+    },
+    {
+      "title": "Innocenzo Manzetti",
+      "url": "https://en.wikipedia.org/wiki/Innocenzo_Manzetti"
+    },
+    {
+      "title": "Institute of Space and Astronautical Science",
+      "url": "https://en.wikipedia.org/wiki/Institute_of_Space_and_Astronautical_Science"
+    },
+    {
+      "title": "Instituto Tecnológico de Aeronáutica",
+      "url": "https://en.wikipedia.org/wiki/Instituto_Tecnol%C3%B3gico_de_Aeron%C3%A1utica"
+    },
+    {
+      "title": "Integrated Services Digital Network",
+      "url": "https://en.wikipedia.org/wiki/Integrated_Services_Digital_Network"
+    },
+    {
+      "title": "Inter-Agency Space Debris Coordination Committee",
+      "url": "https://en.wikipedia.org/wiki/Inter-Agency_Space_Debris_Coordination_Committee"
+    },
+    {
+      "title": "Interkosmos",
+      "url": "https://en.wikipedia.org/wiki/Interkosmos"
+    },
+    {
+      "title": "International Charter 'Space and Major Disasters'",
+      "url": "https://en.wikipedia.org/wiki/International_Charter_%27Space_and_Major_Disasters%27"
+    },
+    {
+      "title": "International Cospas-Sarsat Programme",
+      "url": "https://en.wikipedia.org/wiki/International_Cospas-Sarsat_Programme"
+    },
+    {
+      "title": "International Electrotechnical Commission",
+      "url": "https://en.wikipedia.org/wiki/International_Electrotechnical_Commission"
+    },
+    {
+      "title": "International Mobile Satellite Organization",
+      "url": "https://en.wikipedia.org/wiki/International_Mobile_Satellite_Organization"
+    },
+    {
+      "title": "International Organization for Standardization",
+      "url": "https://en.wikipedia.org/wiki/International_Organization_for_Standardization"
+    },
+    {
+      "title": "International Planetary Data Alliance",
+      "url": "https://en.wikipedia.org/wiki/International_Planetary_Data_Alliance"
+    },
+    {
+      "title": "International Space Station Multilateral Coordination Board",
+      "url": "https://en.wikipedia.org/wiki/International_Space_Station_Multilateral_Coordination_Board"
+    },
+    {
+      "title": "International Telecommunication Union",
+      "url": "https://en.wikipedia.org/wiki/International_Telecommunication_Union"
+    },
+    {
+      "title": "International Telecommunications Satellite Organization",
+      "url": "https://en.wikipedia.org/wiki/International_Telecommunications_Satellite_Organization"
+    },
+    {
+      "title": "Internet",
+      "url": "https://en.wikipedia.org/wiki/Internet"
+    },
+    {
+      "title": "Internet2",
+      "url": "https://en.wikipedia.org/wiki/Internet2"
+    },
+    {
+      "title": "Internet Engineering Task Force",
+      "url": "https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force"
+    },
+    {
+      "title": "Internet video",
+      "url": "https://en.wikipedia.org/wiki/Internet_video"
+    },
+    {
+      "title": "Intersputnik",
+      "url": "https://en.wikipedia.org/wiki/Intersputnik"
+    },
+    {
+      "title": "Iranian Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Iranian_Space_Agency"
+    },
+    {
+      "title": "Iranian Space Research Center",
+      "url": "https://en.wikipedia.org/wiki/Iranian_Space_Research_Center"
+    },
+    {
+      "title": "Islamic Revolutionary Guard Corps Aerospace Force",
+      "url": "https://en.wikipedia.org/wiki/Islamic_Revolutionary_Guard_Corps_Aerospace_Force"
+    },
+    {
+      "title": "Israel Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Israel_Space_Agency"
+    },
+    {
+      "title": "Italian Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Italian_Space_Agency"
+    },
+    {
+      "title": "JANET",
+      "url": "https://en.wikipedia.org/wiki/JANET"
+    },
+    {
+      "title": "JAXA",
+      "url": "https://en.wikipedia.org/wiki/JAXA"
+    },
+    {
+      "title": "JEDEC",
+      "url": "https://en.wikipedia.org/wiki/JEDEC"
+    },
+    {
+      "title": "Jagadish Chandra Bose",
+      "url": "https://en.wikipedia.org/wiki/Jagadish_Chandra_Bose"
+    },
+    {
+      "title": "Japan Space Systems",
+      "url": "https://en.wikipedia.org/wiki/Japan_Space_Systems"
+    },
+    {
+      "title": "Johann Philipp Reis",
+      "url": "https://en.wikipedia.org/wiki/Johann_Philipp_Reis"
+    },
+    {
+      "title": "John Bardeen",
+      "url": "https://en.wikipedia.org/wiki/John_Bardeen"
+    },
+    {
+      "title": "John Logie Baird",
+      "url": "https://en.wikipedia.org/wiki/John_Logie_Baird"
+    },
+    {
+      "title": "Jun-ichi Nishizawa",
+      "url": "https://en.wikipedia.org/wiki/Jun-ichi_Nishizawa"
+    },
+    {
+      "title": "KAIST Satellite Technology Research Center",
+      "url": "https://en.wikipedia.org/wiki/KAIST_Satellite_Technology_Research_Center"
+    },
+    {
+      "title": "KazCosmos",
+      "url": "https://en.wikipedia.org/wiki/KazCosmos"
+    },
+    {
+      "title": "Kenya Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Kenya_Space_Agency"
+    },
+    {
+      "title": "Khronos Group",
+      "url": "https://en.wikipedia.org/wiki/Khronos_Group"
+    },
+    {
+      "title": "King Abdulaziz City for Science and Technology",
+      "url": "https://en.wikipedia.org/wiki/King_Abdulaziz_City_for_Science_and_Technology"
+    },
+    {
+      "title": "Korea AeroSpace Administration",
+      "url": "https://en.wikipedia.org/wiki/Korea_AeroSpace_Administration"
+    },
+    {
+      "title": "Korea Aerospace Research Institute",
+      "url": "https://en.wikipedia.org/wiki/Korea_Aerospace_Research_Institute"
+    },
+    {
+      "title": "Korea Astronomy and Space Science Institute",
+      "url": "https://en.wikipedia.org/wiki/Korea_Astronomy_and_Space_Science_Institute"
+    },
+    {
+      "title": "Korean Committee of Space Technology",
+      "url": "https://en.wikipedia.org/wiki/Korean_Committee_of_Space_Technology"
+    },
+    {
+      "title": "Latin American and Caribbean Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Latin_American_and_Caribbean_Space_Agency"
+    },
+    {
+      "title": "Lee de Forest",
+      "url": "https://en.wikipedia.org/wiki/Lee_de_Forest"
+    },
+    {
+      "title": "List of EN standards",
+      "url": "https://en.wikipedia.org/wiki/List_of_EN_standards"
+    },
+    {
+      "title": "List of Internet pioneers",
+      "url": "https://en.wikipedia.org/wiki/List_of_Internet_pioneers"
+    },
+    {
+      "title": "List of government space agencies",
+      "url": "https://en.wikipedia.org/wiki/List_of_government_space_agencies"
+    },
+    {
+      "title": "List of packet-switched networks",
+      "url": "https://en.wikipedia.org/wiki/List_of_packet-switched_networks"
+    },
+    {
+      "title": "List of technical standard organizations",
+      "url": "https://en.wikipedia.org/wiki/List_of_technical_standard_organizations"
+    },
+    {
+      "title": "List of telecommunications regulatory bodies",
+      "url": "https://en.wikipedia.org/wiki/List_of_telecommunications_regulatory_bodies"
+    },
+    {
+      "title": "Local area network",
+      "url": "https://en.wikipedia.org/wiki/Local_area_network"
+    },
+    {
+      "title": "Luxembourg Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Luxembourg_Space_Agency"
+    },
+    {
+      "title": "MIPI Alliance",
+      "url": "https://en.wikipedia.org/wiki/MIPI_Alliance"
+    },
+    {
+      "title": "MOSFET",
+      "url": "https://en.wikipedia.org/wiki/MOSFET"
+    },
+    {
+      "title": "Malaysian Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Malaysian_Space_Agency"
+    },
+    {
+      "title": "Mass media",
+      "url": "https://en.wikipedia.org/wiki/Mass_media"
+    },
+    {
+      "title": "Micro-enterprise",
+      "url": "https://en.wikipedia.org/wiki/Micro-enterprise"
+    },
+    {
+      "title": "Ministry of General Machine-Building",
+      "url": "https://en.wikipedia.org/wiki/Ministry_of_General_Machine-Building"
+    },
+    {
+      "title": "Mobile telephony",
+      "url": "https://en.wikipedia.org/wiki/Mobile_telephony"
+    },
+    {
+      "title": "Mohamed M. Atalla",
+      "url": "https://en.wikipedia.org/wiki/Mohamed_M._Atalla"
+    },
+    {
+      "title": "Mohammed bin Rashid Space Centre",
+      "url": "https://en.wikipedia.org/wiki/Mohammed_bin_Rashid_Space_Centre"
+    },
+    {
+      "title": "Molecular communication",
+      "url": "https://en.wikipedia.org/wiki/Molecular_communication"
+    },
+    {
+      "title": "Multiplexing",
+      "url": "https://en.wikipedia.org/wiki/Multiplexing"
+    },
+    {
+      "title": "Myanmar Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Myanmar_Space_Agency"
+    },
+    {
+      "title": "NASA",
+      "url": "https://en.wikipedia.org/wiki/NASA"
+    },
+    {
+      "title": "NPL network",
+      "url": "https://en.wikipedia.org/wiki/NPL_network"
+    },
+    {
+      "title": "Narinder Singh Kapany",
+      "url": "https://en.wikipedia.org/wiki/Narinder_Singh_Kapany"
+    },
+    {
+      "title": "Nasir Ahmed (engineer)",
+      "url": "https://en.wikipedia.org/wiki/Nasir_Ahmed_%28engineer%29"
+    },
+    {
+      "title": "National Aerospace Laboratory of Japan",
+      "url": "https://en.wikipedia.org/wiki/National_Aerospace_Laboratory_of_Japan"
+    },
+    {
+      "title": "National Aerospace Technology Administration",
+      "url": "https://en.wikipedia.org/wiki/National_Aerospace_Technology_Administration"
+    },
+    {
+      "title": "National Authority for Remote Sensing and Space Sciences",
+      "url": "https://en.wikipedia.org/wiki/National_Authority_for_Remote_Sensing_and_Space_Sciences"
+    },
+    {
+      "title": "National Broadcasting Council",
+      "url": "https://en.wikipedia.org/wiki/National_Broadcasting_Council"
+    },
+    {
+      "title": "National Committee for Space Research",
+      "url": "https://en.wikipedia.org/wiki/National_Committee_for_Space_Research"
+    },
+    {
+      "title": "National Environmental Satellite, Data, and Information Service",
+      "url": "https://en.wikipedia.org/wiki/National_Environmental_Satellite%2C_Data%2C_and_Information_Service"
+    },
+    {
+      "title": "National Institute for Aerospace Technology",
+      "url": "https://en.wikipedia.org/wiki/National_Institute_for_Aerospace_Technology"
+    },
+    {
+      "title": "National Institute for Space Research",
+      "url": "https://en.wikipedia.org/wiki/National_Institute_for_Space_Research"
+    },
+    {
+      "title": "National Institute of Aeronautics and Space",
+      "url": "https://en.wikipedia.org/wiki/National_Institute_of_Aeronautics_and_Space"
+    },
+    {
+      "title": "National Institute of Information and Communications Technology",
+      "url": "https://en.wikipedia.org/wiki/National_Institute_of_Information_and_Communications_Technology"
+    },
+    {
+      "title": "National Reconnaissance Office",
+      "url": "https://en.wikipedia.org/wiki/National_Reconnaissance_Office"
+    },
+    {
+      "title": "National Remote Sensing Centre",
+      "url": "https://en.wikipedia.org/wiki/National_Remote_Sensing_Centre"
+    },
+    {
+      "title": "National Research and Innovation Agency",
+      "url": "https://en.wikipedia.org/wiki/National_Research_and_Innovation_Agency"
+    },
+    {
+      "title": "National Space Activities Commission",
+      "url": "https://en.wikipedia.org/wiki/National_Space_Activities_Commission"
+    },
+    {
+      "title": "National Space Agency of Singapore",
+      "url": "https://en.wikipedia.org/wiki/National_Space_Agency_of_Singapore"
+    },
+    {
+      "title": "National Space Development Agency of Japan",
+      "url": "https://en.wikipedia.org/wiki/National_Space_Development_Agency_of_Japan"
+    },
+    {
+      "title": "National Space Research and Development Agency",
+      "url": "https://en.wikipedia.org/wiki/National_Space_Research_and_Development_Agency"
+    },
+    {
+      "title": "National Space Science Agency",
+      "url": "https://en.wikipedia.org/wiki/National_Space_Science_Agency"
+    },
+    {
+      "title": "Netherlands Institute for Space Research",
+      "url": "https://en.wikipedia.org/wiki/Netherlands_Institute_for_Space_Research"
+    },
+    {
+      "title": "Netherlands Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Netherlands_Space_Agency"
+    },
+    {
+      "title": "Network switch",
+      "url": "https://en.wikipedia.org/wiki/Network_switch"
+    },
+    {
+      "title": "Network topology",
+      "url": "https://en.wikipedia.org/wiki/Network_topology"
+    },
+    {
+      "title": "NewSpace India Limited",
+      "url": "https://en.wikipedia.org/wiki/NewSpace_India_Limited"
+    },
+    {
+      "title": "New Zealand Space Agency",
+      "url": "https://en.wikipedia.org/wiki/New_Zealand_Space_Agency"
+    },
+    {
+      "title": "Next-generation network",
+      "url": "https://en.wikipedia.org/wiki/Next-generation_network"
+    },
+    {
+      "title": "Nikola Tesla",
+      "url": "https://en.wikipedia.org/wiki/Nikola_Tesla"
+    },
+    {
+      "title": "Node (networking)",
+      "url": "https://en.wikipedia.org/wiki/Node_%28networking%29"
+    },
+    {
+      "title": "Norwegian Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Norwegian_Space_Agency"
+    },
+    {
+      "title": "OASIS Open",
+      "url": "https://en.wikipedia.org/wiki/OASIS_Open"
+    },
+    {
+      "title": "OPC Foundation",
+      "url": "https://en.wikipedia.org/wiki/OPC_Foundation"
+    },
+    {
+      "title": "Object Management Group",
+      "url": "https://en.wikipedia.org/wiki/Object_Management_Group"
+    },
+    {
+      "title": "Office of Commercial Space Transportation",
+      "url": "https://en.wikipedia.org/wiki/Office_of_Commercial_Space_Transportation"
+    },
+    {
+      "title": "Office of Space Commerce",
+      "url": "https://en.wikipedia.org/wiki/Office_of_Space_Commerce"
+    },
+    {
+      "title": "Oliver Heaviside",
+      "url": "https://en.wikipedia.org/wiki/Oliver_Heaviside"
+    },
+    {
+      "title": "Online video platform",
+      "url": "https://en.wikipedia.org/wiki/Online_video_platform"
+    },
+    {
+      "title": "Open Connectivity Foundation",
+      "url": "https://en.wikipedia.org/wiki/Open_Connectivity_Foundation"
+    },
+    {
+      "title": "Open Geospatial Consortium",
+      "url": "https://en.wikipedia.org/wiki/Open_Geospatial_Consortium"
+    },
+    {
+      "title": "Open Grid Forum",
+      "url": "https://en.wikipedia.org/wiki/Open_Grid_Forum"
+    },
+    {
+      "title": "Open Mobile Alliance",
+      "url": "https://en.wikipedia.org/wiki/Open_Mobile_Alliance"
+    },
+    {
+      "title": "Optical Internetworking Forum",
+      "url": "https://en.wikipedia.org/wiki/Optical_Internetworking_Forum"
+    },
+    {
+      "title": "Optical communication",
+      "url": "https://en.wikipedia.org/wiki/Optical_communication"
+    },
+    {
+      "title": "Optical fiber",
+      "url": "https://en.wikipedia.org/wiki/Optical_fiber"
+    },
+    {
+      "title": "Optical telegraph",
+      "url": "https://en.wikipedia.org/wiki/Optical_telegraph"
+    },
+    {
+      "title": "Orbital Debris Co-ordination Working Group",
+      "url": "https://en.wikipedia.org/wiki/Orbital_Debris_Co-ordination_Working_Group"
+    },
+    {
+      "title": "Orbital angular momentum multiplexing",
+      "url": "https://en.wikipedia.org/wiki/Orbital_angular_momentum_multiplexing"
+    },
+    {
+      "title": "Organization",
+      "url": "https://en.wikipedia.org/wiki/Organization"
+    },
+    {
+      "title": "Outline of telecommunication",
+      "url": "https://en.wikipedia.org/wiki/Outline_of_telecommunication"
+    },
+    {
+      "title": "PCI-SIG",
+      "url": "https://en.wikipedia.org/wiki/PCI-SIG"
+    },
+    {
+      "title": "PICMG",
+      "url": "https://en.wikipedia.org/wiki/PICMG"
+    },
+    {
+      "title": "Packet switching",
+      "url": "https://en.wikipedia.org/wiki/Packet_switching"
+    },
+    {
+      "title": "Pager",
+      "url": "https://en.wikipedia.org/wiki/Pager"
+    },
+    {
+      "title": "Paul Baran",
+      "url": "https://en.wikipedia.org/wiki/Paul_Baran"
+    },
+    {
+      "title": "People's Liberation Army Aerospace Force",
+      "url": "https://en.wikipedia.org/wiki/People%27s_Liberation_Army_Aerospace_Force"
+    },
+    {
+      "title": "Philippine Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Philippine_Space_Agency"
+    },
+    {
+      "title": "Philo Farnsworth",
+      "url": "https://en.wikipedia.org/wiki/Philo_Farnsworth"
+    },
+    {
+      "title": "Photophone",
+      "url": "https://en.wikipedia.org/wiki/Photophone"
+    },
+    {
+      "title": "Phryctoria",
+      "url": "https://en.wikipedia.org/wiki/Phryctoria"
+    },
+    {
+      "title": "Polarization-division multiplexing",
+      "url": "https://en.wikipedia.org/wiki/Polarization-division_multiplexing"
+    },
+    {
+      "title": "Polish Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Polish_Space_Agency"
+    },
+    {
+      "title": "Portuguese Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Portuguese_Space_Agency"
+    },
+    {
+      "title": "Public company",
+      "url": "https://en.wikipedia.org/wiki/Public_company"
+    },
+    {
+      "title": "Public switched telephone network",
+      "url": "https://en.wikipedia.org/wiki/Public_switched_telephone_network"
+    },
+    {
+      "title": "RISC-V",
+      "url": "https://en.wikipedia.org/wiki/RISC-V"
+    },
+    {
+      "title": "Radia Perlman",
+      "url": "https://en.wikipedia.org/wiki/Radia_Perlman"
+    },
+    {
+      "title": "Radio Equipment Directive",
+      "url": "https://en.wikipedia.org/wiki/Radio_Equipment_Directive"
+    },
+    {
+      "title": "Radio network",
+      "url": "https://en.wikipedia.org/wiki/Radio_network"
+    },
+    {
+      "title": "Radio wave",
+      "url": "https://en.wikipedia.org/wiki/Radio_wave"
+    },
+    {
+      "title": "Radiotelephone",
+      "url": "https://en.wikipedia.org/wiki/Radiotelephone"
+    },
+    {
+      "title": "Reginald Fessenden",
+      "url": "https://en.wikipedia.org/wiki/Reginald_Fessenden"
+    },
+    {
+      "title": "Regional African Satellite Communication Organization",
+      "url": "https://en.wikipedia.org/wiki/Regional_African_Satellite_Communication_Organization"
+    },
+    {
+      "title": "Research Organization for Aeronautics and Space",
+      "url": "https://en.wikipedia.org/wiki/Research_Organization_for_Aeronautics_and_Space"
+    },
+    {
+      "title": "Robert Hooke",
+      "url": "https://en.wikipedia.org/wiki/Robert_Hooke"
+    },
+    {
+      "title": "Robert Metcalfe",
+      "url": "https://en.wikipedia.org/wiki/Robert_Metcalfe"
+    },
+    {
+      "title": "Roberto Landell de Moura",
+      "url": "https://en.wikipedia.org/wiki/Roberto_Landell_de_Moura"
+    },
+    {
+      "title": "Romanian Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Romanian_Space_Agency"
+    },
+    {
+      "title": "Roscosmos",
+      "url": "https://en.wikipedia.org/wiki/Roscosmos"
+    },
+    {
+      "title": "Royal Center for Remote Sensing",
+      "url": "https://en.wikipedia.org/wiki/Royal_Center_for_Remote_Sensing"
+    },
+    {
+      "title": "Russian Aerospace Defence Forces",
+      "url": "https://en.wikipedia.org/wiki/Russian_Aerospace_Defence_Forces"
+    },
+    {
+      "title": "Russian Space Forces",
+      "url": "https://en.wikipedia.org/wiki/Russian_Space_Forces"
+    },
+    {
+      "title": "Russian Space Research Institute",
+      "url": "https://en.wikipedia.org/wiki/Russian_Space_Research_Institute"
+    },
+    {
+      "title": "SD Association",
+      "url": "https://en.wikipedia.org/wiki/SD_Association"
+    },
+    {
+      "title": "SUPARCO",
+      "url": "https://en.wikipedia.org/wiki/SUPARCO"
+    },
+    {
+      "title": "Samuel Morse",
+      "url": "https://en.wikipedia.org/wiki/Samuel_Morse"
+    },
+    {
+      "title": "Saudi Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Saudi_Space_Agency"
+    },
+    {
+      "title": "Semaphore",
+      "url": "https://en.wikipedia.org/wiki/Semaphore"
+    },
+    {
+      "title": "Semiconductor",
+      "url": "https://en.wikipedia.org/wiki/Semiconductor"
+    },
+    {
+      "title": "Semiconductor device",
+      "url": "https://en.wikipedia.org/wiki/Semiconductor_device"
+    },
+    {
+      "title": "Small and Medium Enterprises",
+      "url": "https://en.wikipedia.org/wiki/Small_and_Medium_Enterprises"
+    },
+    {
+      "title": "Smartphone",
+      "url": "https://en.wikipedia.org/wiki/Smartphone"
+    },
+    {
+      "title": "Smoke signal",
+      "url": "https://en.wikipedia.org/wiki/Smoke_signal"
+    },
+    {
+      "title": "Social media",
+      "url": "https://en.wikipedia.org/wiki/Social_media"
+    },
+    {
+      "title": "Sophia-Antipolis",
+      "url": "https://en.wikipedia.org/wiki/Sophia-Antipolis"
+    },
+    {
+      "title": "South African National Space Agency",
+      "url": "https://en.wikipedia.org/wiki/South_African_National_Space_Agency"
+    },
+    {
+      "title": "Soviet space program",
+      "url": "https://en.wikipedia.org/wiki/Soviet_space_program"
+    },
+    {
+      "title": "Space-division multiple access",
+      "url": "https://en.wikipedia.org/wiki/Space-division_multiple_access"
+    },
+    {
+      "title": "Space Research Centre of Polish Academy of Sciences",
+      "url": "https://en.wikipedia.org/wiki/Space_Research_Centre_of_Polish_Academy_of_Sciences"
+    },
+    {
+      "title": "Space Research and Technology Institute",
+      "url": "https://en.wikipedia.org/wiki/Space_Research_and_Technology_Institute"
+    },
+    {
+      "title": "Spanish Air and Space Force",
+      "url": "https://en.wikipedia.org/wiki/Spanish_Air_and_Space_Force"
+    },
+    {
+      "title": "Standardization",
+      "url": "https://en.wikipedia.org/wiki/Standardization"
+    },
+    {
+      "title": "Standards organization",
+      "url": "https://en.wikipedia.org/wiki/Standards_organization"
+    },
+    {
+      "title": "State Administration of Science, Technology and Industry for National Defense",
+      "url": "https://en.wikipedia.org/wiki/State_Administration_of_Science%2C_Technology_and_Industry_for_National_Defense"
+    },
+    {
+      "title": "State Space Agency of Ukraine",
+      "url": "https://en.wikipedia.org/wiki/State_Space_Agency_of_Ukraine"
+    },
+    {
+      "title": "Store and forward",
+      "url": "https://en.wikipedia.org/wiki/Store_and_forward"
+    },
+    {
+      "title": "Streaming media",
+      "url": "https://en.wikipedia.org/wiki/Streaming_media"
+    },
+    {
+      "title": "Streaming television",
+      "url": "https://en.wikipedia.org/wiki/Streaming_television"
+    },
+    {
+      "title": "Submarine communications cable",
+      "url": "https://en.wikipedia.org/wiki/Submarine_communications_cable"
+    },
+    {
+      "title": "Subsidiary",
+      "url": "https://en.wikipedia.org/wiki/Subsidiary"
+    },
+    {
+      "title": "Swedish National Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Swedish_National_Space_Agency"
+    },
+    {
+      "title": "Swiss Space Office",
+      "url": "https://en.wikipedia.org/wiki/Swiss_Space_Office"
+    },
+    {
+      "title": "Syrian Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Syrian_Space_Agency"
+    },
+    {
+      "title": "TANet",
+      "url": "https://en.wikipedia.org/wiki/TANet"
+    },
+    {
+      "title": "TETRA",
+      "url": "https://en.wikipedia.org/wiki/TETRA"
+    },
+    {
+      "title": "Taiwan Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Taiwan_Space_Agency"
+    },
+    {
+      "title": "Telautograph",
+      "url": "https://en.wikipedia.org/wiki/Telautograph"
+    },
+    {
+      "title": "Telecommunication circuit",
+      "url": "https://en.wikipedia.org/wiki/Telecommunication_circuit"
+    },
+    {
+      "title": "Telecommunications",
+      "url": "https://en.wikipedia.org/wiki/Telecommunications"
+    },
+    {
+      "title": "Telecommunications equipment",
+      "url": "https://en.wikipedia.org/wiki/Telecommunications_equipment"
+    },
+    {
+      "title": "Telecommunications link",
+      "url": "https://en.wikipedia.org/wiki/Telecommunications_link"
+    },
+    {
+      "title": "Telecommunications network",
+      "url": "https://en.wikipedia.org/wiki/Telecommunications_network"
+    },
+    {
+      "title": "Telecoms & Internet converged Services & Protocols for Advanced Networks",
+      "url": "https://en.wikipedia.org/wiki/Telecoms_%26_Internet_converged_Services_%26_Protocols_for_Advanced_Networks"
+    },
+    {
+      "title": "Telegraphy",
+      "url": "https://en.wikipedia.org/wiki/Telegraphy"
+    },
+    {
+      "title": "Telephone",
+      "url": "https://en.wikipedia.org/wiki/Telephone"
+    },
+    {
+      "title": "Telephone exchange",
+      "url": "https://en.wikipedia.org/wiki/Telephone_exchange"
+    },
+    {
+      "title": "Teleprinter",
+      "url": "https://en.wikipedia.org/wiki/Teleprinter"
+    },
+    {
+      "title": "Television broadcasting",
+      "url": "https://en.wikipedia.org/wiki/Television_broadcasting"
+    },
+    {
+      "title": "Telex",
+      "url": "https://en.wikipedia.org/wiki/Telex"
+    },
+    {
+      "title": "Terminal (telecommunication)",
+      "url": "https://en.wikipedia.org/wiki/Terminal_%28telecommunication%29"
+    },
+    {
+      "title": "The Open Group",
+      "url": "https://en.wikipedia.org/wiki/The_Open_Group"
+    },
+    {
+      "title": "The Telephone Cases",
+      "url": "https://en.wikipedia.org/wiki/The_Telephone_Cases"
+    },
+    {
+      "title": "Thomas A. Watson",
+      "url": "https://en.wikipedia.org/wiki/Thomas_A._Watson"
+    },
+    {
+      "title": "Thomas Edison",
+      "url": "https://en.wikipedia.org/wiki/Thomas_Edison"
+    },
+    {
+      "title": "Tim Berners-Lee",
+      "url": "https://en.wikipedia.org/wiki/Tim_Berners-Lee"
+    },
+    {
+      "title": "Time-division multiplexing",
+      "url": "https://en.wikipedia.org/wiki/Time-division_multiplexing"
+    },
+    {
+      "title": "Timeline of first orbital launches by country",
+      "url": "https://en.wikipedia.org/wiki/Timeline_of_first_orbital_launches_by_country"
+    },
+    {
+      "title": "Tivadar Puskás",
+      "url": "https://en.wikipedia.org/wiki/Tivadar_Pusk%C3%A1s"
+    },
+    {
+      "title": "Toasternet",
+      "url": "https://en.wikipedia.org/wiki/Toasternet"
+    },
+    {
+      "title": "Transmission line",
+      "url": "https://en.wikipedia.org/wiki/Transmission_line"
+    },
+    {
+      "title": "Transmission medium",
+      "url": "https://en.wikipedia.org/wiki/Transmission_medium"
+    },
+    {
+      "title": "Trusted Computing Group",
+      "url": "https://en.wikipedia.org/wiki/Trusted_Computing_Group"
+    },
+    {
+      "title": "Turkish Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Turkish_Space_Agency"
+    },
+    {
+      "title": "Turkmenistan National Space Agency",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_National_Space_Agency"
+    },
+    {
+      "title": "TÜBİTAK Space Technologies Research Institute",
+      "url": "https://en.wikipedia.org/wiki/T%C3%9CB%C4%B0TAK_Space_Technologies_Research_Institute"
+    },
+    {
+      "title": "UEFI Forum",
+      "url": "https://en.wikipedia.org/wiki/UEFI_Forum"
+    },
+    {
+      "title": "UK Space Agency",
+      "url": "https://en.wikipedia.org/wiki/UK_Space_Agency"
+    },
+    {
+      "title": "UNOSAT",
+      "url": "https://en.wikipedia.org/wiki/UNOSAT"
+    },
+    {
+      "title": "USB Implementers Forum",
+      "url": "https://en.wikipedia.org/wiki/USB_Implementers_Forum"
+    },
+    {
+      "title": "UUCP",
+      "url": "https://en.wikipedia.org/wiki/UUCP"
+    },
+    {
+      "title": "Unicode Consortium",
+      "url": "https://en.wikipedia.org/wiki/Unicode_Consortium"
+    },
+    {
+      "title": "Union of International Associations",
+      "url": "https://en.wikipedia.org/wiki/Union_of_International_Associations"
+    },
+    {
+      "title": "United Arab Emirates Space Agency",
+      "url": "https://en.wikipedia.org/wiki/United_Arab_Emirates_Space_Agency"
+    },
+    {
+      "title": "United Nations Committee on the Peaceful Uses of Outer Space",
+      "url": "https://en.wikipedia.org/wiki/United_Nations_Committee_on_the_Peaceful_Uses_of_Outer_Space"
+    },
+    {
+      "title": "United Nations Office for Outer Space Affairs",
+      "url": "https://en.wikipedia.org/wiki/United_Nations_Office_for_Outer_Space_Affairs"
+    },
+    {
+      "title": "United States Space Command",
+      "url": "https://en.wikipedia.org/wiki/United_States_Space_Command"
+    },
+    {
+      "title": "United States Space Force",
+      "url": "https://en.wikipedia.org/wiki/United_States_Space_Force"
+    },
+    {
+      "title": "Usenet",
+      "url": "https://en.wikipedia.org/wiki/Usenet"
+    },
+    {
+      "title": "Venezuelan Institute for Scientific Research",
+      "url": "https://en.wikipedia.org/wiki/Venezuelan_Institute_for_Scientific_Research"
+    },
+    {
+      "title": "Video Electronics Standards Association",
+      "url": "https://en.wikipedia.org/wiki/Video_Electronics_Standards_Association"
+    },
+    {
+      "title": "Video coding format",
+      "url": "https://en.wikipedia.org/wiki/Video_coding_format"
+    },
+    {
+      "title": "Vietnam Academy of Science and Technology",
+      "url": "https://en.wikipedia.org/wiki/Vietnam_Academy_of_Science_and_Technology"
+    },
+    {
+      "title": "Vint Cerf",
+      "url": "https://en.wikipedia.org/wiki/Vint_Cerf"
+    },
+    {
+      "title": "Vladimir K. Zworykin",
+      "url": "https://en.wikipedia.org/wiki/Vladimir_K._Zworykin"
+    },
+    {
+      "title": "Walter Houser Brattain",
+      "url": "https://en.wikipedia.org/wiki/Walter_Houser_Brattain"
+    },
+    {
+      "title": "Web3D Consortium",
+      "url": "https://en.wikipedia.org/wiki/Web3D_Consortium"
+    },
+    {
+      "title": "Whistled language",
+      "url": "https://en.wikipedia.org/wiki/Whistled_language"
+    },
+    {
+      "title": "Wi-Fi Alliance",
+      "url": "https://en.wikipedia.org/wiki/Wi-Fi_Alliance"
+    },
+    {
+      "title": "Wide area network",
+      "url": "https://en.wikipedia.org/wiki/Wide_area_network"
+    },
+    {
+      "title": "Wireless communication",
+      "url": "https://en.wikipedia.org/wiki/Wireless_communication"
+    },
+    {
+      "title": "Wireless network",
+      "url": "https://en.wikipedia.org/wiki/Wireless_network"
+    },
+    {
+      "title": "Wireless revolution",
+      "url": "https://en.wikipedia.org/wiki/Wireless_revolution"
+    },
+    {
+      "title": "World Wide Web Consortium",
+      "url": "https://en.wikipedia.org/wiki/World_Wide_Web_Consortium"
+    },
+    {
+      "title": "XMPP Standards Foundation",
+      "url": "https://en.wikipedia.org/wiki/XMPP_Standards_Foundation"
+    },
+    {
+      "title": "Yogen Dalal",
+      "url": "https://en.wikipedia.org/wiki/Yogen_Dalal"
+    },
+    {
+      "title": "ETSI Website",
+      "url": "https://en.wikipedia.org/wiki/ETSI_Website"
+    },
+    {
+      "title": "Lithuanian Space Office",
+      "url": "https://en.wikipedia.org/wiki/Lithuanian_Space_Office"
+    },
+    {
+      "title": "Urząd Komunikacji Elektronicznej",
+      "url": "https://en.wikipedia.org/wiki/Urz%C4%85d_Komunikacji_Elektronicznej"
+    },
+    {
+      "title": "Polish IMINT Centre",
+      "url": "https://en.wikipedia.org/wiki/Polish_IMINT_Centre"
+    },
+    {
+      "title": "International Space Exploration Coordination Group",
+      "url": "https://en.wikipedia.org/wiki/International_Space_Exploration_Coordination_Group"
+    }
+  ]
+}

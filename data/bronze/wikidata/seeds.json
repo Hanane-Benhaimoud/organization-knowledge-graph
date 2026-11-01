@@ -1,0 +1,126 @@
+{
+  "collected_at": "2026-10-28T21:53:47.957027+00:00",
+  "count": 20,
+  "seeds": [
+    {
+      "qid": "Q11148",
+      "categories": [
+        "media"
+      ]
+    },
+    {
+      "qid": "Q1377855",
+      "categories": [
+        "nonprofit"
+      ]
+    },
+    {
+      "qid": "Q15330",
+      "categories": [
+        "technology"
+      ]
+    },
+    {
+      "qid": "Q156578",
+      "categories": [
+        "industry"
+      ]
+    },
+    {
+      "qid": "Q15733006",
+      "categories": [
+        "technology"
+      ]
+    },
+    {
+      "qid": "Q163560",
+      "categories": [
+        "media"
+      ]
+    },
+    {
+      "qid": "Q180",
+      "categories": [
+        "nonprofit"
+      ]
+    },
+    {
+      "qid": "Q182380",
+      "categories": [
+        "nonprofit"
+      ]
+    },
+    {
+      "qid": "Q20800404",
+      "categories": [
+        "technology"
+      ]
+    },
+    {
+      "qid": "Q2665980",
+      "categories": [
+        "media"
+      ]
+    },
+    {
+      "qid": "Q284183",
+      "categories": [
+        "media"
+      ]
+    },
+    {
+      "qid": "Q284947",
+      "categories": [
+        "media"
+      ]
+    },
+    {
+      "qid": "Q29637",
+      "categories": [
+        "industry"
+      ]
+    },
+    {
+      "qid": "Q29803",
+      "categories": [
+        "industry"
+      ]
+    },
+    {
+      "qid": "Q29872",
+      "categories": [
+        "media"
+      ]
+    },
+    {
+      "qid": "Q44294",
+      "categories": [
+        "industry"
+      ]
+    },
+    {
+      "qid": "Q53247",
+      "categories": [
+        "industry"
+      ]
+    },
+    {
+      "qid": "Q53257",
+      "categories": [
+        "industry"
+      ]
+    },
+    {
+      "qid": "Q858851",
+      "categories": [
+        "nonprofit"
+      ]
+    },
+    {
+      "qid": "Q95",
+      "categories": [
+        "technology"
+      ]
+    }
+  ]
+}

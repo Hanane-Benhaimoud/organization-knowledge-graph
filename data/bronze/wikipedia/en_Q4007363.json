@@ -1,0 +1,2108 @@
+{
+  "document_id": "wikipedia_en_Q4007363",
+  "wikidata_id": "Q4007363",
+  "entity_label": "ITU Telecommunication Standardization Sector",
+  "entity_type": "organization",
+  "seed_categories": [],
+  "source": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/ITU-T",
+  "revision_id": 1372998368,
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1372998368",
+  "pageid": 14744,
+  "title": "ITU-T",
+  "language": "en",
+  "collected_at": "2026-10-28T22:01:20.063408+00:00",
+  "content": {
+    "sections": [
+      {
+        "heading": "Introduction",
+        "text": "The International Telecommunication Union Telecommunication Standardization Sector ( ITU-T ) is one of the three Sectors (branches) of the International Telecommunication Union (ITU). It is responsible for coordinating standards for telecommunications and Information Communication Technology , such as X.509 for cybersecurity, Y.3172 and Y.3173 for machine learning, and H.264/MPEG-4 AVC for video compression, between its Member States, Private Sector Members, and Academia Members.\nThe World Telecommunication Standardization Assembly (WTSA), the sector's governing conference, convenes every four years.\nITU-T has a permanent secretariat called the Telecommunication Standardization Bureau (TSB), which is based at the ITU headquarters in Geneva, Switzerland . The current director of the TSB is Seizo Onoe (of Japan), whose 4-year term commenced on 1 January 2023. Seizo Onoe succeeded Chaesub Lee of South Korea, who was director from 1 January 2015 until 31 December 2022."
+      },
+      {
+        "heading": "Primary function",
+        "text": "The ITU-T mission is to ensure the efficient and timely production of standards covering all fields of telecommunications and Information Communication Technology (ICTs) on a worldwide basis, as well as defining tariff and accounting principles for international telecommunication services.\nThe international standards that are produced by the ITU-T are referred to as \"Recommendations\" as they become mandatory only when adopted as part of a national law.\nSince the ITU-T is part of the ITU, which is a United Nations specialized agency, its standards carry more formal international weight than those of most other standards-development organizations that publish technical specifications of a similar form."
+      },
+      {
+        "heading": "History",
+        "text": "At the initiative of Napoleon III , the French government invited international participants to a conference in Paris in 1865 to facilitate and regulate international telegraph services. A result of the conference was the founding of the forerunner of the modern ITU.\nAt the 1924 Paris conference, the ITU created a consultative committee to deal with the complexities of the international telephone services, known as CCIF and sometimes just as CCI ( Comité Consultatif International Téléphonique à grande distance ) and in 1926 in Berlin a consultative committee to deal with the complexities of the international long-distance telegraphy CCIT ( Comité Consultatif International des Comité consultatif international télégraphique à grande distance ) was created. In 1927 a consultative committee for radio communication was added, the CCIR ( Comité Consultatif International des Radiocommunications à grande distance ).\nIn view of the basic similarity of many of the technical problems faced by the CCIF and CCIT , a decision was taken in 1956 to merge the CCIF and CCIT into a single entity, the International Telegraph and Telephone Consultative Committee ( CCITT , in French : Comité Consultatif International Téléphonique et Télégraphique ). The first Plenary Assembly of the new organization was held in Geneva, Switzerland in December 1956.\nIn 1992, the Plenipotentiary Conference (the top policy-making conference of ITU) saw a reform of ITU, giving the Union greater flexibility to adapt to an increasingly complex, interactive and competitive environment. The CCITT was renamed the Telecommunication Standardization Sector (ITU-T), as one of three Sectors of the Union alongside the Radiocommunication Sector ( ITU-R ) and the Telecommunication Development Sector ( ITU-D ).\nHistorically, the Recommendations of the CCITT were presented at plenary assemblies for endorsement, held every four years, and the full set of Recommendations were published after each plenary assembly. However, the delays in producing texts, and translating them into other working languages, did not suit the fast pace of change in the telecommunications industry."
+      },
+      {
+        "heading": "\"Real time\" standardization",
+        "text": "The rise of the personal computer industry in the early 1980s created a new common practice among both consumers and businesses of adopting \" bleeding edge \" communications technology even if it was not yet standardized. Thus, standards organizations had to put forth standards much faster, or find themselves ratifying de facto standards after the fact. One of the most prominent examples of this was the Open Document Architecture project, which began in 1985 when a profusion of software firms around the world were still furiously competing to shape the future of the electronic office , and was completed in 1999 long after Microsoft Office 's then-secret binary file formats had become established as the global de facto standard.\nThe ITU-T now operates under much more streamlined processes. The time between an initial proposal of a draft document by a member company and the final approval of a full-status ITU-T Recommendation can now be as short as a few months (or less in some cases). This makes the standardization approval process in the ITU-T much more responsive to the needs of rapid technology development than in the ITU's historical past. New and updated Recommendations are published on an almost daily basis, and nearly all of the library of over 3,270 Recommendations is now free of charge online. (About 30 specifications jointly maintained by the ITU-T and ISO/IEC are not available for free to the public. )\nITU-T has moreover tried to facilitate cooperation between the various forums and standard-developing organizations (SDOs). This collaboration is necessary to avoid duplication of work and the consequent risk of conflicting standards in the market place.\nIn the work of standardization, ITU-T cooperates with other SDOs, e.g., the International Organization for Standardization (ISO) and the Internet Engineering Task Force (IETF)."
+      },
+      {
+        "heading": "Development of Recommendations",
+        "text": "Most of the work of ITU-T is carried out by its Sector Members and Associates, while the Telecommunication Standardization Bureau (TSB) is the executive arm of ITU-T and coordinator for a number of workshops and seminars to progress existing work areas and explore new ones. The events cover a wide array of topics in the field of information and communication technologies (ICT) and attract high-ranking experts as speakers, and attendees from engineers to high-level management from all industry sectors.\nThe technical work, the development of Recommendations, of ITU-T is managed by Study Groups (SGs), such as Study Group 13 for network standards, Study Group 16 for multimedia standards, and Study Group 17 for security standards, which are created by the World Telecommunication Standardization Assembly (WTSA) which is held every four years. As part of the deliberations, WTSA has instructed ITU to hold the Global Standards Symposium , which unlike WTSA is open to public for participation. The people involved in these SGs are experts in telecommunications from all over the world. There are currently 11 SGs. Study groups meet face to face (or virtually under exceptional circumstances) according to a calendar issued by the TSB. SGs are augmented by Focus Groups (FGs), an instrument created by ITU-T, providing a way to quickly react to ICT standardization needs and allowing great flexibility in terms of participation and working methods. The key difference between SGs and FGs is that the latter have greater freedom to organize and finance themselves, and to involve non-members in their work, but they do not have the authority to approve Recommendations. Focus Groups can be created very quickly, are usually short-lived and can choose their own working methods, leadership, financing, and types of deliverables. Current Focus Groups include the ITU-WHO Focus Group on Artificial Intelligence for Health (FG-AI4H) as well as Machine Learning for 5G (which developed Y.3172 ), Quantum Information Technologies for Networks , and Artificial Intelligence for Assisted and Autonomous Driving ."
+      },
+      {
+        "heading": "Alternative Approval Process",
+        "text": "The Alternative Approval Process (AAP) is a fast-track approval procedure that was developed to allow standards to be brought to market in the timeframe that industry now demands. The AAP is defined in ITU-T Recommendation A.8.\nThis dramatic overhaul of standards-making by streamlining approval procedures was implemented in 2001 and is estimated to have cut the time involved in this critical aspect of the standardization process by 80 to 90 percent. This means that an average standard that took around four years to approve and publish until the mid nineties, and two years until 1997, can now be approved in an average of two months, or as little as five weeks.\nBesides streamlining the underlying procedures involved in the approval process, an important contributory factor to the use of AAP is electronic document handling. Once the approval process has begun the rest of the process can be completed electronically, in the vast majority of cases, with no further physical meetings.\nThe introduction of AAP also formalizes public/private partnership in the approval process by providing equal opportunities for both sector members and member states in the approval of technical standards.\nA panel of SG experts drafts a proposal that is then forwarded at an SG meeting to the appropriate body which decides if it is sufficiently ready to be designated a draft text and thus gives its consent for further review at the next level.\nAfter this Consent has been given, TSB announces the start of the AAP procedure by posting the draft text to the ITU-T website and calling for comments. This gives the opportunity for all members to review the text. This phase, called last call , is a four-week period in which comments can be submitted by member states and sector members.\nIf no comments other than editorial corrections are received, the Recommendation is considered approved since no issues were identified that might need any further work. However, if there are any comments, the SG chairman, in consultation with TSB, sets up a comment resolution process by the concerned experts. The revised text is then posted on the web for an additional review period of three weeks.\nSimilar to the last call phase, in additional review the Recommendation is considered as approved if no comments are received. If comments are received, it is apparent that there are some issues that still need more work, and the draft text and all comments are sent to the next Study Group meeting for further discussion and possible approval.\nThose Recommendations considered as having policy or regulatory implications are approved through what is known as the Traditional Approval Process (TAP), which allows a longer period for reflection and commenting by member states. TAP Recommendations are also translated into the six working languages of ITU (Arabic, Chinese, English, French, Russian, and Spanish)."
+      },
+      {
+        "heading": "Series and Recommendations",
+        "text": "ITU-T Recommendations are the names given to telecommunications and computer protocol specification documents published by ITU-T."
+      },
+      {
+        "heading": "Recommendation categorization",
+        "text": "ITU-T assigns each Recommendation a name based on the series and Recommendation number. The name starts with the letter of the series the Recommendation belongs to. Each series encompasses a broad category of Recommendations, such as \"H-Series Recommendations: Audiovisual and multimedia systems\". The series letter is followed by a period and the Recommendation number, which uniquely identifies the Recommendation within the series. Often, a range of related Recommendations are further grouped within the series and given adjacent numbers, such as \"H.200-H.499: Infrastructure of audiovisual services\" or \"H.260-H.279: Coding of moving video\". Many numbers are \"skipped\" to give room for future Recommendations to be adjacent to related Recommendations. Recommendations can be revised or \"superseded\" and keep their existing Recommendation number."
+      },
+      {
+        "heading": "Individual ITU-T Recommendations",
+        "text": "Source:\nOrganization of the work of ITU-T Means of expression: definitions, symbols, classification General telecommunication statistics General tariff principles Overall network operation, telephone service, service operation and human factors Non-telephone telecommunication services Transmission systems and media, digital systems and networks Audiovisual and multimedia systems Integrated services digital network Cable networks and transmission of television, sound programme and other multimedia signals Protection against interference Construction, installation and protection of cables and other elements of outside plant TMN and network maintenance: international transmission systems, telephone circuits, telegraphy, facsimile and leased circuits Maintenance: international sound programme and television transmission circuits Specifications of measuring equipment Terminals and subjective and objective assessment methods Switching and signalling Telegraph transmission Telegraph services terminal equipment Terminals for telematic services Telegraph switching Data communication over the telephone network Data networks and open system communications Global information infrastructure and Internet protocol aspects Languages and general software aspects for telecommunication systems"
+      },
+      {
+        "heading": "International Telecommunication Regulations (ITRs)",
+        "text": "In addition to the ITU-T Recommendations, which have non-mandatory status unless they are adopted in national laws, ITU-T is also the custodian of a binding international treaty, the International Telecommunication Regulations. The ITRs go back to the earliest days of the ITU when there were two separate treaties, dealing with telegraph and telephone. The ITRs were adopted, as a single treaty, at the World Administrative Telegraphy and Telephone Conference held in Melbourne, 1988 (WATTC-88).\nThe ITRs comprise ten articles which deal, among other things, with the definition of international telecommunication services, cooperation between countries and national administrations, safety of life and priority of telecommunications and charging and accounting principles. The adoption of the ITRs in 1988 is often taken as the start of the wider liberalization process in international telecommunications, though a few countries, including United States and United Kingdom, had made steps to liberalize their markets before 1988.\nThe Constitution and Convention of ITU provides for the amendment of ITRs through a World Conference on International Telecommunications (WCIT).  Accordingly, in 1998 there began a process of review of the ITRs; and in 2009 extensive preparations began for such a conference, WCIT-12.  In addition to \"regional preparatory meetings\", the ITU Secretariat developed 13 \"Background Briefs on key issues\" that were expected to be discussed at the conference. Convened by former ITU secretary-general Hamadoun Touré, the Conference, WCIT-12, was then held in Dubai, United Arab Emirates, during the period 3–14 December 2014."
+      },
+      {
+        "heading": "AI for Good",
+        "text": "The Standardization Sector of ITU also organizes AI for Good , the United Nations platform for the sustainable development of Artificial Intelligence."
+      },
+      {
+        "heading": "Hot topics",
+        "text": "ITU-T has expressed a commitment to \"bridging the standardization gap\" – disparities in the ability of developing countries, relative to developed ones, to access, implement, contribute to and influence international ICT standards. The ICT Security Standards Roadmap has been developed to assist in the development of security standards by bringing together information about existing standards and current standards work in key standards development organizations. The Next Generation Networks (NGN) concept takes into consideration new realities in the telecommunication industry characterized by factors such as; the need to converge and optimize the operating networks and the extraordinary expansion of digital traffic (i.e., increasing demand for new multimedia services, mobility, etc.). ITU newslog (February 2014). First of its kind publication features ITU-T standards for smart grid and home networking ."
+      },
+      {
+        "heading": "See also",
+        "text": "ITU Radio Regulations Global Standards Collaboration ITU-R recommendations ITU-T recommendations World Summit on the Information Society World Standards Day"
+      },
+      {
+        "heading": "External links",
+        "text": "Official website ITU-T Recommendations"
+      }
+    ],
+    "full_text": "Introduction\nThe International Telecommunication Union Telecommunication Standardization Sector ( ITU-T ) is one of the three Sectors (branches) of the International Telecommunication Union (ITU). It is responsible for coordinating standards for telecommunications and Information Communication Technology , such as X.509 for cybersecurity, Y.3172 and Y.3173 for machine learning, and H.264/MPEG-4 AVC for video compression, between its Member States, Private Sector Members, and Academia Members.\nThe World Telecommunication Standardization Assembly (WTSA), the sector's governing conference, convenes every four years.\nITU-T has a permanent secretariat called the Telecommunication Standardization Bureau (TSB), which is based at the ITU headquarters in Geneva, Switzerland . The current director of the TSB is Seizo Onoe (of Japan), whose 4-year term commenced on 1 January 2023. Seizo Onoe succeeded Chaesub Lee of South Korea, who was director from 1 January 2015 until 31 December 2022.\n\nPrimary function\nThe ITU-T mission is to ensure the efficient and timely production of standards covering all fields of telecommunications and Information Communication Technology (ICTs) on a worldwide basis, as well as defining tariff and accounting principles for international telecommunication services.\nThe international standards that are produced by the ITU-T are referred to as \"Recommendations\" as they become mandatory only when adopted as part of a national law.\nSince the ITU-T is part of the ITU, which is a United Nations specialized agency, its standards carry more formal international weight than those of most other standards-development organizations that publish technical specifications of a similar form.\n\nHistory\nAt the initiative of Napoleon III , the French government invited international participants to a conference in Paris in 1865 to facilitate and regulate international telegraph services. A result of the conference was the founding of the forerunner of the modern ITU.\nAt the 1924 Paris conference, the ITU created a consultative committee to deal with the complexities of the international telephone services, known as CCIF and sometimes just as CCI ( Comité Consultatif International Téléphonique à grande distance ) and in 1926 in Berlin a consultative committee to deal with the complexities of the international long-distance telegraphy CCIT ( Comité Consultatif International des Comité consultatif international télégraphique à grande distance ) was created. In 1927 a consultative committee for radio communication was added, the CCIR ( Comité Consultatif International des Radiocommunications à grande distance ).\nIn view of the basic similarity of many of the technical problems faced by the CCIF and CCIT , a decision was taken in 1956 to merge the CCIF and CCIT into a single entity, the International Telegraph and Telephone Consultative Committee ( CCITT , in French : Comité Consultatif International Téléphonique et Télégraphique ). The first Plenary Assembly of the new organization was held in Geneva, Switzerland in December 1956.\nIn 1992, the Plenipotentiary Conference (the top policy-making conference of ITU) saw a reform of ITU, giving the Union greater flexibility to adapt to an increasingly complex, interactive and competitive environment. The CCITT was renamed the Telecommunication Standardization Sector (ITU-T), as one of three Sectors of the Union alongside the Radiocommunication Sector ( ITU-R ) and the Telecommunication Development Sector ( ITU-D ).\nHistorically, the Recommendations of the CCITT were presented at plenary assemblies for endorsement, held every four years, and the full set of Recommendations were published after each plenary assembly. However, the delays in producing texts, and translating them into other working languages, did not suit the fast pace of change in the telecommunications industry.\n\n\"Real time\" standardization\nThe rise of the personal computer industry in the early 1980s created a new common practice among both consumers and businesses of adopting \" bleeding edge \" communications technology even if it was not yet standardized. Thus, standards organizations had to put forth standards much faster, or find themselves ratifying de facto standards after the fact. One of the most prominent examples of this was the Open Document Architecture project, which began in 1985 when a profusion of software firms around the world were still furiously competing to shape the future of the electronic office , and was completed in 1999 long after Microsoft Office 's then-secret binary file formats had become established as the global de facto standard.\nThe ITU-T now operates under much more streamlined processes. The time between an initial proposal of a draft document by a member company and the final approval of a full-status ITU-T Recommendation can now be as short as a few months (or less in some cases). This makes the standardization approval process in the ITU-T much more responsive to the needs of rapid technology development than in the ITU's historical past. New and updated Recommendations are published on an almost daily basis, and nearly all of the library of over 3,270 Recommendations is now free of charge online. (About 30 specifications jointly maintained by the ITU-T and ISO/IEC are not available for free to the public. )\nITU-T has moreover tried to facilitate cooperation between the various forums and standard-developing organizations (SDOs). This collaboration is necessary to avoid duplication of work and the consequent risk of conflicting standards in the market place.\nIn the work of standardization, ITU-T cooperates with other SDOs, e.g., the International Organization for Standardization (ISO) and the Internet Engineering Task Force (IETF).\n\nDevelopment of Recommendations\nMost of the work of ITU-T is carried out by its Sector Members and Associates, while the Telecommunication Standardization Bureau (TSB) is the executive arm of ITU-T and coordinator for a number of workshops and seminars to progress existing work areas and explore new ones. The events cover a wide array of topics in the field of information and communication technologies (ICT) and attract high-ranking experts as speakers, and attendees from engineers to high-level management from all industry sectors.\nThe technical work, the development of Recommendations, of ITU-T is managed by Study Groups (SGs), such as Study Group 13 for network standards, Study Group 16 for multimedia standards, and Study Group 17 for security standards, which are created by the World Telecommunication Standardization Assembly (WTSA) which is held every four years. As part of the deliberations, WTSA has instructed ITU to hold the Global Standards Symposium , which unlike WTSA is open to public for participation. The people involved in these SGs are experts in telecommunications from all over the world. There are currently 11 SGs. Study groups meet face to face (or virtually under exceptional circumstances) according to a calendar issued by the TSB. SGs are augmented by Focus Groups (FGs), an instrument created by ITU-T, providing a way to quickly react to ICT standardization needs and allowing great flexibility in terms of participation and working methods. The key difference between SGs and FGs is that the latter have greater freedom to organize and finance themselves, and to involve non-members in their work, but they do not have the authority to approve Recommendations. Focus Groups can be created very quickly, are usually short-lived and can choose their own working methods, leadership, financing, and types of deliverables. Current Focus Groups include the ITU-WHO Focus Group on Artificial Intelligence for Health (FG-AI4H) as well as Machine Learning for 5G (which developed Y.3172 ), Quantum Information Technologies for Networks , and Artificial Intelligence for Assisted and Autonomous Driving .\n\nAlternative Approval Process\nThe Alternative Approval Process (AAP) is a fast-track approval procedure that was developed to allow standards to be brought to market in the timeframe that industry now demands. The AAP is defined in ITU-T Recommendation A.8.\nThis dramatic overhaul of standards-making by streamlining approval procedures was implemented in 2001 and is estimated to have cut the time involved in this critical aspect of the standardization process by 80 to 90 percent. This means that an average standard that took around four years to approve and publish until the mid nineties, and two years until 1997, can now be approved in an average of two months, or as little as five weeks.\nBesides streamlining the underlying procedures involved in the approval process, an important contributory factor to the use of AAP is electronic document handling. Once the approval process has begun the rest of the process can be completed electronically, in the vast majority of cases, with no further physical meetings.\nThe introduction of AAP also formalizes public/private partnership in the approval process by providing equal opportunities for both sector members and member states in the approval of technical standards.\nA panel of SG experts drafts a proposal that is then forwarded at an SG meeting to the appropriate body which decides if it is sufficiently ready to be designated a draft text and thus gives its consent for further review at the next level.\nAfter this Consent has been given, TSB announces the start of the AAP procedure by posting the draft text to the ITU-T website and calling for comments. This gives the opportunity for all members to review the text. This phase, called last call , is a four-week period in which comments can be submitted by member states and sector members.\nIf no comments other than editorial corrections are received, the Recommendation is considered approved since no issues were identified that might need any further work. However, if there are any comments, the SG chairman, in consultation with TSB, sets up a comment resolution process by the concerned experts. The revised text is then posted on the web for an additional review period of three weeks.\nSimilar to the last call phase, in additional review the Recommendation is considered as approved if no comments are received. If comments are received, it is apparent that there are some issues that still need more work, and the draft text and all comments are sent to the next Study Group meeting for further discussion and possible approval.\nThose Recommendations considered as having policy or regulatory implications are approved through what is known as the Traditional Approval Process (TAP), which allows a longer period for reflection and commenting by member states. TAP Recommendations are also translated into the six working languages of ITU (Arabic, Chinese, English, French, Russian, and Spanish).\n\nSeries and Recommendations\nITU-T Recommendations are the names given to telecommunications and computer protocol specification documents published by ITU-T.\n\nRecommendation categorization\nITU-T assigns each Recommendation a name based on the series and Recommendation number. The name starts with the letter of the series the Recommendation belongs to. Each series encompasses a broad category of Recommendations, such as \"H-Series Recommendations: Audiovisual and multimedia systems\". The series letter is followed by a period and the Recommendation number, which uniquely identifies the Recommendation within the series. Often, a range of related Recommendations are further grouped within the series and given adjacent numbers, such as \"H.200-H.499: Infrastructure of audiovisual services\" or \"H.260-H.279: Coding of moving video\". Many numbers are \"skipped\" to give room for future Recommendations to be adjacent to related Recommendations. Recommendations can be revised or \"superseded\" and keep their existing Recommendation number.\n\nIndividual ITU-T Recommendations\nSource:\nOrganization of the work of ITU-T Means of expression: definitions, symbols, classification General telecommunication statistics General tariff principles Overall network operation, telephone service, service operation and human factors Non-telephone telecommunication services Transmission systems and media, digital systems and networks Audiovisual and multimedia systems Integrated services digital network Cable networks and transmission of television, sound programme and other multimedia signals Protection against interference Construction, installation and protection of cables and other elements of outside plant TMN and network maintenance: international transmission systems, telephone circuits, telegraphy, facsimile and leased circuits Maintenance: international sound programme and television transmission circuits Specifications of measuring equipment Terminals and subjective and objective assessment methods Switching and signalling Telegraph transmission Telegraph services terminal equipment Terminals for telematic services Telegraph switching Data communication over the telephone network Data networks and open system communications Global information infrastructure and Internet protocol aspects Languages and general software aspects for telecommunication systems\n\nInternational Telecommunication Regulations (ITRs)\nIn addition to the ITU-T Recommendations, which have non-mandatory status unless they are adopted in national laws, ITU-T is also the custodian of a binding international treaty, the International Telecommunication Regulations. The ITRs go back to the earliest days of the ITU when there were two separate treaties, dealing with telegraph and telephone. The ITRs were adopted, as a single treaty, at the World Administrative Telegraphy and Telephone Conference held in Melbourne, 1988 (WATTC-88).\nThe ITRs comprise ten articles which deal, among other things, with the definition of international telecommunication services, cooperation between countries and national administrations, safety of life and priority of telecommunications and charging and accounting principles. The adoption of the ITRs in 1988 is often taken as the start of the wider liberalization process in international telecommunications, though a few countries, including United States and United Kingdom, had made steps to liberalize their markets before 1988.\nThe Constitution and Convention of ITU provides for the amendment of ITRs through a World Conference on International Telecommunications (WCIT).  Accordingly, in 1998 there began a process of review of the ITRs; and in 2009 extensive preparations began for such a conference, WCIT-12.  In addition to \"regional preparatory meetings\", the ITU Secretariat developed 13 \"Background Briefs on key issues\" that were expected to be discussed at the conference. Convened by former ITU secretary-general Hamadoun Touré, the Conference, WCIT-12, was then held in Dubai, United Arab Emirates, during the period 3–14 December 2014.\n\nAI for Good\nThe Standardization Sector of ITU also organizes AI for Good , the United Nations platform for the sustainable development of Artificial Intelligence.\n\nHot topics\nITU-T has expressed a commitment to \"bridging the standardization gap\" – disparities in the ability of developing countries, relative to developed ones, to access, implement, contribute to and influence international ICT standards. The ICT Security Standards Roadmap has been developed to assist in the development of security standards by bringing together information about existing standards and current standards work in key standards development organizations. The Next Generation Networks (NGN) concept takes into consideration new realities in the telecommunication industry characterized by factors such as; the need to converge and optimize the operating networks and the extraordinary expansion of digital traffic (i.e., increasing demand for new multimedia services, mobility, etc.). ITU newslog (February 2014). First of its kind publication features ITU-T standards for smart grid and home networking .\n\nSee also\nITU Radio Regulations Global Standards Collaboration ITU-R recommendations ITU-T recommendations World Summit on the Information Society World Standards Day\n\nExternal links\nOfficial website ITU-T Recommendations"
+  },
+  "references": [
+    {
+      "url": "http://www.itu.int/en/ITU-T/tsbdir/Pages/default.aspx",
+      "label": "\"TSB Director's Corner\""
+    },
+    {
+      "url": "https://web.archive.org/web/20150427020508/http://www.itu.int/en/ITU-T/tsbdir/Pages/default.aspx",
+      "label": "Archived"
+    },
+    {
+      "url": "http://www.itu.int/ITU-T/info/index.html",
+      "label": "\"ITU Telecommunication Standardization Sector (ITU-T) – About Us\""
+    },
+    {
+      "url": "https://web.archive.org/web/20171219062939/http://www.itu.int/ITU-T/info/index.html",
+      "label": "Archived"
+    },
+    {
+      "url": "http://www.apdip.net/publications/iespprimers/eprimer-igov.pdf",
+      "label": "apdip.net"
+    },
+    {
+      "url": "https://web.archive.org/web/20071030191952/http://www.apdip.net/publications/iespprimers/eprimer-igov.pdf",
+      "label": "Archived"
+    },
+    {
+      "url": "http://www.itu.int/history/",
+      "label": "\"ITU's History\""
+    },
+    {
+      "url": "http://www.itu.int/ITU-T/50/docs/ITU-T_50.pdf",
+      "label": "\"CCITT – 50 Years of Excellence – 1956–2006\""
+    },
+    {
+      "url": "https://web.archive.org/web/20110607203152/http://www.itu.int/ITU-T/50/docs/ITU-T_50.pdf",
+      "label": "Archived"
+    },
+    {
+      "url": "http://www.stanford.edu/group/eng/blog/2007/09/itut_standards_now_freely_avai.html",
+      "label": "ITU-T Standards now freely available online"
+    },
+    {
+      "url": "https://web.archive.org/web/20090517063250/http://www.stanford.edu/group/eng/blog/2007/09/itut_standards_now_freely_avai.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://web.archive.org/web/20121104175124/http://www.highbeam.com/doc/1G1-169930353.html",
+      "label": "\"Free access for all to ITU-T standards\""
+    },
+    {
+      "url": "http://www.itu.int/ITU-T/newslog/Free+Access+For+All+To+ITUT+Standards.aspx",
+      "label": "\"ITU-T Newslog – Free access for all to ITU-T standards\""
+    },
+    {
+      "url": "https://web.archive.org/web/20100913031755/http://www.itu.int/ITU-T/newslog/Free+Access+For+All+To+ITUT+Standards.aspx",
+      "label": "Archived"
+    },
+    {
+      "url": "http://www.itu.int/en/ITU-T/publications/Pages/recs.aspx",
+      "label": "\"ITU-T Recommendations\""
+    },
+    {
+      "url": "https://web.archive.org/web/20100825232058/http://www.itu.int/en/ITU-T/publications/Pages/recs.aspx",
+      "label": "Archived"
+    },
+    {
+      "url": "http://www.itu.int/dms_pub/itu-t/oth/0A/0F/T0A0F0000090001PDFE.pdf",
+      "label": "apdip.net"
+    },
+    {
+      "url": "https://web.archive.org/web/20071129123232/http://www.itu.int/dms_pub/itu-t/oth/0A/0F/T0A0F0000090001PDFE.pdf",
+      "label": "Archived"
+    },
+    {
+      "url": "https://web.archive.org/web/20160303204549/http://www.itu.int/dms_pub/itu-t/oth/0A/0F/T0A0F0000090001PDFE.pdf",
+      "label": "Archived"
+    },
+    {
+      "url": "http://www.itu.int/ITU-T/focusgroups/index.html",
+      "label": "ITU-T Focus Groups"
+    },
+    {
+      "url": "https://web.archive.org/web/20071101042003/http://www.itu.int/ITU-T/focusgroups/index.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.itu.int/rec/T-REC-A.8",
+      "label": "\"A.8: Alternative approval process for new and revised ITU-T Recommendations\""
+    },
+    {
+      "url": "http://www.itu.int/ITU-T/e-flash/022-jan06.html",
+      "label": "ITU-T e-FLASH – Issue No. 22"
+    },
+    {
+      "url": "https://web.archive.org/web/20071103092145/http://www.itu.int/ITU-T/e-flash/022-jan06.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.itu.int:443/en/ITU-T/publications/Pages/structure.aspx",
+      "label": "\"ITU-T Recommendation series structure\""
+    },
+    {
+      "url": "https://www.itu.int/en/publications/ITU-T/Pages/default.aspx",
+      "label": "\"ITU Publications : Standardization (ITU-T)\""
+    },
+    {
+      "url": "http://www.itu.int/ITU-T/itr/files/ITR-e.doc",
+      "label": "itu.int"
+    },
+    {
+      "url": "https://web.archive.org/web/20071129123333/http://www.itu.int/ITU-T/itr/files/ITR-e.doc",
+      "label": "Archived"
+    },
+    {
+      "url": "http://www.itu.int/osg/spu/stratpol/ITRs/auth/itr-03.doc",
+      "label": "\"itu.int\""
+    },
+    {
+      "url": "https://web.archive.org/web/20160303234310/http://www.itu.int/osg/spu/stratpol/ITRs/auth/itr-03.doc",
+      "label": "Archived"
+    },
+    {
+      "url": "http://www.itu.int/ITU-T/itr-eg/",
+      "label": "\"ITU-T – Review of the International Telecommunication Regulations (ITRs)\""
+    },
+    {
+      "url": "https://web.archive.org/web/20071024014855/http://www.itu.int/ITU-T/itr-eg/",
+      "label": "Archived"
+    },
+    {
+      "url": "http://www.itu.int/en/wcit-12/Pages/preparatory.aspx",
+      "label": "\"WCIT-12: Preparatory Process\""
+    },
+    {
+      "url": "https://web.archive.org/web/20141216152919/http://www.itu.int/en/wcit-12/Pages/preparatory.aspx",
+      "label": "Archived"
+    },
+    {
+      "url": "http://www.itu.int/en/wcit-12/Pages/WCIT-backgroundbriefs.aspx",
+      "label": "\"WCIT-12: Background Briefs and FAQs\""
+    },
+    {
+      "url": "https://web.archive.org/web/20141216152857/http://www.itu.int/en/wcit-12/Pages/WCIT-backgroundbriefs.aspx",
+      "label": "Archived"
+    },
+    {
+      "url": "http://www.itu.int/osg/wcit-12/highlights/dec13-14.html#.VFWh4ShOQ5R",
+      "label": "\"WCIT-12 Highlights – 13–14 December 2012\""
+    },
+    {
+      "url": "https://web.archive.org/web/20141113214140/http://www.itu.int/osg/wcit-12/highlights/dec13-14.html#.VFWh4ShOQ5R",
+      "label": "Archived"
+    },
+    {
+      "url": "http://www.itu.int/en/wcit-12/Pages/default.aspx",
+      "label": "\"World Conference on International Telecommunications (WCIT-12)\""
+    },
+    {
+      "url": "https://web.archive.org/web/20121013043202/http://www.itu.int/en/wcit-12/Pages/default.aspx",
+      "label": "Archived"
+    },
+    {
+      "url": "http://www.itu.int/ITU-T/gap/",
+      "label": "\"ITU-T\""
+    },
+    {
+      "url": "https://web.archive.org/web/20071029001901/http://www.itu.int/ITU-T/gap/",
+      "label": "Archived"
+    },
+    {
+      "url": "http://www.itu.int/ITU-T/studygroups/com17/ict/index.html",
+      "label": "\"ICT Security Standards Roadmap\""
+    },
+    {
+      "url": "https://web.archive.org/web/20071024015057/http://www.itu.int/ITU-T/studygroups/com17/ict/index.html",
+      "label": "Archived"
+    }
+  ],
+  "outgoing_links": [
+    {
+      "title": "Group 4 compression",
+      "url": "https://en.wikipedia.org/wiki/Group_4_compression"
+    },
+    {
+      "title": ".m2ts",
+      "url": "https://en.wikipedia.org/wiki/.m2ts"
+    },
+    {
+      "title": "3GPP",
+      "url": "https://en.wikipedia.org/wiki/3GPP"
+    },
+    {
+      "title": "3GP and 3G2",
+      "url": "https://en.wikipedia.org/wiki/3GP_and_3G2"
+    },
+    {
+      "title": "A-law algorithm",
+      "url": "https://en.wikipedia.org/wiki/A-law_algorithm"
+    },
+    {
+      "title": "AAC-LD",
+      "url": "https://en.wikipedia.org/wiki/AAC-LD"
+    },
+    {
+      "title": "AMV video format",
+      "url": "https://en.wikipedia.org/wiki/AMV_video_format"
+    },
+    {
+      "title": "APNG",
+      "url": "https://en.wikipedia.org/wiki/APNG"
+    },
+    {
+      "title": "ARPANET",
+      "url": "https://en.wikipedia.org/wiki/ARPANET"
+    },
+    {
+      "title": "AV1",
+      "url": "https://en.wikipedia.org/wiki/AV1"
+    },
+    {
+      "title": "AV2",
+      "url": "https://en.wikipedia.org/wiki/AV2"
+    },
+    {
+      "title": "AVIF",
+      "url": "https://en.wikipedia.org/wiki/AVIF"
+    },
+    {
+      "title": "Adaptive Multi-Rate Wideband",
+      "url": "https://en.wikipedia.org/wiki/Adaptive_Multi-Rate_Wideband"
+    },
+    {
+      "title": "Adaptive Multi-Rate audio codec",
+      "url": "https://en.wikipedia.org/wiki/Adaptive_Multi-Rate_audio_codec"
+    },
+    {
+      "title": "Adaptive Transform Acoustic Coding",
+      "url": "https://en.wikipedia.org/wiki/Adaptive_Transform_Acoustic_Coding"
+    },
+    {
+      "title": "Adaptive differential pulse-code modulation",
+      "url": "https://en.wikipedia.org/wiki/Adaptive_differential_pulse-code_modulation"
+    },
+    {
+      "title": "Advanced Audio Coding",
+      "url": "https://en.wikipedia.org/wiki/Advanced_Audio_Coding"
+    },
+    {
+      "title": "Advanced Systems Format",
+      "url": "https://en.wikipedia.org/wiki/Advanced_Systems_Format"
+    },
+    {
+      "title": "Advanced Video Coding",
+      "url": "https://en.wikipedia.org/wiki/Advanced_Video_Coding"
+    },
+    {
+      "title": "Alexander Graham Bell",
+      "url": "https://en.wikipedia.org/wiki/Alexander_Graham_Bell"
+    },
+    {
+      "title": "Alexander Stepanovich Popov",
+      "url": "https://en.wikipedia.org/wiki/Alexander_Stepanovich_Popov"
+    },
+    {
+      "title": "Alfred Vail",
+      "url": "https://en.wikipedia.org/wiki/Alfred_Vail"
+    },
+    {
+      "title": "Algebraic code-excited linear prediction",
+      "url": "https://en.wikipedia.org/wiki/Algebraic_code-excited_linear_prediction"
+    },
+    {
+      "title": "Alliance for Open Media",
+      "url": "https://en.wikipedia.org/wiki/Alliance_for_Open_Media"
+    },
+    {
+      "title": "Almon Brown Strowger",
+      "url": "https://en.wikipedia.org/wiki/Almon_Brown_Strowger"
+    },
+    {
+      "title": "Amos Dolbear",
+      "url": "https://en.wikipedia.org/wiki/Amos_Dolbear"
+    },
+    {
+      "title": "Antonio Meucci",
+      "url": "https://en.wikipedia.org/wiki/Antonio_Meucci"
+    },
+    {
+      "title": "Apple Lossless Audio Codec",
+      "url": "https://en.wikipedia.org/wiki/Apple_Lossless_Audio_Codec"
+    },
+    {
+      "title": "Apple ProRes",
+      "url": "https://en.wikipedia.org/wiki/Apple_ProRes"
+    },
+    {
+      "title": "Apple Video",
+      "url": "https://en.wikipedia.org/wiki/Apple_Video"
+    },
+    {
+      "title": "AptX",
+      "url": "https://en.wikipedia.org/wiki/AptX"
+    },
+    {
+      "title": "Arithmetic coding",
+      "url": "https://en.wikipedia.org/wiki/Arithmetic_coding"
+    },
+    {
+      "title": "Asao (codec)",
+      "url": "https://en.wikipedia.org/wiki/Asao_%28codec%29"
+    },
+    {
+      "title": "Au file format",
+      "url": "https://en.wikipedia.org/wiki/Au_file_format"
+    },
+    {
+      "title": "Audio Interchange File Format",
+      "url": "https://en.wikipedia.org/wiki/Audio_Interchange_File_Format"
+    },
+    {
+      "title": "Audio Lossless Coding",
+      "url": "https://en.wikipedia.org/wiki/Audio_Lossless_Coding"
+    },
+    {
+      "title": "Audio Video Interleave",
+      "url": "https://en.wikipedia.org/wiki/Audio_Video_Interleave"
+    },
+    {
+      "title": "Audio Video Standard",
+      "url": "https://en.wikipedia.org/wiki/Audio_Video_Standard"
+    },
+    {
+      "title": "Audio coding format",
+      "url": "https://en.wikipedia.org/wiki/Audio_coding_format"
+    },
+    {
+      "title": "Avid Audio",
+      "url": "https://en.wikipedia.org/wiki/Avid_Audio"
+    },
+    {
+      "title": "Avid DNxHD",
+      "url": "https://en.wikipedia.org/wiki/Avid_DNxHD"
+    },
+    {
+      "title": "BITNET",
+      "url": "https://en.wikipedia.org/wiki/BITNET"
+    },
+    {
+      "title": "BMP file format",
+      "url": "https://en.wikipedia.org/wiki/BMP_file_format"
+    },
+    {
+      "title": "Bandwidth (computing)",
+      "url": "https://en.wikipedia.org/wiki/Bandwidth_%28computing%29"
+    },
+    {
+      "title": "Beacon",
+      "url": "https://en.wikipedia.org/wiki/Beacon"
+    },
+    {
+      "title": "Better Portable Graphics",
+      "url": "https://en.wikipedia.org/wiki/Better_Portable_Graphics"
+    },
+    {
+      "title": "Bink Video",
+      "url": "https://en.wikipedia.org/wiki/Bink_Video"
+    },
+    {
+      "title": "Bleeding edge",
+      "url": "https://en.wikipedia.org/wiki/Bleeding_edge"
+    },
+    {
+      "title": "Bluetooth Special Interest Group",
+      "url": "https://en.wikipedia.org/wiki/Bluetooth_Special_Interest_Group"
+    },
+    {
+      "title": "Bob Kahn",
+      "url": "https://en.wikipedia.org/wiki/Bob_Kahn"
+    },
+    {
+      "title": "CELT",
+      "url": "https://en.wikipedia.org/wiki/CELT"
+    },
+    {
+      "title": "CYCLADES",
+      "url": "https://en.wikipedia.org/wiki/CYCLADES"
+    },
+    {
+      "title": "Cable protection system",
+      "url": "https://en.wikipedia.org/wiki/Cable_protection_system"
+    },
+    {
+      "title": "Cable television",
+      "url": "https://en.wikipedia.org/wiki/Cable_television"
+    },
+    {
+      "title": "Camille Tissot",
+      "url": "https://en.wikipedia.org/wiki/Camille_Tissot"
+    },
+    {
+      "title": "Cellular network",
+      "url": "https://en.wikipedia.org/wiki/Cellular_network"
+    },
+    {
+      "title": "Chaesub Lee",
+      "url": "https://en.wikipedia.org/wiki/Chaesub_Lee"
+    },
+    {
+      "title": "Charles Bourseul",
+      "url": "https://en.wikipedia.org/wiki/Charles_Bourseul"
+    },
+    {
+      "title": "Charles Grafton Page",
+      "url": "https://en.wikipedia.org/wiki/Charles_Grafton_Page"
+    },
+    {
+      "title": "Charles K. Kao",
+      "url": "https://en.wikipedia.org/wiki/Charles_K._Kao"
+    },
+    {
+      "title": "Charles Sumner Tainter",
+      "url": "https://en.wikipedia.org/wiki/Charles_Sumner_Tainter"
+    },
+    {
+      "title": "Charles Wheatstone",
+      "url": "https://en.wikipedia.org/wiki/Charles_Wheatstone"
+    },
+    {
+      "title": "CineForm",
+      "url": "https://en.wikipedia.org/wiki/CineForm"
+    },
+    {
+      "title": "Cinepak",
+      "url": "https://en.wikipedia.org/wiki/Cinepak"
+    },
+    {
+      "title": "Circuit switching",
+      "url": "https://en.wikipedia.org/wiki/Circuit_switching"
+    },
+    {
+      "title": "Claude Chappe",
+      "url": "https://en.wikipedia.org/wiki/Claude_Chappe"
+    },
+    {
+      "title": "Claude Shannon",
+      "url": "https://en.wikipedia.org/wiki/Claude_Shannon"
+    },
+    {
+      "title": "Coaxial cable",
+      "url": "https://en.wikipedia.org/wiki/Coaxial_cable"
+    },
+    {
+      "title": "Code-division multiple access",
+      "url": "https://en.wikipedia.org/wiki/Code-division_multiple_access"
+    },
+    {
+      "title": "Code-excited linear prediction",
+      "url": "https://en.wikipedia.org/wiki/Code-excited_linear_prediction"
+    },
+    {
+      "title": "Codec 2",
+      "url": "https://en.wikipedia.org/wiki/Codec_2"
+    },
+    {
+      "title": "Communication protocol",
+      "url": "https://en.wikipedia.org/wiki/Communication_protocol"
+    },
+    {
+      "title": "Communications satellite",
+      "url": "https://en.wikipedia.org/wiki/Communications_satellite"
+    },
+    {
+      "title": "Comparison of audio coding formats",
+      "url": "https://en.wikipedia.org/wiki/Comparison_of_audio_coding_formats"
+    },
+    {
+      "title": "Comparison of video codecs",
+      "url": "https://en.wikipedia.org/wiki/Comparison_of_video_codecs"
+    },
+    {
+      "title": "Computer network",
+      "url": "https://en.wikipedia.org/wiki/Computer_network"
+    },
+    {
+      "title": "Container format",
+      "url": "https://en.wikipedia.org/wiki/Container_format"
+    },
+    {
+      "title": "DEFLATE",
+      "url": "https://en.wikipedia.org/wiki/DEFLATE"
+    },
+    {
+      "title": "DTS (sound system)",
+      "url": "https://en.wikipedia.org/wiki/DTS_%28sound_system%29"
+    },
+    {
+      "title": "DV (video format)",
+      "url": "https://en.wikipedia.org/wiki/DV_%28video_format%29"
+    },
+    {
+      "title": "Daala",
+      "url": "https://en.wikipedia.org/wiki/Daala"
+    },
+    {
+      "title": "Daniel Davis Jr.",
+      "url": "https://en.wikipedia.org/wiki/Daniel_Davis_Jr."
+    },
+    {
+      "title": "Data communication",
+      "url": "https://en.wikipedia.org/wiki/Data_communication"
+    },
+    {
+      "title": "Data compression",
+      "url": "https://en.wikipedia.org/wiki/Data_compression"
+    },
+    {
+      "title": "Daubechies wavelet",
+      "url": "https://en.wikipedia.org/wiki/Daubechies_wavelet"
+    },
+    {
+      "title": "Dawon Kahng",
+      "url": "https://en.wikipedia.org/wiki/Dawon_Kahng"
+    },
+    {
+      "title": "De facto standard",
+      "url": "https://en.wikipedia.org/wiki/De_facto_standard"
+    },
+    {
+      "title": "Differential pulse-code modulation",
+      "url": "https://en.wikipedia.org/wiki/Differential_pulse-code_modulation"
+    },
+    {
+      "title": "Digital Video Interactive",
+      "url": "https://en.wikipedia.org/wiki/Digital_Video_Interactive"
+    },
+    {
+      "title": "Digital container format",
+      "url": "https://en.wikipedia.org/wiki/Digital_container_format"
+    },
+    {
+      "title": "Digital media",
+      "url": "https://en.wikipedia.org/wiki/Digital_media"
+    },
+    {
+      "title": "Digital television",
+      "url": "https://en.wikipedia.org/wiki/Digital_television"
+    },
+    {
+      "title": "Dirac (video compression format)",
+      "url": "https://en.wikipedia.org/wiki/Dirac_%28video_compression_format%29"
+    },
+    {
+      "title": "Discrete cosine transform",
+      "url": "https://en.wikipedia.org/wiki/Discrete_cosine_transform"
+    },
+    {
+      "title": "Discrete wavelet transform",
+      "url": "https://en.wikipedia.org/wiki/Discrete_wavelet_transform"
+    },
+    {
+      "title": "DivX",
+      "url": "https://en.wikipedia.org/wiki/DivX"
+    },
+    {
+      "title": "DjVu",
+      "url": "https://en.wikipedia.org/wiki/DjVu"
+    },
+    {
+      "title": "Dolby AC-4",
+      "url": "https://en.wikipedia.org/wiki/Dolby_AC-4"
+    },
+    {
+      "title": "Dolby Digital",
+      "url": "https://en.wikipedia.org/wiki/Dolby_Digital"
+    },
+    {
+      "title": "Dolby TrueHD",
+      "url": "https://en.wikipedia.org/wiki/Dolby_TrueHD"
+    },
+    {
+      "title": "Donald Davies",
+      "url": "https://en.wikipedia.org/wiki/Donald_Davies"
+    },
+    {
+      "title": "Drums in communication",
+      "url": "https://en.wikipedia.org/wiki/Drums_in_communication"
+    },
+    {
+      "title": "Dynamic Resolution Adaptation",
+      "url": "https://en.wikipedia.org/wiki/Dynamic_Resolution_Adaptation"
+    },
+    {
+      "title": "ETSI",
+      "url": "https://en.wikipedia.org/wiki/ETSI"
+    },
+    {
+      "title": "Edholm's law",
+      "url": "https://en.wikipedia.org/wiki/Edholm%27s_law"
+    },
+    {
+      "title": "Edwin Howard Armstrong",
+      "url": "https://en.wikipedia.org/wiki/Edwin_Howard_Armstrong"
+    },
+    {
+      "title": "Electrical telegraph",
+      "url": "https://en.wikipedia.org/wiki/Electrical_telegraph"
+    },
+    {
+      "title": "Electronic office",
+      "url": "https://en.wikipedia.org/wiki/Electronic_office"
+    },
+    {
+      "title": "Elisha Gray",
+      "url": "https://en.wikipedia.org/wiki/Elisha_Gray"
+    },
+    {
+      "title": "Emile Berliner",
+      "url": "https://en.wikipedia.org/wiki/Emile_Berliner"
+    },
+    {
+      "title": "Enhanced VOB",
+      "url": "https://en.wikipedia.org/wiki/Enhanced_VOB"
+    },
+    {
+      "title": "Enhanced Variable Rate Codec",
+      "url": "https://en.wikipedia.org/wiki/Enhanced_Variable_Rate_Codec"
+    },
+    {
+      "title": "Enhanced Variable Rate Codec B",
+      "url": "https://en.wikipedia.org/wiki/Enhanced_Variable_Rate_Codec_B"
+    },
+    {
+      "title": "Enhanced Voice Services",
+      "url": "https://en.wikipedia.org/wiki/Enhanced_Voice_Services"
+    },
+    {
+      "title": "Enhanced full rate",
+      "url": "https://en.wikipedia.org/wiki/Enhanced_full_rate"
+    },
+    {
+      "title": "Entropy encoding",
+      "url": "https://en.wikipedia.org/wiki/Entropy_encoding"
+    },
+    {
+      "title": "Erna Schneider Hoover",
+      "url": "https://en.wikipedia.org/wiki/Erna_Schneider_Hoover"
+    },
+    {
+      "title": "Essential Video Coding",
+      "url": "https://en.wikipedia.org/wiki/Essential_Video_Coding"
+    },
+    {
+      "title": "Ethernet",
+      "url": "https://en.wikipedia.org/wiki/Ethernet"
+    },
+    {
+      "title": "Extended Adaptive Multi-Rate – Wideband",
+      "url": "https://en.wikipedia.org/wiki/Extended_Adaptive_Multi-Rate_%E2%80%93_Wideband"
+    },
+    {
+      "title": "FFV1",
+      "url": "https://en.wikipedia.org/wiki/FFV1"
+    },
+    {
+      "title": "FLAC",
+      "url": "https://en.wikipedia.org/wiki/FLAC"
+    },
+    {
+      "title": "Fast Fourier transform",
+      "url": "https://en.wikipedia.org/wiki/Fast_Fourier_transform"
+    },
+    {
+      "title": "Fax",
+      "url": "https://en.wikipedia.org/wiki/Fax"
+    },
+    {
+      "title": "Fiber-optic communication",
+      "url": "https://en.wikipedia.org/wiki/Fiber-optic_communication"
+    },
+    {
+      "title": "FidoNet",
+      "url": "https://en.wikipedia.org/wiki/FidoNet"
+    },
+    {
+      "title": "Flash Video",
+      "url": "https://en.wikipedia.org/wiki/Flash_Video"
+    },
+    {
+      "title": "Francis Blake (inventor)",
+      "url": "https://en.wikipedia.org/wiki/Francis_Blake_%28inventor%29"
+    },
+    {
+      "title": "Free-space optical communication",
+      "url": "https://en.wikipedia.org/wiki/Free-space_optical_communication"
+    },
+    {
+      "title": "Free Lossless Image Format",
+      "url": "https://en.wikipedia.org/wiki/Free_Lossless_Image_Format"
+    },
+    {
+      "title": "French language",
+      "url": "https://en.wikipedia.org/wiki/French_language"
+    },
+    {
+      "title": "Frequency-division multiplexing",
+      "url": "https://en.wikipedia.org/wiki/Frequency-division_multiplexing"
+    },
+    {
+      "title": "Full Rate",
+      "url": "https://en.wikipedia.org/wiki/Full_Rate"
+    },
+    {
+      "title": "G.711",
+      "url": "https://en.wikipedia.org/wiki/G.711"
+    },
+    {
+      "title": "G.718",
+      "url": "https://en.wikipedia.org/wiki/G.718"
+    },
+    {
+      "title": "G.719",
+      "url": "https://en.wikipedia.org/wiki/G.719"
+    },
+    {
+      "title": "G.722",
+      "url": "https://en.wikipedia.org/wiki/G.722"
+    },
+    {
+      "title": "G.722.1",
+      "url": "https://en.wikipedia.org/wiki/G.722.1"
+    },
+    {
+      "title": "G.723",
+      "url": "https://en.wikipedia.org/wiki/G.723"
+    },
+    {
+      "title": "G.723.1",
+      "url": "https://en.wikipedia.org/wiki/G.723.1"
+    },
+    {
+      "title": "G.726",
+      "url": "https://en.wikipedia.org/wiki/G.726"
+    },
+    {
+      "title": "G.728",
+      "url": "https://en.wikipedia.org/wiki/G.728"
+    },
+    {
+      "title": "G.729",
+      "url": "https://en.wikipedia.org/wiki/G.729"
+    },
+    {
+      "title": "G.729.1",
+      "url": "https://en.wikipedia.org/wiki/G.729.1"
+    },
+    {
+      "title": "GIF",
+      "url": "https://en.wikipedia.org/wiki/GIF"
+    },
+    {
+      "title": "Gardiner Greene Hubbard",
+      "url": "https://en.wikipedia.org/wiki/Gardiner_Greene_Hubbard"
+    },
+    {
+      "title": "General Exchange Format",
+      "url": "https://en.wikipedia.org/wiki/General_Exchange_Format"
+    },
+    {
+      "title": "Geneva",
+      "url": "https://en.wikipedia.org/wiki/Geneva"
+    },
+    {
+      "title": "Geneva, Switzerland",
+      "url": "https://en.wikipedia.org/wiki/Geneva%2C_Switzerland"
+    },
+    {
+      "title": "Global Standards Collaboration",
+      "url": "https://en.wikipedia.org/wiki/Global_Standards_Collaboration"
+    },
+    {
+      "title": "Global Standards Symposium",
+      "url": "https://en.wikipedia.org/wiki/Global_Standards_Symposium"
+    },
+    {
+      "title": "Guglielmo Marconi",
+      "url": "https://en.wikipedia.org/wiki/Guglielmo_Marconi"
+    },
+    {
+      "title": "H.120",
+      "url": "https://en.wikipedia.org/wiki/H.120"
+    },
+    {
+      "title": "H.261",
+      "url": "https://en.wikipedia.org/wiki/H.261"
+    },
+    {
+      "title": "H.262/MPEG-2 Part 2",
+      "url": "https://en.wikipedia.org/wiki/H.262%2FMPEG-2_Part_2"
+    },
+    {
+      "title": "H.263",
+      "url": "https://en.wikipedia.org/wiki/H.263"
+    },
+    {
+      "title": "H.264/MPEG-4 AVC",
+      "url": "https://en.wikipedia.org/wiki/H.264%2FMPEG-4_AVC"
+    },
+    {
+      "title": "Half Rate",
+      "url": "https://en.wikipedia.org/wiki/Half_Rate"
+    },
+    {
+      "title": "Harmonic Vector Excitation Coding",
+      "url": "https://en.wikipedia.org/wiki/Harmonic_Vector_Excitation_Coding"
+    },
+    {
+      "title": "Harold Hopkins (physicist)",
+      "url": "https://en.wikipedia.org/wiki/Harold_Hopkins_%28physicist%29"
+    },
+    {
+      "title": "Hedy Lamarr",
+      "url": "https://en.wikipedia.org/wiki/Hedy_Lamarr"
+    },
+    {
+      "title": "Heliograph",
+      "url": "https://en.wikipedia.org/wiki/Heliograph"
+    },
+    {
+      "title": "Henry Sutton (inventor)",
+      "url": "https://en.wikipedia.org/wiki/Henry_Sutton_%28inventor%29"
+    },
+    {
+      "title": "High-Efficiency Advanced Audio Coding",
+      "url": "https://en.wikipedia.org/wiki/High-Efficiency_Advanced_Audio_Coding"
+    },
+    {
+      "title": "HighBeam Research",
+      "url": "https://en.wikipedia.org/wiki/HighBeam_Research"
+    },
+    {
+      "title": "High Efficiency Image File Format",
+      "url": "https://en.wikipedia.org/wiki/High_Efficiency_Image_File_Format"
+    },
+    {
+      "title": "High Efficiency Video Coding",
+      "url": "https://en.wikipedia.org/wiki/High_Efficiency_Video_Coding"
+    },
+    {
+      "title": "History of broadcasting",
+      "url": "https://en.wikipedia.org/wiki/History_of_broadcasting"
+    },
+    {
+      "title": "History of mobile phones",
+      "url": "https://en.wikipedia.org/wiki/History_of_mobile_phones"
+    },
+    {
+      "title": "History of prepaid mobile phones",
+      "url": "https://en.wikipedia.org/wiki/History_of_prepaid_mobile_phones"
+    },
+    {
+      "title": "History of radio",
+      "url": "https://en.wikipedia.org/wiki/History_of_radio"
+    },
+    {
+      "title": "History of telecommunication",
+      "url": "https://en.wikipedia.org/wiki/History_of_telecommunication"
+    },
+    {
+      "title": "History of television",
+      "url": "https://en.wikipedia.org/wiki/History_of_television"
+    },
+    {
+      "title": "History of the Internet",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_Internet"
+    },
+    {
+      "title": "History of the telephone",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_telephone"
+    },
+    {
+      "title": "History of the transistor",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_transistor"
+    },
+    {
+      "title": "History of videotelephony",
+      "url": "https://en.wikipedia.org/wiki/History_of_videotelephony"
+    },
+    {
+      "title": "Huffman coding",
+      "url": "https://en.wikipedia.org/wiki/Huffman_coding"
+    },
+    {
+      "title": "Huffyuv",
+      "url": "https://en.wikipedia.org/wiki/Huffyuv"
+    },
+    {
+      "title": "Hydraulic telegraph",
+      "url": "https://en.wikipedia.org/wiki/Hydraulic_telegraph"
+    },
+    {
+      "title": "ICER (file format)",
+      "url": "https://en.wikipedia.org/wiki/ICER_%28file_format%29"
+    },
+    {
+      "title": "ISO/IEC base media file format",
+      "url": "https://en.wikipedia.org/wiki/ISO%2FIEC_base_media_file_format"
+    },
+    {
+      "title": "ITU",
+      "url": "https://en.wikipedia.org/wiki/ITU"
+    },
+    {
+      "title": "ITU-D",
+      "url": "https://en.wikipedia.org/wiki/ITU-D"
+    },
+    {
+      "title": "ITU-R",
+      "url": "https://en.wikipedia.org/wiki/ITU-R"
+    },
+    {
+      "title": "ITU-T Study Group 13",
+      "url": "https://en.wikipedia.org/wiki/ITU-T_Study_Group_13"
+    },
+    {
+      "title": "ITU-T Study Group 16",
+      "url": "https://en.wikipedia.org/wiki/ITU-T_Study_Group_16"
+    },
+    {
+      "title": "ITU-T Study Group 17",
+      "url": "https://en.wikipedia.org/wiki/ITU-T_Study_Group_17"
+    },
+    {
+      "title": "ITU-WHO Focus Group on Artificial Intelligence for Health",
+      "url": "https://en.wikipedia.org/wiki/ITU-WHO_Focus_Group_on_Artificial_Intelligence_for_Health"
+    },
+    {
+      "title": "ITU AI for Good",
+      "url": "https://en.wikipedia.org/wiki/ITU_AI_for_Good"
+    },
+    {
+      "title": "ITU Focus Group on Artificial Intelligence for Autonomous and Assisted Driving",
+      "url": "https://en.wikipedia.org/wiki/ITU_Focus_Group_on_Artificial_Intelligence_for_Autonomous_and_Assisted_Driving"
+    },
+    {
+      "title": "ITU Radio Regulations",
+      "url": "https://en.wikipedia.org/wiki/ITU_Radio_Regulations"
+    },
+    {
+      "title": "Image compression",
+      "url": "https://en.wikipedia.org/wiki/Image_compression"
+    },
+    {
+      "title": "Indeo",
+      "url": "https://en.wikipedia.org/wiki/Indeo"
+    },
+    {
+      "title": "Information Age",
+      "url": "https://en.wikipedia.org/wiki/Information_Age"
+    },
+    {
+      "title": "Information Communication Technology",
+      "url": "https://en.wikipedia.org/wiki/Information_Communication_Technology"
+    },
+    {
+      "title": "Information revolution",
+      "url": "https://en.wikipedia.org/wiki/Information_revolution"
+    },
+    {
+      "title": "Innocenzo Manzetti",
+      "url": "https://en.wikipedia.org/wiki/Innocenzo_Manzetti"
+    },
+    {
+      "title": "Integrated Services Digital Network",
+      "url": "https://en.wikipedia.org/wiki/Integrated_Services_Digital_Network"
+    },
+    {
+      "title": "Interchange File Format",
+      "url": "https://en.wikipedia.org/wiki/Interchange_File_Format"
+    },
+    {
+      "title": "International Electrotechnical Commission",
+      "url": "https://en.wikipedia.org/wiki/International_Electrotechnical_Commission"
+    },
+    {
+      "title": "International Organization for Standardization",
+      "url": "https://en.wikipedia.org/wiki/International_Organization_for_Standardization"
+    },
+    {
+      "title": "International Telecommunication Union",
+      "url": "https://en.wikipedia.org/wiki/International_Telecommunication_Union"
+    },
+    {
+      "title": "Internet",
+      "url": "https://en.wikipedia.org/wiki/Internet"
+    },
+    {
+      "title": "Internet2",
+      "url": "https://en.wikipedia.org/wiki/Internet2"
+    },
+    {
+      "title": "Internet Engineering Task Force",
+      "url": "https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force"
+    },
+    {
+      "title": "Internet Low Bitrate Codec",
+      "url": "https://en.wikipedia.org/wiki/Internet_Low_Bitrate_Codec"
+    },
+    {
+      "title": "Internet Speech Audio Codec",
+      "url": "https://en.wikipedia.org/wiki/Internet_Speech_Audio_Codec"
+    },
+    {
+      "title": "Internet video",
+      "url": "https://en.wikipedia.org/wiki/Internet_video"
+    },
+    {
+      "title": "JANET",
+      "url": "https://en.wikipedia.org/wiki/JANET"
+    },
+    {
+      "title": "JBIG",
+      "url": "https://en.wikipedia.org/wiki/JBIG"
+    },
+    {
+      "title": "JBIG2",
+      "url": "https://en.wikipedia.org/wiki/JBIG2"
+    },
+    {
+      "title": "JPEG",
+      "url": "https://en.wikipedia.org/wiki/JPEG"
+    },
+    {
+      "title": "JPEG-LS",
+      "url": "https://en.wikipedia.org/wiki/JPEG-LS"
+    },
+    {
+      "title": "JPEG 2000",
+      "url": "https://en.wikipedia.org/wiki/JPEG_2000"
+    },
+    {
+      "title": "JPEG XL",
+      "url": "https://en.wikipedia.org/wiki/JPEG_XL"
+    },
+    {
+      "title": "JPEG XR",
+      "url": "https://en.wikipedia.org/wiki/JPEG_XR"
+    },
+    {
+      "title": "JPEG XS",
+      "url": "https://en.wikipedia.org/wiki/JPEG_XS"
+    },
+    {
+      "title": "JPEG XT",
+      "url": "https://en.wikipedia.org/wiki/JPEG_XT"
+    },
+    {
+      "title": "Jagadish Chandra Bose",
+      "url": "https://en.wikipedia.org/wiki/Jagadish_Chandra_Bose"
+    },
+    {
+      "title": "Johann Philipp Reis",
+      "url": "https://en.wikipedia.org/wiki/Johann_Philipp_Reis"
+    },
+    {
+      "title": "John Bardeen",
+      "url": "https://en.wikipedia.org/wiki/John_Bardeen"
+    },
+    {
+      "title": "John Logie Baird",
+      "url": "https://en.wikipedia.org/wiki/John_Logie_Baird"
+    },
+    {
+      "title": "Joint Photographic Experts Group",
+      "url": "https://en.wikipedia.org/wiki/Joint_Photographic_Experts_Group"
+    },
+    {
+      "title": "Jun-ichi Nishizawa",
+      "url": "https://en.wikipedia.org/wiki/Jun-ichi_Nishizawa"
+    },
+    {
+      "title": "LC3 (codec)",
+      "url": "https://en.wikipedia.org/wiki/LC3_%28codec%29"
+    },
+    {
+      "title": "LCEVC",
+      "url": "https://en.wikipedia.org/wiki/LCEVC"
+    },
+    {
+      "title": "LDAC (codec)",
+      "url": "https://en.wikipedia.org/wiki/LDAC_%28codec%29"
+    },
+    {
+      "title": "LHDC (codec)",
+      "url": "https://en.wikipedia.org/wiki/LHDC_%28codec%29"
+    },
+    {
+      "title": "LZ77 and LZ78",
+      "url": "https://en.wikipedia.org/wiki/LZ77_and_LZ78"
+    },
+    {
+      "title": "Lagarith",
+      "url": "https://en.wikipedia.org/wiki/Lagarith"
+    },
+    {
+      "title": "Lee de Forest",
+      "url": "https://en.wikipedia.org/wiki/Lee_de_Forest"
+    },
+    {
+      "title": "Lempel–Ziv–Welch",
+      "url": "https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Welch"
+    },
+    {
+      "title": "Line spectral pairs",
+      "url": "https://en.wikipedia.org/wiki/Line_spectral_pairs"
+    },
+    {
+      "title": "Linear predictive coding",
+      "url": "https://en.wikipedia.org/wiki/Linear_predictive_coding"
+    },
+    {
+      "title": "List of Internet pioneers",
+      "url": "https://en.wikipedia.org/wiki/List_of_Internet_pioneers"
+    },
+    {
+      "title": "List of codecs",
+      "url": "https://en.wikipedia.org/wiki/List_of_codecs"
+    },
+    {
+      "title": "List of packet-switched networks",
+      "url": "https://en.wikipedia.org/wiki/List_of_packet-switched_networks"
+    },
+    {
+      "title": "List of telecommunications regulatory bodies",
+      "url": "https://en.wikipedia.org/wiki/List_of_telecommunications_regulatory_bodies"
+    },
+    {
+      "title": "Local area network",
+      "url": "https://en.wikipedia.org/wiki/Local_area_network"
+    },
+    {
+      "title": "Lossless compression",
+      "url": "https://en.wikipedia.org/wiki/Lossless_compression"
+    },
+    {
+      "title": "Lossy compression",
+      "url": "https://en.wikipedia.org/wiki/Lossy_compression"
+    },
+    {
+      "title": "Lyra (codec)",
+      "url": "https://en.wikipedia.org/wiki/Lyra_%28codec%29"
+    },
+    {
+      "title": "MOD and TOD",
+      "url": "https://en.wikipedia.org/wiki/MOD_and_TOD"
+    },
+    {
+      "title": "MOSFET",
+      "url": "https://en.wikipedia.org/wiki/MOSFET"
+    },
+    {
+      "title": "MP3",
+      "url": "https://en.wikipedia.org/wiki/MP3"
+    },
+    {
+      "title": "MPEG-1",
+      "url": "https://en.wikipedia.org/wiki/MPEG-1"
+    },
+    {
+      "title": "MPEG-1 Audio Layer I",
+      "url": "https://en.wikipedia.org/wiki/MPEG-1_Audio_Layer_I"
+    },
+    {
+      "title": "MPEG-1 Audio Layer II",
+      "url": "https://en.wikipedia.org/wiki/MPEG-1_Audio_Layer_II"
+    },
+    {
+      "title": "MPEG-2",
+      "url": "https://en.wikipedia.org/wiki/MPEG-2"
+    },
+    {
+      "title": "MPEG-21",
+      "url": "https://en.wikipedia.org/wiki/MPEG-21"
+    },
+    {
+      "title": "MPEG-4",
+      "url": "https://en.wikipedia.org/wiki/MPEG-4"
+    },
+    {
+      "title": "MPEG-4 IVC",
+      "url": "https://en.wikipedia.org/wiki/MPEG-4_IVC"
+    },
+    {
+      "title": "MPEG-4 Part 14",
+      "url": "https://en.wikipedia.org/wiki/MPEG-4_Part_14"
+    },
+    {
+      "title": "MPEG-4 Part 2",
+      "url": "https://en.wikipedia.org/wiki/MPEG-4_Part_2"
+    },
+    {
+      "title": "MPEG-4 SLS",
+      "url": "https://en.wikipedia.org/wiki/MPEG-4_SLS"
+    },
+    {
+      "title": "MPEG-5",
+      "url": "https://en.wikipedia.org/wiki/MPEG-5"
+    },
+    {
+      "title": "MPEG-H",
+      "url": "https://en.wikipedia.org/wiki/MPEG-H"
+    },
+    {
+      "title": "MPEG-H 3D Audio",
+      "url": "https://en.wikipedia.org/wiki/MPEG-H_3D_Audio"
+    },
+    {
+      "title": "MPEG LA",
+      "url": "https://en.wikipedia.org/wiki/MPEG_LA"
+    },
+    {
+      "title": "MPEG Multichannel",
+      "url": "https://en.wikipedia.org/wiki/MPEG_Multichannel"
+    },
+    {
+      "title": "MPEG Surround",
+      "url": "https://en.wikipedia.org/wiki/MPEG_Surround"
+    },
+    {
+      "title": "MPEG elementary stream",
+      "url": "https://en.wikipedia.org/wiki/MPEG_elementary_stream"
+    },
+    {
+      "title": "MPEG media transport",
+      "url": "https://en.wikipedia.org/wiki/MPEG_media_transport"
+    },
+    {
+      "title": "MPEG program stream",
+      "url": "https://en.wikipedia.org/wiki/MPEG_program_stream"
+    },
+    {
+      "title": "MPEG transport stream",
+      "url": "https://en.wikipedia.org/wiki/MPEG_transport_stream"
+    },
+    {
+      "title": "MSU Lossless Video Codec",
+      "url": "https://en.wikipedia.org/wiki/MSU_Lossless_Video_Codec"
+    },
+    {
+      "title": "MT9",
+      "url": "https://en.wikipedia.org/wiki/MT9"
+    },
+    {
+      "title": "Mass media",
+      "url": "https://en.wikipedia.org/wiki/Mass_media"
+    },
+    {
+      "title": "Master Quality Authenticated",
+      "url": "https://en.wikipedia.org/wiki/Master_Quality_Authenticated"
+    },
+    {
+      "title": "Material Exchange Format",
+      "url": "https://en.wikipedia.org/wiki/Material_Exchange_Format"
+    },
+    {
+      "title": "Matroska",
+      "url": "https://en.wikipedia.org/wiki/Matroska"
+    },
+    {
+      "title": "Microsoft Office",
+      "url": "https://en.wikipedia.org/wiki/Microsoft_Office"
+    },
+    {
+      "title": "Microsoft Video 1",
+      "url": "https://en.wikipedia.org/wiki/Microsoft_Video_1"
+    },
+    {
+      "title": "Mixed-excitation linear prediction",
+      "url": "https://en.wikipedia.org/wiki/Mixed-excitation_linear_prediction"
+    },
+    {
+      "title": "Mobile telephony",
+      "url": "https://en.wikipedia.org/wiki/Mobile_telephony"
+    },
+    {
+      "title": "Modified Huffman coding",
+      "url": "https://en.wikipedia.org/wiki/Modified_Huffman_coding"
+    },
+    {
+      "title": "Modified discrete cosine transform",
+      "url": "https://en.wikipedia.org/wiki/Modified_discrete_cosine_transform"
+    },
+    {
+      "title": "Mohamed M. Atalla",
+      "url": "https://en.wikipedia.org/wiki/Mohamed_M._Atalla"
+    },
+    {
+      "title": "Molecular communication",
+      "url": "https://en.wikipedia.org/wiki/Molecular_communication"
+    },
+    {
+      "title": "Monkey's Audio",
+      "url": "https://en.wikipedia.org/wiki/Monkey%27s_Audio"
+    },
+    {
+      "title": "Motion JPEG",
+      "url": "https://en.wikipedia.org/wiki/Motion_JPEG"
+    },
+    {
+      "title": "Motion JPEG 2000",
+      "url": "https://en.wikipedia.org/wiki/Motion_JPEG_2000"
+    },
+    {
+      "title": "Moving Picture Experts Group",
+      "url": "https://en.wikipedia.org/wiki/Moving_Picture_Experts_Group"
+    },
+    {
+      "title": "Multimedia",
+      "url": "https://en.wikipedia.org/wiki/Multimedia"
+    },
+    {
+      "title": "Multiple-image Network Graphics",
+      "url": "https://en.wikipedia.org/wiki/Multiple-image_Network_Graphics"
+    },
+    {
+      "title": "Multiplexing",
+      "url": "https://en.wikipedia.org/wiki/Multiplexing"
+    },
+    {
+      "title": "Musepack",
+      "url": "https://en.wikipedia.org/wiki/Musepack"
+    },
+    {
+      "title": "NETVC",
+      "url": "https://en.wikipedia.org/wiki/NETVC"
+    },
+    {
+      "title": "NPL network",
+      "url": "https://en.wikipedia.org/wiki/NPL_network"
+    },
+    {
+      "title": "Napoleon III",
+      "url": "https://en.wikipedia.org/wiki/Napoleon_III"
+    },
+    {
+      "title": "Narinder Singh Kapany",
+      "url": "https://en.wikipedia.org/wiki/Narinder_Singh_Kapany"
+    },
+    {
+      "title": "Nasir Ahmed (engineer)",
+      "url": "https://en.wikipedia.org/wiki/Nasir_Ahmed_%28engineer%29"
+    },
+    {
+      "title": "Network switch",
+      "url": "https://en.wikipedia.org/wiki/Network_switch"
+    },
+    {
+      "title": "Network topology",
+      "url": "https://en.wikipedia.org/wiki/Network_topology"
+    },
+    {
+      "title": "Next-generation network",
+      "url": "https://en.wikipedia.org/wiki/Next-generation_network"
+    },
+    {
+      "title": "Next Generation Networks",
+      "url": "https://en.wikipedia.org/wiki/Next_Generation_Networks"
+    },
+    {
+      "title": "Nikola Tesla",
+      "url": "https://en.wikipedia.org/wiki/Nikola_Tesla"
+    },
+    {
+      "title": "Node (networking)",
+      "url": "https://en.wikipedia.org/wiki/Node_%28networking%29"
+    },
+    {
+      "title": "OMS Video",
+      "url": "https://en.wikipedia.org/wiki/OMS_Video"
+    },
+    {
+      "title": "Ogg",
+      "url": "https://en.wikipedia.org/wiki/Ogg"
+    },
+    {
+      "title": "Oliver Heaviside",
+      "url": "https://en.wikipedia.org/wiki/Oliver_Heaviside"
+    },
+    {
+      "title": "On2 Technologies",
+      "url": "https://en.wikipedia.org/wiki/On2_Technologies"
+    },
+    {
+      "title": "Online video platform",
+      "url": "https://en.wikipedia.org/wiki/Online_video_platform"
+    },
+    {
+      "title": "OpenEXR",
+      "url": "https://en.wikipedia.org/wiki/OpenEXR"
+    },
+    {
+      "title": "Open Document Architecture",
+      "url": "https://en.wikipedia.org/wiki/Open_Document_Architecture"
+    },
+    {
+      "title": "Optical communication",
+      "url": "https://en.wikipedia.org/wiki/Optical_communication"
+    },
+    {
+      "title": "Optical fiber",
+      "url": "https://en.wikipedia.org/wiki/Optical_fiber"
+    },
+    {
+      "title": "Optical telegraph",
+      "url": "https://en.wikipedia.org/wiki/Optical_telegraph"
+    },
+    {
+      "title": "OptimFROG",
+      "url": "https://en.wikipedia.org/wiki/OptimFROG"
+    },
+    {
+      "title": "Opus (audio format)",
+      "url": "https://en.wikipedia.org/wiki/Opus_%28audio_format%29"
+    },
+    {
+      "title": "Orbital angular momentum multiplexing",
+      "url": "https://en.wikipedia.org/wiki/Orbital_angular_momentum_multiplexing"
+    },
+    {
+      "title": "Original Sound Quality",
+      "url": "https://en.wikipedia.org/wiki/Original_Sound_Quality"
+    },
+    {
+      "title": "Outline of telecommunication",
+      "url": "https://en.wikipedia.org/wiki/Outline_of_telecommunication"
+    },
+    {
+      "title": "PNG",
+      "url": "https://en.wikipedia.org/wiki/PNG"
+    },
+    {
+      "title": "Packet switching",
+      "url": "https://en.wikipedia.org/wiki/Packet_switching"
+    },
+    {
+      "title": "Packetized elementary stream",
+      "url": "https://en.wikipedia.org/wiki/Packetized_elementary_stream"
+    },
+    {
+      "title": "Pager",
+      "url": "https://en.wikipedia.org/wiki/Pager"
+    },
+    {
+      "title": "Paul Baran",
+      "url": "https://en.wikipedia.org/wiki/Paul_Baran"
+    },
+    {
+      "title": "Personal computer",
+      "url": "https://en.wikipedia.org/wiki/Personal_computer"
+    },
+    {
+      "title": "Philo Farnsworth",
+      "url": "https://en.wikipedia.org/wiki/Philo_Farnsworth"
+    },
+    {
+      "title": "Photophone",
+      "url": "https://en.wikipedia.org/wiki/Photophone"
+    },
+    {
+      "title": "Phryctoria",
+      "url": "https://en.wikipedia.org/wiki/Phryctoria"
+    },
+    {
+      "title": "Pixlet",
+      "url": "https://en.wikipedia.org/wiki/Pixlet"
+    },
+    {
+      "title": "Plenipotentiary Conference",
+      "url": "https://en.wikipedia.org/wiki/Plenipotentiary_Conference"
+    },
+    {
+      "title": "Polarization-division multiplexing",
+      "url": "https://en.wikipedia.org/wiki/Polarization-division_multiplexing"
+    },
+    {
+      "title": "ProRes 422",
+      "url": "https://en.wikipedia.org/wiki/ProRes_422"
+    },
+    {
+      "title": "ProRes 4444",
+      "url": "https://en.wikipedia.org/wiki/ProRes_4444"
+    },
+    {
+      "title": "Progressive Graphics File",
+      "url": "https://en.wikipedia.org/wiki/Progressive_Graphics_File"
+    },
+    {
+      "title": "Public switched telephone network",
+      "url": "https://en.wikipedia.org/wiki/Public_switched_telephone_network"
+    },
+    {
+      "title": "Pulse-code modulation",
+      "url": "https://en.wikipedia.org/wiki/Pulse-code_modulation"
+    },
+    {
+      "title": "QOI (image format)",
+      "url": "https://en.wikipedia.org/wiki/QOI_%28image_format%29"
+    },
+    {
+      "title": "Qualcomm code-excited linear prediction",
+      "url": "https://en.wikipedia.org/wiki/Qualcomm_code-excited_linear_prediction"
+    },
+    {
+      "title": "QuickTime Animation",
+      "url": "https://en.wikipedia.org/wiki/QuickTime_Animation"
+    },
+    {
+      "title": "QuickTime File Format",
+      "url": "https://en.wikipedia.org/wiki/QuickTime_File_Format"
+    },
+    {
+      "title": "QuickTime Graphics",
+      "url": "https://en.wikipedia.org/wiki/QuickTime_Graphics"
+    },
+    {
+      "title": "QuickTime VR",
+      "url": "https://en.wikipedia.org/wiki/QuickTime_VR"
+    },
+    {
+      "title": "RTVideo",
+      "url": "https://en.wikipedia.org/wiki/RTVideo"
+    },
+    {
+      "title": "Radia Perlman",
+      "url": "https://en.wikipedia.org/wiki/Radia_Perlman"
+    },
+    {
+      "title": "Radio network",
+      "url": "https://en.wikipedia.org/wiki/Radio_network"
+    },
+    {
+      "title": "Radio wave",
+      "url": "https://en.wikipedia.org/wiki/Radio_wave"
+    },
+    {
+      "title": "Radiotelephone",
+      "url": "https://en.wikipedia.org/wiki/Radiotelephone"
+    },
+    {
+      "title": "RatDVD",
+      "url": "https://en.wikipedia.org/wiki/RatDVD"
+    },
+    {
+      "title": "Real-time Transport Protocol",
+      "url": "https://en.wikipedia.org/wiki/Real-time_Transport_Protocol"
+    },
+    {
+      "title": "RealAudio",
+      "url": "https://en.wikipedia.org/wiki/RealAudio"
+    },
+    {
+      "title": "RealMedia",
+      "url": "https://en.wikipedia.org/wiki/RealMedia"
+    },
+    {
+      "title": "RealVideo",
+      "url": "https://en.wikipedia.org/wiki/RealVideo"
+    },
+    {
+      "title": "Reginald Fessenden",
+      "url": "https://en.wikipedia.org/wiki/Reginald_Fessenden"
+    },
+    {
+      "title": "Relaxed code-excited linear prediction",
+      "url": "https://en.wikipedia.org/wiki/Relaxed_code-excited_linear_prediction"
+    },
+    {
+      "title": "Resource Interchange File Format",
+      "url": "https://en.wikipedia.org/wiki/Resource_Interchange_File_Format"
+    },
+    {
+      "title": "Robert Hooke",
+      "url": "https://en.wikipedia.org/wiki/Robert_Hooke"
+    },
+    {
+      "title": "Robert Metcalfe",
+      "url": "https://en.wikipedia.org/wiki/Robert_Metcalfe"
+    },
+    {
+      "title": "Roberto Landell de Moura",
+      "url": "https://en.wikipedia.org/wiki/Roberto_Landell_de_Moura"
+    },
+    {
+      "title": "SBC (codec)",
+      "url": "https://en.wikipedia.org/wiki/SBC_%28codec%29"
+    },
+    {
+      "title": "SILK",
+      "url": "https://en.wikipedia.org/wiki/SILK"
+    },
+    {
+      "title": "SVOPC",
+      "url": "https://en.wikipedia.org/wiki/SVOPC"
+    },
+    {
+      "title": "Samuel Morse",
+      "url": "https://en.wikipedia.org/wiki/Samuel_Morse"
+    },
+    {
+      "title": "Secretariat (administrative office)",
+      "url": "https://en.wikipedia.org/wiki/Secretariat_%28administrative_office%29"
+    },
+    {
+      "title": "Seizo Onoe",
+      "url": "https://en.wikipedia.org/wiki/Seizo_Onoe"
+    },
+    {
+      "title": "Selectable Mode Vocoder",
+      "url": "https://en.wikipedia.org/wiki/Selectable_Mode_Vocoder"
+    },
+    {
+      "title": "Semaphore",
+      "url": "https://en.wikipedia.org/wiki/Semaphore"
+    },
+    {
+      "title": "Semiconductor",
+      "url": "https://en.wikipedia.org/wiki/Semiconductor"
+    },
+    {
+      "title": "Semiconductor device",
+      "url": "https://en.wikipedia.org/wiki/Semiconductor_device"
+    },
+    {
+      "title": "SheerVideo",
+      "url": "https://en.wikipedia.org/wiki/SheerVideo"
+    },
+    {
+      "title": "Shorten file format",
+      "url": "https://en.wikipedia.org/wiki/Shorten_file_format"
+    },
+    {
+      "title": "Siren (codec)",
+      "url": "https://en.wikipedia.org/wiki/Siren_%28codec%29"
+    },
+    {
+      "title": "Smacker video",
+      "url": "https://en.wikipedia.org/wiki/Smacker_video"
+    },
+    {
+      "title": "Smartphone",
+      "url": "https://en.wikipedia.org/wiki/Smartphone"
+    },
+    {
+      "title": "Smoke signal",
+      "url": "https://en.wikipedia.org/wiki/Smoke_signal"
+    },
+    {
+      "title": "Social media",
+      "url": "https://en.wikipedia.org/wiki/Social_media"
+    },
+    {
+      "title": "Society of Motion Picture and Television Engineers",
+      "url": "https://en.wikipedia.org/wiki/Society_of_Motion_Picture_and_Television_Engineers"
+    },
+    {
+      "title": "Sorenson Media",
+      "url": "https://en.wikipedia.org/wiki/Sorenson_Media"
+    },
+    {
+      "title": "Space-division multiple access",
+      "url": "https://en.wikipedia.org/wiki/Space-division_multiple_access"
+    },
+    {
+      "title": "Speex",
+      "url": "https://en.wikipedia.org/wiki/Speex"
+    },
+    {
+      "title": "Standardization",
+      "url": "https://en.wikipedia.org/wiki/Standardization"
+    },
+    {
+      "title": "Standards organization",
+      "url": "https://en.wikipedia.org/wiki/Standards_organization"
+    },
+    {
+      "title": "Store and forward",
+      "url": "https://en.wikipedia.org/wiki/Store_and_forward"
+    },
+    {
+      "title": "Streaming media",
+      "url": "https://en.wikipedia.org/wiki/Streaming_media"
+    },
+    {
+      "title": "Streaming television",
+      "url": "https://en.wikipedia.org/wiki/Streaming_television"
+    },
+    {
+      "title": "Submarine communications cable",
+      "url": "https://en.wikipedia.org/wiki/Submarine_communications_cable"
+    },
+    {
+      "title": "Super Audio CD",
+      "url": "https://en.wikipedia.org/wiki/Super_Audio_CD"
+    },
+    {
+      "title": "Switzerland",
+      "url": "https://en.wikipedia.org/wiki/Switzerland"
+    },
+    {
+      "title": "TANet",
+      "url": "https://en.wikipedia.org/wiki/TANet"
+    },
+    {
+      "title": "TIFF",
+      "url": "https://en.wikipedia.org/wiki/TIFF"
+    },
+    {
+      "title": "TIFF/EP",
+      "url": "https://en.wikipedia.org/wiki/TIFF%2FEP"
+    },
+    {
+      "title": "TIFF/IT",
+      "url": "https://en.wikipedia.org/wiki/TIFF%2FIT"
+    },
+    {
+      "title": "Telautograph",
+      "url": "https://en.wikipedia.org/wiki/Telautograph"
+    },
+    {
+      "title": "Telecommunication circuit",
+      "url": "https://en.wikipedia.org/wiki/Telecommunication_circuit"
+    },
+    {
+      "title": "Telecommunications",
+      "url": "https://en.wikipedia.org/wiki/Telecommunications"
+    },
+    {
+      "title": "Telecommunications equipment",
+      "url": "https://en.wikipedia.org/wiki/Telecommunications_equipment"
+    },
+    {
+      "title": "Telecommunications link",
+      "url": "https://en.wikipedia.org/wiki/Telecommunications_link"
+    },
+    {
+      "title": "Telecommunications network",
+      "url": "https://en.wikipedia.org/wiki/Telecommunications_network"
+    },
+    {
+      "title": "Telegraphy",
+      "url": "https://en.wikipedia.org/wiki/Telegraphy"
+    },
+    {
+      "title": "Telephone",
+      "url": "https://en.wikipedia.org/wiki/Telephone"
+    },
+    {
+      "title": "Telephone exchange",
+      "url": "https://en.wikipedia.org/wiki/Telephone_exchange"
+    },
+    {
+      "title": "Teleprinter",
+      "url": "https://en.wikipedia.org/wiki/Teleprinter"
+    },
+    {
+      "title": "Television broadcasting",
+      "url": "https://en.wikipedia.org/wiki/Television_broadcasting"
+    },
+    {
+      "title": "Telex",
+      "url": "https://en.wikipedia.org/wiki/Telex"
+    },
+    {
+      "title": "Terminal (telecommunication)",
+      "url": "https://en.wikipedia.org/wiki/Terminal_%28telecommunication%29"
+    },
+    {
+      "title": "The Telephone Cases",
+      "url": "https://en.wikipedia.org/wiki/The_Telephone_Cases"
+    },
+    {
+      "title": "Theora",
+      "url": "https://en.wikipedia.org/wiki/Theora"
+    },
+    {
+      "title": "Thomas A. Watson",
+      "url": "https://en.wikipedia.org/wiki/Thomas_A._Watson"
+    },
+    {
+      "title": "Thomas Edison",
+      "url": "https://en.wikipedia.org/wiki/Thomas_Edison"
+    },
+    {
+      "title": "Thor (video codec)",
+      "url": "https://en.wikipedia.org/wiki/Thor_%28video_codec%29"
+    },
+    {
+      "title": "Tim Berners-Lee",
+      "url": "https://en.wikipedia.org/wiki/Tim_Berners-Lee"
+    },
+    {
+      "title": "Time-division multiplexing",
+      "url": "https://en.wikipedia.org/wiki/Time-division_multiplexing"
+    },
+    {
+      "title": "Tivadar Puskás",
+      "url": "https://en.wikipedia.org/wiki/Tivadar_Pusk%C3%A1s"
+    },
+    {
+      "title": "Toasternet",
+      "url": "https://en.wikipedia.org/wiki/Toasternet"
+    },
+    {
+      "title": "Transform coding",
+      "url": "https://en.wikipedia.org/wiki/Transform_coding"
+    },
+    {
+      "title": "Transmission line",
+      "url": "https://en.wikipedia.org/wiki/Transmission_line"
+    },
+    {
+      "title": "Transmission medium",
+      "url": "https://en.wikipedia.org/wiki/Transmission_medium"
+    },
+    {
+      "title": "TwinVQ",
+      "url": "https://en.wikipedia.org/wiki/TwinVQ"
+    },
+    {
+      "title": "UUCP",
+      "url": "https://en.wikipedia.org/wiki/UUCP"
+    },
+    {
+      "title": "Unified Speech and Audio Coding",
+      "url": "https://en.wikipedia.org/wiki/Unified_Speech_and_Audio_Coding"
+    },
+    {
+      "title": "Usenet",
+      "url": "https://en.wikipedia.org/wiki/Usenet"
+    },
+    {
+      "title": "Ut Video Codec Suite",
+      "url": "https://en.wikipedia.org/wiki/Ut_Video_Codec_Suite"
+    },
+    {
+      "title": "VC-1",
+      "url": "https://en.wikipedia.org/wiki/VC-1"
+    },
+    {
+      "title": "VC-6",
+      "url": "https://en.wikipedia.org/wiki/VC-6"
+    },
+    {
+      "title": "VOB",
+      "url": "https://en.wikipedia.org/wiki/VOB"
+    },
+    {
+      "title": "VP3",
+      "url": "https://en.wikipedia.org/wiki/VP3"
+    },
+    {
+      "title": "VP6",
+      "url": "https://en.wikipedia.org/wiki/VP6"
+    },
+    {
+      "title": "VP7",
+      "url": "https://en.wikipedia.org/wiki/VP7"
+    },
+    {
+      "title": "VP8",
+      "url": "https://en.wikipedia.org/wiki/VP8"
+    },
+    {
+      "title": "VP9",
+      "url": "https://en.wikipedia.org/wiki/VP9"
+    },
+    {
+      "title": "Variable-Rate Multimode Wideband",
+      "url": "https://en.wikipedia.org/wiki/Variable-Rate_Multimode_Wideband"
+    },
+    {
+      "title": "Vector sum excited linear prediction",
+      "url": "https://en.wikipedia.org/wiki/Vector_sum_excited_linear_prediction"
+    },
+    {
+      "title": "Versatile Video Coding",
+      "url": "https://en.wikipedia.org/wiki/Versatile_Video_Coding"
+    },
+    {
+      "title": "Video Coding Experts Group",
+      "url": "https://en.wikipedia.org/wiki/Video_Coding_Experts_Group"
+    },
+    {
+      "title": "Video coding format",
+      "url": "https://en.wikipedia.org/wiki/Video_coding_format"
+    },
+    {
+      "title": "Vint Cerf",
+      "url": "https://en.wikipedia.org/wiki/Vint_Cerf"
+    },
+    {
+      "title": "Vladimir K. Zworykin",
+      "url": "https://en.wikipedia.org/wiki/Vladimir_K._Zworykin"
+    },
+    {
+      "title": "Vorbis",
+      "url": "https://en.wikipedia.org/wiki/Vorbis"
+    },
+    {
+      "title": "WAV",
+      "url": "https://en.wikipedia.org/wiki/WAV"
+    },
+    {
+      "title": "Walter Houser Brattain",
+      "url": "https://en.wikipedia.org/wiki/Walter_Houser_Brattain"
+    },
+    {
+      "title": "Warped linear predictive coding",
+      "url": "https://en.wikipedia.org/wiki/Warped_linear_predictive_coding"
+    },
+    {
+      "title": "WavPack",
+      "url": "https://en.wikipedia.org/wiki/WavPack"
+    },
+    {
+      "title": "Wavelet",
+      "url": "https://en.wikipedia.org/wiki/Wavelet"
+    },
+    {
+      "title": "Wayback Machine",
+      "url": "https://en.wikipedia.org/wiki/Wayback_Machine"
+    },
+    {
+      "title": "WebM",
+      "url": "https://en.wikipedia.org/wiki/WebM"
+    },
+    {
+      "title": "WebP",
+      "url": "https://en.wikipedia.org/wiki/WebP"
+    },
+    {
+      "title": "Whistled language",
+      "url": "https://en.wikipedia.org/wiki/Whistled_language"
+    },
+    {
+      "title": "Wide area network",
+      "url": "https://en.wikipedia.org/wiki/Wide_area_network"
+    },
+    {
+      "title": "Windows Media Audio",
+      "url": "https://en.wikipedia.org/wiki/Windows_Media_Audio"
+    },
+    {
+      "title": "Windows Media Video",
+      "url": "https://en.wikipedia.org/wiki/Windows_Media_Video"
+    },
+    {
+      "title": "Wireless Application Protocol Bitmap Format",
+      "url": "https://en.wikipedia.org/wiki/Wireless_Application_Protocol_Bitmap_Format"
+    },
+    {
+      "title": "Wireless communication",
+      "url": "https://en.wikipedia.org/wiki/Wireless_communication"
+    },
+    {
+      "title": "Wireless network",
+      "url": "https://en.wikipedia.org/wiki/Wireless_network"
+    },
+    {
+      "title": "Wireless revolution",
+      "url": "https://en.wikipedia.org/wiki/Wireless_revolution"
+    },
+    {
+      "title": "World Standards Day",
+      "url": "https://en.wikipedia.org/wiki/World_Standards_Day"
+    },
+    {
+      "title": "World Summit on the Information Society",
+      "url": "https://en.wikipedia.org/wiki/World_Summit_on_the_Information_Society"
+    },
+    {
+      "title": "World Telecommunication Standardization Assembly",
+      "url": "https://en.wikipedia.org/wiki/World_Telecommunication_Standardization_Assembly"
+    },
+    {
+      "title": "World Wide Web Consortium",
+      "url": "https://en.wikipedia.org/wiki/World_Wide_Web_Consortium"
+    },
+    {
+      "title": "X.509",
+      "url": "https://en.wikipedia.org/wiki/X.509"
+    },
+    {
+      "title": "Y.3172",
+      "url": "https://en.wikipedia.org/wiki/Y.3172"
+    },
+    {
+      "title": "Y.3173",
+      "url": "https://en.wikipedia.org/wiki/Y.3173"
+    },
+    {
+      "title": "YULS",
+      "url": "https://en.wikipedia.org/wiki/YULS"
+    },
+    {
+      "title": "Yogen Dalal",
+      "url": "https://en.wikipedia.org/wiki/Yogen_Dalal"
+    },
+    {
+      "title": "Μ-law algorithm",
+      "url": "https://en.wikipedia.org/wiki/%CE%9C-law_algorithm"
+    },
+    {
+      "title": "ITU Focus Group on Machine Learning for 5G",
+      "url": "https://en.wikipedia.org/wiki/ITU_Focus_Group_on_Machine_Learning_for_5G"
+    },
+    {
+      "title": "ITU Focus Group on Quantum Information Technologies for Networks",
+      "url": "https://en.wikipedia.org/wiki/ITU_Focus_Group_on_Quantum_Information_Technologies_for_Networks"
+    },
+    {
+      "title": "MPEG-I",
+      "url": "https://en.wikipedia.org/wiki/MPEG-I"
+    },
+    {
+      "title": "H.267",
+      "url": "https://en.wikipedia.org/wiki/H.267"
+    },
+    {
+      "title": "Audio Vivid",
+      "url": "https://en.wikipedia.org/wiki/Audio_Vivid"
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "document_id": "wikipedia_en_Q2934750",
+  "wikidata_id": "Q2934750",
+  "entity_label": "Camera & Imaging Products Association",
+  "entity_type": "organization",
+  "seed_categories": [],
+  "source": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Camera_%26_Imaging_Products_Association",
+  "revision_id": 1319710595,
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1319710595",
+  "pageid": 6914829,
+  "title": "Camera & Imaging Products Association",
+  "language": "en",
+  "collected_at": "2026-10-28T22:00:44.056656+00:00",
+  "content": {
+    "sections": [
+      {
+        "heading": "Introduction",
+        "text": "Camera & Imaging Products Association ( 一般社団法人カメラ映像機器工業会 , Ippan-Shadan-Hōjin Kamera Eizō-kiki Kōgyōkai ; CIPA ) is a Japan -based organization set up in July 2002 to deal with technologies related to photography.  Its members are engaged with the production of film-based and digital cameras , and other related equipment.\nThis organization succeeds the Japan Camera Industry Association (JCIA)."
+      },
+      {
+        "heading": "Regular members",
+        "text": "Canon Inc. Casio Fujifilm Hoya Corporation Tokina Nidec Copal Corporation Nikon Olympus Digital Solutions Panasonic Corporation Ricoh Seiko Epson Seiko Sigma Corporation Sony Tamron Xacti"
+      },
+      {
+        "heading": "Supporting members",
+        "text": "Adobe Inc. Analog Devices KK Apple Inc. Brother Industries Carl Zeiss AG Cosina Honor Huawei Technologies Japan KK Kyoritsu Electric Co Ltd Samyang Optics Microsoft Morpho Inc Nextorage Corporation Shibawaka Manufacturing Co Ltd Tsubosaka Electric Co Ltd Vivo"
+      },
+      {
+        "heading": "Special members",
+        "text": "Japan Camera Industry Institute Society for Imaging Science and Technology Photoindustrie-Verbandes e.V. (PIV) Society for Imaging Science and Technology of Japan"
+      },
+      {
+        "heading": "Guidelines",
+        "text": "CIPA publishes guidelines such as \"CIPA DCG-001-2018 – Individual Guidelines for noting digital camera specifications on Number of pixels, Image file, and Focal length of the lens\" (previously known as JCIA GLA03), which act as standards for how their members specify products.\nCIPA DCG-001, only lightly modified since the original 1998 version, is particularly about reporting numbers of pixels as digital camera specifications.  While it does not specifically define a pixel, its discussion and examples are consistent with a pixel being an individual photosensor element such as an APS or CCD element.  It suggests reporting primarily the \"number of effective pixels\", defined as \"The number of pixels on the image sensor which receive input light through the optical lens, and which are effectively reflected in the final output data of the still image.\"  Examples include how to rate multi-sensor cameras such as three-CCD cameras , e.g. as \"Number of Effective Pixels 1,020k (340k x 3)\"."
+      },
+      {
+        "heading": "See also",
+        "text": "PictBridge Exif Japan Electronics and Information Technology Industries Association (JEITA)"
+      },
+      {
+        "heading": "External links",
+        "text": "CIPA English website CIPA members list Multi Picture Object"
+      }
+    ],
+    "full_text": "Introduction\nCamera & Imaging Products Association ( 一般社団法人カメラ映像機器工業会 , Ippan-Shadan-Hōjin Kamera Eizō-kiki Kōgyōkai ; CIPA ) is a Japan -based organization set up in July 2002 to deal with technologies related to photography.  Its members are engaged with the production of film-based and digital cameras , and other related equipment.\nThis organization succeeds the Japan Camera Industry Association (JCIA).\n\nRegular members\nCanon Inc. Casio Fujifilm Hoya Corporation Tokina Nidec Copal Corporation Nikon Olympus Digital Solutions Panasonic Corporation Ricoh Seiko Epson Seiko Sigma Corporation Sony Tamron Xacti\n\nSupporting members\nAdobe Inc. Analog Devices KK Apple Inc. Brother Industries Carl Zeiss AG Cosina Honor Huawei Technologies Japan KK Kyoritsu Electric Co Ltd Samyang Optics Microsoft Morpho Inc Nextorage Corporation Shibawaka Manufacturing Co Ltd Tsubosaka Electric Co Ltd Vivo\n\nSpecial members\nJapan Camera Industry Institute Society for Imaging Science and Technology Photoindustrie-Verbandes e.V. (PIV) Society for Imaging Science and Technology of Japan\n\nGuidelines\nCIPA publishes guidelines such as \"CIPA DCG-001-2018 – Individual Guidelines for noting digital camera specifications on Number of pixels, Image file, and Focal length of the lens\" (previously known as JCIA GLA03), which act as standards for how their members specify products.\nCIPA DCG-001, only lightly modified since the original 1998 version, is particularly about reporting numbers of pixels as digital camera specifications.  While it does not specifically define a pixel, its discussion and examples are consistent with a pixel being an individual photosensor element such as an APS or CCD element.  It suggests reporting primarily the \"number of effective pixels\", defined as \"The number of pixels on the image sensor which receive input light through the optical lens, and which are effectively reflected in the final output data of the still image.\"  Examples include how to rate multi-sensor cameras such as three-CCD cameras , e.g. as \"Number of Effective Pixels 1,020k (340k x 3)\".\n\nSee also\nPictBridge Exif Japan Electronics and Information Technology Industries Association (JEITA)\n\nExternal links\nCIPA English website CIPA members list Multi Picture Object"
+  },
+  "references": [
+    {
+      "url": "http://www.cipa.jp/std/documents/e/DCG-001-2018_E.pdf",
+      "label": "\"CIPA DCG-001-Translation-2018 – \"Individual Guidelines for noting digital camera specifications on Number of pixels, Image file, and Focal length of the lens\" \""
+    },
+    {
+      "url": "https://web.archive.org/web/20190204122306/http://www.cipa.jp/std/documents/e/DCG-001-2018_E.pdf",
+      "label": "Archived"
+    }
+  ],
+  "outgoing_links": [
+    {
+      "title": "Active pixel sensor",
+      "url": "https://en.wikipedia.org/wiki/Active_pixel_sensor"
+    },
+    {
+      "title": "Adobe Inc.",
+      "url": "https://en.wikipedia.org/wiki/Adobe_Inc."
+    },
+    {
+      "title": "Apple Inc.",
+      "url": "https://en.wikipedia.org/wiki/Apple_Inc."
+    },
+    {
+      "title": "Brother Industries",
+      "url": "https://en.wikipedia.org/wiki/Brother_Industries"
+    },
+    {
+      "title": "Cameras",
+      "url": "https://en.wikipedia.org/wiki/Cameras"
+    },
+    {
+      "title": "Canon Inc.",
+      "url": "https://en.wikipedia.org/wiki/Canon_Inc."
+    },
+    {
+      "title": "Carl Zeiss AG",
+      "url": "https://en.wikipedia.org/wiki/Carl_Zeiss_AG"
+    },
+    {
+      "title": "Casio",
+      "url": "https://en.wikipedia.org/wiki/Casio"
+    },
+    {
+      "title": "Charge-coupled device",
+      "url": "https://en.wikipedia.org/wiki/Charge-coupled_device"
+    },
+    {
+      "title": "Cosina",
+      "url": "https://en.wikipedia.org/wiki/Cosina"
+    },
+    {
+      "title": "Exif",
+      "url": "https://en.wikipedia.org/wiki/Exif"
+    },
+    {
+      "title": "Fujifilm",
+      "url": "https://en.wikipedia.org/wiki/Fujifilm"
+    },
+    {
+      "title": "Honor (brand)",
+      "url": "https://en.wikipedia.org/wiki/Honor_%28brand%29"
+    },
+    {
+      "title": "Hoya Corporation",
+      "url": "https://en.wikipedia.org/wiki/Hoya_Corporation"
+    },
+    {
+      "title": "IDEMIA",
+      "url": "https://en.wikipedia.org/wiki/IDEMIA"
+    },
+    {
+      "title": "Japan",
+      "url": "https://en.wikipedia.org/wiki/Japan"
+    },
+    {
+      "title": "Japan Electronics and Information Technology Industries Association",
+      "url": "https://en.wikipedia.org/wiki/Japan_Electronics_and_Information_Technology_Industries_Association"
+    },
+    {
+      "title": "Microsoft",
+      "url": "https://en.wikipedia.org/wiki/Microsoft"
+    },
+    {
+      "title": "Nidec Copal Corporation",
+      "url": "https://en.wikipedia.org/wiki/Nidec_Copal_Corporation"
+    },
+    {
+      "title": "Nikon",
+      "url": "https://en.wikipedia.org/wiki/Nikon"
+    },
+    {
+      "title": "OM Digital Solutions",
+      "url": "https://en.wikipedia.org/wiki/OM_Digital_Solutions"
+    },
+    {
+      "title": "Panasonic",
+      "url": "https://en.wikipedia.org/wiki/Panasonic"
+    },
+    {
+      "title": "Photosensor",
+      "url": "https://en.wikipedia.org/wiki/Photosensor"
+    },
+    {
+      "title": "PictBridge",
+      "url": "https://en.wikipedia.org/wiki/PictBridge"
+    },
+    {
+      "title": "Ricoh",
+      "url": "https://en.wikipedia.org/wiki/Ricoh"
+    },
+    {
+      "title": "Samyang Optics",
+      "url": "https://en.wikipedia.org/wiki/Samyang_Optics"
+    },
+    {
+      "title": "Seiko",
+      "url": "https://en.wikipedia.org/wiki/Seiko"
+    },
+    {
+      "title": "Seiko Epson",
+      "url": "https://en.wikipedia.org/wiki/Seiko_Epson"
+    },
+    {
+      "title": "Sigma Corporation",
+      "url": "https://en.wikipedia.org/wiki/Sigma_Corporation"
+    },
+    {
+      "title": "Society for Imaging Science and Technology",
+      "url": "https://en.wikipedia.org/wiki/Society_for_Imaging_Science_and_Technology"
+    },
+    {
+      "title": "Sony",
+      "url": "https://en.wikipedia.org/wiki/Sony"
+    },
+    {
+      "title": "Tamron",
+      "url": "https://en.wikipedia.org/wiki/Tamron"
+    },
+    {
+      "title": "Three-CCD camera",
+      "url": "https://en.wikipedia.org/wiki/Three-CCD_camera"
+    },
+    {
+      "title": "Tokina",
+      "url": "https://en.wikipedia.org/wiki/Tokina"
+    },
+    {
+      "title": "Vivo (technology company)",
+      "url": "https://en.wikipedia.org/wiki/Vivo_%28technology_company%29"
+    },
+    {
+      "title": "Xacti",
+      "url": "https://en.wikipedia.org/wiki/Xacti"
+    }
+  ]
+}

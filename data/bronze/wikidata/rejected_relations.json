@@ -1,0 +1,1902 @@
+{
+  "collected_at": "2026-10-28T21:53:47.957027+00:00",
+  "count": 35,
+  "relations": [
+    {
+      "statement_id": "Q156578$A00D625A-0DA4-4EE5-A69D-7B0ED943E409",
+      "subject": "Q156578",
+      "predicate": "FOUNDED_BY",
+      "property_id": "P112",
+      "object": "Q312526",
+      "expected_object_type": "person",
+      "rank": "normal",
+      "qualifiers": {},
+      "references": [
+        {
+          "hash": "0ad49190199320d5fa3d728abd1d297a3d0f83fd",
+          "snaks": {
+            "P143": [
+              {
+                "snaktype": "value",
+                "property": "P143",
+                "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 328,
+                    "id": "Q328"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ],
+            "P854": [
+              {
+                "snaktype": "value",
+                "property": "P854",
+                "hash": "502b38949a2d51f178b6a21afb90098edbb0652e",
+                "datavalue": {
+                  "value": "https://web.archive.org/web/20101216072143/http://www.volkswagenag.com/vwag/vwcorp/info_center/en/publications/2008/05/chronicle.-bin.acq/qual-BinaryStorageItem.Single.File/HN7e_www2.pdf",
+                  "type": "string"
+                },
+                "datatype": "url"
+              }
+            ]
+          },
+          "snaks-order": [
+            "P143",
+            "P854"
+          ]
+        },
+        {
+          "hash": "f3dccddecad33d1b798197f27793f0352a805a0e",
+          "snaks": {
+            "P1417": [
+              {
+                "snaktype": "value",
+                "property": "P1417",
+                "hash": "55a80d4ee2a748a0769addc8aef63c0c6b905499",
+                "datavalue": {
+                  "value": "topic/Volkswagen-Group",
+                  "type": "string"
+                },
+                "datatype": "external-id"
+              }
+            ]
+          },
+          "snaks-order": [
+            "P1417"
+          ]
+        }
+      ],
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q156578",
+      "retrieved_at": "2026-10-28T21:53:47.957027+00:00",
+      "rejection_reasons": [
+        "target_type_not_verified"
+      ]
+    },
+    {
+      "statement_id": "Q20800404$b713f157-4f49-be6c-c041-1698270658a0",
+      "subject": "Q20800404",
+      "predicate": "BOARD_MEMBER",
+      "property_id": "P3320",
+      "object": "Q92747",
+      "expected_object_type": "person",
+      "rank": "deprecated",
+      "qualifiers": {
+        "P580": [
+          {
+            "snaktype": "value",
+            "property": "P580",
+            "hash": "8752b82cdffad4bcee274913d130a05ca27d08b0",
+            "datavalue": {
+              "value": {
+                "time": "+2001-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "type": "time"
+            },
+            "datatype": "time"
+          }
+        ],
+        "P582": [
+          {
+            "snaktype": "value",
+            "property": "P582",
+            "hash": "71c09957981712d7d9ac4550b30bf8e73da4fce8",
+            "datavalue": {
+              "value": {
+                "time": "+2019-06-19T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "type": "time"
+            },
+            "datatype": "time"
+          }
+        ]
+      },
+      "references": [
+        {
+          "hash": "d678c5bc7d49164a8d578428589ba416329700d3",
+          "snaks": {
+            "P854": [
+              {
+                "snaktype": "value",
+                "property": "P854",
+                "hash": "9a965bb9188c5dec521ec71d1677bfd63013fb72",
+                "datavalue": {
+                  "value": "https://www.sec.gov/Archives/edgar/data/1652044/000130817919000205/lgoog2019_def14a.htm#lgooga028",
+                  "type": "string"
+                },
+                "datatype": "url"
+              },
+              {
+                "snaktype": "value",
+                "property": "P854",
+                "hash": "bda45580a153073663d36851182918159cb82404",
+                "datavalue": {
+                  "value": "https://abc.xyz/investor/news/releases/2019/0430/",
+                  "type": "string"
+                },
+                "datatype": "url"
+              }
+            ],
+            "P248": [
+              {
+                "snaktype": "value",
+                "property": "P248",
+                "hash": "90c9421feb0dd5b3e378d785ace5b3bbabd86926",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 7252898,
+                    "id": "Q7252898"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              },
+              {
+                "snaktype": "value",
+                "property": "P248",
+                "hash": "7daba4410c5dcfd67212f4ff8eeed068057b5fb3",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 207184,
+                    "id": "Q207184"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          },
+          "snaks-order": [
+            "P854",
+            "P248"
+          ]
+        }
+      ],
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q20800404",
+      "retrieved_at": "2026-10-28T21:53:47.957027+00:00",
+      "rejection_reasons": [
+        "deprecated_statement"
+      ]
+    },
+    {
+      "statement_id": "Q20800404$fcac0da9-474a-7434-fa21-74f228f51c59",
+      "subject": "Q20800404",
+      "predicate": "BOARD_MEMBER",
+      "property_id": "P3320",
+      "object": "Q11614",
+      "expected_object_type": "person",
+      "rank": "deprecated",
+      "qualifiers": {
+        "P580": [
+          {
+            "snaktype": "value",
+            "property": "P580",
+            "hash": "b1809fa34495baaf2b88f47dbb17ef15a03577f9",
+            "datavalue": {
+              "value": {
+                "time": "+2012-01-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 10,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "type": "time"
+            },
+            "datatype": "time"
+          }
+        ],
+        "P582": [
+          {
+            "snaktype": "value",
+            "property": "P582",
+            "hash": "71c09957981712d7d9ac4550b30bf8e73da4fce8",
+            "datavalue": {
+              "value": {
+                "time": "+2019-06-19T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "type": "time"
+            },
+            "datatype": "time"
+          }
+        ]
+      },
+      "references": [
+        {
+          "hash": "2671f03cb4ab4bb2efc4dd356185d0d0f3cb313e",
+          "snaks": {
+            "P854": [
+              {
+                "snaktype": "value",
+                "property": "P854",
+                "hash": "bda45580a153073663d36851182918159cb82404",
+                "datavalue": {
+                  "value": "https://abc.xyz/investor/news/releases/2019/0430/",
+                  "type": "string"
+                },
+                "datatype": "url"
+              }
+            ],
+            "P248": [
+              {
+                "snaktype": "value",
+                "property": "P248",
+                "hash": "7daba4410c5dcfd67212f4ff8eeed068057b5fb3",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 207184,
+                    "id": "Q207184"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          },
+          "snaks-order": [
+            "P854",
+            "P248"
+          ]
+        },
+        {
+          "hash": "b3e221304c45486e321293d4861348c3ccaa6fd7",
+          "snaks": {
+            "P854": [
+              {
+                "snaktype": "value",
+                "property": "P854",
+                "hash": "430b450ba270985e5a878269cd1e8693e25d3f84",
+                "datavalue": {
+                  "value": "https://www.sec.gov/Archives/edgar/data/1288776/000130817913000248/lgoogle_def14a.htm",
+                  "type": "string"
+                },
+                "datatype": "url"
+              }
+            ],
+            "P248": [
+              {
+                "snaktype": "value",
+                "property": "P248",
+                "hash": "90c9421feb0dd5b3e378d785ace5b3bbabd86926",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 7252898,
+                    "id": "Q7252898"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          },
+          "snaks-order": [
+            "P854",
+            "P248"
+          ]
+        }
+      ],
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q20800404",
+      "retrieved_at": "2026-10-28T21:53:47.957027+00:00",
+      "rejection_reasons": [
+        "deprecated_statement"
+      ]
+    },
+    {
+      "statement_id": "Q20800404$bae92b60-416a-d1d7-fa9e-1d9e32d7aa88",
+      "subject": "Q20800404",
+      "predicate": "SUBSIDIARY",
+      "property_id": "P355",
+      "object": "Q2591662",
+      "expected_object_type": "organization",
+      "rank": "normal",
+      "qualifiers": {},
+      "references": [],
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q20800404",
+      "retrieved_at": "2026-10-28T21:53:47.957027+00:00",
+      "rejection_reasons": [
+        "target_type_not_verified"
+      ]
+    },
+    {
+      "statement_id": "Q20800404$37f070f2-447f-502d-1f86-c631eb3e84a0",
+      "subject": "Q20800404",
+      "predicate": "SUBSIDIARY",
+      "property_id": "P355",
+      "object": "Q5455414",
+      "expected_object_type": "organization",
+      "rank": "deprecated",
+      "qualifiers": {
+        "P2241": [
+          {
+            "snaktype": "value",
+            "property": "P2241",
+            "hash": "60cf1edce27f0fd9ea3da666fb4aa6d1fa657e36",
+            "datavalue": {
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 28091153,
+                "id": "Q28091153"
+              },
+              "type": "wikibase-entityid"
+            },
+            "datatype": "wikibase-item"
+          }
+        ],
+        "P8327": [
+          {
+            "snaktype": "value",
+            "property": "P8327",
+            "hash": "a98853f1479ddbbb573cb6b477aed24ae8fd81bf",
+            "datavalue": {
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 95,
+                "id": "Q95"
+              },
+              "type": "wikibase-entityid"
+            },
+            "datatype": "wikibase-item"
+          }
+        ]
+      },
+      "references": [],
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q20800404",
+      "retrieved_at": "2026-10-28T21:53:47.957027+00:00",
+      "rejection_reasons": [
+        "deprecated_statement"
+      ]
+    },
+    {
+      "statement_id": "Q20800404$56ded6a4-4431-8d2e-7b1f-65c7239a0e2c",
+      "subject": "Q20800404",
+      "predicate": "OWNED_BY",
+      "property_id": "P127",
+      "object": "Q92764",
+      "expected_object_type": "organization",
+      "rank": "normal",
+      "qualifiers": {
+        "P1107": [
+          {
+            "snaktype": "value",
+            "property": "P1107",
+            "hash": "7499bfcc1184ba17893e02c7f7e357c1d5acc9de",
+            "datavalue": {
+              "value": {
+                "amount": "+0.252",
+                "unit": "1"
+              },
+              "type": "quantity"
+            },
+            "datatype": "quantity"
+          }
+        ],
+        "P585": [
+          {
+            "snaktype": "value",
+            "property": "P585",
+            "hash": "31405a613f4d6eaf4a0aa838836157c52d609b93",
+            "datavalue": {
+              "value": {
+                "time": "+2019-04-22T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "type": "time"
+            },
+            "datatype": "time"
+          }
+        ],
+        "P1013": [
+          {
+            "snaktype": "value",
+            "property": "P1013",
+            "hash": "bb4c05e2c2fba8dcf53ffa6100a5346b2d54cf8c",
+            "datavalue": {
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 2350092,
+                "id": "Q2350092"
+              },
+              "type": "wikibase-entityid"
+            },
+            "datatype": "wikibase-item"
+          }
+        ]
+      },
+      "references": [
+        {
+          "hash": "016a7dc7e19ba283658c69159ece505c46ec849c",
+          "snaks": {
+            "P854": [
+              {
+                "snaktype": "value",
+                "property": "P854",
+                "hash": "9a965bb9188c5dec521ec71d1677bfd63013fb72",
+                "datavalue": {
+                  "value": "https://www.sec.gov/Archives/edgar/data/1652044/000130817919000205/lgoog2019_def14a.htm#lgooga028",
+                  "type": "string"
+                },
+                "datatype": "url"
+              }
+            ],
+            "P248": [
+              {
+                "snaktype": "value",
+                "property": "P248",
+                "hash": "90c9421feb0dd5b3e378d785ace5b3bbabd86926",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 7252898,
+                    "id": "Q7252898"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          },
+          "snaks-order": [
+            "P854",
+            "P248"
+          ]
+        }
+      ],
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q20800404",
+      "retrieved_at": "2026-10-28T21:53:47.957027+00:00",
+      "rejection_reasons": [
+        "target_type_not_verified"
+      ]
+    },
+    {
+      "statement_id": "Q20800404$11910b8d-496a-8079-2a41-c80a615de51b",
+      "subject": "Q20800404",
+      "predicate": "OWNED_BY",
+      "property_id": "P127",
+      "object": "Q92747",
+      "expected_object_type": "organization",
+      "rank": "normal",
+      "qualifiers": {
+        "P1107": [
+          {
+            "snaktype": "value",
+            "property": "P1107",
+            "hash": "a8d0a7ec4bd0b0eddd444542943a23aa72c0912f",
+            "datavalue": {
+              "value": {
+                "amount": "+0.053",
+                "unit": "1"
+              },
+              "type": "quantity"
+            },
+            "datatype": "quantity"
+          }
+        ],
+        "P585": [
+          {
+            "snaktype": "value",
+            "property": "P585",
+            "hash": "31405a613f4d6eaf4a0aa838836157c52d609b93",
+            "datavalue": {
+              "value": {
+                "time": "+2019-04-22T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "type": "time"
+            },
+            "datatype": "time"
+          }
+        ],
+        "P1013": [
+          {
+            "snaktype": "value",
+            "property": "P1013",
+            "hash": "bb4c05e2c2fba8dcf53ffa6100a5346b2d54cf8c",
+            "datavalue": {
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 2350092,
+                "id": "Q2350092"
+              },
+              "type": "wikibase-entityid"
+            },
+            "datatype": "wikibase-item"
+          }
+        ]
+      },
+      "references": [
+        {
+          "hash": "016a7dc7e19ba283658c69159ece505c46ec849c",
+          "snaks": {
+            "P854": [
+              {
+                "snaktype": "value",
+                "property": "P854",
+                "hash": "9a965bb9188c5dec521ec71d1677bfd63013fb72",
+                "datavalue": {
+                  "value": "https://www.sec.gov/Archives/edgar/data/1652044/000130817919000205/lgoog2019_def14a.htm#lgooga028",
+                  "type": "string"
+                },
+                "datatype": "url"
+              }
+            ],
+            "P248": [
+              {
+                "snaktype": "value",
+                "property": "P248",
+                "hash": "90c9421feb0dd5b3e378d785ace5b3bbabd86926",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 7252898,
+                    "id": "Q7252898"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          },
+          "snaks-order": [
+            "P854",
+            "P248"
+          ]
+        }
+      ],
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q20800404",
+      "retrieved_at": "2026-10-28T21:53:47.957027+00:00",
+      "rejection_reasons": [
+        "target_type_not_verified"
+      ]
+    },
+    {
+      "statement_id": "Q20800404$4cb6de37-4bca-a1e4-f701-25dd096b37ff",
+      "subject": "Q20800404",
+      "predicate": "OWNED_BY",
+      "property_id": "P127",
+      "object": "Q4934",
+      "expected_object_type": "organization",
+      "rank": "preferred",
+      "qualifiers": {
+        "P1107": [
+          {
+            "snaktype": "value",
+            "property": "P1107",
+            "hash": "fc77fc09003350f1d5755aeeb8ab379855712ffc",
+            "datavalue": {
+              "value": {
+                "amount": "+0.263",
+                "unit": "1"
+              },
+              "type": "quantity"
+            },
+            "datatype": "quantity"
+          }
+        ],
+        "P585": [
+          {
+            "snaktype": "value",
+            "property": "P585",
+            "hash": "8f0294a5637db84756c1fac81146f6af8ba3dbe5",
+            "datavalue": {
+              "value": {
+                "time": "+2021-04-06T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "type": "time"
+            },
+            "datatype": "time"
+          }
+        ],
+        "P1013": [
+          {
+            "snaktype": "value",
+            "property": "P1013",
+            "hash": "bb4c05e2c2fba8dcf53ffa6100a5346b2d54cf8c",
+            "datavalue": {
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 2350092,
+                "id": "Q2350092"
+              },
+              "type": "wikibase-entityid"
+            },
+            "datatype": "wikibase-item"
+          }
+        ]
+      },
+      "references": [
+        {
+          "hash": "d6c40f8d935a9da0225f539d406016723b4a057b",
+          "snaks": {
+            "P248": [
+              {
+                "snaktype": "value",
+                "property": "P248",
+                "hash": "90c9421feb0dd5b3e378d785ace5b3bbabd86926",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 7252898,
+                    "id": "Q7252898"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ],
+            "P854": [
+              {
+                "snaktype": "value",
+                "property": "P854",
+                "hash": "0454a8337d4e4617eeda19a70477e29e38167f3e",
+                "datavalue": {
+                  "value": "https://www.sec.gov/Archives/edgar/data/0001652044/000130817921000256/lgoog2021_def14a.htm",
+                  "type": "string"
+                },
+                "datatype": "url"
+              }
+            ]
+          },
+          "snaks-order": [
+            "P248",
+            "P854"
+          ]
+        }
+      ],
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q20800404",
+      "retrieved_at": "2026-10-28T21:53:47.957027+00:00",
+      "rejection_reasons": [
+        "target_type_not_verified"
+      ]
+    },
+    {
+      "statement_id": "Q20800404$02c428b1-4b82-aff2-1f95-d029f26a9daf",
+      "subject": "Q20800404",
+      "predicate": "OWNED_BY",
+      "property_id": "P127",
+      "object": "Q92764",
+      "expected_object_type": "organization",
+      "rank": "normal",
+      "qualifiers": {
+        "P1107": [
+          {
+            "snaktype": "value",
+            "property": "P1107",
+            "hash": "4bb9be429cf725e13505eab5bf585a26d292c036",
+            "datavalue": {
+              "value": {
+                "amount": "+0.259",
+                "unit": "1"
+              },
+              "type": "quantity"
+            },
+            "datatype": "quantity"
+          }
+        ],
+        "P585": [
+          {
+            "snaktype": "value",
+            "property": "P585",
+            "hash": "50698f239bc3b556a14969521a677b9f82a9dfa7",
+            "datavalue": {
+              "value": {
+                "time": "+2016-04-11T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "type": "time"
+            },
+            "datatype": "time"
+          }
+        ],
+        "P1013": [
+          {
+            "snaktype": "value",
+            "property": "P1013",
+            "hash": "bb4c05e2c2fba8dcf53ffa6100a5346b2d54cf8c",
+            "datavalue": {
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 2350092,
+                "id": "Q2350092"
+              },
+              "type": "wikibase-entityid"
+            },
+            "datatype": "wikibase-item"
+          }
+        ]
+      },
+      "references": [
+        {
+          "hash": "b88d4bd7f3ab2e9e76e94a683fc20197ca71b42b",
+          "snaks": {
+            "P248": [
+              {
+                "snaktype": "value",
+                "property": "P248",
+                "hash": "90c9421feb0dd5b3e378d785ace5b3bbabd86926",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 7252898,
+                    "id": "Q7252898"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ],
+            "P854": [
+              {
+                "snaktype": "value",
+                "property": "P854",
+                "hash": "75d129851027087745fbdb86e01df5fc0c3244cb",
+                "datavalue": {
+                  "value": "https://www.sec.gov/Archives/edgar/data/1652044/000130817916000384/lgoog_def14a.htm",
+                  "type": "string"
+                },
+                "datatype": "url"
+              }
+            ]
+          },
+          "snaks-order": [
+            "P248",
+            "P854"
+          ]
+        }
+      ],
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q20800404",
+      "retrieved_at": "2026-10-28T21:53:47.957027+00:00",
+      "rejection_reasons": [
+        "target_type_not_verified"
+      ]
+    },
+    {
+      "statement_id": "Q20800404$756ecd01-41f3-2240-4928-4a4a2f01bc78",
+      "subject": "Q20800404",
+      "predicate": "OWNED_BY",
+      "property_id": "P127",
+      "object": "Q4934",
+      "expected_object_type": "organization",
+      "rank": "normal",
+      "qualifiers": {
+        "P1107": [
+          {
+            "snaktype": "value",
+            "property": "P1107",
+            "hash": "ca7dfb6adae1b8dec34f0abc251d8161a35f7a8d",
+            "datavalue": {
+              "value": {
+                "amount": "+0.261",
+                "unit": "1"
+              },
+              "type": "quantity"
+            },
+            "datatype": "quantity"
+          }
+        ],
+        "P585": [
+          {
+            "snaktype": "value",
+            "property": "P585",
+            "hash": "31405a613f4d6eaf4a0aa838836157c52d609b93",
+            "datavalue": {
+              "value": {
+                "time": "+2019-04-22T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "type": "time"
+            },
+            "datatype": "time"
+          }
+        ],
+        "P1013": [
+          {
+            "snaktype": "value",
+            "property": "P1013",
+            "hash": "bb4c05e2c2fba8dcf53ffa6100a5346b2d54cf8c",
+            "datavalue": {
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 2350092,
+                "id": "Q2350092"
+              },
+              "type": "wikibase-entityid"
+            },
+            "datatype": "wikibase-item"
+          }
+        ]
+      },
+      "references": [
+        {
+          "hash": "016a7dc7e19ba283658c69159ece505c46ec849c",
+          "snaks": {
+            "P854": [
+              {
+                "snaktype": "value",
+                "property": "P854",
+                "hash": "9a965bb9188c5dec521ec71d1677bfd63013fb72",
+                "datavalue": {
+                  "value": "https://www.sec.gov/Archives/edgar/data/1652044/000130817919000205/lgoog2019_def14a.htm#lgooga028",
+                  "type": "string"
+                },
+                "datatype": "url"
+              }
+            ],
+            "P248": [
+              {
+                "snaktype": "value",
+                "property": "P248",
+                "hash": "90c9421feb0dd5b3e378d785ace5b3bbabd86926",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 7252898,
+                    "id": "Q7252898"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          },
+          "snaks-order": [
+            "P854",
+            "P248"
+          ]
+        }
+      ],
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q20800404",
+      "retrieved_at": "2026-10-28T21:53:47.957027+00:00",
+      "rejection_reasons": [
+        "target_type_not_verified"
+      ]
+    },
+    {
+      "statement_id": "Q20800404$acfe18a5-4873-1e66-2476-7f1aa05a39f1",
+      "subject": "Q20800404",
+      "predicate": "OWNED_BY",
+      "property_id": "P127",
+      "object": "Q92764",
+      "expected_object_type": "organization",
+      "rank": "preferred",
+      "qualifiers": {
+        "P1107": [
+          {
+            "snaktype": "value",
+            "property": "P1107",
+            "hash": "272b1c957338899836ae5adc7a401be45529c554",
+            "datavalue": {
+              "value": {
+                "amount": "+0.253",
+                "unit": "1"
+              },
+              "type": "quantity"
+            },
+            "datatype": "quantity"
+          }
+        ],
+        "P585": [
+          {
+            "snaktype": "value",
+            "property": "P585",
+            "hash": "8f0294a5637db84756c1fac81146f6af8ba3dbe5",
+            "datavalue": {
+              "value": {
+                "time": "+2021-04-06T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "type": "time"
+            },
+            "datatype": "time"
+          }
+        ],
+        "P1013": [
+          {
+            "snaktype": "value",
+            "property": "P1013",
+            "hash": "bb4c05e2c2fba8dcf53ffa6100a5346b2d54cf8c",
+            "datavalue": {
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 2350092,
+                "id": "Q2350092"
+              },
+              "type": "wikibase-entityid"
+            },
+            "datatype": "wikibase-item"
+          }
+        ]
+      },
+      "references": [
+        {
+          "hash": "d6c40f8d935a9da0225f539d406016723b4a057b",
+          "snaks": {
+            "P248": [
+              {
+                "snaktype": "value",
+                "property": "P248",
+                "hash": "90c9421feb0dd5b3e378d785ace5b3bbabd86926",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 7252898,
+                    "id": "Q7252898"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ],
+            "P854": [
+              {
+                "snaktype": "value",
+                "property": "P854",
+                "hash": "0454a8337d4e4617eeda19a70477e29e38167f3e",
+                "datavalue": {
+                  "value": "https://www.sec.gov/Archives/edgar/data/0001652044/000130817921000256/lgoog2021_def14a.htm",
+                  "type": "string"
+                },
+                "datatype": "url"
+              }
+            ]
+          },
+          "snaks-order": [
+            "P248",
+            "P854"
+          ]
+        }
+      ],
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q20800404",
+      "retrieved_at": "2026-10-28T21:53:47.957027+00:00",
+      "rejection_reasons": [
+        "target_type_not_verified"
+      ]
+    },
+    {
+      "statement_id": "Q20800404$017412ca-4acb-1088-6450-fb19609abb92",
+      "subject": "Q20800404",
+      "predicate": "OWNED_BY",
+      "property_id": "P127",
+      "object": "Q4934",
+      "expected_object_type": "organization",
+      "rank": "normal",
+      "qualifiers": {
+        "P1107": [
+          {
+            "snaktype": "value",
+            "property": "P1107",
+            "hash": "e2eaa2bf3abd637d121a92a2f1aba9cc887fa165",
+            "datavalue": {
+              "value": {
+                "amount": "+0.266",
+                "unit": "1"
+              },
+              "type": "quantity"
+            },
+            "datatype": "quantity"
+          }
+        ],
+        "P585": [
+          {
+            "snaktype": "value",
+            "property": "P585",
+            "hash": "50698f239bc3b556a14969521a677b9f82a9dfa7",
+            "datavalue": {
+              "value": {
+                "time": "+2016-04-11T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "type": "time"
+            },
+            "datatype": "time"
+          }
+        ],
+        "P1013": [
+          {
+            "snaktype": "value",
+            "property": "P1013",
+            "hash": "bb4c05e2c2fba8dcf53ffa6100a5346b2d54cf8c",
+            "datavalue": {
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 2350092,
+                "id": "Q2350092"
+              },
+              "type": "wikibase-entityid"
+            },
+            "datatype": "wikibase-item"
+          }
+        ]
+      },
+      "references": [
+        {
+          "hash": "b88d4bd7f3ab2e9e76e94a683fc20197ca71b42b",
+          "snaks": {
+            "P248": [
+              {
+                "snaktype": "value",
+                "property": "P248",
+                "hash": "90c9421feb0dd5b3e378d785ace5b3bbabd86926",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 7252898,
+                    "id": "Q7252898"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ],
+            "P854": [
+              {
+                "snaktype": "value",
+                "property": "P854",
+                "hash": "75d129851027087745fbdb86e01df5fc0c3244cb",
+                "datavalue": {
+                  "value": "https://www.sec.gov/Archives/edgar/data/1652044/000130817916000384/lgoog_def14a.htm",
+                  "type": "string"
+                },
+                "datatype": "url"
+              }
+            ]
+          },
+          "snaks-order": [
+            "P248",
+            "P854"
+          ]
+        }
+      ],
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q20800404",
+      "retrieved_at": "2026-10-28T21:53:47.957027+00:00",
+      "rejection_reasons": [
+        "target_type_not_verified"
+      ]
+    },
+    {
+      "statement_id": "Q20800404$fc11e481-4581-c0dc-54f5-3bc77fef2a63",
+      "subject": "Q20800404",
+      "predicate": "OWNED_BY",
+      "property_id": "P127",
+      "object": "Q92747",
+      "expected_object_type": "organization",
+      "rank": "preferred",
+      "qualifiers": {
+        "P1107": [
+          {
+            "snaktype": "value",
+            "property": "P1107",
+            "hash": "605c914b4ff4d8d4ff2e635f347d6f00dd6cc29f",
+            "datavalue": {
+              "value": {
+                "amount": "+0.045",
+                "unit": "1"
+              },
+              "type": "quantity"
+            },
+            "datatype": "quantity"
+          }
+        ],
+        "P585": [
+          {
+            "snaktype": "value",
+            "property": "P585",
+            "hash": "8f0294a5637db84756c1fac81146f6af8ba3dbe5",
+            "datavalue": {
+              "value": {
+                "time": "+2021-04-06T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "type": "time"
+            },
+            "datatype": "time"
+          }
+        ],
+        "P1013": [
+          {
+            "snaktype": "value",
+            "property": "P1013",
+            "hash": "bb4c05e2c2fba8dcf53ffa6100a5346b2d54cf8c",
+            "datavalue": {
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 2350092,
+                "id": "Q2350092"
+              },
+              "type": "wikibase-entityid"
+            },
+            "datatype": "wikibase-item"
+          }
+        ]
+      },
+      "references": [
+        {
+          "hash": "d6c40f8d935a9da0225f539d406016723b4a057b",
+          "snaks": {
+            "P248": [
+              {
+                "snaktype": "value",
+                "property": "P248",
+                "hash": "90c9421feb0dd5b3e378d785ace5b3bbabd86926",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 7252898,
+                    "id": "Q7252898"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ],
+            "P854": [
+              {
+                "snaktype": "value",
+                "property": "P854",
+                "hash": "0454a8337d4e4617eeda19a70477e29e38167f3e",
+                "datavalue": {
+                  "value": "https://www.sec.gov/Archives/edgar/data/0001652044/000130817921000256/lgoog2021_def14a.htm",
+                  "type": "string"
+                },
+                "datatype": "url"
+              }
+            ]
+          },
+          "snaks-order": [
+            "P248",
+            "P854"
+          ]
+        }
+      ],
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q20800404",
+      "retrieved_at": "2026-10-28T21:53:47.957027+00:00",
+      "rejection_reasons": [
+        "target_type_not_verified"
+      ]
+    },
+    {
+      "statement_id": "Q20800404$39e4d2a5-497b-a325-a730-6428f221bc2a",
+      "subject": "Q20800404",
+      "predicate": "OWNED_BY",
+      "property_id": "P127",
+      "object": "Q92747",
+      "expected_object_type": "organization",
+      "rank": "normal",
+      "qualifiers": {
+        "P1107": [
+          {
+            "snaktype": "value",
+            "property": "P1107",
+            "hash": "97b6e328f3e95e562871f00a2bda44f8b089df3c",
+            "datavalue": {
+              "value": {
+                "amount": "+0.056",
+                "unit": "1"
+              },
+              "type": "quantity"
+            },
+            "datatype": "quantity"
+          }
+        ],
+        "P585": [
+          {
+            "snaktype": "value",
+            "property": "P585",
+            "hash": "50698f239bc3b556a14969521a677b9f82a9dfa7",
+            "datavalue": {
+              "value": {
+                "time": "+2016-04-11T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "type": "time"
+            },
+            "datatype": "time"
+          }
+        ],
+        "P1013": [
+          {
+            "snaktype": "value",
+            "property": "P1013",
+            "hash": "bb4c05e2c2fba8dcf53ffa6100a5346b2d54cf8c",
+            "datavalue": {
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 2350092,
+                "id": "Q2350092"
+              },
+              "type": "wikibase-entityid"
+            },
+            "datatype": "wikibase-item"
+          }
+        ]
+      },
+      "references": [],
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q20800404",
+      "retrieved_at": "2026-10-28T21:53:47.957027+00:00",
+      "rejection_reasons": [
+        "target_type_not_verified"
+      ]
+    },
+    {
+      "statement_id": "Q2665980$3fc24c40-4ae6-4214-a99e-a6c731cd76bd",
+      "subject": "Q2665980",
+      "predicate": "SUBSIDIARY",
+      "property_id": "P355",
+      "object": "Q17000633",
+      "expected_object_type": "organization",
+      "rank": "normal",
+      "qualifiers": {},
+      "references": [],
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q2665980",
+      "retrieved_at": "2026-10-28T21:53:47.957027+00:00",
+      "rejection_reasons": [
+        "target_type_not_verified"
+      ]
+    },
+    {
+      "statement_id": "Q2665980$0422530d-4a8c-5838-b6e8-2487db9839f7",
+      "subject": "Q2665980",
+      "predicate": "SUBSIDIARY",
+      "property_id": "P355",
+      "object": "Q5614028",
+      "expected_object_type": "organization",
+      "rank": "normal",
+      "qualifiers": {},
+      "references": [],
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q2665980",
+      "retrieved_at": "2026-10-28T21:53:47.957027+00:00",
+      "rejection_reasons": [
+        "target_type_not_verified"
+      ]
+    },
+    {
+      "statement_id": "Q53257$de29ae3c-454c-f9c5-4669-79a952cc2b14",
+      "subject": "Q53257",
+      "predicate": "SUBSIDIARY",
+      "property_id": "P355",
+      "object": "Q55735718",
+      "expected_object_type": "organization",
+      "rank": "normal",
+      "qualifiers": {},
+      "references": [],
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q53257",
+      "retrieved_at": "2026-10-28T21:53:47.957027+00:00",
+      "rejection_reasons": [
+        "target_type_not_verified"
+      ]
+    },
+    {
+      "statement_id": "q95$E57B8F87-9D7A-4D14-B328-E4A760EC6FC3",
+      "subject": "Q95",
+      "predicate": "SUBSIDIARY",
+      "property_id": "P355",
+      "object": "Q1053674",
+      "expected_object_type": "organization",
+      "rank": "deprecated",
+      "qualifiers": {
+        "P580": [
+          {
+            "snaktype": "value",
+            "property": "P580",
+            "hash": "479024b8aab3c8d983b1bff7be873deef492971a",
+            "datavalue": {
+              "value": {
+                "time": "+2008-03-11T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "type": "time"
+            },
+            "datatype": "time"
+          }
+        ]
+      },
+      "references": [
+        {
+          "hash": "ed8bd3f9343e9a35e58b67284f26a67859f1808d",
+          "snaks": {
+            "P143": [
+              {
+                "snaktype": "value",
+                "property": "P143",
+                "hash": "07596fc82d3ed4d248b85e5543852cc31e37dc8c",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 199913,
+                    "id": "Q199913"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          },
+          "snaks-order": [
+            "P143"
+          ]
+        }
+      ],
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q95",
+      "retrieved_at": "2026-10-28T21:53:47.957027+00:00",
+      "rejection_reasons": [
+        "deprecated_statement"
+      ]
+    },
+    {
+      "statement_id": "q95$D6F77FEB-F417-4F0D-82D1-53B5AF4FE919",
+      "subject": "Q95",
+      "predicate": "SUBSIDIARY",
+      "property_id": "P355",
+      "object": "Q1816282",
+      "expected_object_type": "organization",
+      "rank": "deprecated",
+      "qualifiers": {},
+      "references": [],
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q95",
+      "retrieved_at": "2026-10-28T21:53:47.957027+00:00",
+      "rejection_reasons": [
+        "deprecated_statement"
+      ]
+    },
+    {
+      "statement_id": "q95$720B94CA-0D65-4CE7-AE53-241CFF9A4989",
+      "subject": "Q95",
+      "predicate": "SUBSIDIARY",
+      "property_id": "P355",
+      "object": "Q137775149",
+      "expected_object_type": "organization",
+      "rank": "deprecated",
+      "qualifiers": {},
+      "references": [
+        {
+          "hash": "62c776a31997c8b639e868045cea574a79fd739d",
+          "snaks": {
+            "P854": [
+              {
+                "snaktype": "value",
+                "property": "P854",
+                "hash": "33542f0accec6e79a03891f084fac9a22d0cfec9",
+                "datavalue": {
+                  "value": "https://mergr.com/company/picnik",
+                  "type": "string"
+                },
+                "datatype": "url"
+              }
+            ]
+          },
+          "snaks-order": [
+            "P854"
+          ]
+        }
+      ],
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q95",
+      "retrieved_at": "2026-10-28T21:53:47.957027+00:00",
+      "rejection_reasons": [
+        "deprecated_statement"
+      ]
+    },
+    {
+      "statement_id": "q95$80166d1c-42aa-a8c1-ef20-8f990b33b5f0",
+      "subject": "Q95",
+      "predicate": "SUBSIDIARY",
+      "property_id": "P355",
+      "object": "Q942327",
+      "expected_object_type": "organization",
+      "rank": "normal",
+      "qualifiers": {
+        "P580": [
+          {
+            "snaktype": "value",
+            "property": "P580",
+            "hash": "ccbc375037e3254e336c9595e06528ddecfdb34f",
+            "datavalue": {
+              "value": {
+                "time": "+2013-06-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 10,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "type": "time"
+            },
+            "datatype": "time"
+          }
+        ]
+      },
+      "references": [
+        {
+          "hash": "ed8bd3f9343e9a35e58b67284f26a67859f1808d",
+          "snaks": {
+            "P143": [
+              {
+                "snaktype": "value",
+                "property": "P143",
+                "hash": "07596fc82d3ed4d248b85e5543852cc31e37dc8c",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 199913,
+                    "id": "Q199913"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          },
+          "snaks-order": [
+            "P143"
+          ]
+        }
+      ],
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q95",
+      "retrieved_at": "2026-10-28T21:53:47.957027+00:00",
+      "rejection_reasons": [
+        "target_type_not_verified"
+      ]
+    },
+    {
+      "statement_id": "Q95$30536422-4c14-b3e5-c211-ff29ad833a2d",
+      "subject": "Q95",
+      "predicate": "SUBSIDIARY",
+      "property_id": "P355",
+      "object": "Q4997299",
+      "expected_object_type": "organization",
+      "rank": "normal",
+      "qualifiers": {},
+      "references": [],
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q95",
+      "retrieved_at": "2026-10-28T21:53:47.957027+00:00",
+      "rejection_reasons": [
+        "target_type_not_verified"
+      ]
+    },
+    {
+      "statement_id": "Q95$b93c6bad-4978-cce7-e93f-6b05cd3dd76c",
+      "subject": "Q95",
+      "predicate": "SUBSIDIARY",
+      "property_id": "P355",
+      "object": "Q7950747",
+      "expected_object_type": "organization",
+      "rank": "normal",
+      "qualifiers": {},
+      "references": [],
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q95",
+      "retrieved_at": "2026-10-28T21:53:47.957027+00:00",
+      "rejection_reasons": [
+        "target_type_not_verified"
+      ]
+    },
+    {
+      "statement_id": "Q95$77f44d7f-4b79-da8c-d63a-7ee9f10491e6",
+      "subject": "Q95",
+      "predicate": "SUBSIDIARY",
+      "property_id": "P355",
+      "object": "Q164203",
+      "expected_object_type": "organization",
+      "rank": "normal",
+      "qualifiers": {},
+      "references": [],
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q95",
+      "retrieved_at": "2026-10-28T21:53:47.957027+00:00",
+      "rejection_reasons": [
+        "target_type_not_verified"
+      ]
+    },
+    {
+      "statement_id": "Q95$7A3CA221-DECF-44FD-88A9-4780199782C2",
+      "subject": "Q95",
+      "predicate": "SUBSIDIARY",
+      "property_id": "P355",
+      "object": "Q6398293",
+      "expected_object_type": "organization",
+      "rank": "deprecated",
+      "qualifiers": {
+        "P580": [
+          {
+            "snaktype": "value",
+            "property": "P580",
+            "hash": "e197143aff4ccedce9911e34aeeaac77a5311073",
+            "datavalue": {
+              "value": {
+                "time": "+2004-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "type": "time"
+            },
+            "datatype": "time"
+          }
+        ]
+      },
+      "references": [],
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q95",
+      "retrieved_at": "2026-10-28T21:53:47.957027+00:00",
+      "rejection_reasons": [
+        "deprecated_statement"
+      ]
+    },
+    {
+      "statement_id": "Q95$5CFD4350-9617-4C55-8A26-9CC51E8EF64C",
+      "subject": "Q95",
+      "predicate": "SUBSIDIARY",
+      "property_id": "P355",
+      "object": "Q6354493",
+      "expected_object_type": "organization",
+      "rank": "deprecated",
+      "qualifiers": {
+        "P580": [
+          {
+            "snaktype": "value",
+            "property": "P580",
+            "hash": "bf6cb510ea0f032d0caec9b75e56a6c83cdcf3c6",
+            "datavalue": {
+              "value": {
+                "time": "+2003-09-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 10,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "type": "time"
+            },
+            "datatype": "time"
+          }
+        ]
+      },
+      "references": [],
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q95",
+      "retrieved_at": "2026-10-28T21:53:47.957027+00:00",
+      "rejection_reasons": [
+        "deprecated_statement"
+      ]
+    },
+    {
+      "statement_id": "Q95$421F51E7-CFB1-4EFE-812E-0211948EE999",
+      "subject": "Q95",
+      "predicate": "SUBSIDIARY",
+      "property_id": "P355",
+      "object": "Q776845",
+      "expected_object_type": "organization",
+      "rank": "normal",
+      "qualifiers": {},
+      "references": [],
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q95",
+      "retrieved_at": "2026-10-28T21:53:47.957027+00:00",
+      "rejection_reasons": [
+        "target_type_not_verified"
+      ]
+    },
+    {
+      "statement_id": "Q95$59B53CD7-FD19-47B7-8D6F-47ABFA2B164C",
+      "subject": "Q95",
+      "predicate": "SUBSIDIARY",
+      "property_id": "P355",
+      "object": "Q7157796",
+      "expected_object_type": "organization",
+      "rank": "normal",
+      "qualifiers": {},
+      "references": [],
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q95",
+      "retrieved_at": "2026-10-28T21:53:47.957027+00:00",
+      "rejection_reasons": [
+        "target_type_not_verified"
+      ]
+    },
+    {
+      "statement_id": "Q95$C67F7AD1-C51E-495A-AEE3-12D3EAE24E68",
+      "subject": "Q95",
+      "predicate": "SUBSIDIARY",
+      "property_id": "P355",
+      "object": "Q772783",
+      "expected_object_type": "organization",
+      "rank": "deprecated",
+      "qualifiers": {},
+      "references": [],
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q95",
+      "retrieved_at": "2026-10-28T21:53:47.957027+00:00",
+      "rejection_reasons": [
+        "deprecated_statement",
+        "target_type_not_verified"
+      ]
+    },
+    {
+      "statement_id": "Q95$FFF8934C-7A7A-48C2-8609-42DF388FBF2A",
+      "subject": "Q95",
+      "predicate": "SUBSIDIARY",
+      "property_id": "P355",
+      "object": "Q5583798",
+      "expected_object_type": "organization",
+      "rank": "deprecated",
+      "qualifiers": {},
+      "references": [],
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q95",
+      "retrieved_at": "2026-10-28T21:53:47.957027+00:00",
+      "rejection_reasons": [
+        "deprecated_statement"
+      ]
+    },
+    {
+      "statement_id": "Q95$D4BCB294-E6AF-401C-AC97-2991637E79B8",
+      "subject": "Q95",
+      "predicate": "SUBSIDIARY",
+      "property_id": "P355",
+      "object": "Q5205667",
+      "expected_object_type": "organization",
+      "rank": "normal",
+      "qualifiers": {},
+      "references": [],
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q95",
+      "retrieved_at": "2026-10-28T21:53:47.957027+00:00",
+      "rejection_reasons": [
+        "target_type_not_verified"
+      ]
+    },
+    {
+      "statement_id": "Q95$ABEA5FC8-CE0A-4F4F-A757-F9C004DB2534",
+      "subject": "Q95",
+      "predicate": "SUBSIDIARY",
+      "property_id": "P355",
+      "object": "Q17054505",
+      "expected_object_type": "organization",
+      "rank": "normal",
+      "qualifiers": {},
+      "references": [],
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q95",
+      "retrieved_at": "2026-10-28T21:53:47.957027+00:00",
+      "rejection_reasons": [
+        "target_type_not_verified"
+      ]
+    },
+    {
+      "statement_id": "Q95$79D77E3C-7F84-43BA-8EFA-396C39CB6231",
+      "subject": "Q95",
+      "predicate": "SUBSIDIARY",
+      "property_id": "P355",
+      "object": "Q2591662",
+      "expected_object_type": "organization",
+      "rank": "normal",
+      "qualifiers": {},
+      "references": [],
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q95",
+      "retrieved_at": "2026-10-28T21:53:47.957027+00:00",
+      "rejection_reasons": [
+        "target_type_not_verified"
+      ]
+    },
+    {
+      "statement_id": "Q95$208F426D-B4A1-4C90-87F9-40AD31AF8B8E",
+      "subject": "Q95",
+      "predicate": "SUBSIDIARY",
+      "property_id": "P355",
+      "object": "Q271982",
+      "expected_object_type": "organization",
+      "rank": "normal",
+      "qualifiers": {},
+      "references": [],
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q95",
+      "retrieved_at": "2026-10-28T21:53:47.957027+00:00",
+      "rejection_reasons": [
+        "target_type_not_verified"
+      ]
+    },
+    {
+      "statement_id": "Q95$b1e9e4a4-4a6d-706a-327d-1445f08fee73",
+      "subject": "Q95",
+      "predicate": "SUBSIDIARY",
+      "property_id": "P355",
+      "object": "Q13462819",
+      "expected_object_type": "organization",
+      "rank": "deprecated",
+      "qualifiers": {
+        "P582": [
+          {
+            "snaktype": "value",
+            "property": "P582",
+            "hash": "8e2400bfbdd95526fc1b9ddab28d911323dd85cd",
+            "datavalue": {
+              "value": {
+                "time": "+2015-08-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 10,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "type": "time"
+            },
+            "datatype": "time"
+          }
+        ],
+        "P580": [
+          {
+            "snaktype": "value",
+            "property": "P580",
+            "hash": "f40f7a3b9b28e53e1034a3e8568f93a60b52188e",
+            "datavalue": {
+              "value": {
+                "time": "+2010-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "type": "time"
+            },
+            "datatype": "time"
+          }
+        ],
+        "P2241": [
+          {
+            "snaktype": "value",
+            "property": "P2241",
+            "hash": "3f3a8bd33721fbb798ec8e9636203c9f31e483f8",
+            "datavalue": {
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 107356532,
+                "id": "Q107356532"
+              },
+              "type": "wikibase-entityid"
+            },
+            "datatype": "wikibase-item"
+          }
+        ]
+      },
+      "references": [
+        {
+          "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+          "snaks": {
+            "P143": [
+              {
+                "snaktype": "value",
+                "property": "P143",
+                "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 328,
+                    "id": "Q328"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          },
+          "snaks-order": [
+            "P143"
+          ]
+        }
+      ],
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q95",
+      "retrieved_at": "2026-10-28T21:53:47.957027+00:00",
+      "rejection_reasons": [
+        "deprecated_statement"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "query_id": "shared_leaders",
+  "question": "Quelles paires d'organisations partagent des personnes ayant une fonction de direction ou de gouvernance ?",
+  "method": "cypher",
+  "dataset_id": "mvp_ff7e5205b7ffa21f_1139",
+  "parameters": {
+    "dataset": "mvp_ff7e5205b7ffa21f_1139",
+    "person": "Thomas Schäfer",
+    "organization": "Google"
+  },
+  "cypher": "\n            MATCH (a:Organization)<-[r1]-(p:Person)-[r2]->(b:Organization)\n            WHERE a.entity_id < b.entity_id\n              AND r1.dataset_id = $dataset\n              AND r2.dataset_id = $dataset\n              AND type(r1) IN [\n                  'CEO_OF', 'CHAIRPERSON_OF', 'BOARD_MEMBER_OF'\n              ]\n              AND type(r2) IN [\n                  'CEO_OF', 'CHAIRPERSON_OF', 'BOARD_MEMBER_OF'\n              ]\n            WITH a, b,\n                 collect(DISTINCT p.name) AS shared_people,\n                 count(DISTINCT p.entity_id) AS shared_people_count\n            RETURN a.entity_id AS organization_a_id,\n                   a.name AS organization_a,\n                   b.entity_id AS organization_b_id,\n                   b.name AS organization_b,\n                   shared_people,\n                   shared_people_count\n            ORDER BY shared_people_count DESC,\n                     organization_a, organization_b\n            LIMIT 30\n        ",
+  "measured_client_latency_ms": 499.54,
+  "row_count": 30,
+  "rows": [
+    {
+      "organization_a_id": "2e8af2cbc00a2285c59e00202db467a208fb1a7db67ddeb17211519f1fb5b85e",
+      "organization_a": "Google",
+      "organization_b_id": "e5fa75da74c4e204412656b66843cfbace60a2287b723e637eafe1560278887d",
+      "organization_b": "Alphabet Inc.",
+      "shared_people": [
+        "Eric Schmidt",
+        "Sundar Pichai",
+        "Larry Page"
+      ],
+      "shared_people_count": 3
+    },
+    {
+      "organization_a_id": "0879187e4435a8c692d9cb4ce968e79ab059a3801e8c063731754e2220bf7d07",
+      "organization_a": "Volkswagen Group",
+      "organization_b_id": "8d8ae2b119fc71ad4525e0db705e0a5f84035347320c3290864c71bd09dd8a1f",
+      "organization_b": "Volkswagen AG",
+      "shared_people": [
+        "Martin Winterkorn",
+        "Matthias Müller",
+        "Ferdinand Piëch"
+      ],
+      "shared_people_count": 3
+    },
+    {
+      "organization_a_id": "6d32bf1949ec0f8ad8826b60b5b7d807d85603c8e530fb33a56d4da5f06cdb64",
+      "organization_a": "BHP Billiton",
+      "organization_b_id": "d45573b6515aaadfe87532c5ce31da132e098ec9ad2f18c4e98529e930859534",
+      "organization_b": "Ford Motor Company",
+      "shared_people": [
+        "Jacques Nasser",
+        "Jacques Albert Nasser"
+      ],
+      "shared_people_count": 2
+    },
+    {
+      "organization_a_id": "6d32bf1949ec0f8ad8826b60b5b7d807d85603c8e530fb33a56d4da5f06cdb64",
+      "organization_a": "BHP Billiton",
+      "organization_b_id": "d26582e6e8b9f15808bd65e7b4b4b0fc035d0f00bc29b5dabecc012096775cd2",
+      "organization_b": "Koç Holding",
+      "shared_people": [
+        "Jacques Nasser",
+        "Jacques Albert Nasser"
+      ],
+      "shared_people_count": 2
+    },
+    {
+      "organization_a_id": "07b7244bec665011a4ce5c77e427b450c99b2d8a1e5096ef2225e53ce1358cc2",
+      "organization_a": "Fox Corporation",
+      "organization_b_id": "6d32bf1949ec0f8ad8826b60b5b7d807d85603c8e530fb33a56d4da5f06cdb64",
+      "organization_b": "BHP Billiton",
+      "shared_people": [
+        "Jacques Nasser",
+        "Jacques Albert Nasser"
+      ],
+      "shared_people_count": 2
+    },
+    {
+      "organization_a_id": "07b7244bec665011a4ce5c77e427b450c99b2d8a1e5096ef2225e53ce1358cc2",
+      "organization_a": "Fox Corporation",
+      "organization_b_id": "d45573b6515aaadfe87532c5ce31da132e098ec9ad2f18c4e98529e930859534",
+      "organization_b": "Ford Motor Company",
+      "shared_people": [
+        "Jacques Nasser",
+        "Jacques Albert Nasser"
+      ],
+      "shared_people_count": 2
+    },
+    {
+      "organization_a_id": "07b7244bec665011a4ce5c77e427b450c99b2d8a1e5096ef2225e53ce1358cc2",
+      "organization_a": "Fox Corporation",
+      "organization_b_id": "d26582e6e8b9f15808bd65e7b4b4b0fc035d0f00bc29b5dabecc012096775cd2",
+      "organization_b": "Koç Holding",
+      "shared_people": [
+        "Jacques Nasser",
+        "Jacques Albert Nasser"
+      ],
+      "shared_people_count": 2
+    },
+    {
+      "organization_a_id": "d26582e6e8b9f15808bd65e7b4b4b0fc035d0f00bc29b5dabecc012096775cd2",
+      "organization_a": "Koç Holding",
+      "organization_b_id": "d45573b6515aaadfe87532c5ce31da132e098ec9ad2f18c4e98529e930859534",
+      "organization_b": "Ford Motor Company",
+      "shared_people": [
+        "Jacques Nasser",
+        "Jacques Albert Nasser"
+      ],
+      "shared_people_count": 2
+    },
+    {
+      "organization_a_id": "0879187e4435a8c692d9cb4ce968e79ab059a3801e8c063731754e2220bf7d07",
+      "organization_a": "Volkswagen Group",
+      "organization_b_id": "41444499bb8cdc9a555d5d3a523300b65afc593f42d4545e3fd77699efcb25bd",
+      "organization_b": "Porsche",
+      "shared_people": [
+        "Oliver Blume",
+        "Matthias Müller"
+      ],
+      "shared_people_count": 2
+    },
+    {
+      "organization_a_id": "0879187e4435a8c692d9cb4ce968e79ab059a3801e8c063731754e2220bf7d07",
+      "organization_a": "Volkswagen Group",
+      "organization_b_id": "1c3177d6ec7bd959e3ce84bbadbfb18a4487bdc75daa2d0000430f786970460b",
+      "organization_b": "Volkswagen",
+      "shared_people": [
+        "Thomas Schäfer",
+        "Herbert Diess"
+      ],
+      "shared_people_count": 2
+    },
+    {
+      "organization_a_id": "8d41422e3dae15275aed8d356bcf400d1cb3d8e25b977fb749312e4fde0662a9",
+      "organization_a": "Waymo LLC",
+      "organization_b_id": "c0e2677645549788b29a21aeb8fca766a2563b54d6e3c34d291a424e7f0f8d85",
+      "organization_b": "Waymo",
+      "shared_people": [
+        "Dmitri Dolgov",
+        "Tekedra Mawakana"
+      ],
+      "shared_people_count": 2
+    },
+    {
+      "organization_a_id": "01daad311b348f63949e9d0bee0015f3f7e656209f3b72ec9d50915b26cf4171",
+      "organization_a": "Škoda",
+      "organization_b_id": "ce8907a24c4b5539950a99907c3faee3274f8d2f806a882224e2947c7f381be7",
+      "organization_b": "Škoda Auto",
+      "shared_people": [
+        "Thomas Schäfer",
+        "Winfried Vahland"
+      ],
+      "shared_people_count": 2
+    },
+    {
+      "organization_a_id": "85e06cec8ec64afe0b14453bda453ba2fc8e10af0134cc21ddfc2be1ee9300f0",
+      "organization_a": "21st Century Fox",
+      "organization_b_id": "a7f61a3491c3da962aef1a27a7d7624eeeb695ae0bcdf28cf6c9d304ab0793cc",
+      "organization_b": "BuyTV.com",
+      "shared_people": [
+        "Jacques Nasser"
+      ],
+      "shared_people_count": 1
+    },
+    {
+      "organization_a_id": "85e06cec8ec64afe0b14453bda453ba2fc8e10af0134cc21ddfc2be1ee9300f0",
+      "organization_a": "21st Century Fox",
+      "organization_b_id": "f8bdb330a1924316b2b09bfa121bc94abe025174efb5054f370f65f2148726fc",
+      "organization_b": "Ford",
+      "shared_people": [
+        "Jacques Nasser"
+      ],
+      "shared_people_count": 1
+    },
+    {
+      "organization_a_id": "85e06cec8ec64afe0b14453bda453ba2fc8e10af0134cc21ddfc2be1ee9300f0",
+      "organization_a": "21st Century Fox",
+      "organization_b_id": "d45573b6515aaadfe87532c5ce31da132e098ec9ad2f18c4e98529e930859534",
+      "organization_b": "Ford Motor Company",
+      "shared_people": [
+        "Jacques Nasser"
+      ],
+      "shared_people_count": 1
+    },
+    {
+      "organization_a_id": "85e06cec8ec64afe0b14453bda453ba2fc8e10af0134cc21ddfc2be1ee9300f0",
+      "organization_a": "21st Century Fox",
+      "organization_b_id": "d26582e6e8b9f15808bd65e7b4b4b0fc035d0f00bc29b5dabecc012096775cd2",
+      "organization_b": "Koç Holding",
+      "shared_people": [
+        "Jacques Nasser"
+      ],
+      "shared_people_count": 1
+    },
+    {
+      "organization_a_id": "3b9ec81a5f670d205ae248684c225f74e079d2e3ecbec691fcb7e59a0151e825",
+      "organization_a": "Academy of Science and Engineering",
+      "organization_b_id": "c5d77c5b22875c124ecafed6a0a8c34c56a78273b7c992d6ab1e64ec61fd9543",
+      "organization_b": "Audi",
+      "shared_people": [
+        "Berthold Huber"
+      ],
+      "shared_people_count": 1
+    },
+    {
+      "organization_a_id": "3b9ec81a5f670d205ae248684c225f74e079d2e3ecbec691fcb7e59a0151e825",
+      "organization_a": "Academy of Science and Engineering",
+      "organization_b_id": "b5f9d20002e397851aee90686844f51f84df3e4e04fbca628d105f0904a526ab",
+      "organization_b": "Max Planck Society",
+      "shared_people": [
+        "Berthold Huber"
+      ],
+      "shared_people_count": 1
+    },
+    {
+      "organization_a_id": "3b9ec81a5f670d205ae248684c225f74e079d2e3ecbec691fcb7e59a0151e825",
+      "organization_a": "Academy of Science and Engineering",
+      "organization_b_id": "e01df35ed8ec4c3df4b240c6b0211a3a90b5eab472a34019b9fd75ad11eac601",
+      "organization_b": "Siemens Foundation",
+      "shared_people": [
+        "Berthold Huber"
+      ],
+      "shared_people_count": 1
+    },
+    {
+      "organization_a_id": "931d8c106f3c066b29738191e95574b4af25697fe3da4230c38a135554eabf5d",
+      "organization_a": "Aible",
+      "organization_b_id": "bbe23cf5f94771f9377efbd4f6e2402673075f6357ded1bd0563e1c7d3044c93",
+      "organization_b": "Arista Networks",
+      "shared_people": [
+        "Ann Mather"
+      ],
+      "shared_people_count": 1
+    },
+    {
+      "organization_a_id": "931d8c106f3c066b29738191e95574b4af25697fe3da4230c38a135554eabf5d",
+      "organization_a": "Aible",
+      "organization_b_id": "dba88b6876be170d3043af5e27ae6af671bffb79a85a25fa7d4cecd204cf5d1c",
+      "organization_b": "Blend",
+      "shared_people": [
+        "Ann Mather"
+      ],
+      "shared_people_count": 1
+    },
+    {
+      "organization_a_id": "931d8c106f3c066b29738191e95574b4af25697fe3da4230c38a135554eabf5d",
+      "organization_a": "Aible",
+      "organization_b_id": "d887c2b8929612f0f1aa572110c1ed657ebd7edabbb4e59e88aa771a8c307fae",
+      "organization_b": "MGM Studios",
+      "shared_people": [
+        "Ann Mather"
+      ],
+      "shared_people_count": 1
+    },
+    {
+      "organization_a_id": "931d8c106f3c066b29738191e95574b4af25697fe3da4230c38a135554eabf5d",
+      "organization_a": "Aible",
+      "organization_b_id": "eb119acb9e3da0e1fd20618db5470286f663498a3139fa40e9da5c80bc7a5a37",
+      "organization_b": "Netflix",
+      "shared_people": [
+        "Ann Mather"
+      ],
+      "shared_people_count": 1
+    },
+    {
+      "organization_a_id": "25e66805f68f12425b525eb16d9bf381d84e65ed5bc1eae3900127c6516b147d",
+      "organization_a": "Airbnb",
+      "organization_b_id": "931d8c106f3c066b29738191e95574b4af25697fe3da4230c38a135554eabf5d",
+      "organization_b": "Aible",
+      "shared_people": [
+        "Ann Mather"
+      ],
+      "shared_people_count": 1
+    },
+    {
+      "organization_a_id": "25e66805f68f12425b525eb16d9bf381d84e65ed5bc1eae3900127c6516b147d",
+      "organization_a": "Airbnb",
+      "organization_b_id": "bbe23cf5f94771f9377efbd4f6e2402673075f6357ded1bd0563e1c7d3044c93",
+      "organization_b": "Arista Networks",
+      "shared_people": [
+        "Ann Mather"
+      ],
+      "shared_people_count": 1
+    },
+    {
+      "organization_a_id": "25e66805f68f12425b525eb16d9bf381d84e65ed5bc1eae3900127c6516b147d",
+      "organization_a": "Airbnb",
+      "organization_b_id": "dba88b6876be170d3043af5e27ae6af671bffb79a85a25fa7d4cecd204cf5d1c",
+      "organization_b": "Blend",
+      "shared_people": [
+        "Ann Mather"
+      ],
+      "shared_people_count": 1
+    },
+    {
+      "organization_a_id": "25e66805f68f12425b525eb16d9bf381d84e65ed5bc1eae3900127c6516b147d",
+      "organization_a": "Airbnb",
+      "organization_b_id": "26b9b5b1aa8a91cbfc18feecdec4fc2ad6c7ca3a539fed51c8bd4fd2e7d3d69d",
+      "organization_b": "Bumble",
+      "shared_people": [
+        "Ann Mather"
+      ],
+      "shared_people_count": 1
+    },
+    {
+      "organization_a_id": "25e66805f68f12425b525eb16d9bf381d84e65ed5bc1eae3900127c6516b147d",
+      "organization_a": "Airbnb",
+      "organization_b_id": "d887c2b8929612f0f1aa572110c1ed657ebd7edabbb4e59e88aa771a8c307fae",
+      "organization_b": "MGM Studios",
+      "shared_people": [
+        "Ann Mather"
+      ],
+      "shared_people_count": 1
+    },
+    {
+      "organization_a_id": "25e66805f68f12425b525eb16d9bf381d84e65ed5bc1eae3900127c6516b147d",
+      "organization_a": "Airbnb",
+      "organization_b_id": "eb119acb9e3da0e1fd20618db5470286f663498a3139fa40e9da5c80bc7a5a37",
+      "organization_b": "Netflix",
+      "shared_people": [
+        "Ann Mather"
+      ],
+      "shared_people_count": 1
+    },
+    {
+      "organization_a_id": "25e66805f68f12425b525eb16d9bf381d84e65ed5bc1eae3900127c6516b147d",
+      "organization_a": "Airbnb",
+      "organization_b_id": "8f5a4728a17fb6f6d593fa121e6dec8879af1d0acdb4c0f3f78ddc056d0b99f5",
+      "organization_b": "Pattern",
+      "shared_people": [
+        "Ann Mather"
+      ],
+      "shared_people_count": 1
+    }
+  ]
+}

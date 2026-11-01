@@ -1,0 +1,2100 @@
+{
+  "document_id": "wikipedia_en_Q15614763",
+  "wikidata_id": "Q15614763",
+  "entity_label": "Open Automotive Alliance",
+  "entity_type": "organization",
+  "seed_categories": [],
+  "source": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Open_Automotive_Alliance",
+  "revision_id": 1375841528,
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1375841528",
+  "pageid": 41565501,
+  "title": "Open Automotive Alliance",
+  "language": "en",
+  "collected_at": "2026-10-28T21:59:13.159510+00:00",
+  "content": {
+    "sections": [
+      {
+        "heading": "Introduction",
+        "text": "The Open Automotive Alliance ( OAA ) is an alliance of automotive manufacturers and technology companies aimed at using Android in automobiles. It was announced at CES on January 6, 2014."
+      },
+      {
+        "heading": "Members",
+        "text": "The members of the Open Automotive Alliance are:"
+      },
+      {
+        "heading": "See also",
+        "text": "Android Auto CarPlay , formerly iOS in the Car Windows Embedded Automotive Ford Sync Open Handset Alliance QNX NNG"
+      },
+      {
+        "heading": "External links",
+        "text": "Open Automotive Alliance"
+      }
+    ],
+    "full_text": "Introduction\nThe Open Automotive Alliance ( OAA ) is an alliance of automotive manufacturers and technology companies aimed at using Android in automobiles. It was announced at CES on January 6, 2014.\n\nMembers\nThe members of the Open Automotive Alliance are:\n\nSee also\nAndroid Auto CarPlay , formerly iOS in the Car Windows Embedded Automotive Ford Sync Open Handset Alliance QNX NNG\n\nExternal links\nOpen Automotive Alliance"
+  },
+  "references": [
+    {
+      "url": "https://www.theverge.com/2014/1/6/5279116/google-open-automotive-alliance-android-car-announcement",
+      "label": "\"Google launches the Android-based Open Automotive Alliance with Audi, Honda, GM, and more\""
+    },
+    {
+      "url": "https://www.openautoalliance.net/",
+      "label": "\"Open Automotive Alliance\""
+    },
+    {
+      "url": "https://web.archive.org/web/20151105043312/http://www.symphonyteleca.com/harman-press",
+      "label": "\"Harman Completes Acquisition of Symphony Teleca\""
+    },
+    {
+      "url": "http://www.symphonyteleca.com/harman-press",
+      "label": "the original"
+    }
+  ],
+  "outgoing_links": [
+    {
+      "title": "/e/ (operating system)",
+      "url": "https://en.wikipedia.org/wiki/%2Fe%2F_%28operating_system%29"
+    },
+    {
+      "title": "AOKP",
+      "url": "https://en.wikipedia.org/wiki/AOKP"
+    },
+    {
+      "title": "API",
+      "url": "https://en.wikipedia.org/wiki/API"
+    },
+    {
+      "title": "Abarth",
+      "url": "https://en.wikipedia.org/wiki/Abarth"
+    },
+    {
+      "title": "Acura",
+      "url": "https://en.wikipedia.org/wiki/Acura"
+    },
+    {
+      "title": "AdMob",
+      "url": "https://en.wikipedia.org/wiki/AdMob"
+    },
+    {
+      "title": "Advanced Linux Sound Architecture",
+      "url": "https://en.wikipedia.org/wiki/Advanced_Linux_Sound_Architecture"
+    },
+    {
+      "title": "Alan Cox (computer programmer)",
+      "url": "https://en.wikipedia.org/wiki/Alan_Cox_%28computer_programmer%29"
+    },
+    {
+      "title": "Alfa Romeo",
+      "url": "https://en.wikipedia.org/wiki/Alfa_Romeo"
+    },
+    {
+      "title": "AliOS",
+      "url": "https://en.wikipedia.org/wiki/AliOS"
+    },
+    {
+      "title": "Alpine Electronics",
+      "url": "https://en.wikipedia.org/wiki/Alpine_Electronics"
+    },
+    {
+      "title": "Andrew Morton (computer programmer)",
+      "url": "https://en.wikipedia.org/wiki/Andrew_Morton_%28computer_programmer%29"
+    },
+    {
+      "title": "Andries Brouwer",
+      "url": "https://en.wikipedia.org/wiki/Andries_Brouwer"
+    },
+    {
+      "title": "Android-x86",
+      "url": "https://en.wikipedia.org/wiki/Android-x86"
+    },
+    {
+      "title": "Android (operating system)",
+      "url": "https://en.wikipedia.org/wiki/Android_%28operating_system%29"
+    },
+    {
+      "title": "Android 10",
+      "url": "https://en.wikipedia.org/wiki/Android_10"
+    },
+    {
+      "title": "Android 11",
+      "url": "https://en.wikipedia.org/wiki/Android_11"
+    },
+    {
+      "title": "Android 12",
+      "url": "https://en.wikipedia.org/wiki/Android_12"
+    },
+    {
+      "title": "Android 13",
+      "url": "https://en.wikipedia.org/wiki/Android_13"
+    },
+    {
+      "title": "Android 14",
+      "url": "https://en.wikipedia.org/wiki/Android_14"
+    },
+    {
+      "title": "Android 15",
+      "url": "https://en.wikipedia.org/wiki/Android_15"
+    },
+    {
+      "title": "Android 16",
+      "url": "https://en.wikipedia.org/wiki/Android_16"
+    },
+    {
+      "title": "Android 17",
+      "url": "https://en.wikipedia.org/wiki/Android_17"
+    },
+    {
+      "title": "Android App Bundle",
+      "url": "https://en.wikipedia.org/wiki/Android_App_Bundle"
+    },
+    {
+      "title": "Android Auto",
+      "url": "https://en.wikipedia.org/wiki/Android_Auto"
+    },
+    {
+      "title": "Android Automotive",
+      "url": "https://en.wikipedia.org/wiki/Android_Automotive"
+    },
+    {
+      "title": "Android Cupcake",
+      "url": "https://en.wikipedia.org/wiki/Android_Cupcake"
+    },
+    {
+      "title": "Android Debug Bridge",
+      "url": "https://en.wikipedia.org/wiki/Android_Debug_Bridge"
+    },
+    {
+      "title": "Android Developer Challenge",
+      "url": "https://en.wikipedia.org/wiki/Android_Developer_Challenge"
+    },
+    {
+      "title": "Android Developer Lab",
+      "url": "https://en.wikipedia.org/wiki/Android_Developer_Lab"
+    },
+    {
+      "title": "Android Donut",
+      "url": "https://en.wikipedia.org/wiki/Android_Donut"
+    },
+    {
+      "title": "Android Eclair",
+      "url": "https://en.wikipedia.org/wiki/Android_Eclair"
+    },
+    {
+      "title": "Android Froyo",
+      "url": "https://en.wikipedia.org/wiki/Android_Froyo"
+    },
+    {
+      "title": "Android Gingerbread",
+      "url": "https://en.wikipedia.org/wiki/Android_Gingerbread"
+    },
+    {
+      "title": "Android Go",
+      "url": "https://en.wikipedia.org/wiki/Android_Go"
+    },
+    {
+      "title": "Android Honeycomb",
+      "url": "https://en.wikipedia.org/wiki/Android_Honeycomb"
+    },
+    {
+      "title": "Android Ice Cream Sandwich",
+      "url": "https://en.wikipedia.org/wiki/Android_Ice_Cream_Sandwich"
+    },
+    {
+      "title": "Android Jelly Bean",
+      "url": "https://en.wikipedia.org/wiki/Android_Jelly_Bean"
+    },
+    {
+      "title": "Android KitKat",
+      "url": "https://en.wikipedia.org/wiki/Android_KitKat"
+    },
+    {
+      "title": "Android Lollipop",
+      "url": "https://en.wikipedia.org/wiki/Android_Lollipop"
+    },
+    {
+      "title": "Android Marshmallow",
+      "url": "https://en.wikipedia.org/wiki/Android_Marshmallow"
+    },
+    {
+      "title": "Android NDK",
+      "url": "https://en.wikipedia.org/wiki/Android_NDK"
+    },
+    {
+      "title": "Android Nougat",
+      "url": "https://en.wikipedia.org/wiki/Android_Nougat"
+    },
+    {
+      "title": "Android One",
+      "url": "https://en.wikipedia.org/wiki/Android_One"
+    },
+    {
+      "title": "Android Oreo",
+      "url": "https://en.wikipedia.org/wiki/Android_Oreo"
+    },
+    {
+      "title": "Android Pie",
+      "url": "https://en.wikipedia.org/wiki/Android_Pie"
+    },
+    {
+      "title": "Android Runtime",
+      "url": "https://en.wikipedia.org/wiki/Android_Runtime"
+    },
+    {
+      "title": "Android SDK",
+      "url": "https://en.wikipedia.org/wiki/Android_SDK"
+    },
+    {
+      "title": "Android Studio",
+      "url": "https://en.wikipedia.org/wiki/Android_Studio"
+    },
+    {
+      "title": "Android TV",
+      "url": "https://en.wikipedia.org/wiki/Android_TV"
+    },
+    {
+      "title": "Android Things",
+      "url": "https://en.wikipedia.org/wiki/Android_Things"
+    },
+    {
+      "title": "Android XR",
+      "url": "https://en.wikipedia.org/wiki/Android_XR"
+    },
+    {
+      "title": "Android lawn statues",
+      "url": "https://en.wikipedia.org/wiki/Android_lawn_statues"
+    },
+    {
+      "title": "Android recovery mode",
+      "url": "https://en.wikipedia.org/wiki/Android_recovery_mode"
+    },
+    {
+      "title": "Android software development",
+      "url": "https://en.wikipedia.org/wiki/Android_software_development"
+    },
+    {
+      "title": "Android version history",
+      "url": "https://en.wikipedia.org/wiki/Android_version_history"
+    },
+    {
+      "title": "Androidland",
+      "url": "https://en.wikipedia.org/wiki/Androidland"
+    },
+    {
+      "title": "Apache Harmony",
+      "url": "https://en.wikipedia.org/wiki/Apache_Harmony"
+    },
+    {
+      "title": "Apk (file format)",
+      "url": "https://en.wikipedia.org/wiki/Apk_%28file_format%29"
+    },
+    {
+      "title": "AppArmor",
+      "url": "https://en.wikipedia.org/wiki/AppArmor"
+    },
+    {
+      "title": "Asus ZenFone",
+      "url": "https://en.wikipedia.org/wiki/Asus_ZenFone"
+    },
+    {
+      "title": "Audi",
+      "url": "https://en.wikipedia.org/wiki/Audi"
+    },
+    {
+      "title": "Augmented reality",
+      "url": "https://en.wikipedia.org/wiki/Augmented_reality"
+    },
+    {
+      "title": "Avi Kivity",
+      "url": "https://en.wikipedia.org/wiki/Avi_Kivity"
+    },
+    {
+      "title": "Baidu Yi",
+      "url": "https://en.wikipedia.org/wiki/Baidu_Yi"
+    },
+    {
+      "title": "Barnes & Noble Nook",
+      "url": "https://en.wikipedia.org/wiki/Barnes_%26_Noble_Nook"
+    },
+    {
+      "title": "Bcache",
+      "url": "https://en.wikipedia.org/wiki/Bcache"
+    },
+    {
+      "title": "Bentley",
+      "url": "https://en.wikipedia.org/wiki/Bentley"
+    },
+    {
+      "title": "Berkeley Packet Filter",
+      "url": "https://en.wikipedia.org/wiki/Berkeley_Packet_Filter"
+    },
+    {
+      "title": "Binfmt misc",
+      "url": "https://en.wikipedia.org/wiki/Binfmt_misc"
+    },
+    {
+      "title": "Bionic (software)",
+      "url": "https://en.wikipedia.org/wiki/Bionic_%28software%29"
+    },
+    {
+      "title": "BlueStacks",
+      "url": "https://en.wikipedia.org/wiki/BlueStacks"
+    },
+    {
+      "title": "BlueZ",
+      "url": "https://en.wikipedia.org/wiki/BlueZ"
+    },
+    {
+      "title": "Booting process of Android devices",
+      "url": "https://en.wikipedia.org/wiki/Booting_process_of_Android_devices"
+    },
+    {
+      "title": "Booting process of Linux",
+      "url": "https://en.wikipedia.org/wiki/Booting_process_of_Linux"
+    },
+    {
+      "title": "Brain Fuck Scheduler",
+      "url": "https://en.wikipedia.org/wiki/Brain_Fuck_Scheduler"
+    },
+    {
+      "title": "C++",
+      "url": "https://en.wikipedia.org/wiki/C%2B%2B"
+    },
+    {
+      "title": "CRIU",
+      "url": "https://en.wikipedia.org/wiki/CRIU"
+    },
+    {
+      "title": "C (programming language)",
+      "url": "https://en.wikipedia.org/wiki/C_%28programming_language%29"
+    },
+    {
+      "title": "C standard library",
+      "url": "https://en.wikipedia.org/wiki/C_standard_library"
+    },
+    {
+      "title": "CalyxOS",
+      "url": "https://en.wikipedia.org/wiki/CalyxOS"
+    },
+    {
+      "title": "CarPlay",
+      "url": "https://en.wikipedia.org/wiki/CarPlay"
+    },
+    {
+      "title": "Cgroups",
+      "url": "https://en.wikipedia.org/wiki/Cgroups"
+    },
+    {
+      "title": "Cherry OS (operating system)",
+      "url": "https://en.wikipedia.org/wiki/Cherry_OS_%28operating_system%29"
+    },
+    {
+      "title": "Chevrolet",
+      "url": "https://en.wikipedia.org/wiki/Chevrolet"
+    },
+    {
+      "title": "Chris Wright (programmer)",
+      "url": "https://en.wikipedia.org/wiki/Chris_Wright_%28programmer%29"
+    },
+    {
+      "title": "Chromecast",
+      "url": "https://en.wikipedia.org/wiki/Chromecast"
+    },
+    {
+      "title": "Chrysler",
+      "url": "https://en.wikipedia.org/wiki/Chrysler"
+    },
+    {
+      "title": "Clarion (company)",
+      "url": "https://en.wikipedia.org/wiki/Clarion_%28company%29"
+    },
+    {
+      "title": "ClockworkMod",
+      "url": "https://en.wikipedia.org/wiki/ClockworkMod"
+    },
+    {
+      "title": "Close (system call)",
+      "url": "https://en.wikipedia.org/wiki/Close_%28system_call%29"
+    },
+    {
+      "title": "ColorOS",
+      "url": "https://en.wikipedia.org/wiki/ColorOS"
+    },
+    {
+      "title": "Community of practice",
+      "url": "https://en.wikipedia.org/wiki/Community_of_practice"
+    },
+    {
+      "title": "CompTIA Linux+",
+      "url": "https://en.wikipedia.org/wiki/CompTIA_Linux%2B"
+    },
+    {
+      "title": "Comparison of Android Go products",
+      "url": "https://en.wikipedia.org/wiki/Comparison_of_Android_Go_products"
+    },
+    {
+      "title": "Comparison of Java and Android API",
+      "url": "https://en.wikipedia.org/wiki/Comparison_of_Java_and_Android_API"
+    },
+    {
+      "title": "Comparison of Linux distributions",
+      "url": "https://en.wikipedia.org/wiki/Comparison_of_Linux_distributions"
+    },
+    {
+      "title": "Comparison of netbook-oriented Linux distributions",
+      "url": "https://en.wikipedia.org/wiki/Comparison_of_netbook-oriented_Linux_distributions"
+    },
+    {
+      "title": "Comparison of open-source wireless drivers",
+      "url": "https://en.wikipedia.org/wiki/Comparison_of_open-source_wireless_drivers"
+    },
+    {
+      "title": "Completely Fair Scheduler",
+      "url": "https://en.wikipedia.org/wiki/Completely_Fair_Scheduler"
+    },
+    {
+      "title": "Compute Node Linux",
+      "url": "https://en.wikipedia.org/wiki/Compute_Node_Linux"
+    },
+    {
+      "title": "Con Kolivas",
+      "url": "https://en.wikipedia.org/wiki/Con_Kolivas"
+    },
+    {
+      "title": "Configfs",
+      "url": "https://en.wikipedia.org/wiki/Configfs"
+    },
+    {
+      "title": "Consumer Electronics Show",
+      "url": "https://en.wikipedia.org/wiki/Consumer_Electronics_Show"
+    },
+    {
+      "title": "Cooperative Linux",
+      "url": "https://en.wikipedia.org/wiki/Cooperative_Linux"
+    },
+    {
+      "title": "CopperheadOS",
+      "url": "https://en.wikipedia.org/wiki/CopperheadOS"
+    },
+    {
+      "title": "CrDroid",
+      "url": "https://en.wikipedia.org/wiki/CrDroid"
+    },
+    {
+      "title": "Criticism of Linux",
+      "url": "https://en.wikipedia.org/wiki/Criticism_of_Linux"
+    },
+    {
+      "title": "Crypto API (Linux)",
+      "url": "https://en.wikipedia.org/wiki/Crypto_API_%28Linux%29"
+    },
+    {
+      "title": "CyanogenMod",
+      "url": "https://en.wikipedia.org/wiki/CyanogenMod"
+    },
+    {
+      "title": "Daemon (computing)",
+      "url": "https://en.wikipedia.org/wiki/Daemon_%28computing%29"
+    },
+    {
+      "title": "Dalvik (software)",
+      "url": "https://en.wikipedia.org/wiki/Dalvik_%28software%29"
+    },
+    {
+      "title": "Database",
+      "url": "https://en.wikipedia.org/wiki/Database"
+    },
+    {
+      "title": "David S. Miller",
+      "url": "https://en.wikipedia.org/wiki/David_S._Miller"
+    },
+    {
+      "title": "Debugfs",
+      "url": "https://en.wikipedia.org/wiki/Debugfs"
+    },
+    {
+      "title": "Delphi Automotive",
+      "url": "https://en.wikipedia.org/wiki/Delphi_Automotive"
+    },
+    {
+      "title": "Devfs",
+      "url": "https://en.wikipedia.org/wiki/Devfs"
+    },
+    {
+      "title": "Device driver",
+      "url": "https://en.wikipedia.org/wiki/Device_driver"
+    },
+    {
+      "title": "Device mapper",
+      "url": "https://en.wikipedia.org/wiki/Device_mapper"
+    },
+    {
+      "title": "Devpts",
+      "url": "https://en.wikipedia.org/wiki/Devpts"
+    },
+    {
+      "title": "Dietlibc",
+      "url": "https://en.wikipedia.org/wiki/Dietlibc"
+    },
+    {
+      "title": "Direct Rendering Manager",
+      "url": "https://en.wikipedia.org/wiki/Direct_Rendering_Manager"
+    },
+    {
+      "title": "DistroWatch",
+      "url": "https://en.wikipedia.org/wiki/DistroWatch"
+    },
+    {
+      "title": "DivestOS",
+      "url": "https://en.wikipedia.org/wiki/DivestOS"
+    },
+    {
+      "title": "Dm-cache",
+      "url": "https://en.wikipedia.org/wiki/Dm-cache"
+    },
+    {
+      "title": "Dm-crypt",
+      "url": "https://en.wikipedia.org/wiki/Dm-crypt"
+    },
+    {
+      "title": "Dnotify",
+      "url": "https://en.wikipedia.org/wiki/Dnotify"
+    },
+    {
+      "title": "Dodge",
+      "url": "https://en.wikipedia.org/wiki/Dodge"
+    },
+    {
+      "title": "Dracut (software)",
+      "url": "https://en.wikipedia.org/wiki/Dracut_%28software%29"
+    },
+    {
+      "title": "Droid (typeface)",
+      "url": "https://en.wikipedia.org/wiki/Droid_%28typeface%29"
+    },
+    {
+      "title": "EBPF",
+      "url": "https://en.wikipedia.org/wiki/EBPF"
+    },
+    {
+      "title": "EDAC (Linux)",
+      "url": "https://en.wikipedia.org/wiki/EDAC_%28Linux%29"
+    },
+    {
+      "title": "EMUI",
+      "url": "https://en.wikipedia.org/wiki/EMUI"
+    },
+    {
+      "title": "Earliest eligible virtual deadline first scheduling",
+      "url": "https://en.wikipedia.org/wiki/Earliest_eligible_virtual_deadline_first_scheduling"
+    },
+    {
+      "title": "Eclipse (software)",
+      "url": "https://en.wikipedia.org/wiki/Eclipse_%28software%29"
+    },
+    {
+      "title": "Embedded GLIBC",
+      "url": "https://en.wikipedia.org/wiki/Embedded_GLIBC"
+    },
+    {
+      "title": "Epoll",
+      "url": "https://en.wikipedia.org/wiki/Epoll"
+    },
+    {
+      "title": "Evdev",
+      "url": "https://en.wikipedia.org/wiki/Evdev"
+    },
+    {
+      "title": "Exec Shield",
+      "url": "https://en.wikipedia.org/wiki/Exec_Shield"
+    },
+    {
+      "title": "Fastboot",
+      "url": "https://en.wikipedia.org/wiki/Fastboot"
+    },
+    {
+      "title": "Fiat",
+      "url": "https://en.wikipedia.org/wiki/Fiat"
+    },
+    {
+      "title": "Filesystem in Userspace",
+      "url": "https://en.wikipedia.org/wiki/Filesystem_in_Userspace"
+    },
+    {
+      "title": "Fire OS",
+      "url": "https://en.wikipedia.org/wiki/Fire_OS"
+    },
+    {
+      "title": "Firebase",
+      "url": "https://en.wikipedia.org/wiki/Firebase"
+    },
+    {
+      "title": "Firebase Cloud Messaging",
+      "url": "https://en.wikipedia.org/wiki/Firebase_Cloud_Messaging"
+    },
+    {
+      "title": "Font",
+      "url": "https://en.wikipedia.org/wiki/Font"
+    },
+    {
+      "title": "Ford Motor Company",
+      "url": "https://en.wikipedia.org/wiki/Ford_Motor_Company"
+    },
+    {
+      "title": "Ford Sync",
+      "url": "https://en.wikipedia.org/wiki/Ford_Sync"
+    },
+    {
+      "title": "Free Software Magazine",
+      "url": "https://en.wikipedia.org/wiki/Free_Software_Magazine"
+    },
+    {
+      "title": "Free and open-source graphics device driver",
+      "url": "https://en.wikipedia.org/wiki/Free_and_open-source_graphics_device_driver"
+    },
+    {
+      "title": "Freescale Semiconductor",
+      "url": "https://en.wikipedia.org/wiki/Freescale_Semiconductor"
+    },
+    {
+      "title": "Ftrace",
+      "url": "https://en.wikipedia.org/wiki/Ftrace"
+    },
+    {
+      "title": "Fujitsu Ten",
+      "url": "https://en.wikipedia.org/wiki/Fujitsu_Ten"
+    },
+    {
+      "title": "Full Circle (magazine)",
+      "url": "https://en.wikipedia.org/wiki/Full_Circle_%28magazine%29"
+    },
+    {
+      "title": "Funtouch OS",
+      "url": "https://en.wikipedia.org/wiki/Funtouch_OS"
+    },
+    {
+      "title": "Futex",
+      "url": "https://en.wikipedia.org/wiki/Futex"
+    },
+    {
+      "title": "GNU/Linux naming controversy",
+      "url": "https://en.wikipedia.org/wiki/GNU%2FLinux_naming_controversy"
+    },
+    {
+      "title": "GNU General Public License",
+      "url": "https://en.wikipedia.org/wiki/GNU_General_Public_License"
+    },
+    {
+      "title": "GSON",
+      "url": "https://en.wikipedia.org/wiki/GSON"
+    },
+    {
+      "title": "Galaxy Nexus",
+      "url": "https://en.wikipedia.org/wiki/Galaxy_Nexus"
+    },
+    {
+      "title": "General Motors",
+      "url": "https://en.wikipedia.org/wiki/General_Motors"
+    },
+    {
+      "title": "Glibc",
+      "url": "https://en.wikipedia.org/wiki/Glibc"
+    },
+    {
+      "title": "Google",
+      "url": "https://en.wikipedia.org/wiki/Google"
+    },
+    {
+      "title": "Google App Runtime for Chrome",
+      "url": "https://en.wikipedia.org/wiki/Google_App_Runtime_for_Chrome"
+    },
+    {
+      "title": "Google Cardboard",
+      "url": "https://en.wikipedia.org/wiki/Google_Cardboard"
+    },
+    {
+      "title": "Google Cloud Messaging",
+      "url": "https://en.wikipedia.org/wiki/Google_Cloud_Messaging"
+    },
+    {
+      "title": "Google Daydream",
+      "url": "https://en.wikipedia.org/wiki/Google_Daydream"
+    },
+    {
+      "title": "Google Developers",
+      "url": "https://en.wikipedia.org/wiki/Google_Developers"
+    },
+    {
+      "title": "Google I/O",
+      "url": "https://en.wikipedia.org/wiki/Google_I%2FO"
+    },
+    {
+      "title": "Google LLC v. Oracle America, Inc.",
+      "url": "https://en.wikipedia.org/wiki/Google_LLC_v._Oracle_America%2C_Inc."
+    },
+    {
+      "title": "Google Maps",
+      "url": "https://en.wikipedia.org/wiki/Google_Maps"
+    },
+    {
+      "title": "Google Mobile Services",
+      "url": "https://en.wikipedia.org/wiki/Google_Mobile_Services"
+    },
+    {
+      "title": "Google Nexus",
+      "url": "https://en.wikipedia.org/wiki/Google_Nexus"
+    },
+    {
+      "title": "Google Pixel",
+      "url": "https://en.wikipedia.org/wiki/Google_Pixel"
+    },
+    {
+      "title": "Google Play Services",
+      "url": "https://en.wikipedia.org/wiki/Google_Play_Services"
+    },
+    {
+      "title": "Google Sans",
+      "url": "https://en.wikipedia.org/wiki/Google_Sans"
+    },
+    {
+      "title": "Google Search",
+      "url": "https://en.wikipedia.org/wiki/Google_Search"
+    },
+    {
+      "title": "Gradle",
+      "url": "https://en.wikipedia.org/wiki/Gradle"
+    },
+    {
+      "title": "GrapheneOS",
+      "url": "https://en.wikipedia.org/wiki/GrapheneOS"
+    },
+    {
+      "title": "Greg Kroah-Hartman",
+      "url": "https://en.wikipedia.org/wiki/Greg_Kroah-Hartman"
+    },
+    {
+      "title": "H. Peter Anvin",
+      "url": "https://en.wikipedia.org/wiki/H._Peter_Anvin"
+    },
+    {
+      "title": "HTC One (M7)",
+      "url": "https://en.wikipedia.org/wiki/HTC_One_%28M7%29"
+    },
+    {
+      "title": "HTC One (M8)",
+      "url": "https://en.wikipedia.org/wiki/HTC_One_%28M8%29"
+    },
+    {
+      "title": "HTC Sense",
+      "url": "https://en.wikipedia.org/wiki/HTC_Sense"
+    },
+    {
+      "title": "Hans Reiser",
+      "url": "https://en.wikipedia.org/wiki/Hans_Reiser"
+    },
+    {
+      "title": "Harald Welte",
+      "url": "https://en.wikipedia.org/wiki/Harald_Welte"
+    },
+    {
+      "title": "Harman International Industries",
+      "url": "https://en.wikipedia.org/wiki/Harman_International_Industries"
+    },
+    {
+      "title": "HiOS",
+      "url": "https://en.wikipedia.org/wiki/HiOS"
+    },
+    {
+      "title": "High-performance computing",
+      "url": "https://en.wikipedia.org/wiki/High-performance_computing"
+    },
+    {
+      "title": "History of Linux",
+      "url": "https://en.wikipedia.org/wiki/History_of_Linux"
+    },
+    {
+      "title": "Hive UI",
+      "url": "https://en.wikipedia.org/wiki/Hive_UI"
+    },
+    {
+      "title": "Honda",
+      "url": "https://en.wikipedia.org/wiki/Honda"
+    },
+    {
+      "title": "Hypervisor",
+      "url": "https://en.wikipedia.org/wiki/Hypervisor"
+    },
+    {
+      "title": "Hyundai Motor Company",
+      "url": "https://en.wikipedia.org/wiki/Hyundai_Motor_Company"
+    },
+    {
+      "title": "IIO Framework",
+      "url": "https://en.wikipedia.org/wiki/IIO_Framework"
+    },
+    {
+      "title": "INK (operating system)",
+      "url": "https://en.wikipedia.org/wiki/INK_%28operating_system%29"
+    },
+    {
+      "title": "Index of Android OS articles",
+      "url": "https://en.wikipedia.org/wiki/Index_of_Android_OS_articles"
+    },
+    {
+      "title": "Infiniti",
+      "url": "https://en.wikipedia.org/wiki/Infiniti"
+    },
+    {
+      "title": "Ingo Molnár",
+      "url": "https://en.wikipedia.org/wiki/Ingo_Moln%C3%A1r"
+    },
+    {
+      "title": "Initramfs",
+      "url": "https://en.wikipedia.org/wiki/Initramfs"
+    },
+    {
+      "title": "Initrd",
+      "url": "https://en.wikipedia.org/wiki/Initrd"
+    },
+    {
+      "title": "Inotify",
+      "url": "https://en.wikipedia.org/wiki/Inotify"
+    },
+    {
+      "title": "Integrated development environment",
+      "url": "https://en.wikipedia.org/wiki/Integrated_development_environment"
+    },
+    {
+      "title": "IntelliJ IDEA",
+      "url": "https://en.wikipedia.org/wiki/IntelliJ_IDEA"
+    },
+    {
+      "title": "Io uring",
+      "url": "https://en.wikipedia.org/wiki/Io_uring"
+    },
+    {
+      "title": "Ioctl",
+      "url": "https://en.wikipedia.org/wiki/Ioctl"
+    },
+    {
+      "title": "IodéOS",
+      "url": "https://en.wikipedia.org/wiki/Iod%C3%A9OS"
+    },
+    {
+      "title": "JVC Kenwood",
+      "url": "https://en.wikipedia.org/wiki/JVC_Kenwood"
+    },
+    {
+      "title": "Java (programming language)",
+      "url": "https://en.wikipedia.org/wiki/Java_%28programming_language%29"
+    },
+    {
+      "title": "Jeep",
+      "url": "https://en.wikipedia.org/wiki/Jeep"
+    },
+    {
+      "title": "Jens Axboe",
+      "url": "https://en.wikipedia.org/wiki/Jens_Axboe"
+    },
+    {
+      "title": "Jetpack Compose",
+      "url": "https://en.wikipedia.org/wiki/Jetpack_Compose"
+    },
+    {
+      "title": "KGraft",
+      "url": "https://en.wikipedia.org/wiki/KGraft"
+    },
+    {
+      "title": "KML",
+      "url": "https://en.wikipedia.org/wiki/KML"
+    },
+    {
+      "title": "KMS driver",
+      "url": "https://en.wikipedia.org/wiki/KMS_driver"
+    },
+    {
+      "title": "Kali NetHunter",
+      "url": "https://en.wikipedia.org/wiki/Kali_NetHunter"
+    },
+    {
+      "title": "Kdump (Linux)",
+      "url": "https://en.wikipedia.org/wiki/Kdump_%28Linux%29"
+    },
+    {
+      "title": "Kernel-based Virtual Machine",
+      "url": "https://en.wikipedia.org/wiki/Kernel-based_Virtual_Machine"
+    },
+    {
+      "title": "Kernel.org",
+      "url": "https://en.wikipedia.org/wiki/Kernel.org"
+    },
+    {
+      "title": "KernelCare",
+      "url": "https://en.wikipedia.org/wiki/KernelCare"
+    },
+    {
+      "title": "Kernel Assisted Superuser",
+      "url": "https://en.wikipedia.org/wiki/Kernel_Assisted_Superuser"
+    },
+    {
+      "title": "Kernel same-page merging",
+      "url": "https://en.wikipedia.org/wiki/Kernel_same-page_merging"
+    },
+    {
+      "title": "Kernfs (Linux)",
+      "url": "https://en.wikipedia.org/wiki/Kernfs_%28Linux%29"
+    },
+    {
+      "title": "Kexec",
+      "url": "https://en.wikipedia.org/wiki/Kexec"
+    },
+    {
+      "title": "Kia Motors",
+      "url": "https://en.wikipedia.org/wiki/Kia_Motors"
+    },
+    {
+      "title": "Kingo Root",
+      "url": "https://en.wikipedia.org/wiki/Kingo_Root"
+    },
+    {
+      "title": "Klibc",
+      "url": "https://en.wikipedia.org/wiki/Klibc"
+    },
+    {
+      "title": "Kmscon",
+      "url": "https://en.wikipedia.org/wiki/Kmscon"
+    },
+    {
+      "title": "Kotlin",
+      "url": "https://en.wikipedia.org/wiki/Kotlin"
+    },
+    {
+      "title": "Kpatch",
+      "url": "https://en.wikipedia.org/wiki/Kpatch"
+    },
+    {
+      "title": "Ksplice",
+      "url": "https://en.wikipedia.org/wiki/Ksplice"
+    },
+    {
+      "title": "L4Linux",
+      "url": "https://en.wikipedia.org/wiki/L4Linux"
+    },
+    {
+      "title": "LAMP (software bundle)",
+      "url": "https://en.wikipedia.org/wiki/LAMP_%28software_bundle%29"
+    },
+    {
+      "title": "LG Corp",
+      "url": "https://en.wikipedia.org/wiki/LG_Corp"
+    },
+    {
+      "title": "LG G Pad 8.3",
+      "url": "https://en.wikipedia.org/wiki/LG_G_Pad_8.3"
+    },
+    {
+      "title": "LG UX",
+      "url": "https://en.wikipedia.org/wiki/LG_UX"
+    },
+    {
+      "title": "LIO (SCSI target)",
+      "url": "https://en.wikipedia.org/wiki/LIO_%28SCSI_target%29"
+    },
+    {
+      "title": "LWN.net",
+      "url": "https://en.wikipedia.org/wiki/LWN.net"
+    },
+    {
+      "title": "LXC",
+      "url": "https://en.wikipedia.org/wiki/LXC"
+    },
+    {
+      "title": "LYME (software bundle)",
+      "url": "https://en.wikipedia.org/wiki/LYME_%28software_bundle%29"
+    },
+    {
+      "title": "LeWa OS",
+      "url": "https://en.wikipedia.org/wiki/LeWa_OS"
+    },
+    {
+      "title": "Lguest",
+      "url": "https://en.wikipedia.org/wiki/Lguest"
+    },
+    {
+      "title": "Libhybris",
+      "url": "https://en.wikipedia.org/wiki/Libhybris"
+    },
+    {
+      "title": "Libusb",
+      "url": "https://en.wikipedia.org/wiki/Libusb"
+    },
+    {
+      "title": "Light-weight Linux distribution",
+      "url": "https://en.wikipedia.org/wiki/Light-weight_Linux_distribution"
+    },
+    {
+      "title": "Linaro",
+      "url": "https://en.wikipedia.org/wiki/Linaro"
+    },
+    {
+      "title": "LineageOS",
+      "url": "https://en.wikipedia.org/wiki/LineageOS"
+    },
+    {
+      "title": "Linus's law",
+      "url": "https://en.wikipedia.org/wiki/Linus%27s_law"
+    },
+    {
+      "title": "Linus Torvalds",
+      "url": "https://en.wikipedia.org/wiki/Linus_Torvalds"
+    },
+    {
+      "title": "Linux",
+      "url": "https://en.wikipedia.org/wiki/Linux"
+    },
+    {
+      "title": "Linux-VServer",
+      "url": "https://en.wikipedia.org/wiki/Linux-VServer"
+    },
+    {
+      "title": "Linux-libre",
+      "url": "https://en.wikipedia.org/wiki/Linux-libre"
+    },
+    {
+      "title": "Linux-powered device",
+      "url": "https://en.wikipedia.org/wiki/Linux-powered_device"
+    },
+    {
+      "title": "Linux.com",
+      "url": "https://en.wikipedia.org/wiki/Linux.com"
+    },
+    {
+      "title": "LinuxChix",
+      "url": "https://en.wikipedia.org/wiki/LinuxChix"
+    },
+    {
+      "title": "LinuxUser",
+      "url": "https://en.wikipedia.org/wiki/LinuxUser"
+    },
+    {
+      "title": "Linux Counter",
+      "url": "https://en.wikipedia.org/wiki/Linux_Counter"
+    },
+    {
+      "title": "Linux Documentation Project",
+      "url": "https://en.wikipedia.org/wiki/Linux_Documentation_Project"
+    },
+    {
+      "title": "Linux Format",
+      "url": "https://en.wikipedia.org/wiki/Linux_Format"
+    },
+    {
+      "title": "Linux Foundation",
+      "url": "https://en.wikipedia.org/wiki/Linux_Foundation"
+    },
+    {
+      "title": "Linux Foundation Linux Certification",
+      "url": "https://en.wikipedia.org/wiki/Linux_Foundation_Linux_Certification"
+    },
+    {
+      "title": "Linux Gazette",
+      "url": "https://en.wikipedia.org/wiki/Linux_Gazette"
+    },
+    {
+      "title": "Linux Journal",
+      "url": "https://en.wikipedia.org/wiki/Linux_Journal"
+    },
+    {
+      "title": "Linux Magazine",
+      "url": "https://en.wikipedia.org/wiki/Linux_Magazine"
+    },
+    {
+      "title": "Linux Mark Institute",
+      "url": "https://en.wikipedia.org/wiki/Linux_Mark_Institute"
+    },
+    {
+      "title": "Linux Outlaws",
+      "url": "https://en.wikipedia.org/wiki/Linux_Outlaws"
+    },
+    {
+      "title": "Linux PAM",
+      "url": "https://en.wikipedia.org/wiki/Linux_PAM"
+    },
+    {
+      "title": "Linux Security Modules",
+      "url": "https://en.wikipedia.org/wiki/Linux_Security_Modules"
+    },
+    {
+      "title": "Linux Standard Base",
+      "url": "https://en.wikipedia.org/wiki/Linux_Standard_Base"
+    },
+    {
+      "title": "Linux Terminal Server Project",
+      "url": "https://en.wikipedia.org/wiki/Linux_Terminal_Server_Project"
+    },
+    {
+      "title": "Linux Voice",
+      "url": "https://en.wikipedia.org/wiki/Linux_Voice"
+    },
+    {
+      "title": "Linux adoption",
+      "url": "https://en.wikipedia.org/wiki/Linux_adoption"
+    },
+    {
+      "title": "Linux conference",
+      "url": "https://en.wikipedia.org/wiki/Linux_conference"
+    },
+    {
+      "title": "Linux console",
+      "url": "https://en.wikipedia.org/wiki/Linux_console"
+    },
+    {
+      "title": "Linux desktop environments",
+      "url": "https://en.wikipedia.org/wiki/Linux_desktop_environments"
+    },
+    {
+      "title": "Linux distribution",
+      "url": "https://en.wikipedia.org/wiki/Linux_distribution"
+    },
+    {
+      "title": "Linux for mobile devices",
+      "url": "https://en.wikipedia.org/wiki/Linux_for_mobile_devices"
+    },
+    {
+      "title": "Linux framebuffer",
+      "url": "https://en.wikipedia.org/wiki/Linux_framebuffer"
+    },
+    {
+      "title": "Linux gaming",
+      "url": "https://en.wikipedia.org/wiki/Linux_gaming"
+    },
+    {
+      "title": "Linux kernel",
+      "url": "https://en.wikipedia.org/wiki/Linux_kernel"
+    },
+    {
+      "title": "Linux kernel interfaces",
+      "url": "https://en.wikipedia.org/wiki/Linux_kernel_interfaces"
+    },
+    {
+      "title": "Linux kernel mailing list",
+      "url": "https://en.wikipedia.org/wiki/Linux_kernel_mailing_list"
+    },
+    {
+      "title": "Linux kernel oops",
+      "url": "https://en.wikipedia.org/wiki/Linux_kernel_oops"
+    },
+    {
+      "title": "Linux kernel version history",
+      "url": "https://en.wikipedia.org/wiki/Linux_kernel_version_history"
+    },
+    {
+      "title": "Linux malware",
+      "url": "https://en.wikipedia.org/wiki/Linux_malware"
+    },
+    {
+      "title": "Linux on embedded systems",
+      "url": "https://en.wikipedia.org/wiki/Linux_on_embedded_systems"
+    },
+    {
+      "title": "Linux range of use",
+      "url": "https://en.wikipedia.org/wiki/Linux_range_of_use"
+    },
+    {
+      "title": "Linux user group",
+      "url": "https://en.wikipedia.org/wiki/Linux_user_group"
+    },
+    {
+      "title": "List of Android TV devices",
+      "url": "https://en.wikipedia.org/wiki/List_of_Android_TV_devices"
+    },
+    {
+      "title": "List of Android app stores",
+      "url": "https://en.wikipedia.org/wiki/List_of_Android_app_stores"
+    },
+    {
+      "title": "List of Android apps by Google",
+      "url": "https://en.wikipedia.org/wiki/List_of_Android_apps_by_Google"
+    },
+    {
+      "title": "List of Android launchers",
+      "url": "https://en.wikipedia.org/wiki/List_of_Android_launchers"
+    },
+    {
+      "title": "List of Android smartphones",
+      "url": "https://en.wikipedia.org/wiki/List_of_Android_smartphones"
+    },
+    {
+      "title": "List of Google Play edition devices",
+      "url": "https://en.wikipedia.org/wiki/List_of_Google_Play_edition_devices"
+    },
+    {
+      "title": "List of Linux-supported computer architectures",
+      "url": "https://en.wikipedia.org/wiki/List_of_Linux-supported_computer_architectures"
+    },
+    {
+      "title": "List of Linux adopters",
+      "url": "https://en.wikipedia.org/wiki/List_of_Linux_adopters"
+    },
+    {
+      "title": "List of Linux distributions",
+      "url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions"
+    },
+    {
+      "title": "List of Linux distributions that run from RAM",
+      "url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions_that_run_from_RAM"
+    },
+    {
+      "title": "List of computer security certifications",
+      "url": "https://en.wikipedia.org/wiki/List_of_computer_security_certifications"
+    },
+    {
+      "title": "List of custom Android distributions",
+      "url": "https://en.wikipedia.org/wiki/List_of_custom_Android_distributions"
+    },
+    {
+      "title": "List of features in Android",
+      "url": "https://en.wikipedia.org/wiki/List_of_features_in_Android"
+    },
+    {
+      "title": "List of free and open-source Android applications",
+      "url": "https://en.wikipedia.org/wiki/List_of_free_and_open-source_Android_applications"
+    },
+    {
+      "title": "List of software package management systems",
+      "url": "https://en.wikipedia.org/wiki/List_of_software_package_management_systems"
+    },
+    {
+      "title": "LiteOS",
+      "url": "https://en.wikipedia.org/wiki/LiteOS"
+    },
+    {
+      "title": "Loadable kernel module",
+      "url": "https://en.wikipedia.org/wiki/Loadable_kernel_module"
+    },
+    {
+      "title": "Logical Volume Manager (Linux)",
+      "url": "https://en.wikipedia.org/wiki/Logical_Volume_Manager_%28Linux%29"
+    },
+    {
+      "title": "LugRadio",
+      "url": "https://en.wikipedia.org/wiki/LugRadio"
+    },
+    {
+      "title": "MIT App Inventor",
+      "url": "https://en.wikipedia.org/wiki/MIT_App_Inventor"
+    },
+    {
+      "title": "MIUI",
+      "url": "https://en.wikipedia.org/wiki/MIUI"
+    },
+    {
+      "title": "MagicOS",
+      "url": "https://en.wikipedia.org/wiki/MagicOS"
+    },
+    {
+      "title": "Magisk (software)",
+      "url": "https://en.wikipedia.org/wiki/Magisk_%28software%29"
+    },
+    {
+      "title": "Mahindra & Mahindra",
+      "url": "https://en.wikipedia.org/wiki/Mahindra_%26_Mahindra"
+    },
+    {
+      "title": "Mainline Linux",
+      "url": "https://en.wikipedia.org/wiki/Mainline_Linux"
+    },
+    {
+      "title": "Maserati",
+      "url": "https://en.wikipedia.org/wiki/Maserati"
+    },
+    {
+      "title": "Material Design",
+      "url": "https://en.wikipedia.org/wiki/Material_Design"
+    },
+    {
+      "title": "Matthew Garrett",
+      "url": "https://en.wikipedia.org/wiki/Matthew_Garrett"
+    },
+    {
+      "title": "Mazda",
+      "url": "https://en.wikipedia.org/wiki/Mazda"
+    },
+    {
+      "title": "Meizu",
+      "url": "https://en.wikipedia.org/wiki/Meizu"
+    },
+    {
+      "title": "Memory barrier",
+      "url": "https://en.wikipedia.org/wiki/Memory_barrier"
+    },
+    {
+      "title": "Memory management unit",
+      "url": "https://en.wikipedia.org/wiki/Memory_management_unit"
+    },
+    {
+      "title": "Menuconfig",
+      "url": "https://en.wikipedia.org/wiki/Menuconfig"
+    },
+    {
+      "title": "Mercedes-Benz",
+      "url": "https://en.wikipedia.org/wiki/Mercedes-Benz"
+    },
+    {
+      "title": "Meta Horizon OS",
+      "url": "https://en.wikipedia.org/wiki/Meta_Horizon_OS"
+    },
+    {
+      "title": "Mitsubishi",
+      "url": "https://en.wikipedia.org/wiki/Mitsubishi"
+    },
+    {
+      "title": "MkLinux",
+      "url": "https://en.wikipedia.org/wiki/MkLinux"
+    },
+    {
+      "title": "Moshe Bar (investor)",
+      "url": "https://en.wikipedia.org/wiki/Moshe_Bar_%28investor%29"
+    },
+    {
+      "title": "Moto G (1st generation)",
+      "url": "https://en.wikipedia.org/wiki/Moto_G_%281st_generation%29"
+    },
+    {
+      "title": "Motoblur",
+      "url": "https://en.wikipedia.org/wiki/Motoblur"
+    },
+    {
+      "title": "Musl",
+      "url": "https://en.wikipedia.org/wiki/Musl"
+    },
+    {
+      "title": "NNG (company)",
+      "url": "https://en.wikipedia.org/wiki/NNG_%28company%29"
+    },
+    {
+      "title": "Netfilter",
+      "url": "https://en.wikipedia.org/wiki/Netfilter"
+    },
+    {
+      "title": "Netlink",
+      "url": "https://en.wikipedia.org/wiki/Netlink"
+    },
+    {
+      "title": "Network scheduler",
+      "url": "https://en.wikipedia.org/wiki/Network_scheduler"
+    },
+    {
+      "title": "New API",
+      "url": "https://en.wikipedia.org/wiki/New_API"
+    },
+    {
+      "title": "Newlib",
+      "url": "https://en.wikipedia.org/wiki/Newlib"
+    },
+    {
+      "title": "Nexus 10",
+      "url": "https://en.wikipedia.org/wiki/Nexus_10"
+    },
+    {
+      "title": "Nexus 4",
+      "url": "https://en.wikipedia.org/wiki/Nexus_4"
+    },
+    {
+      "title": "Nexus 5",
+      "url": "https://en.wikipedia.org/wiki/Nexus_5"
+    },
+    {
+      "title": "Nexus 5X",
+      "url": "https://en.wikipedia.org/wiki/Nexus_5X"
+    },
+    {
+      "title": "Nexus 6",
+      "url": "https://en.wikipedia.org/wiki/Nexus_6"
+    },
+    {
+      "title": "Nexus 6P",
+      "url": "https://en.wikipedia.org/wiki/Nexus_6P"
+    },
+    {
+      "title": "Nexus 7 (2012)",
+      "url": "https://en.wikipedia.org/wiki/Nexus_7_%282012%29"
+    },
+    {
+      "title": "Nexus 7 (2013)",
+      "url": "https://en.wikipedia.org/wiki/Nexus_7_%282013%29"
+    },
+    {
+      "title": "Nexus 9",
+      "url": "https://en.wikipedia.org/wiki/Nexus_9"
+    },
+    {
+      "title": "Nexus One",
+      "url": "https://en.wikipedia.org/wiki/Nexus_One"
+    },
+    {
+      "title": "Nexus Player",
+      "url": "https://en.wikipedia.org/wiki/Nexus_Player"
+    },
+    {
+      "title": "Nexus Q",
+      "url": "https://en.wikipedia.org/wiki/Nexus_Q"
+    },
+    {
+      "title": "Nexus S",
+      "url": "https://en.wikipedia.org/wiki/Nexus_S"
+    },
+    {
+      "title": "Nftables",
+      "url": "https://en.wikipedia.org/wiki/Nftables"
+    },
+    {
+      "title": "Nissan",
+      "url": "https://en.wikipedia.org/wiki/Nissan"
+    },
+    {
+      "title": "Nokia X family",
+      "url": "https://en.wikipedia.org/wiki/Nokia_X_family"
+    },
+    {
+      "title": "Noop scheduler",
+      "url": "https://en.wikipedia.org/wiki/Noop_scheduler"
+    },
+    {
+      "title": "Nothing OS",
+      "url": "https://en.wikipedia.org/wiki/Nothing_OS"
+    },
+    {
+      "title": "Noto fonts",
+      "url": "https://en.wikipedia.org/wiki/Noto_fonts"
+    },
+    {
+      "title": "Nvidia",
+      "url": "https://en.wikipedia.org/wiki/Nvidia"
+    },
+    {
+      "title": "O(1) scheduler",
+      "url": "https://en.wikipedia.org/wiki/O%281%29_scheduler"
+    },
+    {
+      "title": "O(n) scheduler",
+      "url": "https://en.wikipedia.org/wiki/O%28n%29_scheduler"
+    },
+    {
+      "title": "OPhone",
+      "url": "https://en.wikipedia.org/wiki/OPhone"
+    },
+    {
+      "title": "OS-level virtualization",
+      "url": "https://en.wikipedia.org/wiki/OS-level_virtualization"
+    },
+    {
+      "title": "OmniROM",
+      "url": "https://en.wikipedia.org/wiki/OmniROM"
+    },
+    {
+      "title": "One UI",
+      "url": "https://en.wikipedia.org/wiki/One_UI"
+    },
+    {
+      "title": "Opel",
+      "url": "https://en.wikipedia.org/wiki/Opel"
+    },
+    {
+      "title": "OpenBinder",
+      "url": "https://en.wikipedia.org/wiki/OpenBinder"
+    },
+    {
+      "title": "OpenJDK",
+      "url": "https://en.wikipedia.org/wiki/OpenJDK"
+    },
+    {
+      "title": "OpenVZ",
+      "url": "https://en.wikipedia.org/wiki/OpenVZ"
+    },
+    {
+      "title": "Open (system call)",
+      "url": "https://en.wikipedia.org/wiki/Open_%28system_call%29"
+    },
+    {
+      "title": "Open Handset Alliance",
+      "url": "https://en.wikipedia.org/wiki/Open_Handset_Alliance"
+    },
+    {
+      "title": "Optimus UI",
+      "url": "https://en.wikipedia.org/wiki/Optimus_UI"
+    },
+    {
+      "title": "Origin OS",
+      "url": "https://en.wikipedia.org/wiki/Origin_OS"
+    },
+    {
+      "title": "OxygenOS",
+      "url": "https://en.wikipedia.org/wiki/OxygenOS"
+    },
+    {
+      "title": "POSIX",
+      "url": "https://en.wikipedia.org/wiki/POSIX"
+    },
+    {
+      "title": "PREEMPT RT",
+      "url": "https://en.wikipedia.org/wiki/PREEMPT_RT"
+    },
+    {
+      "title": "PSXLinux",
+      "url": "https://en.wikipedia.org/wiki/PSXLinux"
+    },
+    {
+      "title": "Package format",
+      "url": "https://en.wikipedia.org/wiki/Package_format"
+    },
+    {
+      "title": "Package manager",
+      "url": "https://en.wikipedia.org/wiki/Package_manager"
+    },
+    {
+      "title": "Panasonic",
+      "url": "https://en.wikipedia.org/wiki/Panasonic"
+    },
+    {
+      "title": "Parrot Automotive",
+      "url": "https://en.wikipedia.org/wiki/Parrot_Automotive"
+    },
+    {
+      "title": "Perf (Linux)",
+      "url": "https://en.wikipedia.org/wiki/Perf_%28Linux%29"
+    },
+    {
+      "title": "Phoronix Test Suite",
+      "url": "https://en.wikipedia.org/wiki/Phoronix_Test_Suite"
+    },
+    {
+      "title": "Pioneer Corporation",
+      "url": "https://en.wikipedia.org/wiki/Pioneer_Corporation"
+    },
+    {
+      "title": "PixelExperience",
+      "url": "https://en.wikipedia.org/wiki/PixelExperience"
+    },
+    {
+      "title": "Pixel (1st generation)",
+      "url": "https://en.wikipedia.org/wiki/Pixel_%281st_generation%29"
+    },
+    {
+      "title": "Pixel 10",
+      "url": "https://en.wikipedia.org/wiki/Pixel_10"
+    },
+    {
+      "title": "Pixel 10 Pro",
+      "url": "https://en.wikipedia.org/wiki/Pixel_10_Pro"
+    },
+    {
+      "title": "Pixel 10 Pro Fold",
+      "url": "https://en.wikipedia.org/wiki/Pixel_10_Pro_Fold"
+    },
+    {
+      "title": "Pixel 10a",
+      "url": "https://en.wikipedia.org/wiki/Pixel_10a"
+    },
+    {
+      "title": "Pixel 11",
+      "url": "https://en.wikipedia.org/wiki/Pixel_11"
+    },
+    {
+      "title": "Pixel 11 Pro",
+      "url": "https://en.wikipedia.org/wiki/Pixel_11_Pro"
+    },
+    {
+      "title": "Pixel 11 Pro Fold",
+      "url": "https://en.wikipedia.org/wiki/Pixel_11_Pro_Fold"
+    },
+    {
+      "title": "Pixel 2",
+      "url": "https://en.wikipedia.org/wiki/Pixel_2"
+    },
+    {
+      "title": "Pixel 3",
+      "url": "https://en.wikipedia.org/wiki/Pixel_3"
+    },
+    {
+      "title": "Pixel 3a",
+      "url": "https://en.wikipedia.org/wiki/Pixel_3a"
+    },
+    {
+      "title": "Pixel 4",
+      "url": "https://en.wikipedia.org/wiki/Pixel_4"
+    },
+    {
+      "title": "Pixel 4a",
+      "url": "https://en.wikipedia.org/wiki/Pixel_4a"
+    },
+    {
+      "title": "Pixel 5",
+      "url": "https://en.wikipedia.org/wiki/Pixel_5"
+    },
+    {
+      "title": "Pixel 5a",
+      "url": "https://en.wikipedia.org/wiki/Pixel_5a"
+    },
+    {
+      "title": "Pixel 6",
+      "url": "https://en.wikipedia.org/wiki/Pixel_6"
+    },
+    {
+      "title": "Pixel 6a",
+      "url": "https://en.wikipedia.org/wiki/Pixel_6a"
+    },
+    {
+      "title": "Pixel 7",
+      "url": "https://en.wikipedia.org/wiki/Pixel_7"
+    },
+    {
+      "title": "Pixel 7a",
+      "url": "https://en.wikipedia.org/wiki/Pixel_7a"
+    },
+    {
+      "title": "Pixel 8",
+      "url": "https://en.wikipedia.org/wiki/Pixel_8"
+    },
+    {
+      "title": "Pixel 8a",
+      "url": "https://en.wikipedia.org/wiki/Pixel_8a"
+    },
+    {
+      "title": "Pixel 9",
+      "url": "https://en.wikipedia.org/wiki/Pixel_9"
+    },
+    {
+      "title": "Pixel 9 Pro Fold",
+      "url": "https://en.wikipedia.org/wiki/Pixel_9_Pro_Fold"
+    },
+    {
+      "title": "Pixel 9a",
+      "url": "https://en.wikipedia.org/wiki/Pixel_9a"
+    },
+    {
+      "title": "Pixel C",
+      "url": "https://en.wikipedia.org/wiki/Pixel_C"
+    },
+    {
+      "title": "Pixel Fold",
+      "url": "https://en.wikipedia.org/wiki/Pixel_Fold"
+    },
+    {
+      "title": "Pixel Tablet",
+      "url": "https://en.wikipedia.org/wiki/Pixel_Tablet"
+    },
+    {
+      "title": "Play Integrity API",
+      "url": "https://en.wikipedia.org/wiki/Play_Integrity_API"
+    },
+    {
+      "title": "Procfs",
+      "url": "https://en.wikipedia.org/wiki/Procfs"
+    },
+    {
+      "title": "Programming language",
+      "url": "https://en.wikipedia.org/wiki/Programming_language"
+    },
+    {
+      "title": "Programming tool",
+      "url": "https://en.wikipedia.org/wiki/Programming_tool"
+    },
+    {
+      "title": "QNX",
+      "url": "https://en.wikipedia.org/wiki/QNX"
+    },
+    {
+      "title": "RTAI",
+      "url": "https://en.wikipedia.org/wiki/RTAI"
+    },
+    {
+      "title": "RTLinux",
+      "url": "https://en.wikipedia.org/wiki/RTLinux"
+    },
+    {
+      "title": "Ram Trucks",
+      "url": "https://en.wikipedia.org/wiki/Ram_Trucks"
+    },
+    {
+      "title": "Raw device",
+      "url": "https://en.wikipedia.org/wiki/Raw_device"
+    },
+    {
+      "title": "Read-copy-update",
+      "url": "https://en.wikipedia.org/wiki/Read-copy-update"
+    },
+    {
+      "title": "Read (system call)",
+      "url": "https://en.wikipedia.org/wiki/Read_%28system_call%29"
+    },
+    {
+      "title": "Readahead",
+      "url": "https://en.wikipedia.org/wiki/Readahead"
+    },
+    {
+      "title": "Real-time computing",
+      "url": "https://en.wikipedia.org/wiki/Real-time_computing"
+    },
+    {
+      "title": "Realme UI",
+      "url": "https://en.wikipedia.org/wiki/Realme_UI"
+    },
+    {
+      "title": "Red Hat Certification Program",
+      "url": "https://en.wikipedia.org/wiki/Red_Hat_Certification_Program"
+    },
+    {
+      "title": "Remix OS",
+      "url": "https://en.wikipedia.org/wiki/Remix_OS"
+    },
+    {
+      "title": "Renault",
+      "url": "https://en.wikipedia.org/wiki/Renault"
+    },
+    {
+      "title": "RenderScript",
+      "url": "https://en.wikipedia.org/wiki/RenderScript"
+    },
+    {
+      "title": "Renesas Electronics",
+      "url": "https://en.wikipedia.org/wiki/Renesas_Electronics"
+    },
+    {
+      "title": "Replicant (operating system)",
+      "url": "https://en.wikipedia.org/wiki/Replicant_%28operating_system%29"
+    },
+    {
+      "title": "Resurrection Remix OS",
+      "url": "https://en.wikipedia.org/wiki/Resurrection_Remix_OS"
+    },
+    {
+      "title": "Revolution OS",
+      "url": "https://en.wikipedia.org/wiki/Revolution_OS"
+    },
+    {
+      "title": "Robert Love",
+      "url": "https://en.wikipedia.org/wiki/Robert_Love"
+    },
+    {
+      "title": "Roboto",
+      "url": "https://en.wikipedia.org/wiki/Roboto"
+    },
+    {
+      "title": "Rooting (Android)",
+      "url": "https://en.wikipedia.org/wiki/Rooting_%28Android%29"
+    },
+    {
+      "title": "Rusty Russell",
+      "url": "https://en.wikipedia.org/wiki/Rusty_Russell"
+    },
+    {
+      "title": "Rémy Card",
+      "url": "https://en.wikipedia.org/wiki/R%C3%A9my_Card"
+    },
+    {
+      "title": "SCHED DEADLINE",
+      "url": "https://en.wikipedia.org/wiki/SCHED_DEADLINE"
+    },
+    {
+      "title": "SCHED FIFO",
+      "url": "https://en.wikipedia.org/wiki/SCHED_FIFO"
+    },
+    {
+      "title": "SCHED RR",
+      "url": "https://en.wikipedia.org/wiki/SCHED_RR"
+    },
+    {
+      "title": "SCO–Linux disputes",
+      "url": "https://en.wikipedia.org/wiki/SCO%E2%80%93Linux_disputes"
+    },
+    {
+      "title": "SEAT",
+      "url": "https://en.wikipedia.org/wiki/SEAT"
+    },
+    {
+      "title": "SLUB (software)",
+      "url": "https://en.wikipedia.org/wiki/SLUB_%28software%29"
+    },
+    {
+      "title": "SQLite",
+      "url": "https://en.wikipedia.org/wiki/SQLite"
+    },
+    {
+      "title": "Samsung Experience",
+      "url": "https://en.wikipedia.org/wiki/Samsung_Experience"
+    },
+    {
+      "title": "Samsung Galaxy S4",
+      "url": "https://en.wikipedia.org/wiki/Samsung_Galaxy_S4"
+    },
+    {
+      "title": "Scheduling (computing)",
+      "url": "https://en.wikipedia.org/wiki/Scheduling_%28computing%29"
+    },
+    {
+      "title": "Seccomp",
+      "url": "https://en.wikipedia.org/wiki/Seccomp"
+    },
+    {
+      "title": "Security-Enhanced Linux",
+      "url": "https://en.wikipedia.org/wiki/Security-Enhanced_Linux"
+    },
+    {
+      "title": "Security-focused operating system",
+      "url": "https://en.wikipedia.org/wiki/Security-focused_operating_system"
+    },
+    {
+      "title": "Select (Unix)",
+      "url": "https://en.wikipedia.org/wiki/Select_%28Unix%29"
+    },
+    {
+      "title": "Shuah Khan",
+      "url": "https://en.wikipedia.org/wiki/Shuah_Khan"
+    },
+    {
+      "title": "Silicon Valley, California",
+      "url": "https://en.wikipedia.org/wiki/Silicon_Valley%2C_California"
+    },
+    {
+      "title": "Skia Graphics Engine",
+      "url": "https://en.wikipedia.org/wiki/Skia_Graphics_Engine"
+    },
+    {
+      "title": "SlimRoms",
+      "url": "https://en.wikipedia.org/wiki/SlimRoms"
+    },
+    {
+      "title": "Slurm Workload Manager",
+      "url": "https://en.wikipedia.org/wiki/Slurm_Workload_Manager"
+    },
+    {
+      "title": "Smack (software)",
+      "url": "https://en.wikipedia.org/wiki/Smack_%28software%29"
+    },
+    {
+      "title": "Smartphone patent wars",
+      "url": "https://en.wikipedia.org/wiki/Smartphone_patent_wars"
+    },
+    {
+      "title": "Sony Xperia Z Ultra",
+      "url": "https://en.wikipedia.org/wiki/Sony_Xperia_Z_Ultra"
+    },
+    {
+      "title": "Splice (system call)",
+      "url": "https://en.wikipedia.org/wiki/Splice_%28system_call%29"
+    },
+    {
+      "title": "Stephen Tweedie",
+      "url": "https://en.wikipedia.org/wiki/Stephen_Tweedie"
+    },
+    {
+      "title": "Subaru",
+      "url": "https://en.wikipedia.org/wiki/Subaru"
+    },
+    {
+      "title": "Suparna Bhattacharya",
+      "url": "https://en.wikipedia.org/wiki/Suparna_Bhattacharya"
+    },
+    {
+      "title": "SuperSU",
+      "url": "https://en.wikipedia.org/wiki/SuperSU"
+    },
+    {
+      "title": "Suzuki",
+      "url": "https://en.wikipedia.org/wiki/Suzuki"
+    },
+    {
+      "title": "Symphony Teleca",
+      "url": "https://en.wikipedia.org/wiki/Symphony_Teleca"
+    },
+    {
+      "title": "Sync (Unix)",
+      "url": "https://en.wikipedia.org/wiki/Sync_%28Unix%29"
+    },
+    {
+      "title": "Sysfs",
+      "url": "https://en.wikipedia.org/wiki/Sysfs"
+    },
+    {
+      "title": "System.map",
+      "url": "https://en.wikipedia.org/wiki/System.map"
+    },
+    {
+      "title": "SystemTap",
+      "url": "https://en.wikipedia.org/wiki/SystemTap"
+    },
+    {
+      "title": "Systemd",
+      "url": "https://en.wikipedia.org/wiki/Systemd"
+    },
+    {
+      "title": "TCL Technology",
+      "url": "https://en.wikipedia.org/wiki/TCL_Technology"
+    },
+    {
+      "title": "TWRP (software)",
+      "url": "https://en.wikipedia.org/wiki/TWRP_%28software%29"
+    },
+    {
+      "title": "Tanenbaum–Torvalds debate",
+      "url": "https://en.wikipedia.org/wiki/Tanenbaum%E2%80%93Torvalds_debate"
+    },
+    {
+      "title": "The Code (2001 film)",
+      "url": "https://en.wikipedia.org/wiki/The_Code_%282001_film%29"
+    },
+    {
+      "title": "The Linux Programming Interface",
+      "url": "https://en.wikipedia.org/wiki/The_Linux_Programming_Interface"
+    },
+    {
+      "title": "The Verge",
+      "url": "https://en.wikipedia.org/wiki/The_Verge"
+    },
+    {
+      "title": "Theodore Ts'o",
+      "url": "https://en.wikipedia.org/wiki/Theodore_Ts%27o"
+    },
+    {
+      "title": "Tmpfs",
+      "url": "https://en.wikipedia.org/wiki/Tmpfs"
+    },
+    {
+      "title": "Tomoyo Linux",
+      "url": "https://en.wikipedia.org/wiki/Tomoyo_Linux"
+    },
+    {
+      "title": "TouchWiz",
+      "url": "https://en.wikipedia.org/wiki/TouchWiz"
+    },
+    {
+      "title": "Tux (mascot)",
+      "url": "https://en.wikipedia.org/wiki/Tux_%28mascot%29"
+    },
+    {
+      "title": "UClibc",
+      "url": "https://en.wikipedia.org/wiki/UClibc"
+    },
+    {
+      "title": "Ubuntu Touch",
+      "url": "https://en.wikipedia.org/wiki/Ubuntu_Touch"
+    },
+    {
+      "title": "Ubuntu User",
+      "url": "https://en.wikipedia.org/wiki/Ubuntu_User"
+    },
+    {
+      "title": "Udev",
+      "url": "https://en.wikipedia.org/wiki/Udev"
+    },
+    {
+      "title": "User-mode Linux",
+      "url": "https://en.wikipedia.org/wiki/User-mode_Linux"
+    },
+    {
+      "title": "User interface",
+      "url": "https://en.wikipedia.org/wiki/User_interface"
+    },
+    {
+      "title": "User space and kernel space",
+      "url": "https://en.wikipedia.org/wiki/User_space_and_kernel_space"
+    },
+    {
+      "title": "Video4Linux",
+      "url": "https://en.wikipedia.org/wiki/Video4Linux"
+    },
+    {
+      "title": "Video games and Linux",
+      "url": "https://en.wikipedia.org/wiki/Video_games_and_Linux"
+    },
+    {
+      "title": "Virtual file system",
+      "url": "https://en.wikipedia.org/wiki/Virtual_file_system"
+    },
+    {
+      "title": "Virtual reality",
+      "url": "https://en.wikipedia.org/wiki/Virtual_reality"
+    },
+    {
+      "title": "Virtualization",
+      "url": "https://en.wikipedia.org/wiki/Virtualization"
+    },
+    {
+      "title": "Vmlinux",
+      "url": "https://en.wikipedia.org/wiki/Vmlinux"
+    },
+    {
+      "title": "Volkswagen",
+      "url": "https://en.wikipedia.org/wiki/Volkswagen"
+    },
+    {
+      "title": "Volvo Cars",
+      "url": "https://en.wikipedia.org/wiki/Volvo_Cars"
+    },
+    {
+      "title": "Wear OS",
+      "url": "https://en.wikipedia.org/wiki/Wear_OS"
+    },
+    {
+      "title": "Werner Almesberger",
+      "url": "https://en.wikipedia.org/wiki/Werner_Almesberger"
+    },
+    {
+      "title": "Windows Embedded Automotive",
+      "url": "https://en.wikipedia.org/wiki/Windows_Embedded_Automotive"
+    },
+    {
+      "title": "Wrapper library",
+      "url": "https://en.wikipedia.org/wiki/Wrapper_library"
+    },
+    {
+      "title": "X32 ABI",
+      "url": "https://en.wikipedia.org/wiki/X32_ABI"
+    },
+    {
+      "title": "XML",
+      "url": "https://en.wikipedia.org/wiki/XML"
+    },
+    {
+      "title": "XOS (operating system)",
+      "url": "https://en.wikipedia.org/wiki/XOS_%28operating_system%29"
+    },
+    {
+      "title": "Xen",
+      "url": "https://en.wikipedia.org/wiki/Xen"
+    },
+    {
+      "title": "Xenomai",
+      "url": "https://en.wikipedia.org/wiki/Xenomai"
+    },
+    {
+      "title": "Xiaomi HyperOS",
+      "url": "https://en.wikipedia.org/wiki/Xiaomi_HyperOS"
+    },
+    {
+      "title": "Xposed Framework",
+      "url": "https://en.wikipedia.org/wiki/Xposed_Framework"
+    },
+    {
+      "title": "ZUK Mobile",
+      "url": "https://en.wikipedia.org/wiki/ZUK_Mobile"
+    },
+    {
+      "title": "Zram",
+      "url": "https://en.wikipedia.org/wiki/Zram"
+    },
+    {
+      "title": "Zswap",
+      "url": "https://en.wikipedia.org/wiki/Zswap"
+    },
+    {
+      "title": "Škoda Auto",
+      "url": "https://en.wikipedia.org/wiki/%C5%A0koda_Auto"
+    },
+    {
+      "title": "ΜClinux",
+      "url": "https://en.wikipedia.org/wiki/%CE%9CClinux"
+    }
+  ]
+}

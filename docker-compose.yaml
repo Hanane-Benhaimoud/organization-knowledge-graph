@@ -1,0 +1,168 @@
+name: organization_knowledge_graph
+
+x-hadoop-env: &hadoop-env
+  CORE_CONF_fs_defaultFS: hdfs://namenode:8020
+  HDFS_CONF_dfs_replication: "2"
+  HDFS_CONF_dfs_permissions_enabled: "false"
+
+x-spark-base: &spark-base
+  image: apache/spark:3.5.0
+  user: root
+  environment:
+    HADOOP_CONF_DIR: /opt/orggraph/hadoop-conf
+  volumes:
+    - ./config/hadoop:/opt/orggraph/hadoop-conf:ro
+    - ./spark:/opt/orggraph/spark:ro
+  networks:
+    - orggraph_net
+
+services:
+  namenode:
+    image: bde2020/hadoop-namenode:2.0.0-hadoop3.2.1-java8
+    restart: unless-stopped
+    environment:
+      <<: *hadoop-env
+      CLUSTER_NAME: orggraph
+    volumes:
+      - namenode_data:/hadoop/dfs/name
+    ports:
+      - "127.0.0.1:9870:9870"
+    healthcheck:
+      test:
+        - CMD-SHELL
+        - hdfs dfsadmin -safemode get | grep -q OFF
+      interval: 15s
+      timeout: 10s
+      retries: 30
+      start_period: 30s
+    networks:
+      - orggraph_net
+
+  datanode1:
+    image: bde2020/hadoop-datanode:2.0.0-hadoop3.2.1-java8
+    restart: unless-stopped
+    depends_on:
+      namenode:
+        condition: service_started
+    environment:
+      <<: *hadoop-env
+      SERVICE_PRECONDITION: namenode:9870
+    volumes:
+      - datanode1_data:/hadoop/dfs/data
+    networks:
+      - orggraph_net
+
+  datanode2:
+    image: bde2020/hadoop-datanode:2.0.0-hadoop3.2.1-java8
+    restart: unless-stopped
+    depends_on:
+      namenode:
+        condition: service_started
+    environment:
+      <<: *hadoop-env
+      SERVICE_PRECONDITION: namenode:9870
+    volumes:
+      - datanode2_data:/hadoop/dfs/data
+    networks:
+      - orggraph_net
+
+  spark-master:
+    <<: *spark-base
+    profiles: ["compute"]
+    restart: unless-stopped
+    command:
+      - /opt/spark/bin/spark-class
+      - org.apache.spark.deploy.master.Master
+      - --host
+      - spark-master
+      - --port
+      - "7077"
+      - --webui-port
+      - "8080"
+    ports:
+      - "127.0.0.1:8081:8080"
+
+  spark-worker1:
+    <<: *spark-base
+    profiles: ["compute"]
+    restart: unless-stopped
+    depends_on:
+      - spark-master
+    command:
+      - /opt/spark/bin/spark-class
+      - org.apache.spark.deploy.worker.Worker
+      - spark://spark-master:7077
+      - --cores
+      - "1"
+      - --memory
+      - 1g
+      - --webui-port
+      - "8081"
+
+  spark-worker2:
+    <<: *spark-base
+    profiles: ["compute"]
+    restart: unless-stopped
+    depends_on:
+      - spark-master
+    command:
+      - /opt/spark/bin/spark-class
+      - org.apache.spark.deploy.worker.Worker
+      - spark://spark-master:7077
+      - --cores
+      - "1"
+      - --memory
+      - 1g
+      - --webui-port
+      - "8081"
+
+  spark-client:
+    <<: *spark-base
+    profiles: ["jobs"]
+    depends_on:
+      - spark-master
+      - namenode
+    entrypoint:
+      - /opt/spark/bin/spark-submit
+      - --master
+      - spark://spark-master:7077
+      - --deploy-mode
+      - client
+      - --conf
+      - spark.driver.host=spark-client
+      - --conf
+      - spark.driver.bindAddress=0.0.0.0
+      - --executor-memory
+      - 768m
+      - --total-executor-cores
+      - "2"
+    command: ["--version"]
+
+  neo4j:
+    image: neo4j:5.26-community
+    profiles: ["graph"]
+    restart: unless-stopped
+    environment:
+      NEO4J_AUTH: neo4j/${NEO4J_PASSWORD:?Set NEO4J_PASSWORD in .env}
+      NEO4J_server_memory_heap_initial__size: 512m
+      NEO4J_server_memory_heap_max__size: 768m
+      NEO4J_server_memory_pagecache_size: 512m
+    ports:
+      - "127.0.0.1:7474:7474"
+      - "127.0.0.1:7687:7687"
+    volumes:
+      - neo4j_data:/data
+      - neo4j_logs:/logs
+    networks:
+      - orggraph_net
+
+networks:
+  orggraph_net:
+    driver: bridge
+
+volumes:
+  namenode_data:
+  datanode1_data:
+  datanode2_data:
+  neo4j_data:
+  neo4j_logs:

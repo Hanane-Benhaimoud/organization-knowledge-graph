@@ -1,0 +1,284 @@
+{
+  "document_id": "wikipedia_en_Q896265",
+  "wikidata_id": "Q896265",
+  "entity_label": "DECHEMA",
+  "entity_type": "organization",
+  "seed_categories": [],
+  "source": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/DECHEMA",
+  "revision_id": 1264435318,
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1264435318",
+  "pageid": 16316638,
+  "title": "DECHEMA",
+  "language": "en",
+  "collected_at": "2026-10-28T22:02:54.009933+00:00",
+  "content": {
+    "sections": [
+      {
+        "heading": "Introduction",
+        "text": "DECHEMA is an abbreviation for \" De utsche Gesellschaft für chem isches A pparatewesen\" (German Society for Chemical Apparatus), though it has since been expanded to \" Deutsche Gesellschaft für Chemische Technik und Biotechnologie \" (German Society for Chemical Engineering and Biotechnology).\nFounded in 1926, this is a non-profit organisation based in Frankfurt . It has over 5000 chemists, biotechnologists, and engineers as personal members, as well as other organisations and company members. DECHEMA awards prizes, such as the DECHEMA medal \"for outstanding achievements in the field of chemical apparatus technology.\"\nThe main purpose of Dechema is to support developments in chemical technology, biotechnology, and environmental protection. It is seen [ by whom? ] as an interface between science, economy, industry, and the public. To this purpose the trade fair ACHEMA is organised and held every three years in Frankfurt am Main, Germany, as the biggest event for chemical technology and biotechnology.\nDECHEMA is a member of the European Federation of Chemical Engineering , and acts as joint Secretariat."
+      },
+      {
+        "heading": "See also",
+        "text": "Elektrolytdatenbank Regensburg Dortmund Data Bank"
+      },
+      {
+        "heading": "External links",
+        "text": "Main website Connecat: website concerned with catalysis Dechema Chemistry Data Series Detherm Roadmap for catalysis research"
+      }
+    ],
+    "full_text": "Introduction\nDECHEMA is an abbreviation for \" De utsche Gesellschaft für chem isches A pparatewesen\" (German Society for Chemical Apparatus), though it has since been expanded to \" Deutsche Gesellschaft für Chemische Technik und Biotechnologie \" (German Society for Chemical Engineering and Biotechnology).\nFounded in 1926, this is a non-profit organisation based in Frankfurt . It has over 5000 chemists, biotechnologists, and engineers as personal members, as well as other organisations and company members. DECHEMA awards prizes, such as the DECHEMA medal \"for outstanding achievements in the field of chemical apparatus technology.\"\nThe main purpose of Dechema is to support developments in chemical technology, biotechnology, and environmental protection. It is seen [ by whom? ] as an interface between science, economy, industry, and the public. To this purpose the trade fair ACHEMA is organised and held every three years in Frankfurt am Main, Germany, as the biggest event for chemical technology and biotechnology.\nDECHEMA is a member of the European Federation of Chemical Engineering , and acts as joint Secretariat.\n\nSee also\nElektrolytdatenbank Regensburg Dortmund Data Bank\n\nExternal links\nMain website Connecat: website concerned with catalysis Dechema Chemistry Data Series Detherm Roadmap for catalysis research"
+  },
+  "references": [
+    {
+      "url": "http://www.dechema.de/",
+      "label": "Home page"
+    },
+    {
+      "url": "https://web.archive.org/web/20120208172314/http://www.dechema.de/en/Research+Promotion-p-61834/Roll+of+Honour-p-186.print",
+      "label": "\"DECHEMA Roll of Honor\""
+    },
+    {
+      "url": "http://www.dechema.de/en/Research+Promotion-p-61834/Roll+of+Honour-p-186.print",
+      "label": "the original"
+    },
+    {
+      "url": "https://web.archive.org/web/20180610225257/http://efce.info/General+Secretariats.html",
+      "label": "\"EFCE General Secretariats\""
+    },
+    {
+      "url": "http://efce.info/General+Secretariats.html",
+      "label": "the original"
+    }
+  ],
+  "outgoing_links": [
+    {
+      "title": "American Chemical Society",
+      "url": "https://en.wikipedia.org/wiki/American_Chemical_Society"
+    },
+    {
+      "title": "American Society for Mass Spectrometry",
+      "url": "https://en.wikipedia.org/wiki/American_Society_for_Mass_Spectrometry"
+    },
+    {
+      "title": "Association of Greek Chemists",
+      "url": "https://en.wikipedia.org/wiki/Association_of_Greek_Chemists"
+    },
+    {
+      "title": "Belgian Society of Biochemistry and Molecular Biology",
+      "url": "https://en.wikipedia.org/wiki/Belgian_Society_of_Biochemistry_and_Molecular_Biology"
+    },
+    {
+      "title": "Brazilian Chemical Society",
+      "url": "https://en.wikipedia.org/wiki/Brazilian_Chemical_Society"
+    },
+    {
+      "title": "British Mass Spectrometry Society",
+      "url": "https://en.wikipedia.org/wiki/British_Mass_Spectrometry_Society"
+    },
+    {
+      "title": "Canadian Society for Mass Spectrometry",
+      "url": "https://en.wikipedia.org/wiki/Canadian_Society_for_Mass_Spectrometry"
+    },
+    {
+      "title": "Canadian Society of Clinical Chemists",
+      "url": "https://en.wikipedia.org/wiki/Canadian_Society_of_Clinical_Chemists"
+    },
+    {
+      "title": "Chemical Institute of Canada",
+      "url": "https://en.wikipedia.org/wiki/Chemical_Institute_of_Canada"
+    },
+    {
+      "title": "Chemical Society",
+      "url": "https://en.wikipedia.org/wiki/Chemical_Society"
+    },
+    {
+      "title": "Chemical Society of Japan",
+      "url": "https://en.wikipedia.org/wiki/Chemical_Society_of_Japan"
+    },
+    {
+      "title": "Chemical Society of Mexico",
+      "url": "https://en.wikipedia.org/wiki/Chemical_Society_of_Mexico"
+    },
+    {
+      "title": "Chemical Society of Nigeria",
+      "url": "https://en.wikipedia.org/wiki/Chemical_Society_of_Nigeria"
+    },
+    {
+      "title": "Chemical Society of Pakistan",
+      "url": "https://en.wikipedia.org/wiki/Chemical_Society_of_Pakistan"
+    },
+    {
+      "title": "Chemical Society of Peru",
+      "url": "https://en.wikipedia.org/wiki/Chemical_Society_of_Peru"
+    },
+    {
+      "title": "Chinese-American Chemical Society",
+      "url": "https://en.wikipedia.org/wiki/Chinese-American_Chemical_Society"
+    },
+    {
+      "title": "Chinese Chemical Society (Beijing)",
+      "url": "https://en.wikipedia.org/wiki/Chinese_Chemical_Society_%28Beijing%29"
+    },
+    {
+      "title": "Chinese Chemical Society (Taipei)",
+      "url": "https://en.wikipedia.org/wiki/Chinese_Chemical_Society_%28Taipei%29"
+    },
+    {
+      "title": "Danish Chemical Society",
+      "url": "https://en.wikipedia.org/wiki/Danish_Chemical_Society"
+    },
+    {
+      "title": "Dortmund Data Bank",
+      "url": "https://en.wikipedia.org/wiki/Dortmund_Data_Bank"
+    },
+    {
+      "title": "Electrochemical Society",
+      "url": "https://en.wikipedia.org/wiki/Electrochemical_Society"
+    },
+    {
+      "title": "Elektrolytdatenbank Regensburg",
+      "url": "https://en.wikipedia.org/wiki/Elektrolytdatenbank_Regensburg"
+    },
+    {
+      "title": "European Association for Chemical and Molecular Sciences",
+      "url": "https://en.wikipedia.org/wiki/European_Association_for_Chemical_and_Molecular_Sciences"
+    },
+    {
+      "title": "European Federation of Chemical Engineering",
+      "url": "https://en.wikipedia.org/wiki/European_Federation_of_Chemical_Engineering"
+    },
+    {
+      "title": "European Young Chemists' Network",
+      "url": "https://en.wikipedia.org/wiki/European_Young_Chemists%27_Network"
+    },
+    {
+      "title": "Faraday Society",
+      "url": "https://en.wikipedia.org/wiki/Faraday_Society"
+    },
+    {
+      "title": "Federation of European Biochemical Societies",
+      "url": "https://en.wikipedia.org/wiki/Federation_of_European_Biochemical_Societies"
+    },
+    {
+      "title": "Frankfurt",
+      "url": "https://en.wikipedia.org/wiki/Frankfurt"
+    },
+    {
+      "title": "German Chemical Society",
+      "url": "https://en.wikipedia.org/wiki/German_Chemical_Society"
+    },
+    {
+      "title": "Hungarian Chemical Society",
+      "url": "https://en.wikipedia.org/wiki/Hungarian_Chemical_Society"
+    },
+    {
+      "title": "Indian Chemical Society",
+      "url": "https://en.wikipedia.org/wiki/Indian_Chemical_Society"
+    },
+    {
+      "title": "Institute of Chemistry of Ireland",
+      "url": "https://en.wikipedia.org/wiki/Institute_of_Chemistry_of_Ireland"
+    },
+    {
+      "title": "International Mass Spectrometry Foundation",
+      "url": "https://en.wikipedia.org/wiki/International_Mass_Spectrometry_Foundation"
+    },
+    {
+      "title": "Italian Chemical Society",
+      "url": "https://en.wikipedia.org/wiki/Italian_Chemical_Society"
+    },
+    {
+      "title": "Korean Chemical Society",
+      "url": "https://en.wikipedia.org/wiki/Korean_Chemical_Society"
+    },
+    {
+      "title": "New Zealand Institute of Chemistry",
+      "url": "https://en.wikipedia.org/wiki/New_Zealand_Institute_of_Chemistry"
+    },
+    {
+      "title": "Norwegian Chemical Society",
+      "url": "https://en.wikipedia.org/wiki/Norwegian_Chemical_Society"
+    },
+    {
+      "title": "Pan Africa Chemistry Network",
+      "url": "https://en.wikipedia.org/wiki/Pan_Africa_Chemistry_Network"
+    },
+    {
+      "title": "Pancyprian Union of Chemists",
+      "url": "https://en.wikipedia.org/wiki/Pancyprian_Union_of_Chemists"
+    },
+    {
+      "title": "Polish Chemical Society",
+      "url": "https://en.wikipedia.org/wiki/Polish_Chemical_Society"
+    },
+    {
+      "title": "Royal Australian Chemical Institute",
+      "url": "https://en.wikipedia.org/wiki/Royal_Australian_Chemical_Institute"
+    },
+    {
+      "title": "Royal Institute of Chemistry",
+      "url": "https://en.wikipedia.org/wiki/Royal_Institute_of_Chemistry"
+    },
+    {
+      "title": "Royal Netherlands Chemical Society",
+      "url": "https://en.wikipedia.org/wiki/Royal_Netherlands_Chemical_Society"
+    },
+    {
+      "title": "Royal Society of Chemistry",
+      "url": "https://en.wikipedia.org/wiki/Royal_Society_of_Chemistry"
+    },
+    {
+      "title": "Society for Analytical Chemistry",
+      "url": "https://en.wikipedia.org/wiki/Society_for_Analytical_Chemistry"
+    },
+    {
+      "title": "Society of Biological Inorganic Chemistry",
+      "url": "https://en.wikipedia.org/wiki/Society_of_Biological_Inorganic_Chemistry"
+    },
+    {
+      "title": "Society of Chemical Industry",
+      "url": "https://en.wikipedia.org/wiki/Society_of_Chemical_Industry"
+    },
+    {
+      "title": "Society of Chemical Industry (American Section)",
+      "url": "https://en.wikipedia.org/wiki/Society_of_Chemical_Industry_%28American_Section%29"
+    },
+    {
+      "title": "Society of Chemical Manufacturers and Affiliates",
+      "url": "https://en.wikipedia.org/wiki/Society_of_Chemical_Manufacturers_and_Affiliates"
+    },
+    {
+      "title": "Society of Cosmetic Chemists",
+      "url": "https://en.wikipedia.org/wiki/Society_of_Cosmetic_Chemists"
+    },
+    {
+      "title": "Society of Polymer Science",
+      "url": "https://en.wikipedia.org/wiki/Society_of_Polymer_Science"
+    },
+    {
+      "title": "Société chimique de France",
+      "url": "https://en.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_chimique_de_France"
+    },
+    {
+      "title": "Société de Chimie Industrielle (American Section)",
+      "url": "https://en.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_de_Chimie_Industrielle_%28American_Section%29"
+    },
+    {
+      "title": "Spanish Royal Society of Chemistry",
+      "url": "https://en.wikipedia.org/wiki/Spanish_Royal_Society_of_Chemistry"
+    },
+    {
+      "title": "Swedish Chemical Society",
+      "url": "https://en.wikipedia.org/wiki/Swedish_Chemical_Society"
+    },
+    {
+      "title": "The Institute of Chemists PNG",
+      "url": "https://en.wikipedia.org/wiki/The_Institute_of_Chemists_PNG"
+    },
+    {
+      "title": "Iranian Chemists Association",
+      "url": "https://en.wikipedia.org/wiki/Iranian_Chemists_Association"
+    }
+  ]
+}

@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>OrgGraph — graphe de connaissances</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=Source+Serif+4:wght@500;600&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.9/standalone/umd/vis-network.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/3.0.9/purify.min.js"></script>
+<style>
+:root{--bg:#f6f7f9;--panel:#fff;--ink:#14171f;--mute:#5d6577;--rule:#dfe3ea;
+ --rag:#1d4ed8;--rag-bg:#e8eefc;--ana:#0f766e;--ana-bg:#e3f4f1;--bad:#b42318;--warn:#b45309;
+ --person:#475569;--org:#1d4ed8}
+@media (prefers-color-scheme:dark){:root{--bg:#10131a;--panel:#171b24;--ink:#e8ebf2;--mute:#9aa3b5;--rule:#2a3040;
+ --rag:#7da2ff;--rag-bg:#1c2640;--ana:#4fd1c0;--ana-bg:#132a29;--bad:#ff8a80;--warn:#f5b45f;--person:#9aa3b5;--org:#7da2ff}}
+*{box-sizing:border-box}
+html,body{height:100%;margin:0}
+body{font:15px/1.5 "IBM Plex Sans",system-ui,sans-serif;background:var(--bg);color:var(--ink);display:flex}
+nav{width:216px;flex:none;border-right:1px solid var(--rule);background:var(--panel);padding:20px 12px;display:flex;flex-direction:column;gap:4px}
+nav h1{font:600 20px "Source Serif 4",Georgia,serif;margin:0 8px 2px}
+nav p{margin:0 8px 18px;color:var(--mute);font-size:13px}
+nav button{all:unset;cursor:pointer;padding:9px 10px;border-radius:6px;color:var(--mute)}
+nav button:hover{background:var(--bg)}
+nav button[aria-selected=true]{background:var(--bg);color:var(--ink);font-weight:600;box-shadow:inset 3px 0 0 var(--ink)}
+nav .foot{margin-top:auto;font-size:12px;color:var(--mute);padding:0 8px}
+main{flex:1;min-width:0;overflow:auto;padding:28px 32px 48px}
+section{display:none;max-width:1200px;margin:0 auto}
+section.on{display:block}
+h2{font:600 24px "Source Serif 4",Georgia,serif;margin:0 0 4px}
+.lede{color:var(--mute);margin:0 0 20px;max-width:70ch}
+.bar{display:flex;flex-wrap:wrap;gap:10px;align-items:flex-end;margin-bottom:16px}
+label{display:flex;flex-direction:column;gap:3px;font-size:13px;color:var(--mute)}
+input,select,textarea{font:inherit;color:var(--ink);background:var(--panel);border:1px solid var(--rule);border-radius:6px;padding:8px 10px;min-width:150px}
+textarea{width:100%;min-height:64px;resize:vertical}
+:focus-visible{outline:2px solid var(--rag);outline-offset:1px}
+.btn{font:inherit;font-weight:500;border:1px solid var(--ink);background:var(--ink);color:var(--bg);border-radius:6px;padding:8px 16px;cursor:pointer}
+.btn.rag{background:var(--rag);border-color:var(--rag);color:#fff}
+.btn.ana{background:var(--ana);border-color:var(--ana);color:#fff}
+.btn.ghost{background:transparent;color:var(--ink);border-color:var(--rule)}
+.btn:disabled{opacity:.5;cursor:wait}
+.card{background:var(--panel);border:1px solid var(--rule);border-radius:8px;padding:16px}
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.grid3{display:grid;grid-template-columns:3fr 2fr;gap:16px}
+@media(max-width:900px){body{flex-direction:column}nav{width:auto;flex-direction:row;flex-wrap:wrap;padding:10px}nav h1,nav p,nav .foot{display:none}.grid2,.grid3{grid-template-columns:1fr}main{padding:18px 14px}}
+#net,.net{height:520px;border:1px solid var(--rule);border-radius:8px;background:var(--panel)}
+.net.sm{height:300px}
+.legend{display:flex;gap:16px;font-size:13px;color:var(--mute);margin-top:8px;flex-wrap:wrap}
+.dot{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:6px}
+.dot.sq{border-radius:2px}
+table{width:100%;border-collapse:collapse;font-size:14px}
+th,td{text-align:left;padding:7px 10px;border-bottom:1px solid var(--rule);vertical-align:top}
+th{font-weight:600;color:var(--mute);background:var(--bg);position:sticky;top:0}
+.scroll{overflow:auto;max-height:440px;border:1px solid var(--rule);border-radius:8px;background:var(--panel)}
+.meta{display:flex;gap:18px;flex-wrap:wrap;font-size:13px;color:var(--mute);margin:10px 0}
+.meta b{color:var(--ink)}
+pre{background:var(--bg);border:1px solid var(--rule);border-radius:6px;padding:12px;overflow:auto;font:12.5px/1.5 ui-monospace,Menlo,monospace}
+.answer{line-height:1.65}
+.answer table{margin:10px 0}
+.answer p{margin:0 0 .8em}
+.cite{display:inline-block;cursor:pointer;background:var(--rag-bg);color:var(--rag);border-radius:4px;padding:0 5px;font-size:11px;font-weight:600;margin:0 1px;vertical-align:baseline}
+.cite:hover,.cite.hl{background:var(--rag);color:#fff}
+.src{border-left:3px solid var(--rule);padding:4px 0 4px 10px;margin:8px 0;font-size:13px}
+.src.hl{border-color:var(--rag);background:var(--rag-bg)}
+.src q{color:var(--mute)}
+.tag{display:inline-block;font-size:12px;padding:1px 8px;border-radius:99px;border:1px solid var(--rule);color:var(--mute)}
+.tag.warn{color:var(--warn);border-color:var(--warn)}
+.err{color:var(--bad);background:color-mix(in srgb,var(--bad) 10%,transparent);border:1px solid var(--bad);padding:10px 12px;border-radius:6px;margin:10px 0}
+.empty{color:var(--mute);padding:28px;text-align:center}
+.col-h{display:flex;align-items:center;gap:8px;margin:0 0 8px;font-weight:600}
+.col-h i{width:10px;height:10px;border-radius:50%}
+.m{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:10px;margin:12px 0 16px}
+.m div{background:var(--panel);border:1px solid var(--rule);border-radius:8px;padding:10px 12px}
+.m small{display:block;color:var(--mute);font-size:12px}
+.m strong{font:600 20px "Source Serif 4",Georgia,serif}
+.bar2{height:8px;border-radius:4px;background:var(--rule);overflow:hidden;min-width:70px}
+.bar2 span{display:block;height:100%}
+.spin{color:var(--mute)}
+textarea.code{font:13px/1.55 ui-monospace,Menlo,Consolas,monospace;min-height:170px;tab-size:2;white-space:pre}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin:6px 0 18px}
+.chip{font:inherit;font-size:13px;cursor:pointer;color:var(--ana);background:var(--ana-bg);border:1px solid transparent;border-radius:99px;padding:5px 12px}
+.chip:hover{border-color:var(--ana)}
+.hint{color:var(--mute);font-size:13px}
+th{white-space:nowrap}
+td{max-width:340px;overflow-wrap:anywhere}
+.nil{color:var(--mute)}
+details summary{cursor:pointer;color:var(--ana)}
+.ev{display:block;color:var(--mute);font-size:13px;margin:6px 0;max-width:60ch}
+</style>
+</head>
+<body>
+<nav role="tablist" aria-label="Sections">
+  <h1>OrgGraph</h1>
+  <p>Organisations et dirigeants, extraits de Wikipedia</p>
+  <button role="tab" data-t="explore" aria-selected="true">Explorer le graphe</button>
+  <button role="tab" data-t="analytics" aria-selected="false">Analyse du graphe</button>
+  <button role="tab" data-t="assistant" aria-selected="false">Assistant GraphRAG</button>
+  <button role="tab" data-t="compare" aria-selected="false">Comparer les approches</button>
+  <div class="foot" id="status">Connexion…</div>
+</nav>
+
+<main>
+<!-- EXPLORER -->
+<section id="explore" class="on">
+  <h2>Explorer le graphe</h2>
+  <p class="lede">Choisissez une entité pour voir ses relations directes. Double-cliquez sur un nœud pour centrer le graphe sur lui.</p>
+  <div class="bar">
+    <label>Entité<input id="ex-entity" list="entity-list" placeholder="Google, Thomas Schäfer…"></label>
+    <button class="btn" id="ex-go">Afficher</button>
+    <button class="btn ghost" id="ex-all">Vue d'ensemble</button>
+  </div>
+  <div class="grid3">
+    <div id="net"></div>
+    <div class="card" id="ex-detail"><div class="empty">Cliquez sur un nœud ou une relation pour voir son détail.</div></div>
+  </div>
+  <div class="legend"><span><i class="dot" style="background:var(--org)"></i>Organisation</span><span><i class="dot sq" style="background:var(--person)"></i>Personne</span><span id="ex-count"></span></div>
+</section>
+
+<!-- ANALYTICS -->
+<section id="analytics">
+  <h2>Analyse du graphe</h2>
+  <p class="lede">Écrivez votre requête Cypher. Elle s'exécute en lecture seule sur le graphe Neo4j. Écrivez les valeurs directement dans la requête. Seul <code>$dataset</code> est disponible (injecté automatiquement).</p>
+  <div class="card">
+    <label>Requête Cypher<textarea id="an-cy" class="code" spellcheck="false" placeholder="MATCH (p:Person)-[r]->(o:Organization) WHERE r.dataset_id = $dataset RETURN p.name, type(r), o.name LIMIT 20"></textarea></label>
+    <div class="bar" style="margin:10px 0 0">
+      <button class="btn ana" id="an-go">Exécuter</button>
+      <span class="hint">Ctrl + Entrée · 500 lignes max</span>
+    </div>
+  </div>
+  <p style="margin:18px 0 0;font-weight:600">Questions pour démarrer</p>
+  <div class="chips" id="an-sugg"></div>
+  <div id="an-out"><div class="empty">Écrivez une requête ou choisissez une question, puis exécutez.</div></div>
+</section>
+
+<!-- ASSISTANT -->
+<section id="assistant">
+  <h2>Assistant GraphRAG</h2>
+  <p class="lede">Posez une question en français. L'assistant récupère le voisinage de l'entité dans le graphe, puis répond uniquement à partir de ces relations, avec des citations [S1], [S2]… reliées aux extraits Wikipedia.</p>
+  <div class="card">
+    <label>Votre question<textarea id="rg-q" placeholder="Qui dirige Google, et depuis quand ?"></textarea></label>
+    <div class="bar" style="margin:10px 0 0">
+      <button class="btn rag" id="rg-go">Poser la question</button>
+      <span class="hint">Citez le nom exact d'une entité (ex. Google, Thomas Schäfer).</span>
+    </div>
+  </div>
+  <div id="rg-out" style="margin-top:16px"></div>
+</section>
+
+<!-- COMPARAISON -->
+<section id="compare">
+  <h2>Comparer les approches</h2>
+  <p class="lede">Même question, deux méthodes sur le même graphe : requête Cypher d'un côté, GraphRAG de l'autre.</p>
+  <div class="bar" role="group" aria-label="Mode">
+    <button class="btn" id="cmp-live-b">Mode live</button>
+    <button class="btn ghost" id="cmp-bench-b">Benchmark</button>
+  </div>
+
+  <div id="cmp-live">
+    <div class="card">
+      <label>Question (pour GraphRAG)<textarea id="cp-q" placeholder="À quelles organisations Thomas Schäfer est-il lié ?"></textarea></label>
+      <label style="margin-top:12px">Requête Cypher (pour Graph analytics)<textarea id="cp-cy" class="code" spellcheck="false" style="min-height:120px" placeholder="MATCH (p:Person)-[r]->(o:Organization) WHERE r.dataset_id = $dataset AND p.name_key = 'thomas schäfer' RETURN o.name, type(r)"></textarea></label>
+      <div class="bar" style="margin:10px 0 0">
+        <button class="btn" id="cp-go">Comparer</button>
+      </div>
+    </div>
+    <div id="cp-out" style="margin-top:16px"></div>
+  </div>
+
+  <div id="cmp-bench" hidden>
+    <p class="lede">Questions de référence dans <code>data/benchmark/benchmark.json</code>. Le score est la part des réponses attendues retrouvées dans le résultat (complétude). Les appels Groq non mis en cache prennent quelques secondes chacun.</p>
+    <div class="bar"><button class="btn" id="bn-go">Lancer le benchmark</button><span id="bn-info" class="spin"></span></div>
+    <div id="bn-out"></div>
+  </div>
+</section>
+</main>
+<datalist id="entity-list"></datalist>
+
+<script>
+const $ = (s, r = document) => r.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const pct = v => v == null ? "—" : Math.round(v * 100) + " %";
+const ms = v => v == null ? "—" : (v >= 1000 ? (v / 1000).toFixed(1) + " s" : Math.round(v) + " ms");
+async function api(url, opt) {
+  const r = await fetch(url, opt);
+  if (!r.ok) { let m = await r.text(); try { m = JSON.parse(m).detail } catch {} throw new Error(typeof m === "string" ? m : JSON.stringify(m)); }
+  return r.json();
+}
+const post = (u, b) => api(u, {method: "POST", headers: {"Content-Type": "application/json"}, body: JSON.stringify(b || {})});
+const err = e => `<div class="err" role="alert">${esc(e.message)}</div>`;
+const css = n => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+
+/* ---------- onglets ---------- */
+document.querySelectorAll("nav [role=tab]").forEach(b => b.onclick = () => {
+  document.querySelectorAll("nav [role=tab]").forEach(x => x.setAttribute("aria-selected", x === b));
+  document.querySelectorAll("main > section").forEach(s => s.classList.toggle("on", s.id === b.dataset.t));
+  if (b.dataset.t === "explore" && net) net.fit();
+});
+
+/* ---------- graphe ---------- */
+let net = null;
+function drawGraph(el, data, opts = {}) {
+  const hl = new Set(opts.highlight || []);
+  const nodes = new vis.DataSet(data.nodes.map(n => ({
+    id: n.id, label: n.label, shape: n.type === "person" ? "box" : "dot", size: 14,
+    color: {background: n.type === "person" ? css("--person") : css("--org"), border: css("--panel")},
+    font: {color: css("--ink"), size: 13, face: "IBM Plex Sans"}, margin: 6,
+    ...(n.type === "person" ? {font: {color: "#fff", size: 12}} : {})})));
+  const edges = new vis.DataSet(data.edges.map(e => ({
+    id: e.id, from: e.from, to: e.to, label: e.label.replaceAll("_", " ").toLowerCase(),
+    arrows: "to", font: {size: 10, color: css("--mute"), strokeWidth: 3, strokeColor: css("--panel")},
+    color: {color: hl.has(e.id) ? css("--rag") : css("--rule"), highlight: css("--ink")},
+    width: hl.has(e.id) ? 3 : 1.2, smooth: {type: "dynamic"}, _raw: e})));
+  const n = new vis.Network(el, {nodes, edges}, {
+    physics: {barnesHut: {gravitationalConstant: -4500, springLength: 130}, stabilization: {iterations: 150}},
+    interaction: {hover: true}});
+  if (opts.onNode) n.on("click", p => p.nodes.length ? opts.onNode(nodes.get(p.nodes[0]), "node")
+    : p.edges.length && opts.onNode(edges.get(p.edges[0])._raw, "edge"));
+  if (opts.onOpen) n.on("doubleClick", p => p.nodes.length && opts.onOpen(nodes.get(p.nodes[0]).label));
+  return n;
+}
+async function loadGraph(entity) {
+  try {
+    const d = await api("/api/graph" + (entity ? "?entity=" + encodeURIComponent(entity) : ""));
+    if (!d.nodes.length) { $("#net").innerHTML = '<div class="empty">Aucune relation pour cette entité.</div>'; return; }
+    net = drawGraph($("#net"), d, {onOpen: loadGraph2, onNode: showDetail});
+    $("#ex-count").textContent = `${d.nodes.length} entités · ${d.edges.length} relations`;
+  } catch (e) { $("#net").innerHTML = err(e); }
+}
+function loadGraph2(label) { $("#ex-entity").value = label; loadGraph(label); }
+function showDetail(o, kind) {
+  $("#ex-detail").innerHTML = kind === "node"
+    ? `<b>${esc(o.label)}</b><p class="lede" style="margin:4px 0 10px">${o.type === "person" ? "Personne" : "Organisation"}</p><button class="btn ghost" onclick="loadGraph2('${esc(o.label).replace(/'/g, "\\'")}')">Centrer sur cette entité</button>`
+    : `<b>${esc(o.label.replaceAll("_", " "))}</b><p>Fonction : ${esc(o.role || "non précisée")}<br>Statut : <span class="tag">${esc(o.status)}</span></p><p class="lede" style="font-size:13px">« current_at_source » signifie « en poste selon la source », pas « en poste aujourd'hui ».</p>`;
+}
+$("#ex-go").onclick = () => loadGraph($("#ex-entity").value.trim());
+$("#ex-all").onclick = () => { $("#ex-entity").value = ""; loadGraph(); };
+$("#ex-entity").onkeydown = e => e.key === "Enter" && $("#ex-go").click();
+
+/* ---------- tableau lisible ---------- */
+const REL = {CEO_OF: "Directeur général de", CHAIRPERSON_OF: "Président de", BOARD_MEMBER_OF: "Membre du conseil de",
+  EMPLOYED_BY: "Employé par", MEMBER_OF: "Membre de", FOUNDED: "A fondé", PARENT_OF: "Maison mère de",
+  OWNED_BY: "Détenu par", PUBLISHED_BY: "Publié par"};
+const STAT = {current_at_source: "en poste selon la source", former: "ancien", unknown: "inconnu"};
+const ENT = {person: "Personne", organization: "Organisation"};
+const HEAD = {person: "Personne", organization: "Organisation", relation: "Relation", role: "Fonction",
+  role_title: "Fonction", start_date: "Début", end_date: "Fin", temporal_status: "Statut", evidence: "Preuve",
+  source_urls: "Sources", organizations: "Organisations", organization_count: "Nb d'organisations",
+  organization_a: "Organisation A", organization_b: "Organisation B", shared_people: "Personnes communes",
+  shared_people_count: "Nb de personnes communes", neighbor_count: "Nb de voisins", entity_type: "Type",
+  name: "Nom", parent: "Maison mère", subsidiary: "Filiale", filiale: "Filiale", hops: "Sauts", sauts: "Sauts",
+  chain: "Chaîne", organisation: "Organisation", fonction: "Fonction", statut: "Statut", entite: "Entité",
+  voisins: "Voisins", type: "Type"};
+const isHash = v => typeof v === "string" && /^[0-9a-f]{64}$/.test(v);
+const isIdVal = v => isHash(v) || (Array.isArray(v) && v.length > 0 && v.every(isHash));
+const isObj = v => v && typeof v === "object" && (!Array.isArray(v) || v.some(x => x && typeof x === "object"));
+const empty = v => v == null || v === "" || (Array.isArray(v) && !v.length);
+const last = c => c.split(".").pop();
+const head = c => HEAD[last(c)] || (last(c).replace(/_/g, " ").replace(/^./, m => m.toUpperCase()));
+
+function cell(c, v) {
+  if (empty(v)) return '<span class="nil">—</span>';
+  const k = last(c);
+  if (Array.isArray(v)) {
+    if (/url/i.test(k)) return v.map((u, i) => `<a href="${esc(u)}" target="_blank" rel="noopener">source ${i + 1}</a>`).join(" · ");
+    if (k === "evidence" || v.join("").length > 160)
+      return `<details><summary>Voir (${v.length})</summary>${v.map(x => `<q class="ev">${esc(x)}</q>`).join("")}</details>`;
+    return esc(v.map(x => REL[x] || x).join(k === "chain" ? " → " : ", "));
+  }
+  if (typeof v === "string") {
+    if (STAT[v]) return `<span class="tag">${STAT[v]}</span>`;
+    if (k === "evidence" || v.length > 160) return `<details><summary>Voir</summary><q class="ev">${esc(v)}</q></details>`;
+    return esc(REL[v] || ENT[v] || v);
+  }
+  return esc(v);
+}
+
+function table(rows) {
+  if (!rows.length) return '<div class="empty">Aucun résultat pour cette requête.</div>';
+  const all = Object.keys(rows[0]);
+  let cols = all.filter(c => {
+    const vals = rows.map(r => r[c]);
+    return !vals.every(empty) && !vals.some(isObj) && !vals.some(isIdVal) && !/(^|_)ids?$/i.test(last(c));
+  });
+  if (!cols.length) cols = all;
+  const w = c => /evidence/.test(c) ? 1 : /url/i.test(c) ? 2 : 0;
+  cols = cols.sort((a, b) => w(a) - w(b));
+  return `<div class="scroll"><table><thead><tr>${cols.map(c => `<th>${esc(head(c))}</th>`).join("")}</tr></thead><tbody>${
+    rows.map(r => `<tr>${cols.map(c => `<td>${cell(c, r[c])}</td>`).join("")}</tr>`).join("")}</tbody></table></div>`;
+}
+
+/* ---------- analytics (Cypher libre) ---------- */
+let SUGG = [];
+const runCypher = cy => post("/api/cypher", {cypher: cy});
+function anHTML(r) {
+  return `<div class="meta"><span><b>${r.row_count}</b> résultat${r.row_count > 1 ? "s" : ""}${r.truncated ? " (limités à 500)" : ""}</span>
+  <span><b>${ms(r.latency_ms)}</b> côté client</span><span class="tag">Cypher · exact</span></div>${table(r.rows)}`;
+}
+$("#an-go").onclick = async () => {
+  const cy = $("#an-cy").value.trim();
+  if (!cy) { $("#an-out").innerHTML = '<div class="err">Écrivez une requête Cypher ou choisissez une question.</div>'; return; }
+  $("#an-go").disabled = true; $("#an-out").innerHTML = '<div class="empty spin">Exécution…</div>';
+  try { $("#an-out").innerHTML = anHTML(await runCypher(cy)); }
+  catch (e) { $("#an-out").innerHTML = err(e); }
+  $("#an-go").disabled = false;
+};
+$("#an-cy").onkeydown = e => { if ((e.ctrlKey || e.metaKey) && e.key === "Enter") $("#an-go").click(); };
+$("#an-sugg").onclick = e => {
+  const b = e.target.closest(".chip"); if (!b) return;
+  $("#an-cy").value = SUGG[b.dataset.i].cypher; $("#an-cy").focus();
+};
+
+/* ---------- GraphRAG ---------- */
+function ragBody(r, withGraph = true) {
+  const html = DOMPurify.sanitize(marked.parse(r.answer.replace(/\[(S\d+)\]/g, '<sup class="cite" data-id="$1">$1</sup>')));
+  const used = r.facts.filter(f => r.cited.includes(f.citation_id));
+  return `<div class="meta">
+    <span><b>${r.facts.length}</b> relations lues</span><span><b>${r.cited.length}</b> citées</span>
+    <span><b>${ms(r.latency_ms)}</b> ${r.cached ? "(réponse en cache)" : ""}</span>
+    ${r.truncated ? '<span class="tag warn">voisinage tronqué : réponse non exhaustive</span>' : ""}
+    ${r.unknown_citations.length ? `<span class="tag warn">citations inconnues : ${esc(r.unknown_citations.join(", "))}</span>` : ""}
+    ${!r.cited.length ? '<span class="tag warn">aucune citation</span>' : ""}</div>
+    <div class="answer">${html}</div>
+    ${withGraph ? '<div class="net sm" style="margin-top:14px"></div>' : ""}
+    <details style="margin-top:12px" ${withGraph ? "open" : ""}><summary>Sources citées (${used.length})</summary>${
+      used.map(f => `<div class="src" id="src-${f.citation_id}-${withGraph ? "a" : "c"}"><b>[${f.citation_id}]</b> ${esc(f.subject)} — ${esc(f.relation.replaceAll("_", " "))} — ${esc(f.object)}
+      <span class="tag">${esc(f.temporal_status)}</span>${f.role_title ? ` · ${esc(f.role_title)}` : ""}${
+        f.sources.map(s => `<br><q>${esc(s.quote)}</q> <a href="${esc(s.revision_url || s.source_url)}" target="_blank" rel="noopener">source</a>`).join("")}</div>`).join("")
+      || "<p class='lede'>Aucune source citée.</p>"}</details>`;
+}
+function wireRag(box, r, suffix) {
+  box.querySelectorAll(".cite").forEach(c => c.onclick = () => {
+    box.querySelectorAll(".hl").forEach(x => x.classList.remove("hl"));
+    const t = box.querySelector(`#src-${c.dataset.id}-${suffix}`); c.classList.add("hl");
+    if (t) { t.classList.add("hl"); t.scrollIntoView({block: "nearest", behavior: "smooth"}); }
+  });
+  const el = box.querySelector(".net");
+  if (el) {
+    const nodes = {}; r.facts.forEach(f => {
+      nodes[f.source_id] = {id: f.source_id, label: f.subject, type: f.source_type};
+      nodes[f.target_id] = {id: f.target_id, label: f.object, type: f.target_type}; });
+    drawGraph(el, {nodes: Object.values(nodes), edges: r.facts.map(f => ({id: f.relation_id, from: f.source_id, to: f.target_id, label: f.relation}))},
+      {highlight: r.facts.filter(f => r.cited.includes(f.citation_id)).map(f => f.relation_id)});
+  }
+}
+$("#rg-go").onclick = async () => {
+  const q = $("#rg-q").value.trim(); if (!q) return;
+  $("#rg-go").disabled = true; $("#rg-out").innerHTML = '<div class="empty spin">Récupération du voisinage puis génération…</div>';
+  try {
+    const r = await post("/api/graphrag", {question: q});
+    const box = $("#rg-out"); box.innerHTML = `<div class="card"><p class="lede" style="margin:0 0 8px">Entités reconnues : ${esc(r.seeds.join(", "))}</p>${ragBody(r)}</div>`;
+    wireRag(box, r, "a");
+  } catch (e) { $("#rg-out").innerHTML = err(e); }
+  $("#rg-go").disabled = false;
+};
+
+/* ---------- comparaison live ---------- */
+$("#cmp-live-b").onclick = () => { $("#cmp-live").hidden = false; $("#cmp-bench").hidden = true; $("#cmp-live-b").classList.remove("ghost"); $("#cmp-bench-b").classList.add("ghost"); };
+$("#cmp-bench-b").onclick = () => { $("#cmp-live").hidden = true; $("#cmp-bench").hidden = false; $("#cmp-bench-b").classList.remove("ghost"); $("#cmp-live-b").classList.add("ghost"); };
+
+$("#cp-go").onclick = async () => {
+  const q = $("#cp-q").value.trim(); if (!q) return;
+  const out = $("#cp-out"); $("#cp-go").disabled = true;
+  out.innerHTML = `<div class="grid2"><div class="card"><div class="col-h"><i style="background:var(--ana)"></i>Graph analytics (Cypher)</div><div id="c-a" class="empty spin">Exécution…</div></div>
+    <div class="card"><div class="col-h"><i style="background:var(--rag)"></i>GraphRAG (LLM)</div><div id="c-r" class="empty spin">Génération…</div></div></div><div id="c-m"></div>`;
+  const [a, r] = await Promise.allSettled([
+    runCypher($("#cp-cy").value),
+    post("/api/graphrag", {question: q})]);
+  $("#c-a").className = ""; $("#c-r").className = "";
+  $("#c-a").innerHTML = a.status === "fulfilled" ? anHTML(a.value) : err(a.reason);
+  if (r.status === "fulfilled") { $("#c-r").innerHTML = ragBody(r.value, false); wireRag($("#c-r"), r.value, "c"); } else $("#c-r").innerHTML = err(r.reason);
+  if (a.status === "fulfilled" && r.status === "fulfilled") {
+    const A = a.value, R = r.value, ratio = R.latency_ms / Math.max(A.latency_ms, 1);
+    $("#c-m").innerHTML = `<div class="m">
+      <div><small>Latence Cypher</small><strong style="color:var(--ana)">${ms(A.latency_ms)}</strong></div>
+      <div><small>Latence GraphRAG</small><strong style="color:var(--rag)">${ms(R.latency_ms)}</strong></div>
+      <div><small>Écart</small><strong>× ${ratio < 10 ? ratio.toFixed(1) : Math.round(ratio)}</strong></div>
+      <div><small>Lignes Cypher</small><strong>${A.row_count}</strong></div>
+      <div><small>Relations lues par le LLM</small><strong>${R.facts.length}</strong></div>
+      <div><small>Citations vérifiables</small><strong>${R.cited.length - R.unknown_citations.length}</strong></div>
+      <div><small>Tokens</small><strong>${R.total_tokens ?? "—"}</strong></div></div>
+      <p class="lede">Lecture : Cypher renvoie l'ensemble des résultats pour la requête choisie, sans coût d'inférence. GraphRAG accepte une question libre mais se limite au voisinage récupéré${R.truncated ? " (ici tronqué)" : ""}.</p>`;
+  }
+  $("#cp-go").disabled = false;
+};
+
+/* ---------- benchmark ---------- */
+const cellB = (m, color) => !m ? "—" : m.error ? `<span class="tag warn" title="${esc(m.error)}">erreur</span>` :
+  `<div style="display:flex;gap:8px;align-items:center"><div class="bar2"><span style="width:${(m.score ?? 0) * 100}%;background:${color}"></span></div><b>${pct(m.score)}</b></div>
+   <small style="color:var(--mute)">${ms(m.latency_ms)}${m.missing?.length ? " · manque : " + esc(m.missing.join(", ")) : ""}</small>`;
+$("#bn-go").onclick = async () => {
+  $("#bn-go").disabled = true; $("#bn-info").textContent = "Exécution des deux méthodes sur chaque question…";
+  try {
+    const rows = await post("/api/benchmark/run");
+    const avg = (k, f) => { const v = rows.map(r => r[k]?.[f]).filter(x => typeof x === "number"); return v.length ? v.reduce((a, b) => a + b, 0) / v.length : null; };
+    $("#bn-out").innerHTML = `<div class="m">
+      <div><small>Complétude Cypher</small><strong style="color:var(--ana)">${pct(avg("analytics", "score"))}</strong></div>
+      <div><small>Complétude GraphRAG</small><strong style="color:var(--rag)">${pct(avg("graphrag", "score"))}</strong></div>
+      <div><small>Latence moy. Cypher</small><strong>${ms(avg("analytics", "latency_ms"))}</strong></div>
+      <div><small>Latence moy. GraphRAG</small><strong>${ms(avg("graphrag", "latency_ms"))}</strong></div>
+      <div><small>Tokens moy. GraphRAG</small><strong>${Math.round(avg("graphrag", "tokens") || 0) || "—"}</strong></div></div>
+      <div class="scroll"><table><thead><tr><th>Question</th><th>Type</th><th>Cypher</th><th>GraphRAG</th><th>Citations</th></tr></thead><tbody>${
+      rows.map(r => `<tr><td>${esc(r.question)}<br><small style="color:var(--mute)">attendu : ${esc(r.expected.join(", "))}</small></td><td>${esc(r.type || "")}</td>
+        <td>${cellB(r.analytics, "var(--ana)")}</td><td>${cellB(r.graphrag, "var(--rag)")}</td>
+        <td>${r.graphrag?.citations ?? "—"}${r.graphrag?.unknown ? ` <span class="tag warn">${r.graphrag.unknown} inconnues</span>` : ""}</td></tr>`).join("")}</tbody></table></div>`;
+    $("#bn-info").textContent = `${rows.length} questions évaluées.`;
+  } catch (e) { $("#bn-out").innerHTML = err(e); $("#bn-info").textContent = ""; }
+  $("#bn-go").disabled = false;
+};
+
+/* ---------- initialisation ---------- */
+(async () => {
+  try {
+    const [qs, ents] = await Promise.all([api("/api/analytics"), api("/api/entities")]);
+    SUGG = qs;
+    $("#an-sugg").innerHTML = qs.map((q, i) => `<button class="chip" data-i="${i}">${esc(q.question)}</button>`).join("");
+    $("#entity-list").innerHTML = ents.map(e => `<option value="${esc(e.name)}">`).join("");
+    $("#status").textContent = `${ents.length} entités connectées`;
+    loadGraph();
+  } catch (e) { $("#status").textContent = "API indisponible"; $("#net").innerHTML = err(e); }
+})();
+</script>
+</body>
+</html>

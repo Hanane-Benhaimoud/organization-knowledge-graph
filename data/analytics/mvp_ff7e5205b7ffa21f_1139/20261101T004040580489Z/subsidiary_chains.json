@@ -1,0 +1,121 @@
+{
+  "query_id": "subsidiary_chains",
+  "question": "Quelles organisations sont accessibles depuis cette organisation par un à trois liens de filiation ?",
+  "method": "cypher",
+  "dataset_id": "mvp_ff7e5205b7ffa21f_1139",
+  "parameters": {
+    "dataset": "mvp_ff7e5205b7ffa21f_1139",
+    "person": "Thomas Schäfer",
+    "organization": "Google"
+  },
+  "cypher": "\n            MATCH path =\n                (parent:Organization)-[:PARENT_OF*1..3]->\n                (child:Organization)\n            WHERE parent.name_key = toLower(trim($organization))\n              AND parent.entity_id <> child.entity_id\n              AND all(\n                  rel IN relationships(path)\n                  WHERE rel.dataset_id = $dataset\n              )\n            RETURN parent.name AS parent,\n                   child.name AS subsidiary,\n                   length(path) AS hops,\n                   [n IN nodes(path) | n.name] AS chain,\n                   [rel IN relationships(path) |\n                       {\n                           relation_id: rel.relation_id,\n                           temporal_status: rel.temporal_status,\n                           evidence: rel.evidence,\n                           source_urls: rel.source_urls\n                       }\n                   ] AS supporting_relations\n            ORDER BY hops, subsidiary, chain\n            LIMIT 50\n        ",
+  "measured_client_latency_ms": 303.72,
+  "row_count": 5,
+  "rows": [
+    {
+      "parent": "Google",
+      "subsidiary": "AdMob",
+      "hops": 1,
+      "chain": [
+        "Google",
+        "AdMob"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "AdMob Google Inc. , doing business as Google AdMob or simply AdMob , is a mobile advertising subsidiary of Google"
+          ],
+          "temporal_status": "current_at_source",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/AdMob"
+          ],
+          "relation_id": "be9c3bc633782e2d21aa4f02fb2f630a726d62d650fe86db8fcab8647a762597"
+        }
+      ]
+    },
+    {
+      "parent": "Google",
+      "subsidiary": "DeepMind Technologies",
+      "hops": 1,
+      "chain": [
+        "Google",
+        "DeepMind Technologies"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "In 2014 DeepMind was acquired by Google for a reported £400 million, the company's largest acquisition in Europe at that time."
+          ],
+          "temporal_status": "current_at_source",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Mustafa_Suleyman"
+          ],
+          "relation_id": "f6a359713cb54d04bcdc103adf1dcf5b0d1cd38a555c07f8070ffc44b81e0cbe"
+        }
+      ]
+    },
+    {
+      "parent": "Google",
+      "subsidiary": "Google China",
+      "hops": 1,
+      "chain": [
+        "Google",
+        "Google China"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "Google China is a subsidiary of Google ."
+          ],
+          "temporal_status": "current_at_source",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Google_China"
+          ],
+          "relation_id": "a3220c7bbcd4f1fa4df169c9269b72bf7dc6e5260be89f512eebac9e674e8cfc"
+        }
+      ]
+    },
+    {
+      "parent": "Google",
+      "subsidiary": "Google.org",
+      "hops": 1,
+      "chain": [
+        "Google",
+        "Google.org"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "Google.org is considered a part of Google, as opposed to an Alphabet organization, under the formation of the Alphabet parent company in 2016."
+          ],
+          "temporal_status": "current_at_source",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Google.org"
+          ],
+          "relation_id": "95afaf4d7f7a186d4562e2338eb40cf13c7e851d80549b03968f7435b37a8cee"
+        }
+      ]
+    },
+    {
+      "parent": "Google",
+      "subsidiary": "ITA Software",
+      "hops": 1,
+      "chain": [
+        "Google",
+        "ITA Software"
+      ],
+      "supporting_relations": [
+        {
+          "evidence": [
+            "ITA Software is a travel industry software division of Google , formerly an independent company, in Cambridge, Massachusetts ."
+          ],
+          "temporal_status": "current_at_source",
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/ITA_Software"
+          ],
+          "relation_id": "bed2e687a3c60a934261af95567671b85c1fd43544d6a65c3f2066585086d6d0"
+        }
+      ]
+    }
+  ]
+}

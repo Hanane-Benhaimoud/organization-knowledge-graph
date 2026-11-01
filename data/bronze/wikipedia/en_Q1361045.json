@@ -1,0 +1,1040 @@
+{
+  "document_id": "wikipedia_en_Q1361045",
+  "wikidata_id": "Q1361045",
+  "entity_label": "Wi-Fi Alliance",
+  "entity_type": "organization",
+  "seed_categories": [],
+  "source": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Wi-Fi_Alliance",
+  "revision_id": 1382103276,
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1382103276",
+  "pageid": 816807,
+  "title": "Wi-Fi Alliance",
+  "language": "en",
+  "collected_at": "2026-10-28T21:58:40.216866+00:00",
+  "content": {
+    "sections": [
+      {
+        "heading": "Introduction",
+        "text": "The Wi-Fi Alliance is an American nonprofit organization that owns the Wi-Fi trademark. Manufacturers may use the trademark to brand products certified for Wi-Fi interoperability . It is based in Austin, Texas ."
+      },
+      {
+        "heading": "History",
+        "text": "Early 802.11 products suffered from interoperability problems because the Institute of Electrical and Electronics Engineers (IEEE) had no provision for testing equipment for compliance with its standards.\nIn 1999, pioneers of a new, higher-speed variant endorsed the IEEE 802.11b specification to form the Wireless Ethernet Compatibility Alliance ( WECA ) and branded the new technology Wi-Fi.\nThe group of companies included 3Com , Aironet (acquired by Cisco ), Harris Semiconductor (now Intersil ), Lucent Technologies (the WLAN part was renamed as Orinoco, become part of Avaya , then acquired by Extreme Networks ), Nokia and Symbol Technologies (acquired by Motorola , Zebra Technologies , and now Extreme Networks).\nThe alliance lists Apple , Comcast , Samsung , Sony , LG , Intel , Dell , Broadcom , Cisco , Qualcomm , Motorola Mobility , Microsoft , Texas Instruments , and T-Mobile as key sponsors. The charter for this independent organization was to perform testing, certify interoperability of products, and to promote the technology.\nWECA renamed itself the Wi-Fi Alliance in 2002.\nMost producers of 802.11 equipment became members, and as of 2012, [update] the Wi-Fi Alliance included over 550 member companies. The Wi-Fi Alliance extended Wi-Fi beyond wireless local area network applications into point-to-point and personal area networking and enabled specific applications such as Miracast ."
+      },
+      {
+        "heading": "Wi-Fi certification",
+        "text": "The Wi-Fi Alliance owns and controls the \"Wi-Fi Certified\" logo , a registered trademark , which is permitted only on equipment which has passed testing. Purchasers relying on that trademark may have greater chances of interoperation than otherwise. Testing involves not only radio and data format interoperability, but security protocols , as well as optional testing for quality of service and power management protocols. Wi-Fi Certified products have to demonstrate that they can perform well in networks with other Wi-Fi Certified products, running common applications, in situations similar to those encountered in everyday use. \nCertification employs 3 principles:\nInteroperability is the primary target of certification. Rigorous test cases are used to ensure that products from different equipment vendors can interoperate in a wide variety of configurations. Backward compatibility has to be preserved to allow for new equipment to work with existing gear. Backward compatibility protects investments in legacy Wi-Fi products and enables users to gradually upgrade and expand their networks. New certification programs allow newer technology and specifications come into the marketplace. These certification programs may be mandatory (e.g., WPA2 ) or optional (e.g., WMM ).\nThe Wi-Fi Alliance definition of interoperability demands that products have to show satisfactory performance levels in typical network configurations and have to support both established and emerging applications. \nThe Wi-Fi Alliance certification process includes three types of tests to ensure interoperability. Wi-Fi Certified products are tested for:\nCompatibility: certified equipment has been tested for connectivity with other certified equipment. Compatibility testing has always been, and still is, the predominant component of interoperability testing, and it is the element that most people associate with \"interoperability\". It involves tests with multiple devices from different equipment vendors. Conformance: the equipment conforms to specific critical elements of the IEEE 802.11 standard. Conformance testing usually involves standalone analysis of individual products and establishes whether the equipment responds to inputs as expected and specified. For example, conformance testing is used to ensure that Wi-Fi equipment protects itself and the network when the equipment detects evidence of network attacks. Performance: the equipment meets the performance levels required. Performance tests are not designed to measure and compare performance among products, but simply to verify that the product meets the minimum performance requirements. Specific performance tests results are not released by the Wi-Fi Alliance."
+      },
+      {
+        "heading": "Certification types",
+        "text": "The Wi-Fi Alliance provides certification testing in two levels:\nMandatory:\nCore MAC/PHY interoperability over 802.11a , 802.11b , 802.11g , and 802.11n (at least one). Wi-Fi Protected Access 2 (WPA2) security, which aligns with IEEE 802.11i. WPA2 is available in two types: WPA2-Personal for consumer use, and WPA2 Enterprise, which adds EAP authentication.\nOptional:\nTests corresponding to IEEE 802.11h and 802.11d. WMM Quality of Service, based upon a subset of IEEE 802.11e. WMM Power Save, based upon APSD within IEEE 802.11e Wi-Fi Protected Setup , a specification developed by the Alliance to ease the process of setting up and enabling security protections on small office and consumer Wi-Fi networks. Application Specific Device (ASD), for wireless devices other than Access Point and Station which has specific application, such as DVD players, projectors, printers, etc. Converged Wireless Group–Radio Frequency (CWG-RF, offered in conjunction with CTIA), to provide performance mapping of Wi-Fi and cellular radios in converged devices. Passpoint/Hotspot 2.0"
+      },
+      {
+        "heading": "Certification programs",
+        "text": "There are a number of certification programs by Wi-Fi alliance:"
+      },
+      {
+        "heading": "2.4/5/6GHz Wi-Fi",
+        "text": "The 802.11 protocols are IEEE standards, identified as 802.11b, 11g, 11n, 11ac, etc. In 2018 The Wi-Fi Alliance created the simpler generation labels Wi-Fi 4 - 6 beginning with Wi-Fi 5, retroactively added Wi-Fi 4 and later added Wi-Fi 6 and Wi-Fi 6E. Wi-Fi 5 had Wave 1 and Wave 2 phases. Wi-Fi 6E extends the 2.4/5 GHz range to 6 GHz, where licensed. Listed in historical and capacity order. See the individual 802.11 articles for version details or 802.11 for a composite summary."
+      },
+      {
+        "heading": "WiGig",
+        "text": "WiGig refers to 60 GHz wireless local area network connection. It was initially announced in 2013 by Wireless Gigabit Alliance , and was adopted by the Wi-Fi Alliance in 2013. They started certifying in 2016. The first version of WiGig is IEEE 802.11ad , and a newer version IEEE 802.11ay was released in 2021."
+      },
+      {
+        "heading": "Wi-Fi Direct",
+        "text": "In October 2010, the Alliance began to certify Wi-Fi Direct , that allows Wi-Fi-enabled devices to communicate directly with each other by setting up ad-hoc networks, without going through a wireless access point or hotspot. Since 2009 when it was first announced, some suggested Wi-Fi Direct might replace the need for Bluetooth on applications that do not rely on Bluetooth low energy."
+      },
+      {
+        "heading": "WPA",
+        "text": "Wi-Fi Protected Access is a security mechanism based on IEEE 802.11i amendment to the standard that the Wi-Fi Alliance started to certify from the year of 2003."
+      },
+      {
+        "heading": "IBSS with Wi-Fi Protected Setup",
+        "text": "IBSS with Wi-Fi Protected Setup would enable the creation of ad hoc network between devices directly without central access point."
+      },
+      {
+        "heading": "Wi-Fi Passpoint",
+        "text": "Wi-Fi Passpoint, alternatively known as Hotspot 2.0 , is a solution for enabling inter-carrier roaming. It utilizes IEEE 802.11u ."
+      },
+      {
+        "heading": "Wi-Fi Easy Connect",
+        "text": "Wi-Fi Easy Connect is a protocol that would enable easily establishing connections via QR code ."
+      },
+      {
+        "heading": "Wi-Fi Protected Setup",
+        "text": "Wi-Fi Protected Setup (WPS) is a network security standard to simply create a secure wireless home network , created and introduced by Wi-Fi Alliance in 2006."
+      },
+      {
+        "heading": "Miracast",
+        "text": "Miracast , introduced in 2012, is a standard for wireless display connections from devices such as laptops, tablets, or smartphones. Its goal is to replace cables connecting from the device to the display."
+      },
+      {
+        "heading": "Wi-Fi Aware",
+        "text": "Wi-Fi Aware or Neighbor Awareness Networking (NAN) is an interoperability certification program announced in January 2015 that enables device users, when in the range of a particular access point or another compatible device, to receive notifications of applications or services available in the proximity. Later versions of this standard included new features such as the capability to establish a peer-to-peer data connection for file transfer .\nFears were voiced immediately in media that it would be predominantly used for proximity marketing .\nUnlike Wi-Fi Direct , introduced in 2010, which establishes peer-to-peer connections using a group owner that acts as an access point, Wi-Fi Aware uses a separate protocol for proximity-based discovery and can establish direct data connections without forming a Wi-Fi Direct group."
+      },
+      {
+        "heading": "Wi-Fi Location",
+        "text": "Wi-Fi Location is a type of Wi-Fi positioning system , and the certification could help providing accuracy to in-door positioning."
+      },
+      {
+        "heading": "TDLS",
+        "text": "TDLS , or Tunneled Direct Link Setup, is \"a seamless way to stream media and other data faster between devices already on the same Wi-Fi network\" based on IEEE 802.11z and added to Wi-Fi Alliance certification program in 2012. Devices using it communicate directly with one another, without involving the wireless network's router."
+      },
+      {
+        "heading": "Wi-Fi Agile Multiband",
+        "text": "The certification of Wi-Fi Agile Multiband indicate devices can automatically connect and maintain connection in the most suitable way. It covers the IEEE 802.11k standard about access point information report, the IEEE 802.11v standard that enable exchanging information about state of network, IEEE 802.11u standard about additional information of a Wi-Fi network, IEEE 802.11r about fast transition roaming between different access points, as well as other technologies specified by Wi-Fi alliance."
+      },
+      {
+        "heading": "Wi-Fi EasyMesh",
+        "text": "Wi-Fi EasyMesh is a certification program based on its Multi-Access Point specification for creating Wi-Fi meshes from products by different vendors, based on IEEE 1905.1 . It is intended to address the problem of Wi-Fi systems that need to cover large areas where several routers serve as multiple access points, working together to form a larger/extended and unified network."
+      },
+      {
+        "heading": "Wi-Fi Vantage",
+        "text": "Formerly known as Carrier Wi-Fi, Wi-Fi Vantage is a certification program for operators to maintain and manage quality Wi-Fi connections in high usage environment. It includes a number of certification, such as Wi-Fi certified ac (as in 802.11ac), Passpoint, Agile Multiband, and Optimized Connectivity."
+      },
+      {
+        "heading": "WMM",
+        "text": "Wi-Fi Multimedia (WMM) or known as Wireless Multimedia Extensions is a Wi-Fi Alliance interoperability certification based on the IEEE 802.11e standard. It provides basic quality of service (QoS) features to IEEE 802.11 networks."
+      },
+      {
+        "heading": "Wi-Fi Home Design",
+        "text": "Wi-Fi Home Design is a set of guidelines released by Wi-Fi alliance for inclusion of wireless network in home design."
+      },
+      {
+        "heading": "Wi-Fi HaLow",
+        "text": "Wi-Fi HaLow is a standard for low-power wide-area (LPWA) connection standard using sub-1 GHz spectrum for IoT devices. It is based on IEEE 802.11ah ."
+      },
+      {
+        "heading": "External links",
+        "text": "Official website"
+      }
+    ],
+    "full_text": "Introduction\nThe Wi-Fi Alliance is an American nonprofit organization that owns the Wi-Fi trademark. Manufacturers may use the trademark to brand products certified for Wi-Fi interoperability . It is based in Austin, Texas .\n\nHistory\nEarly 802.11 products suffered from interoperability problems because the Institute of Electrical and Electronics Engineers (IEEE) had no provision for testing equipment for compliance with its standards.\nIn 1999, pioneers of a new, higher-speed variant endorsed the IEEE 802.11b specification to form the Wireless Ethernet Compatibility Alliance ( WECA ) and branded the new technology Wi-Fi.\nThe group of companies included 3Com , Aironet (acquired by Cisco ), Harris Semiconductor (now Intersil ), Lucent Technologies (the WLAN part was renamed as Orinoco, become part of Avaya , then acquired by Extreme Networks ), Nokia and Symbol Technologies (acquired by Motorola , Zebra Technologies , and now Extreme Networks).\nThe alliance lists Apple , Comcast , Samsung , Sony , LG , Intel , Dell , Broadcom , Cisco , Qualcomm , Motorola Mobility , Microsoft , Texas Instruments , and T-Mobile as key sponsors. The charter for this independent organization was to perform testing, certify interoperability of products, and to promote the technology.\nWECA renamed itself the Wi-Fi Alliance in 2002.\nMost producers of 802.11 equipment became members, and as of 2012, [update] the Wi-Fi Alliance included over 550 member companies. The Wi-Fi Alliance extended Wi-Fi beyond wireless local area network applications into point-to-point and personal area networking and enabled specific applications such as Miracast .\n\nWi-Fi certification\nThe Wi-Fi Alliance owns and controls the \"Wi-Fi Certified\" logo , a registered trademark , which is permitted only on equipment which has passed testing. Purchasers relying on that trademark may have greater chances of interoperation than otherwise. Testing involves not only radio and data format interoperability, but security protocols , as well as optional testing for quality of service and power management protocols. Wi-Fi Certified products have to demonstrate that they can perform well in networks with other Wi-Fi Certified products, running common applications, in situations similar to those encountered in everyday use. \nCertification employs 3 principles:\nInteroperability is the primary target of certification. Rigorous test cases are used to ensure that products from different equipment vendors can interoperate in a wide variety of configurations. Backward compatibility has to be preserved to allow for new equipment to work with existing gear. Backward compatibility protects investments in legacy Wi-Fi products and enables users to gradually upgrade and expand their networks. New certification programs allow newer technology and specifications come into the marketplace. These certification programs may be mandatory (e.g., WPA2 ) or optional (e.g., WMM ).\nThe Wi-Fi Alliance definition of interoperability demands that products have to show satisfactory performance levels in typical network configurations and have to support both established and emerging applications. \nThe Wi-Fi Alliance certification process includes three types of tests to ensure interoperability. Wi-Fi Certified products are tested for:\nCompatibility: certified equipment has been tested for connectivity with other certified equipment. Compatibility testing has always been, and still is, the predominant component of interoperability testing, and it is the element that most people associate with \"interoperability\". It involves tests with multiple devices from different equipment vendors. Conformance: the equipment conforms to specific critical elements of the IEEE 802.11 standard. Conformance testing usually involves standalone analysis of individual products and establishes whether the equipment responds to inputs as expected and specified. For example, conformance testing is used to ensure that Wi-Fi equipment protects itself and the network when the equipment detects evidence of network attacks. Performance: the equipment meets the performance levels required. Performance tests are not designed to measure and compare performance among products, but simply to verify that the product meets the minimum performance requirements. Specific performance tests results are not released by the Wi-Fi Alliance.\n\nCertification types\nThe Wi-Fi Alliance provides certification testing in two levels:\nMandatory:\nCore MAC/PHY interoperability over 802.11a , 802.11b , 802.11g , and 802.11n (at least one). Wi-Fi Protected Access 2 (WPA2) security, which aligns with IEEE 802.11i. WPA2 is available in two types: WPA2-Personal for consumer use, and WPA2 Enterprise, which adds EAP authentication.\nOptional:\nTests corresponding to IEEE 802.11h and 802.11d. WMM Quality of Service, based upon a subset of IEEE 802.11e. WMM Power Save, based upon APSD within IEEE 802.11e Wi-Fi Protected Setup , a specification developed by the Alliance to ease the process of setting up and enabling security protections on small office and consumer Wi-Fi networks. Application Specific Device (ASD), for wireless devices other than Access Point and Station which has specific application, such as DVD players, projectors, printers, etc. Converged Wireless Group–Radio Frequency (CWG-RF, offered in conjunction with CTIA), to provide performance mapping of Wi-Fi and cellular radios in converged devices. Passpoint/Hotspot 2.0\n\nCertification programs\nThere are a number of certification programs by Wi-Fi alliance:\n\n2.4/5/6GHz Wi-Fi\nThe 802.11 protocols are IEEE standards, identified as 802.11b, 11g, 11n, 11ac, etc. In 2018 The Wi-Fi Alliance created the simpler generation labels Wi-Fi 4 - 6 beginning with Wi-Fi 5, retroactively added Wi-Fi 4 and later added Wi-Fi 6 and Wi-Fi 6E. Wi-Fi 5 had Wave 1 and Wave 2 phases. Wi-Fi 6E extends the 2.4/5 GHz range to 6 GHz, where licensed. Listed in historical and capacity order. See the individual 802.11 articles for version details or 802.11 for a composite summary.\n\nWiGig\nWiGig refers to 60 GHz wireless local area network connection. It was initially announced in 2013 by Wireless Gigabit Alliance , and was adopted by the Wi-Fi Alliance in 2013. They started certifying in 2016. The first version of WiGig is IEEE 802.11ad , and a newer version IEEE 802.11ay was released in 2021.\n\nWi-Fi Direct\nIn October 2010, the Alliance began to certify Wi-Fi Direct , that allows Wi-Fi-enabled devices to communicate directly with each other by setting up ad-hoc networks, without going through a wireless access point or hotspot. Since 2009 when it was first announced, some suggested Wi-Fi Direct might replace the need for Bluetooth on applications that do not rely on Bluetooth low energy.\n\nWPA\nWi-Fi Protected Access is a security mechanism based on IEEE 802.11i amendment to the standard that the Wi-Fi Alliance started to certify from the year of 2003.\n\nIBSS with Wi-Fi Protected Setup\nIBSS with Wi-Fi Protected Setup would enable the creation of ad hoc network between devices directly without central access point.\n\nWi-Fi Passpoint\nWi-Fi Passpoint, alternatively known as Hotspot 2.0 , is a solution for enabling inter-carrier roaming. It utilizes IEEE 802.11u .\n\nWi-Fi Easy Connect\nWi-Fi Easy Connect is a protocol that would enable easily establishing connections via QR code .\n\nWi-Fi Protected Setup\nWi-Fi Protected Setup (WPS) is a network security standard to simply create a secure wireless home network , created and introduced by Wi-Fi Alliance in 2006.\n\nMiracast\nMiracast , introduced in 2012, is a standard for wireless display connections from devices such as laptops, tablets, or smartphones. Its goal is to replace cables connecting from the device to the display.\n\nWi-Fi Aware\nWi-Fi Aware or Neighbor Awareness Networking (NAN) is an interoperability certification program announced in January 2015 that enables device users, when in the range of a particular access point or another compatible device, to receive notifications of applications or services available in the proximity. Later versions of this standard included new features such as the capability to establish a peer-to-peer data connection for file transfer .\nFears were voiced immediately in media that it would be predominantly used for proximity marketing .\nUnlike Wi-Fi Direct , introduced in 2010, which establishes peer-to-peer connections using a group owner that acts as an access point, Wi-Fi Aware uses a separate protocol for proximity-based discovery and can establish direct data connections without forming a Wi-Fi Direct group.\n\nWi-Fi Location\nWi-Fi Location is a type of Wi-Fi positioning system , and the certification could help providing accuracy to in-door positioning.\n\nTDLS\nTDLS , or Tunneled Direct Link Setup, is \"a seamless way to stream media and other data faster between devices already on the same Wi-Fi network\" based on IEEE 802.11z and added to Wi-Fi Alliance certification program in 2012. Devices using it communicate directly with one another, without involving the wireless network's router.\n\nWi-Fi Agile Multiband\nThe certification of Wi-Fi Agile Multiband indicate devices can automatically connect and maintain connection in the most suitable way. It covers the IEEE 802.11k standard about access point information report, the IEEE 802.11v standard that enable exchanging information about state of network, IEEE 802.11u standard about additional information of a Wi-Fi network, IEEE 802.11r about fast transition roaming between different access points, as well as other technologies specified by Wi-Fi alliance.\n\nWi-Fi EasyMesh\nWi-Fi EasyMesh is a certification program based on its Multi-Access Point specification for creating Wi-Fi meshes from products by different vendors, based on IEEE 1905.1 . It is intended to address the problem of Wi-Fi systems that need to cover large areas where several routers serve as multiple access points, working together to form a larger/extended and unified network.\n\nWi-Fi Vantage\nFormerly known as Carrier Wi-Fi, Wi-Fi Vantage is a certification program for operators to maintain and manage quality Wi-Fi connections in high usage environment. It includes a number of certification, such as Wi-Fi certified ac (as in 802.11ac), Passpoint, Agile Multiband, and Optimized Connectivity.\n\nWMM\nWi-Fi Multimedia (WMM) or known as Wireless Multimedia Extensions is a Wi-Fi Alliance interoperability certification based on the IEEE 802.11e standard. It provides basic quality of service (QoS) features to IEEE 802.11 networks.\n\nWi-Fi Home Design\nWi-Fi Home Design is a set of guidelines released by Wi-Fi alliance for inclusion of wireless network in home design.\n\nWi-Fi HaLow\nWi-Fi HaLow is a standard for low-power wide-area (LPWA) connection standard using sub-1 GHz spectrum for IoT devices. It is based on IEEE 802.11ah .\n\nExternal links\nOfficial website"
+  },
+  "references": [
+    {
+      "url": "https://www.wi-fi.org/who-we-are/governing-documents",
+      "label": "\"Governing Documents\""
+    },
+    {
+      "url": "https://web.archive.org/web/20210812020434/https://www.wi-fi.org/who-we-are/governing-documents",
+      "label": "Archived"
+    },
+    {
+      "url": "https://books.google.com/books?id=wU2BhKKpkOkC&pg=PA407",
+      "label": "Building Broadband Networks"
+    },
+    {
+      "url": "https://web.archive.org/web/20221007221443/https://books.google.com/books?id=wU2BhKKpkOkC&pg=PA407",
+      "label": "Archived"
+    },
+    {
+      "url": "https://books.google.com/books?id=-peYIFTCW74C&pg=PA111",
+      "label": "Wireless Access 2000"
+    },
+    {
+      "url": "https://web.archive.org/web/20221007221443/https://books.google.com/books?id=-peYIFTCW74C&pg=PA111",
+      "label": "Archived"
+    },
+    {
+      "url": "https://web.archive.org/web/20090903004711/http://www.wi-fi.org/organization.php",
+      "label": "\"Wi-Fi Alliance: Organization\""
+    },
+    {
+      "url": "https://www.wi-fi.org/organization.php",
+      "label": "the original"
+    },
+    {
+      "url": "http://www.networkworld.com/news/2001/0528wispr.html",
+      "label": "\"Effort afoot to provide wireless LAN roaming\""
+    },
+    {
+      "url": "https://web.archive.org/web/20120207134046/http://www.networkworld.com/news/2001/0528wispr.html",
+      "label": "Archived"
+    },
+    {
+      "url": "http://www.internetnews.com/wireless/article.php/1474361/WECA-becomes-Wi-Fi-Alliance.htm",
+      "label": "\"WECA becomes Wi-Fi Alliance\""
+    },
+    {
+      "url": "https://web.archive.org/web/20131002101905/http://www.internetnews.com/wireless/article.php/1474361/WECA-becomes-Wi-Fi-Alliance.htm",
+      "label": "Archived"
+    },
+    {
+      "url": "http://www.senzafiliconsulting.com/downloads/Wi-Fi_Certified_Makes_it_Wi-Fi.pdf",
+      "label": "\"An overview of Wi-Fi Alliance certification\""
+    },
+    {
+      "url": "https://web.archive.org/web/20160304121332/http://www.senzafiliconsulting.com/downloads/Wi-Fi_Certified_Makes_it_Wi-Fi.pdf",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.wi-fi.org/insist-on-wi-fi-certified",
+      "label": "\"Insist on Wi-Fi Certified\""
+    },
+    {
+      "url": "https://web.archive.org/web/20160816180059/http://www.wi-fi.org/insist-on-wi-fi-certified",
+      "label": "Archived"
+    },
+    {
+      "url": "https://web.archive.org/web/20080213010150/http://www.wi-fi.org/knowledge_center/wpa2",
+      "label": "\"WPA2 – Featured Topics from Wi-Fi Alliance\""
+    },
+    {
+      "url": "https://www.wi-fi.org/knowledge_center/wpa2",
+      "label": "the original"
+    },
+    {
+      "url": "https://web.archive.org/web/20080218102114/http://www.wi-fi.org/knowledge_center/wmm",
+      "label": "\"WMM – Article from Wi-Fi Alliance\""
+    },
+    {
+      "url": "https://www.wi-fi.org/knowledge_center/wmm",
+      "label": "the original"
+    },
+    {
+      "url": "https://www.wi-fi.org/knowledge_center/wmmpowersave",
+      "label": "\"Power save – Article from Wi-Fi Alliance\""
+    },
+    {
+      "url": "https://web.archive.org/web/20080206145625/http://www.wi-fi.org/knowledge_center/wmmpowersave/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://web.archive.org/web/20091007005125/http://www.wi-fi.org/wifi-protected-setup",
+      "label": "\"WPS – Article from Wi-Fi Alliance\""
+    },
+    {
+      "url": "https://www.wi-fi.org/wifi-protected-setup",
+      "label": "the original"
+    },
+    {
+      "url": "https://www.wi-fi.org/discover-wi-fi/wi-fi-certified-passpoint",
+      "label": "\"Wi-Fi CERTIFIED Passpoint | Wi-Fi Alliance\""
+    },
+    {
+      "url": "https://web.archive.org/web/20170611080349/http://www.wi-fi.org/discover-wi-fi/wi-fi-certified-passpoint",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.wi-fi.org/certification/programs",
+      "label": "\"Programs\""
+    },
+    {
+      "url": "https://standards.ieee.org/beyond-standards/the-evolution-of-wi-fi-technology-and-standards/",
+      "label": "\"The Evolution of Wi-Fi Technology and Standards\""
+    },
+    {
+      "url": "https://www.wi-fi.org/file/generational-wi-fi-user-guide",
+      "label": "\"Generational Wi-Fi® User Guide\""
+    },
+    {
+      "url": "https://doi.org/10.1134%2FS003294602502005X",
+      "label": "\"A Tutorial on Wi-Fi 8: The Journey to Ultra High Reliability\""
+    },
+    {
+      "url": "https://arxiv.org/abs/2303.10442",
+      "label": "2303.10442"
+    },
+    {
+      "url": "https://ui.adsabs.harvard.edu/abs/2024IComM..62h.126G",
+      "label": "2024IComM..62h.126G"
+    },
+    {
+      "url": "https://doi.org/10.1109%2FMCOM.001.2300728",
+      "label": "10.1109/MCOM.001.2300728"
+    },
+    {
+      "url": "https://arxiv.org/abs/2512.23901",
+      "label": "2512.23901"
+    },
+    {
+      "url": "https://arxiv.org/archive/cs.NI",
+      "label": "cs.NI"
+    },
+    {
+      "url": "https://www.wi-fi.org/discover-wi-fi/wi-fi-certified-6",
+      "label": "\"Wi-Fi Certified 6\""
+    },
+    {
+      "url": "https://web.archive.org/web/20190415134029/https://www.wi-fi.org/discover-wi-fi/wi-fi-certified-6",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.theverge.com/2018/10/3/17926212/wifi-6-version-numbers-announced",
+      "label": "\"Wi-Fi now has version numbers, and Wi-Fi 6 comes out next year\""
+    },
+    {
+      "url": "https://web.archive.org/web/20190502231159/https://www.theverge.com/2018/10/3/17926212/wifi-6-version-numbers-announced",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.wi-fi.org/news-events/newsroom/wi-fi-alliance-brings-wi-fi-6-into-6-ghz",
+      "label": "\"Wi-Fi Alliance Brings Wi-Fi 6 into 6 GHz\""
+    },
+    {
+      "url": "https://web.archive.org/web/20210130003528/https://www.wi-fi.org/news-events/newsroom/wi-fi-alliance-brings-wi-fi-6-into-6-ghz",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.howtogeek.com/371328/what-is-wigig-and-how-is-it-different-from-wi-fi-6/",
+      "label": "\"What Is WiGig, and How Is It Different from Wi-Fi 6?\""
+    },
+    {
+      "url": "https://web.archive.org/web/20181129100403/https://www.howtogeek.com/371328/what-is-wigig-and-how-is-it-different-from-wi-fi-6/",
+      "label": "Archived"
+    },
+    {
+      "url": "http://www.marketwired.com/press-release/wi-fi-certified-wigig-brings-multi-gigabit-performance-to-wi-fir-devices-2169303.htm",
+      "label": "\"Wi-Fi CERTIFIED WiGig™ brings multi-gigabit performance to Wi-Fi devices\""
+    },
+    {
+      "url": "https://web.archive.org/web/20181129100650/http://www.marketwired.com/press-release/wi-fi-certified-wigig-brings-multi-gigabit-performance-to-wi-fir-devices-2169303.htm",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.ieee802.org/11/Reports/tgay_update.htm",
+      "label": "\"Status of Project IEEE 802.11ay\""
+    },
+    {
+      "url": "https://web.archive.org/web/20220119212924/https://www.ieee802.org/11/Reports/tgay_update.htm",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.wi-fi.org/media/press-releases/wi-fi%C2%सAE-gets-personal-groundbreaking-wi-fi-direct%E2%84%A2-launches-today",
+      "label": "\"Wi-Fi gets personal: Groundbreaking Wi-Fi Direct launches today\""
+    },
+    {
+      "url": "https://www.techradar.com/news/phone-and-communications/mobile-phones/wi-fi-direct-what-it-is-and-why-you-should-care-1065449",
+      "label": "\"Wi-Fi Direct: what it is and why you should care\""
+    },
+    {
+      "url": "https://web.archive.org/web/20180802071626/https://www.techradar.com/news/phone-and-communications/mobile-phones/wi-fi-direct-what-it-is-and-why-you-should-care-1065449",
+      "label": "Archived"
+    },
+    {
+      "url": "http://www.networkworld.com/news/2009/101509-wi-fi-direct-could-be-the.html",
+      "label": "\"Wi-Fi Direct could be death of Bluetooth\""
+    },
+    {
+      "url": "https://web.archive.org/web/20131114013118/http://www.networkworld.com/news/2009/101509-wi-fi-direct-could-be-the.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://web.archive.org/web/20140108110033/http://www.businessweek.com/technology/content/oct2009/tc20091013_683659.htm",
+      "label": "\"Wi-Fi Is About to Get a Whole Lot Easier\""
+    },
+    {
+      "url": "http://www.businessweek.com/technology/content/oct2009/tc20091013_683659.htm",
+      "label": "the original"
+    },
+    {
+      "url": "https://www.itworld.com/article/2777636/mobile/overview-of-wpa-from-wi-fi-alliance.html",
+      "label": "\"Overview of WPA from Wi-Fi Alliance\""
+    },
+    {
+      "url": "https://web.archive.org/web/20181129100641/https://www.itworld.com/article/2777636/mobile/overview-of-wpa-from-wi-fi-alliance.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.wi-fi.org/downloads-registered-guest/wp_IBSS_20121113.pdf/7559",
+      "label": "\"Mobile Ad-Hoc Networking: Wi-Fi Certified IBSS with Wi-Fi Protected Setup (2012)\""
+    },
+    {
+      "url": "https://web.archive.org/web/20181129142338/https://www.wi-fi.org/downloads-registered-guest/wp_IBSS_20121113.pdf/7559",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.networkworld.com/article/962724/using-passpoint-for-private-wi-fi-networks.html",
+      "label": "\"Using Passpoint for private Wi-Fi networks\""
+    },
+    {
+      "url": "https://web.archive.org/web/20240426183833/https://www.networkworld.com/article/962724/using-passpoint-for-private-wi-fi-networks.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://venturebeat.com/2018/06/25/wi-fi-alliance-introduces-wpa3-and-wi-fi-easy-connect/",
+      "label": "\"Wi-Fi Alliance introduces WPA3 and Wi-Fi Easy Connect\""
+    },
+    {
+      "url": "https://web.archive.org/web/20181129142453/https://venturebeat.com/2018/06/25/wi-fi-alliance-introduces-wpa3-and-wi-fi-easy-connect/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://dvdhrm.wordpress.com/2014/02/17/on-wifi-democratic-republics-and-miracles/",
+      "label": "\"On Wifi-Display, Democratic Republics and Miracles\""
+    },
+    {
+      "url": "https://web.archive.org/web/20160322104253/https://dvdhrm.wordpress.com/2014/02/17/on-wifi-democratic-republics-and-miracles/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.wi-fi.org/discover-wi-fi/wi-fi-aware",
+      "label": "\"Wi-Fi Aware | Wi-Fi Alliance\""
+    },
+    {
+      "url": "https://web.archive.org/web/20170429173628/http://www.wi-fi.org/discover-wi-fi/wi-fi-aware",
+      "label": "Archived"
+    },
+    {
+      "url": "https://techcrunch.com/2015/07/14/wi-fi-aware-aims-to-connect-all-your-devices-instantly/",
+      "label": "\"Wi-Fi Aware Aims to Connect All Your Devices Instantly\""
+    },
+    {
+      "url": "https://web.archive.org/web/20170329192909/https://techcrunch.com/2015/07/14/wi-fi-aware-aims-to-connect-all-your-devices-instantly/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://globenewswire.com/news-release/2018/04/24/1486154/0/en/Wi-Fi-CERTIFIED-Wi-Fi-Aware-enhances-the-Wi-Fi-mobile-experience.html",
+      "label": "\"Wi-Fi CERTIFIED Wi-Fi Aware™ enhances the Wi-Fi® mobile experience\""
+    },
+    {
+      "url": "https://web.archive.org/web/20180802104716/https://globenewswire.com/news-release/2018/04/24/1486154/0/en/Wi-Fi-CERTIFIED-Wi-Fi-Aware-enhances-the-Wi-Fi-mobile-experience.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.theregister.co.uk/2015/07/15/wifi_alliance_ushers_in_new_era_of_intrusive_apps/",
+      "label": "\"Wi-Fi Alliance ushers in new era of intrusive apps\""
+    },
+    {
+      "url": "https://web.archive.org/web/20170113160529/http://www.theregister.co.uk/2015/07/15/wifi_alliance_ushers_in_new_era_of_intrusive_apps/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/wi-fi-gets-personal-groundbreaking-wi-fi-direct-launches-today-105666058.html",
+      "label": "\"Wi-Fi Gets Personal: Groundbreaking Wi-Fi Direct Launches Today\""
+    },
+    {
+      "url": "https://files.ifi.uzh.ch/stiller/CLOSER%202014/WEBIST/WEBIST/BA/Short%20Paper/BA_2014_5_CR.pdf",
+      "label": "\"WEBIST 2014 Conference Paper\""
+    },
+    {
+      "url": "https://documentation.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/network/esp_nan.html",
+      "label": "\"Wi-Fi Aware (NAN)\""
+    },
+    {
+      "url": "https://www.fiercewireless.com/tech/wi-fi-alliance-introduces-certification-for-better-indoor-positioning-featureWi-Fi",
+      "label": "Alliance introduces certification for better indoor positioning"
+    },
+    {
+      "url": "http://www.androidpolice.com/2013/10/31/kitkat-feature-spotlight-wi-fi-tdls-support-allows-for-faster-direct-data-transfer-on-a-wi-fi-network-without-slowing-other-devices/",
+      "label": "\"KitKat Feature Spotlight: Wi-Fi TDLS Support Allows for Faster Direct Data Transfer on a Wi-Fi Network without Slowing Other Devices\""
+    },
+    {
+      "url": "https://web.archive.org/web/20190214092852/https://www.androidpolice.com/2013/10/31/kitkat-feature-spotlight-wi-fi-tdls-support-allows-for-faster-direct-data-transfer-on-a-wi-fi-network-without-slowing-other-devices/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.wi-fi.org/discover-wi-fi/wi-fi-easymesh",
+      "label": "\"Wi-Fi EasyMesh\""
+    },
+    {
+      "url": "https://web.archive.org/web/20180517223906/https://www.wi-fi.org/discover-wi-fi/wi-fi-easymesh",
+      "label": "Archived"
+    },
+    {
+      "url": "https://web.archive.org/web/20180704093758/https://www.wi-fi.org/discover-wi-fi/wi-fi-easymesh",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.howtogeek.com/352480/what-is-the-new-easymesh-wi-fi-standard-and-why-it-doesnt-matter-yet/",
+      "label": "\"What Is the New EasyMesh Wi-Fi Standard? (and Why It Doesn't Matter Yet)\""
+    },
+    {
+      "url": "https://web.archive.org/web/20180802071346/https://www.howtogeek.com/352480/what-is-the-new-easymesh-wi-fi-standard-and-why-it-doesnt-matter-yet/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.wi-fi.org/news-events/newsroom/wi-fi-certified-easymesh-delivers-intelligent-wi-fi-networks",
+      "label": "\"Wi-Fi Certified EasyMesh Delivers Intelligent Wi-Fi Networks\""
+    },
+    {
+      "url": "https://web.archive.org/web/20180802071437/https://www.wi-fi.org/news-events/newsroom/wi-fi-certified-easymesh-delivers-intelligent-wi-fi-networks",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.cablelabs.com/carrier-wi-fi-now-vantage/",
+      "label": "\"Carrier Wi-Fi Is Now Wi-Fi Certified Vantage\""
+    },
+    {
+      "url": "https://web.archive.org/web/20181129102001/https://www.cablelabs.com/carrier-wi-fi-now-vantage/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.lightreading.com/cable/cable-wi-fi/wi-fi-alliance-levels-up-with-vantage-20/d/d-id/736084",
+      "label": "\"Wi-Fi Alliance Levels Up With Vantage 2.0\""
+    },
+    {
+      "url": "https://web.archive.org/web/20181129142406/https://www.lightreading.com/cable/cable-wi-fi/wi-fi-alliance-levels-up-with-vantage-20/d/d-id/736084",
+      "label": "Archived"
+    },
+    {
+      "url": "https://mashable.com/2017/06/14/wifi-certified-alexa-connected-smart-homes/",
+      "label": "\"New houses will have Alexa and Wi-Fi built into the walls\""
+    },
+    {
+      "url": "https://web.archive.org/web/20181129100512/https://mashable.com/2017/06/14/wifi-certified-alexa-connected-smart-homes/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://iot.eetimes.com/top-wireless-standards-for-iot-devices/",
+      "label": "\"CONNECTIVITY Top wireless standards for IoT devices\""
+    },
+    {
+      "url": "https://web.archive.org/web/20181129142420/https://iot.eetimes.com/top-wireless-standards-for-iot-devices/",
+      "label": "Archived"
+    }
+  ],
+  "outgoing_links": [
+    {
+      "title": "3Com",
+      "url": "https://en.wikipedia.org/wiki/3Com"
+    },
+    {
+      "title": "3GPP",
+      "url": "https://en.wikipedia.org/wiki/3GPP"
+    },
+    {
+      "title": "802.11",
+      "url": "https://en.wikipedia.org/wiki/802.11"
+    },
+    {
+      "title": "802.11a",
+      "url": "https://en.wikipedia.org/wiki/802.11a"
+    },
+    {
+      "title": "802.11b",
+      "url": "https://en.wikipedia.org/wiki/802.11b"
+    },
+    {
+      "title": "802.11g",
+      "url": "https://en.wikipedia.org/wiki/802.11g"
+    },
+    {
+      "title": "802.11n",
+      "url": "https://en.wikipedia.org/wiki/802.11n"
+    },
+    {
+      "title": "AUTOSAR",
+      "url": "https://en.wikipedia.org/wiki/AUTOSAR"
+    },
+    {
+      "title": "Accellera",
+      "url": "https://en.wikipedia.org/wiki/Accellera"
+    },
+    {
+      "title": "Ad hoc network",
+      "url": "https://en.wikipedia.org/wiki/Ad_hoc_network"
+    },
+    {
+      "title": "Apple Inc.",
+      "url": "https://en.wikipedia.org/wiki/Apple_Inc."
+    },
+    {
+      "title": "ArXiv (identifier)",
+      "url": "https://en.wikipedia.org/wiki/ArXiv_%28identifier%29"
+    },
+    {
+      "title": "Association for Standardisation of Automation and Measuring Systems",
+      "url": "https://en.wikipedia.org/wiki/Association_for_Standardisation_of_Automation_and_Measuring_Systems"
+    },
+    {
+      "title": "Austin, Texas",
+      "url": "https://en.wikipedia.org/wiki/Austin%2C_Texas"
+    },
+    {
+      "title": "Avaya",
+      "url": "https://en.wikipedia.org/wiki/Avaya"
+    },
+    {
+      "title": "Bibcode (identifier)",
+      "url": "https://en.wikipedia.org/wiki/Bibcode_%28identifier%29"
+    },
+    {
+      "title": "Bluetooth",
+      "url": "https://en.wikipedia.org/wiki/Bluetooth"
+    },
+    {
+      "title": "Bluetooth Special Interest Group",
+      "url": "https://en.wikipedia.org/wiki/Bluetooth_Special_Interest_Group"
+    },
+    {
+      "title": "Broadband Forum",
+      "url": "https://en.wikipedia.org/wiki/Broadband_Forum"
+    },
+    {
+      "title": "Broadcom",
+      "url": "https://en.wikipedia.org/wiki/Broadcom"
+    },
+    {
+      "title": "Cisco",
+      "url": "https://en.wikipedia.org/wiki/Cisco"
+    },
+    {
+      "title": "Comcast",
+      "url": "https://en.wikipedia.org/wiki/Comcast"
+    },
+    {
+      "title": "Computer network",
+      "url": "https://en.wikipedia.org/wiki/Computer_network"
+    },
+    {
+      "title": "Conformance testing",
+      "url": "https://en.wikipedia.org/wiki/Conformance_testing"
+    },
+    {
+      "title": "Connectivity Standards Alliance",
+      "url": "https://en.wikipedia.org/wiki/Connectivity_Standards_Alliance"
+    },
+    {
+      "title": "DMTF",
+      "url": "https://en.wikipedia.org/wiki/DMTF"
+    },
+    {
+      "title": "Dell",
+      "url": "https://en.wikipedia.org/wiki/Dell"
+    },
+    {
+      "title": "Doi (identifier)",
+      "url": "https://en.wikipedia.org/wiki/Doi_%28identifier%29"
+    },
+    {
+      "title": "Ecma International",
+      "url": "https://en.wikipedia.org/wiki/Ecma_International"
+    },
+    {
+      "title": "European Telecommunications Standards Institute",
+      "url": "https://en.wikipedia.org/wiki/European_Telecommunications_Standards_Institute"
+    },
+    {
+      "title": "Extreme Networks",
+      "url": "https://en.wikipedia.org/wiki/Extreme_Networks"
+    },
+    {
+      "title": "File transfer",
+      "url": "https://en.wikipedia.org/wiki/File_transfer"
+    },
+    {
+      "title": "Harris Semiconductor",
+      "url": "https://en.wikipedia.org/wiki/Harris_Semiconductor"
+    },
+    {
+      "title": "Hotspot (Wi-Fi)",
+      "url": "https://en.wikipedia.org/wiki/Hotspot_%28Wi-Fi%29"
+    },
+    {
+      "title": "IEEE",
+      "url": "https://en.wikipedia.org/wiki/IEEE"
+    },
+    {
+      "title": "IEEE 1905.1",
+      "url": "https://en.wikipedia.org/wiki/IEEE_1905.1"
+    },
+    {
+      "title": "IEEE 802.11",
+      "url": "https://en.wikipedia.org/wiki/IEEE_802.11"
+    },
+    {
+      "title": "IEEE 802.11 (legacy mode)",
+      "url": "https://en.wikipedia.org/wiki/IEEE_802.11_%28legacy_mode%29"
+    },
+    {
+      "title": "IEEE 802.11a-1999",
+      "url": "https://en.wikipedia.org/wiki/IEEE_802.11a-1999"
+    },
+    {
+      "title": "IEEE 802.11ac-2013",
+      "url": "https://en.wikipedia.org/wiki/IEEE_802.11ac-2013"
+    },
+    {
+      "title": "IEEE 802.11ad",
+      "url": "https://en.wikipedia.org/wiki/IEEE_802.11ad"
+    },
+    {
+      "title": "IEEE 802.11ah",
+      "url": "https://en.wikipedia.org/wiki/IEEE_802.11ah"
+    },
+    {
+      "title": "IEEE 802.11ax-2021",
+      "url": "https://en.wikipedia.org/wiki/IEEE_802.11ax-2021"
+    },
+    {
+      "title": "IEEE 802.11ay",
+      "url": "https://en.wikipedia.org/wiki/IEEE_802.11ay"
+    },
+    {
+      "title": "IEEE 802.11b",
+      "url": "https://en.wikipedia.org/wiki/IEEE_802.11b"
+    },
+    {
+      "title": "IEEE 802.11b-1999",
+      "url": "https://en.wikipedia.org/wiki/IEEE_802.11b-1999"
+    },
+    {
+      "title": "IEEE 802.11be-2024",
+      "url": "https://en.wikipedia.org/wiki/IEEE_802.11be-2024"
+    },
+    {
+      "title": "IEEE 802.11bn",
+      "url": "https://en.wikipedia.org/wiki/IEEE_802.11bn"
+    },
+    {
+      "title": "IEEE 802.11e",
+      "url": "https://en.wikipedia.org/wiki/IEEE_802.11e"
+    },
+    {
+      "title": "IEEE 802.11g-2003",
+      "url": "https://en.wikipedia.org/wiki/IEEE_802.11g-2003"
+    },
+    {
+      "title": "IEEE 802.11k",
+      "url": "https://en.wikipedia.org/wiki/IEEE_802.11k"
+    },
+    {
+      "title": "IEEE 802.11n-2009",
+      "url": "https://en.wikipedia.org/wiki/IEEE_802.11n-2009"
+    },
+    {
+      "title": "IEEE 802.11r",
+      "url": "https://en.wikipedia.org/wiki/IEEE_802.11r"
+    },
+    {
+      "title": "IEEE 802.11u",
+      "url": "https://en.wikipedia.org/wiki/IEEE_802.11u"
+    },
+    {
+      "title": "IEEE 802.11v",
+      "url": "https://en.wikipedia.org/wiki/IEEE_802.11v"
+    },
+    {
+      "title": "IEEE 802.11z",
+      "url": "https://en.wikipedia.org/wiki/IEEE_802.11z"
+    },
+    {
+      "title": "IEEE Standards Association",
+      "url": "https://en.wikipedia.org/wiki/IEEE_Standards_Association"
+    },
+    {
+      "title": "ISBN (identifier)",
+      "url": "https://en.wikipedia.org/wiki/ISBN_%28identifier%29"
+    },
+    {
+      "title": "Institute of Electrical and Electronics Engineers",
+      "url": "https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers"
+    },
+    {
+      "title": "Intel",
+      "url": "https://en.wikipedia.org/wiki/Intel"
+    },
+    {
+      "title": "International Electrotechnical Commission",
+      "url": "https://en.wikipedia.org/wiki/International_Electrotechnical_Commission"
+    },
+    {
+      "title": "International Organization for Standardization",
+      "url": "https://en.wikipedia.org/wiki/International_Organization_for_Standardization"
+    },
+    {
+      "title": "International Telecommunication Union",
+      "url": "https://en.wikipedia.org/wiki/International_Telecommunication_Union"
+    },
+    {
+      "title": "Internet Engineering Task Force",
+      "url": "https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force"
+    },
+    {
+      "title": "Internet of things",
+      "url": "https://en.wikipedia.org/wiki/Internet_of_things"
+    },
+    {
+      "title": "Interoperability",
+      "url": "https://en.wikipedia.org/wiki/Interoperability"
+    },
+    {
+      "title": "Intersil",
+      "url": "https://en.wikipedia.org/wiki/Intersil"
+    },
+    {
+      "title": "JEDEC",
+      "url": "https://en.wikipedia.org/wiki/JEDEC"
+    },
+    {
+      "title": "Khronos Group",
+      "url": "https://en.wikipedia.org/wiki/Khronos_Group"
+    },
+    {
+      "title": "LG",
+      "url": "https://en.wikipedia.org/wiki/LG"
+    },
+    {
+      "title": "List of technical standard organizations",
+      "url": "https://en.wikipedia.org/wiki/List_of_technical_standard_organizations"
+    },
+    {
+      "title": "Logo",
+      "url": "https://en.wikipedia.org/wiki/Logo"
+    },
+    {
+      "title": "Lucent Technologies",
+      "url": "https://en.wikipedia.org/wiki/Lucent_Technologies"
+    },
+    {
+      "title": "MIPI Alliance",
+      "url": "https://en.wikipedia.org/wiki/MIPI_Alliance"
+    },
+    {
+      "title": "Mashable",
+      "url": "https://en.wikipedia.org/wiki/Mashable"
+    },
+    {
+      "title": "Microsoft",
+      "url": "https://en.wikipedia.org/wiki/Microsoft"
+    },
+    {
+      "title": "Miracast",
+      "url": "https://en.wikipedia.org/wiki/Miracast"
+    },
+    {
+      "title": "Motorola",
+      "url": "https://en.wikipedia.org/wiki/Motorola"
+    },
+    {
+      "title": "Motorola Mobility",
+      "url": "https://en.wikipedia.org/wiki/Motorola_Mobility"
+    },
+    {
+      "title": "Nokia",
+      "url": "https://en.wikipedia.org/wiki/Nokia"
+    },
+    {
+      "title": "Nonprofit organization",
+      "url": "https://en.wikipedia.org/wiki/Nonprofit_organization"
+    },
+    {
+      "title": "OASIS Open",
+      "url": "https://en.wikipedia.org/wiki/OASIS_Open"
+    },
+    {
+      "title": "OPC Foundation",
+      "url": "https://en.wikipedia.org/wiki/OPC_Foundation"
+    },
+    {
+      "title": "Object Management Group",
+      "url": "https://en.wikipedia.org/wiki/Object_Management_Group"
+    },
+    {
+      "title": "Open Connectivity Foundation",
+      "url": "https://en.wikipedia.org/wiki/Open_Connectivity_Foundation"
+    },
+    {
+      "title": "Open Geospatial Consortium",
+      "url": "https://en.wikipedia.org/wiki/Open_Geospatial_Consortium"
+    },
+    {
+      "title": "Open Grid Forum",
+      "url": "https://en.wikipedia.org/wiki/Open_Grid_Forum"
+    },
+    {
+      "title": "Open Mobile Alliance",
+      "url": "https://en.wikipedia.org/wiki/Open_Mobile_Alliance"
+    },
+    {
+      "title": "Optical Internetworking Forum",
+      "url": "https://en.wikipedia.org/wiki/Optical_Internetworking_Forum"
+    },
+    {
+      "title": "PCI-SIG",
+      "url": "https://en.wikipedia.org/wiki/PCI-SIG"
+    },
+    {
+      "title": "PICMG",
+      "url": "https://en.wikipedia.org/wiki/PICMG"
+    },
+    {
+      "title": "Power management",
+      "url": "https://en.wikipedia.org/wiki/Power_management"
+    },
+    {
+      "title": "Proximity marketing",
+      "url": "https://en.wikipedia.org/wiki/Proximity_marketing"
+    },
+    {
+      "title": "QR code",
+      "url": "https://en.wikipedia.org/wiki/QR_code"
+    },
+    {
+      "title": "Qualcomm",
+      "url": "https://en.wikipedia.org/wiki/Qualcomm"
+    },
+    {
+      "title": "Quality of service",
+      "url": "https://en.wikipedia.org/wiki/Quality_of_service"
+    },
+    {
+      "title": "RISC-V",
+      "url": "https://en.wikipedia.org/wiki/RISC-V"
+    },
+    {
+      "title": "SD Association",
+      "url": "https://en.wikipedia.org/wiki/SD_Association"
+    },
+    {
+      "title": "Samsung",
+      "url": "https://en.wikipedia.org/wiki/Samsung"
+    },
+    {
+      "title": "Security protocol",
+      "url": "https://en.wikipedia.org/wiki/Security_protocol"
+    },
+    {
+      "title": "Sony",
+      "url": "https://en.wikipedia.org/wiki/Sony"
+    },
+    {
+      "title": "Standards organization",
+      "url": "https://en.wikipedia.org/wiki/Standards_organization"
+    },
+    {
+      "title": "Symbol Technologies",
+      "url": "https://en.wikipedia.org/wiki/Symbol_Technologies"
+    },
+    {
+      "title": "T-Mobile US",
+      "url": "https://en.wikipedia.org/wiki/T-Mobile_US"
+    },
+    {
+      "title": "TDLS",
+      "url": "https://en.wikipedia.org/wiki/TDLS"
+    },
+    {
+      "title": "TechCrunch",
+      "url": "https://en.wikipedia.org/wiki/TechCrunch"
+    },
+    {
+      "title": "Texas Instruments",
+      "url": "https://en.wikipedia.org/wiki/Texas_Instruments"
+    },
+    {
+      "title": "The Open Group",
+      "url": "https://en.wikipedia.org/wiki/The_Open_Group"
+    },
+    {
+      "title": "Trademark",
+      "url": "https://en.wikipedia.org/wiki/Trademark"
+    },
+    {
+      "title": "Trusted Computing Group",
+      "url": "https://en.wikipedia.org/wiki/Trusted_Computing_Group"
+    },
+    {
+      "title": "UEFI Forum",
+      "url": "https://en.wikipedia.org/wiki/UEFI_Forum"
+    },
+    {
+      "title": "USB Implementers Forum",
+      "url": "https://en.wikipedia.org/wiki/USB_Implementers_Forum"
+    },
+    {
+      "title": "Unicode Consortium",
+      "url": "https://en.wikipedia.org/wiki/Unicode_Consortium"
+    },
+    {
+      "title": "Video Electronics Standards Association",
+      "url": "https://en.wikipedia.org/wiki/Video_Electronics_Standards_Association"
+    },
+    {
+      "title": "WPA2",
+      "url": "https://en.wikipedia.org/wiki/WPA2"
+    },
+    {
+      "title": "Web3D Consortium",
+      "url": "https://en.wikipedia.org/wiki/Web3D_Consortium"
+    },
+    {
+      "title": "Wi-Fi",
+      "url": "https://en.wikipedia.org/wiki/Wi-Fi"
+    },
+    {
+      "title": "Wi-Fi 4",
+      "url": "https://en.wikipedia.org/wiki/Wi-Fi_4"
+    },
+    {
+      "title": "Wi-Fi 5",
+      "url": "https://en.wikipedia.org/wiki/Wi-Fi_5"
+    },
+    {
+      "title": "Wi-Fi 6",
+      "url": "https://en.wikipedia.org/wiki/Wi-Fi_6"
+    },
+    {
+      "title": "Wi-Fi 6E",
+      "url": "https://en.wikipedia.org/wiki/Wi-Fi_6E"
+    },
+    {
+      "title": "Wi-Fi 7",
+      "url": "https://en.wikipedia.org/wiki/Wi-Fi_7"
+    },
+    {
+      "title": "Wi-Fi 8",
+      "url": "https://en.wikipedia.org/wiki/Wi-Fi_8"
+    },
+    {
+      "title": "Wi-Fi Direct",
+      "url": "https://en.wikipedia.org/wiki/Wi-Fi_Direct"
+    },
+    {
+      "title": "Wi-Fi HaLow",
+      "url": "https://en.wikipedia.org/wiki/Wi-Fi_HaLow"
+    },
+    {
+      "title": "Wi-Fi Multimedia",
+      "url": "https://en.wikipedia.org/wiki/Wi-Fi_Multimedia"
+    },
+    {
+      "title": "Wi-Fi Protected Access",
+      "url": "https://en.wikipedia.org/wiki/Wi-Fi_Protected_Access"
+    },
+    {
+      "title": "Wi-Fi Protected Setup",
+      "url": "https://en.wikipedia.org/wiki/Wi-Fi_Protected_Setup"
+    },
+    {
+      "title": "Wi-Fi positioning system",
+      "url": "https://en.wikipedia.org/wiki/Wi-Fi_positioning_system"
+    },
+    {
+      "title": "WiGig",
+      "url": "https://en.wikipedia.org/wiki/WiGig"
+    },
+    {
+      "title": "Wireless Gigabit Alliance",
+      "url": "https://en.wikipedia.org/wiki/Wireless_Gigabit_Alliance"
+    },
+    {
+      "title": "Wireless LAN",
+      "url": "https://en.wikipedia.org/wiki/Wireless_LAN"
+    },
+    {
+      "title": "Wireless Multimedia Extensions",
+      "url": "https://en.wikipedia.org/wiki/Wireless_Multimedia_Extensions"
+    },
+    {
+      "title": "Wireless access point",
+      "url": "https://en.wikipedia.org/wiki/Wireless_access_point"
+    },
+    {
+      "title": "World Wide Web Consortium",
+      "url": "https://en.wikipedia.org/wiki/World_Wide_Web_Consortium"
+    },
+    {
+      "title": "XMPP Standards Foundation",
+      "url": "https://en.wikipedia.org/wiki/XMPP_Standards_Foundation"
+    },
+    {
+      "title": "Zebra Technologies",
+      "url": "https://en.wikipedia.org/wiki/Zebra_Technologies"
+    }
+  ]
+}

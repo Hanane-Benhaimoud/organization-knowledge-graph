@@ -1,0 +1,1112 @@
+{
+  "document_id": "wikipedia_en_Q845918",
+  "wikidata_id": "Q845918",
+  "entity_label": "Open Source Initiative",
+  "entity_type": "organization",
+  "seed_categories": [],
+  "source": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Open_Source_Initiative",
+  "revision_id": 1380173530,
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1380173530",
+  "pageid": 22298,
+  "title": "Open Source Initiative",
+  "language": "en",
+  "collected_at": "2026-10-28T22:02:46.009859+00:00",
+  "content": {
+    "sections": [
+      {
+        "heading": "Introduction",
+        "text": "The Open Source Initiative ( OSI ) is an American nonprofit organization that maintains The Open Source Definition (OSD), the predominant standard for open-source software . The organization was founded in February 1998 by Bruce Perens and Eric S. Raymond , part of a group inspired by the Netscape Communications Corporation publishing the source code for its flagship Netscape Communicator product. Later, in August 1998, the organization added a board of directors.\nFor most of its existence, the OSI's activities have been focused on the definition and certifying software licenses as compliant with it. OSI originally had a closed organizational model, but began to switch towards a membership organization in the 2010s to raise more money and expand its activities."
+      },
+      {
+        "heading": "History",
+        "text": "As a campaign of sorts, \"open source\" was launched in 1998 by Christine Peterson , Jon \"maddog\" Hall , Larry Augustin , Eric S. Raymond , Bruce Perens , and others.\nThe group adopted The Open Source Definition (OSD) for open-source software, based on the Debian Free Software Guidelines . They also established the Open Source Initiative (OSI) as a steward organization for the movement. However, they were unsuccessful in their attempt to secure a trademark for 'open source' to control the use of the term.\nIn 2012, under the leadership of OSI director and then-president Simon Phipps , the OSI began transitioning towards a membership-based governance structure. The OSI initiated an Affiliate Membership program for \"government-recognized non-profit charitable and not-for-profit industry associations and academic institutions anywhere in the world\". Subsequently, the OSI announced an Individual Membership program and listed a number of Corporate Sponsors.\nOn November 8, 2013, OSI appointed Patrick Masson as its general manager. From August 2020 to September 2021, Deb Nicholson was the interim general manager. During the OSI's March 2021 board election, the OSI discovered that at least one voter had exploited a security vulnerability to submit multiple votes; the election results were discarded and the OSI held the election again.\nCo-founder Perens resigned from the OSI in January 2020 in response to the organization's then-impending approval of the Cryptographic Autonomy License . Prior to his departure, Perens wrote on the OSI mailing list that the license \"isn't freedom respecting\", and in a later interview with The Register , he expressed concern about license proliferation , stating that the AGPLv3 , LGPLv3 , and Apache 2.0 licenses were sufficient.\nIn November 2020, the board of directors announced a search for an executive director, which was concluded in September 2021 with the appointment of Stefano Maffulli. At the same time, the role of president of the board was abandoned in favor of chair of the board. Maffulli stepped down in September 2025. Deborah Bryant is serving as interim executive director.\nIn 2025, elections for the board of directors were criticized for many missteps.\nThese included a mistake in communicating the number of seats, which were corrected only after nominations had closed, and the exclusion of three candidates who didn't sign an agreement required after the vote took place and before the votes were counted. Voters and other members of open source communities raised concerns about the lack of transparency and the fact that two of the excluded candidates had expressed opinion contrasting those of current directors, and asked to publish the complete tallies (which were retained for excluded candidates) and to invalidate and repeat the election. OSI declined such requests and hold the elections valid.\nIn January 2026, it was announced that the board of directors had voted to redesign the board member selection process and to suspend 2026 board elections until then."
+      },
+      {
+        "heading": "Governance",
+        "text": "The OSI is a California public-benefit nonprofit corporation , with 501(c)(3) tax-exempt status . The organization is professionally overseen by an Executive Director and staff, and supported by its Board of Directors responsible for overseeing duty of care, fiduciary duty, and strategic alignment to mission."
+      },
+      {
+        "heading": "The Open Source Definition",
+        "text": "The Open Source Definition (OSD) is the most widely accepted standard for open-source software . Providing access to the source code is not enough for software to be considered \"open-source\": it must also allow modification and redistribution under the same terms and all uses, including commercial use. The Open Source Definition requires that ten criteria be met for a license to be approved. It allows both copyleft —where redistribution and derivative works must be released under a free license—and permissive licenses —where derivative works can be released under any license. Software licenses covered by the Open Source Definition also mostly meet the Free Software Definition and vice versa, except for unreleased software. Both the Free Software Foundation and the OSI share the goal of supporting free and open-source software ."
+      },
+      {
+        "heading": "License approval process",
+        "text": "The OSI approves certain licenses as compatible with the definition, and maintains a list of compliant licenses. New licenses have to submit a formal proposal explaining the rationale for the license, comparison with existing approved licenses, and any legal analysis. The proposal is discussed on the OSI mailing list for at least 30 days before being brought to a vote and approved or rejected by the OSI board. Although the OSI has made an effort to have a transparent process, the approval process has been a source of controversy.\nSeven approved licenses are particularly recommended by the OSI as \"popular, widely used, or having strong communities\":\nApache License 2.0 BSD 3-Clause and BSD 2-Clause Licenses All versions of the GPL All versions of the LGPL MIT License Mozilla Public License 2.0 Common Development and Distribution License (CDDL) Eclipse Public License version 2.0"
+      },
+      {
+        "heading": "The Open Source AI Definition",
+        "text": "In 2022, the OSI began work on The Open Source AI Definition (OSAID) in conjunction with researchers, developers, and industry representatives; version 1.0 was released in October 2024. The definition was criticized by some AI company employees."
+      },
+      {
+        "heading": "See also",
+        "text": "Free and open-source software portal\nDigital rights Comparison of open-source and closed-source software Business models for open-source software Commons-based peer production – an economic model for organizing projects without leaders or financial compensation Open-source governance &nbs620489p;– use of open-source principles to transform human social governance Techno-progressivism – a stance of active support for the convergence of technological change and social progress Open-source-software movement – the evolution and evidence of the open-source ideology Open data and Linked data"
+      },
+      {
+        "heading": "External links",
+        "text": "Official website List of OSI approved licenses"
+      }
+    ],
+    "full_text": "Introduction\nThe Open Source Initiative ( OSI ) is an American nonprofit organization that maintains The Open Source Definition (OSD), the predominant standard for open-source software . The organization was founded in February 1998 by Bruce Perens and Eric S. Raymond , part of a group inspired by the Netscape Communications Corporation publishing the source code for its flagship Netscape Communicator product. Later, in August 1998, the organization added a board of directors.\nFor most of its existence, the OSI's activities have been focused on the definition and certifying software licenses as compliant with it. OSI originally had a closed organizational model, but began to switch towards a membership organization in the 2010s to raise more money and expand its activities.\n\nHistory\nAs a campaign of sorts, \"open source\" was launched in 1998 by Christine Peterson , Jon \"maddog\" Hall , Larry Augustin , Eric S. Raymond , Bruce Perens , and others.\nThe group adopted The Open Source Definition (OSD) for open-source software, based on the Debian Free Software Guidelines . They also established the Open Source Initiative (OSI) as a steward organization for the movement. However, they were unsuccessful in their attempt to secure a trademark for 'open source' to control the use of the term.\nIn 2012, under the leadership of OSI director and then-president Simon Phipps , the OSI began transitioning towards a membership-based governance structure. The OSI initiated an Affiliate Membership program for \"government-recognized non-profit charitable and not-for-profit industry associations and academic institutions anywhere in the world\". Subsequently, the OSI announced an Individual Membership program and listed a number of Corporate Sponsors.\nOn November 8, 2013, OSI appointed Patrick Masson as its general manager. From August 2020 to September 2021, Deb Nicholson was the interim general manager. During the OSI's March 2021 board election, the OSI discovered that at least one voter had exploited a security vulnerability to submit multiple votes; the election results were discarded and the OSI held the election again.\nCo-founder Perens resigned from the OSI in January 2020 in response to the organization's then-impending approval of the Cryptographic Autonomy License . Prior to his departure, Perens wrote on the OSI mailing list that the license \"isn't freedom respecting\", and in a later interview with The Register , he expressed concern about license proliferation , stating that the AGPLv3 , LGPLv3 , and Apache 2.0 licenses were sufficient.\nIn November 2020, the board of directors announced a search for an executive director, which was concluded in September 2021 with the appointment of Stefano Maffulli. At the same time, the role of president of the board was abandoned in favor of chair of the board. Maffulli stepped down in September 2025. Deborah Bryant is serving as interim executive director.\nIn 2025, elections for the board of directors were criticized for many missteps.\nThese included a mistake in communicating the number of seats, which were corrected only after nominations had closed, and the exclusion of three candidates who didn't sign an agreement required after the vote took place and before the votes were counted. Voters and other members of open source communities raised concerns about the lack of transparency and the fact that two of the excluded candidates had expressed opinion contrasting those of current directors, and asked to publish the complete tallies (which were retained for excluded candidates) and to invalidate and repeat the election. OSI declined such requests and hold the elections valid.\nIn January 2026, it was announced that the board of directors had voted to redesign the board member selection process and to suspend 2026 board elections until then.\n\nGovernance\nThe OSI is a California public-benefit nonprofit corporation , with 501(c)(3) tax-exempt status . The organization is professionally overseen by an Executive Director and staff, and supported by its Board of Directors responsible for overseeing duty of care, fiduciary duty, and strategic alignment to mission.\n\nThe Open Source Definition\nThe Open Source Definition (OSD) is the most widely accepted standard for open-source software . Providing access to the source code is not enough for software to be considered \"open-source\": it must also allow modification and redistribution under the same terms and all uses, including commercial use. The Open Source Definition requires that ten criteria be met for a license to be approved. It allows both copyleft —where redistribution and derivative works must be released under a free license—and permissive licenses —where derivative works can be released under any license. Software licenses covered by the Open Source Definition also mostly meet the Free Software Definition and vice versa, except for unreleased software. Both the Free Software Foundation and the OSI share the goal of supporting free and open-source software .\n\nLicense approval process\nThe OSI approves certain licenses as compatible with the definition, and maintains a list of compliant licenses. New licenses have to submit a formal proposal explaining the rationale for the license, comparison with existing approved licenses, and any legal analysis. The proposal is discussed on the OSI mailing list for at least 30 days before being brought to a vote and approved or rejected by the OSI board. Although the OSI has made an effort to have a transparent process, the approval process has been a source of controversy.\nSeven approved licenses are particularly recommended by the OSI as \"popular, widely used, or having strong communities\":\nApache License 2.0 BSD 3-Clause and BSD 2-Clause Licenses All versions of the GPL All versions of the LGPL MIT License Mozilla Public License 2.0 Common Development and Distribution License (CDDL) Eclipse Public License version 2.0\n\nThe Open Source AI Definition\nIn 2022, the OSI began work on The Open Source AI Definition (OSAID) in conjunction with researchers, developers, and industry representatives; version 1.0 was released in October 2024. The definition was criticized by some AI company employees.\n\nSee also\nFree and open-source software portal\nDigital rights Comparison of open-source and closed-source software Business models for open-source software Commons-based peer production – an economic model for organizing projects without leaders or financial compensation Open-source governance &nbs620489p;– use of open-source principles to transform human social governance Techno-progressivism – a stance of active support for the convergence of technological change and social progress Open-source-software movement – the evolution and evidence of the open-source ideology Open data and Linked data\n\nExternal links\nOfficial website List of OSI approved licenses"
+  },
+  "references": [
+    {
+      "url": "https://doi.org/10.1093%2Foso%2F9780198862345.003.0002",
+      "label": "10.1093/oso/9780198862345.003.0002"
+    },
+    {
+      "url": "https://projects.propublica.org/nonprofits/organizations/912037395",
+      "label": "\"Open Source Initiative - Nonprofit Explorer\""
+    },
+    {
+      "url": "https://opensource.org/about/board-of-directors",
+      "label": "\"OSI Board of Directors\""
+    },
+    {
+      "url": "https://www.osti.gov/biblio/1836982",
+      "label": "\"The case for free and open source software in research and scholarship\""
+    },
+    {
+      "url": "https://ui.adsabs.harvard.edu/abs/2021RSPTA.37900079F",
+      "label": "2021RSPTA.37900079F"
+    },
+    {
+      "url": "https://doi.org/10.1098%2Frsta.2020.0079",
+      "label": "10.1098/rsta.2020.0079"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33775148",
+      "label": "33775148"
+    },
+    {
+      "url": "https://dl.acm.org/doi/10.1145/3341161.3343520",
+      "label": "\"An empirical study of security culture in open source software communities\""
+    },
+    {
+      "url": "https://doi.org/10.1145%2F3341161.3343520",
+      "label": "10.1145/3341161.3343520"
+    },
+    {
+      "url": "https://hdl.handle.net/11250%2F2646705",
+      "label": "11250/2646705"
+    },
+    {
+      "url": "https://dl.acm.org/doi/10.5555/359640.359723",
+      "label": "\"A framework analysis of the open source software development paradigm\""
+    },
+    {
+      "url": "http://www.opensource.org/history",
+      "label": "\"History of the OSI\""
+    },
+    {
+      "url": "https://web.archive.org/web/20180429095902/http://www.onlamp.com/pub/a/onlamp/2008/02/12/a-look-back-at-10-years-of-osi.html",
+      "label": "\"A Look Back at 10 Years of OSI\""
+    },
+    {
+      "url": "http://onlamp.com/pub/a/onlamp/2008/02/12/a-look-back-at-10-years-of-osi.html",
+      "label": "the original"
+    },
+    {
+      "url": "https://opensource.org/pressreleases/certified-open-source.php",
+      "label": "\"Announcement of \"OSI Certified\" Open Source Mark\""
+    },
+    {
+      "url": "http://opensource.org/affiliates/about",
+      "label": "\"Become an OSI Affiliate\""
+    },
+    {
+      "url": "https://web.archive.org/web/20190527050402/https://opensource.org/members/1207-release",
+      "label": "\"OSI Announces Individual Membership\""
+    },
+    {
+      "url": "http://opensource.org/members/1207-release",
+      "label": "the original"
+    },
+    {
+      "url": "http://opensource.org/sponsors",
+      "label": "\"OSI Corporate Sponsors\""
+    },
+    {
+      "url": "https://lwn.net/Articles/571460/",
+      "label": "\"OSI Names New General Manager\""
+    },
+    {
+      "url": "https://sfconservancy.org/news/2020/aug/20/debleaving/",
+      "label": "\"Deb Nicholson to Join Open Source Initiative as Interim General Manager\""
+    },
+    {
+      "url": "https://www.theregister.com/2021/03/22/osi_vote_vulnerability/",
+      "label": "\"Open Source Initiative board election results scrapped after security hole found, exploited to rig outcome\""
+    },
+    {
+      "url": "https://www.theregister.com/2020/01/03/osi_cofounder_resigns/",
+      "label": "\"Bruce Perens quits Open Source Initiative amid row over new data-sharing crypto license: 'We've gone the wrong way with licensing' \""
+    },
+    {
+      "url": "https://blog.opensource.org/executive_director/",
+      "label": "\"OSI Seeks to Hire Executive Director | Open Source Initiative\""
+    },
+    {
+      "url": "https://www.zdnet.com/article/the-open-source-initiatives-executive-director-departs-what-it-means-for-the-osaid-debate/",
+      "label": "\"The Open Source Initiative's executive director departs - what it means for the OSAID debate\""
+    },
+    {
+      "url": "https://opensource.org/blog/osis-board-of-directors-in-2025-details-about-the-elections",
+      "label": "\"OSI's board of directors in 2025: details about the elections\""
+    },
+    {
+      "url": "https://lwn.net/Articles/1014603/",
+      "label": "\"OSI election ends with unsatisfying results\""
+    },
+    {
+      "url": "https://discuss.opensource.org/t/board-agreement-required-post-vote-for-all-candidates/929",
+      "label": "\"Board Agreement required *post-vote* for all candidates?\""
+    },
+    {
+      "url": "https://opensource.org/blog/2026-osi-elections-update",
+      "label": "\"2026 OSI Elections Update\""
+    },
+    {
+      "url": "https://firstmonday.org/ojs/index.php/fm/article/view/10806",
+      "label": "\"Standard setting organizations and open source communities: Partners or competitors?\""
+    },
+    {
+      "url": "https://doi.org/10.5210%2Ffm.v26i7.10806",
+      "label": "10.5210/fm.v26i7.10806"
+    },
+    {
+      "url": "https://search.worldcat.org/issn/1396-0466",
+      "label": "1396-0466"
+    },
+    {
+      "url": "https://doi.org/10.1007%2F978-3-030-79363-0_1",
+      "label": "10.1007/978-3-030-79363-0_1"
+    },
+    {
+      "url": "https://www.gnu.org/philosophy/categories.html.en",
+      "label": "\"Categories of Free and Nonfree Software - GNU Project - Free Software Foundation\""
+    },
+    {
+      "url": "https://doi.org/10.1093%2Foso%2F9780198862345.003.0003",
+      "label": "10.1093/oso/9780198862345.003.0003"
+    },
+    {
+      "url": "https://opensource.org/blog/2024-end-of-year-review-open-source-ai-definition-v1-0/",
+      "label": "\"2024 end-of-year review: Open Source AI Definition v1.0\""
+    },
+    {
+      "url": "https://thenewstack.io/the-open-source-ai-definition-what-the-critics-say/",
+      "label": "\"The Open Source AI Definition: What the Critics Say\""
+    }
+  ],
+  "outgoing_links": [
+    {
+      "title": "The Open Source Definition",
+      "url": "https://en.wikipedia.org/wiki/The_Open_Source_Definition"
+    },
+    {
+      "title": "501(c)(3)",
+      "url": "https://en.wikipedia.org/wiki/501%28c%29%283%29"
+    },
+    {
+      "title": "AGPLv3",
+      "url": "https://en.wikipedia.org/wiki/AGPLv3"
+    },
+    {
+      "title": "Aaron Swartz",
+      "url": "https://en.wikipedia.org/wiki/Aaron_Swartz"
+    },
+    {
+      "title": "Academic Free License",
+      "url": "https://en.wikipedia.org/wiki/Academic_Free_License"
+    },
+    {
+      "title": "Alexandra Elbakyan",
+      "url": "https://en.wikipedia.org/wiki/Alexandra_Elbakyan"
+    },
+    {
+      "title": "Alternative terms for free software",
+      "url": "https://en.wikipedia.org/wiki/Alternative_terms_for_free_software"
+    },
+    {
+      "title": "Anna's Archive",
+      "url": "https://en.wikipedia.org/wiki/Anna%27s_Archive"
+    },
+    {
+      "title": "Apache 2.0",
+      "url": "https://en.wikipedia.org/wiki/Apache_2.0"
+    },
+    {
+      "title": "Apache License",
+      "url": "https://en.wikipedia.org/wiki/Apache_License"
+    },
+    {
+      "title": "Apache License 2.0",
+      "url": "https://en.wikipedia.org/wiki/Apache_License_2.0"
+    },
+    {
+      "title": "Apple Public Source License",
+      "url": "https://en.wikipedia.org/wiki/Apple_Public_Source_License"
+    },
+    {
+      "title": "Artistic License",
+      "url": "https://en.wikipedia.org/wiki/Artistic_License"
+    },
+    {
+      "title": "Association for Computing Machinery",
+      "url": "https://en.wikipedia.org/wiki/Association_for_Computing_Machinery"
+    },
+    {
+      "title": "Association for Information Systems",
+      "url": "https://en.wikipedia.org/wiki/Association_for_Information_Systems"
+    },
+    {
+      "title": "BSD licenses",
+      "url": "https://en.wikipedia.org/wiki/BSD_licenses"
+    },
+    {
+      "title": "Bibcode (identifier)",
+      "url": "https://en.wikipedia.org/wiki/Bibcode_%28identifier%29"
+    },
+    {
+      "title": "Binary blob",
+      "url": "https://en.wikipedia.org/wiki/Binary_blob"
+    },
+    {
+      "title": "Board of directors",
+      "url": "https://en.wikipedia.org/wiki/Board_of_directors"
+    },
+    {
+      "title": "Bruce Perens",
+      "url": "https://en.wikipedia.org/wiki/Bruce_Perens"
+    },
+    {
+      "title": "Business models for open-source software",
+      "url": "https://en.wikipedia.org/wiki/Business_models_for_open-source_software"
+    },
+    {
+      "title": "CERN Open Hardware License",
+      "url": "https://en.wikipedia.org/wiki/CERN_Open_Hardware_License"
+    },
+    {
+      "title": "California",
+      "url": "https://en.wikipedia.org/wiki/California"
+    },
+    {
+      "title": "Christine Peterson",
+      "url": "https://en.wikipedia.org/wiki/Christine_Peterson"
+    },
+    {
+      "title": "Citizen journalism",
+      "url": "https://en.wikipedia.org/wiki/Citizen_journalism"
+    },
+    {
+      "title": "Citizen media",
+      "url": "https://en.wikipedia.org/wiki/Citizen_media"
+    },
+    {
+      "title": "Citizen science",
+      "url": "https://en.wikipedia.org/wiki/Citizen_science"
+    },
+    {
+      "title": "Collaborative writing",
+      "url": "https://en.wikipedia.org/wiki/Collaborative_writing"
+    },
+    {
+      "title": "Common Development and Distribution License",
+      "url": "https://en.wikipedia.org/wiki/Common_Development_and_Distribution_License"
+    },
+    {
+      "title": "Commons-based peer production",
+      "url": "https://en.wikipedia.org/wiki/Commons-based_peer_production"
+    },
+    {
+      "title": "Community of practice",
+      "url": "https://en.wikipedia.org/wiki/Community_of_practice"
+    },
+    {
+      "title": "Comparison of free and open-source software licenses",
+      "url": "https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses"
+    },
+    {
+      "title": "Comparison of free software for audio",
+      "url": "https://en.wikipedia.org/wiki/Comparison_of_free_software_for_audio"
+    },
+    {
+      "title": "Comparison of open-source and closed-source software",
+      "url": "https://en.wikipedia.org/wiki/Comparison_of_open-source_and_closed-source_software"
+    },
+    {
+      "title": "Comparison of open-source configuration management software",
+      "url": "https://en.wikipedia.org/wiki/Comparison_of_open-source_configuration_management_software"
+    },
+    {
+      "title": "Comparison of open-source operating systems",
+      "url": "https://en.wikipedia.org/wiki/Comparison_of_open-source_operating_systems"
+    },
+    {
+      "title": "Comparison of open-source wireless drivers",
+      "url": "https://en.wikipedia.org/wiki/Comparison_of_open-source_wireless_drivers"
+    },
+    {
+      "title": "Comparison of shopping cart software",
+      "url": "https://en.wikipedia.org/wiki/Comparison_of_shopping_cart_software"
+    },
+    {
+      "title": "Comparison of source-code-hosting facilities",
+      "url": "https://en.wikipedia.org/wiki/Comparison_of_source-code-hosting_facilities"
+    },
+    {
+      "title": "Contributor license agreement",
+      "url": "https://en.wikipedia.org/wiki/Contributor_license_agreement"
+    },
+    {
+      "title": "Copyleft",
+      "url": "https://en.wikipedia.org/wiki/Copyleft"
+    },
+    {
+      "title": "Creative Commons",
+      "url": "https://en.wikipedia.org/wiki/Creative_Commons"
+    },
+    {
+      "title": "Creative Commons license",
+      "url": "https://en.wikipedia.org/wiki/Creative_Commons_license"
+    },
+    {
+      "title": "Crowdsourcing",
+      "url": "https://en.wikipedia.org/wiki/Crowdsourcing"
+    },
+    {
+      "title": "Debian Free Software Guidelines",
+      "url": "https://en.wikipedia.org/wiki/Debian_Free_Software_Guidelines"
+    },
+    {
+      "title": "Definition of Free Cultural Works",
+      "url": "https://en.wikipedia.org/wiki/Definition_of_Free_Cultural_Works"
+    },
+    {
+      "title": "Democratic media",
+      "url": "https://en.wikipedia.org/wiki/Democratic_media"
+    },
+    {
+      "title": "Digital rights",
+      "url": "https://en.wikipedia.org/wiki/Digital_rights"
+    },
+    {
+      "title": "Digital rights management",
+      "url": "https://en.wikipedia.org/wiki/Digital_rights_management"
+    },
+    {
+      "title": "Do-it-yourself biology",
+      "url": "https://en.wikipedia.org/wiki/Do-it-yourself_biology"
+    },
+    {
+      "title": "Doi (identifier)",
+      "url": "https://en.wikipedia.org/wiki/Doi_%28identifier%29"
+    },
+    {
+      "title": "Douglas Rushkoff",
+      "url": "https://en.wikipedia.org/wiki/Douglas_Rushkoff"
+    },
+    {
+      "title": "Eclipse Public License",
+      "url": "https://en.wikipedia.org/wiki/Eclipse_Public_License"
+    },
+    {
+      "title": "Eric S. Raymond",
+      "url": "https://en.wikipedia.org/wiki/Eric_S._Raymond"
+    },
+    {
+      "title": "Flagship",
+      "url": "https://en.wikipedia.org/wiki/Flagship"
+    },
+    {
+      "title": "Fork (software development)",
+      "url": "https://en.wikipedia.org/wiki/Fork_%28software_development%29"
+    },
+    {
+      "title": "Free-culture movement",
+      "url": "https://en.wikipedia.org/wiki/Free-culture_movement"
+    },
+    {
+      "title": "Free-software license",
+      "url": "https://en.wikipedia.org/wiki/Free-software_license"
+    },
+    {
+      "title": "Free Software Definition",
+      "url": "https://en.wikipedia.org/wiki/Free_Software_Definition"
+    },
+    {
+      "title": "Free Software Foundation",
+      "url": "https://en.wikipedia.org/wiki/Free_Software_Foundation"
+    },
+    {
+      "title": "Free Software Movement of India",
+      "url": "https://en.wikipedia.org/wiki/Free_Software_Movement_of_India"
+    },
+    {
+      "title": "Free and open-source graphics device driver",
+      "url": "https://en.wikipedia.org/wiki/Free_and_open-source_graphics_device_driver"
+    },
+    {
+      "title": "Free and open-source software",
+      "url": "https://en.wikipedia.org/wiki/Free_and_open-source_software"
+    },
+    {
+      "title": "Free content",
+      "url": "https://en.wikipedia.org/wiki/Free_content"
+    },
+    {
+      "title": "Free license",
+      "url": "https://en.wikipedia.org/wiki/Free_license"
+    },
+    {
+      "title": "Free software",
+      "url": "https://en.wikipedia.org/wiki/Free_software"
+    },
+    {
+      "title": "Free software license",
+      "url": "https://en.wikipedia.org/wiki/Free_software_license"
+    },
+    {
+      "title": "Free software movement",
+      "url": "https://en.wikipedia.org/wiki/Free_software_movement"
+    },
+    {
+      "title": "Freedom of information",
+      "url": "https://en.wikipedia.org/wiki/Freedom_of_information"
+    },
+    {
+      "title": "Freedom of information laws by country",
+      "url": "https://en.wikipedia.org/wiki/Freedom_of_information_laws_by_country"
+    },
+    {
+      "title": "GNU Affero General Public License",
+      "url": "https://en.wikipedia.org/wiki/GNU_Affero_General_Public_License"
+    },
+    {
+      "title": "GNU General Public License",
+      "url": "https://en.wikipedia.org/wiki/GNU_General_Public_License"
+    },
+    {
+      "title": "GNU Lesser General Public License",
+      "url": "https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License"
+    },
+    {
+      "title": "GNU Manifesto",
+      "url": "https://en.wikipedia.org/wiki/GNU_Manifesto"
+    },
+    {
+      "title": "GPL",
+      "url": "https://en.wikipedia.org/wiki/GPL"
+    },
+    {
+      "title": "Gift economy",
+      "url": "https://en.wikipedia.org/wiki/Gift_economy"
+    },
+    {
+      "title": "Hdl (identifier)",
+      "url": "https://en.wikipedia.org/wiki/Hdl_%28identifier%29"
+    },
+    {
+      "title": "History of free and open-source software",
+      "url": "https://en.wikipedia.org/wiki/History_of_free_and_open-source_software"
+    },
+    {
+      "title": "ISBN (identifier)",
+      "url": "https://en.wikipedia.org/wiki/ISBN_%28identifier%29"
+    },
+    {
+      "title": "ISC license",
+      "url": "https://en.wikipedia.org/wiki/ISC_license"
+    },
+    {
+      "title": "ISSN (identifier)",
+      "url": "https://en.wikipedia.org/wiki/ISSN_%28identifier%29"
+    },
+    {
+      "title": "John Wilbanks",
+      "url": "https://en.wikipedia.org/wiki/John_Wilbanks"
+    },
+    {
+      "title": "Jon Hall (programmer)",
+      "url": "https://en.wikipedia.org/wiki/Jon_Hall_%28programmer%29"
+    },
+    {
+      "title": "Knowledge commons",
+      "url": "https://en.wikipedia.org/wiki/Knowledge_commons"
+    },
+    {
+      "title": "LGPL",
+      "url": "https://en.wikipedia.org/wiki/LGPL"
+    },
+    {
+      "title": "LGPLv3",
+      "url": "https://en.wikipedia.org/wiki/LGPLv3"
+    },
+    {
+      "title": "Larry Augustin",
+      "url": "https://en.wikipedia.org/wiki/Larry_Augustin"
+    },
+    {
+      "title": "Laura Fortunato (academic)",
+      "url": "https://en.wikipedia.org/wiki/Laura_Fortunato_%28academic%29"
+    },
+    {
+      "title": "Lawrence Lessig",
+      "url": "https://en.wikipedia.org/wiki/Lawrence_Lessig"
+    },
+    {
+      "title": "Library Genesis",
+      "url": "https://en.wikipedia.org/wiki/Library_Genesis"
+    },
+    {
+      "title": "License proliferation",
+      "url": "https://en.wikipedia.org/wiki/License_proliferation"
+    },
+    {
+      "title": "Linked data",
+      "url": "https://en.wikipedia.org/wiki/Linked_data"
+    },
+    {
+      "title": "List of commercial open-source applications and services",
+      "url": "https://en.wikipedia.org/wiki/List_of_commercial_open-source_applications_and_services"
+    },
+    {
+      "title": "List of formerly open-source or free software",
+      "url": "https://en.wikipedia.org/wiki/List_of_formerly_open-source_or_free_software"
+    },
+    {
+      "title": "List of formerly proprietary software",
+      "url": "https://en.wikipedia.org/wiki/List_of_formerly_proprietary_software"
+    },
+    {
+      "title": "List of free-software events",
+      "url": "https://en.wikipedia.org/wiki/List_of_free-software_events"
+    },
+    {
+      "title": "List of free and open-source Android applications",
+      "url": "https://en.wikipedia.org/wiki/List_of_free_and_open-source_Android_applications"
+    },
+    {
+      "title": "List of free and open-source iOS applications",
+      "url": "https://en.wikipedia.org/wiki/List_of_free_and_open-source_iOS_applications"
+    },
+    {
+      "title": "List of free and open-source software organizations",
+      "url": "https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_organizations"
+    },
+    {
+      "title": "List of free and open-source software packages",
+      "url": "https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_packages"
+    },
+    {
+      "title": "List of free and open-source web applications",
+      "url": "https://en.wikipedia.org/wiki/List_of_free_and_open-source_web_applications"
+    },
+    {
+      "title": "List of free software project directories",
+      "url": "https://en.wikipedia.org/wiki/List_of_free_software_project_directories"
+    },
+    {
+      "title": "List of free television software",
+      "url": "https://en.wikipedia.org/wiki/List_of_free_television_software"
+    },
+    {
+      "title": "List of office suites",
+      "url": "https://en.wikipedia.org/wiki/List_of_office_suites"
+    },
+    {
+      "title": "List of open-source bioinformatics software",
+      "url": "https://en.wikipedia.org/wiki/List_of_open-source_bioinformatics_software"
+    },
+    {
+      "title": "List of open-source codecs",
+      "url": "https://en.wikipedia.org/wiki/List_of_open-source_codecs"
+    },
+    {
+      "title": "List of open-source health software",
+      "url": "https://en.wikipedia.org/wiki/List_of_open-source_health_software"
+    },
+    {
+      "title": "List of open-source routing platforms",
+      "url": "https://en.wikipedia.org/wiki/List_of_open-source_routing_platforms"
+    },
+    {
+      "title": "List of open-source software for mathematics",
+      "url": "https://en.wikipedia.org/wiki/List_of_open-source_software_for_mathematics"
+    },
+    {
+      "title": "List of open-source video games",
+      "url": "https://en.wikipedia.org/wiki/List_of_open-source_video_games"
+    },
+    {
+      "title": "List of open universities",
+      "url": "https://en.wikipedia.org/wiki/List_of_open_universities"
+    },
+    {
+      "title": "Long-term support",
+      "url": "https://en.wikipedia.org/wiki/Long-term_support"
+    },
+    {
+      "title": "MIT License",
+      "url": "https://en.wikipedia.org/wiki/MIT_License"
+    },
+    {
+      "title": "Mark Galassi",
+      "url": "https://en.wikipedia.org/wiki/Mark_Galassi"
+    },
+    {
+      "title": "Membership organization",
+      "url": "https://en.wikipedia.org/wiki/Membership_organization"
+    },
+    {
+      "title": "Microsoft Open Specification Promise",
+      "url": "https://en.wikipedia.org/wiki/Microsoft_Open_Specification_Promise"
+    },
+    {
+      "title": "Mozilla Public License",
+      "url": "https://en.wikipedia.org/wiki/Mozilla_Public_License"
+    },
+    {
+      "title": "Netscape Communications Corporation",
+      "url": "https://en.wikipedia.org/wiki/Netscape_Communications_Corporation"
+    },
+    {
+      "title": "Netscape Communicator",
+      "url": "https://en.wikipedia.org/wiki/Netscape_Communicator"
+    },
+    {
+      "title": "Nonprofit organization",
+      "url": "https://en.wikipedia.org/wiki/Nonprofit_organization"
+    },
+    {
+      "title": "OSTI",
+      "url": "https://en.wikipedia.org/wiki/OSTI"
+    },
+    {
+      "title": "OSTI (identifier)",
+      "url": "https://en.wikipedia.org/wiki/OSTI_%28identifier%29"
+    },
+    {
+      "title": "Open-core model",
+      "url": "https://en.wikipedia.org/wiki/Open-core_model"
+    },
+    {
+      "title": "Open-design movement",
+      "url": "https://en.wikipedia.org/wiki/Open-design_movement"
+    },
+    {
+      "title": "Open-door academic policy",
+      "url": "https://en.wikipedia.org/wiki/Open-door_academic_policy"
+    },
+    {
+      "title": "Open-notebook science",
+      "url": "https://en.wikipedia.org/wiki/Open-notebook_science"
+    },
+    {
+      "title": "Open-source-software movement",
+      "url": "https://en.wikipedia.org/wiki/Open-source-software_movement"
+    },
+    {
+      "title": "Open-source architecture",
+      "url": "https://en.wikipedia.org/wiki/Open-source_architecture"
+    },
+    {
+      "title": "Open-source governance",
+      "url": "https://en.wikipedia.org/wiki/Open-source_governance"
+    },
+    {
+      "title": "Open-source hardware",
+      "url": "https://en.wikipedia.org/wiki/Open-source_hardware"
+    },
+    {
+      "title": "Open-source journalism",
+      "url": "https://en.wikipedia.org/wiki/Open-source_journalism"
+    },
+    {
+      "title": "Open-source license",
+      "url": "https://en.wikipedia.org/wiki/Open-source_license"
+    },
+    {
+      "title": "Open-source robotics",
+      "url": "https://en.wikipedia.org/wiki/Open-source_robotics"
+    },
+    {
+      "title": "Open-source software",
+      "url": "https://en.wikipedia.org/wiki/Open-source_software"
+    },
+    {
+      "title": "Open-source software advocacy",
+      "url": "https://en.wikipedia.org/wiki/Open-source_software_advocacy"
+    },
+    {
+      "title": "Open-source software development",
+      "url": "https://en.wikipedia.org/wiki/Open-source_software_development"
+    },
+    {
+      "title": "Open-source software movement",
+      "url": "https://en.wikipedia.org/wiki/Open-source_software_movement"
+    },
+    {
+      "title": "Open-source software security",
+      "url": "https://en.wikipedia.org/wiki/Open-source_software_security"
+    },
+    {
+      "title": "OpenCores",
+      "url": "https://en.wikipedia.org/wiki/OpenCores"
+    },
+    {
+      "title": "OpenWetWare",
+      "url": "https://en.wikipedia.org/wiki/OpenWetWare"
+    },
+    {
+      "title": "Open Architecture Network",
+      "url": "https://en.wikipedia.org/wiki/Open_Architecture_Network"
+    },
+    {
+      "title": "Open Data Indices",
+      "url": "https://en.wikipedia.org/wiki/Open_Data_Indices"
+    },
+    {
+      "title": "Open Energy Modelling Initiative",
+      "url": "https://en.wikipedia.org/wiki/Open_Energy_Modelling_Initiative"
+    },
+    {
+      "title": "Open Knowledge Foundation",
+      "url": "https://en.wikipedia.org/wiki/Open_Knowledge_Foundation"
+    },
+    {
+      "title": "Open Rights Group",
+      "url": "https://en.wikipedia.org/wiki/Open_Rights_Group"
+    },
+    {
+      "title": "Open Source Ecology",
+      "url": "https://en.wikipedia.org/wiki/Open_Source_Ecology"
+    },
+    {
+      "title": "Open Web",
+      "url": "https://en.wikipedia.org/wiki/Open_Web"
+    },
+    {
+      "title": "Open Web Foundation",
+      "url": "https://en.wikipedia.org/wiki/Open_Web_Foundation"
+    },
+    {
+      "title": "Open access",
+      "url": "https://en.wikipedia.org/wiki/Open_access"
+    },
+    {
+      "title": "Open admissions",
+      "url": "https://en.wikipedia.org/wiki/Open_admissions"
+    },
+    {
+      "title": "Open collaboration",
+      "url": "https://en.wikipedia.org/wiki/Open_collaboration"
+    },
+    {
+      "title": "Open communication",
+      "url": "https://en.wikipedia.org/wiki/Open_communication"
+    },
+    {
+      "title": "Open content",
+      "url": "https://en.wikipedia.org/wiki/Open_content"
+    },
+    {
+      "title": "Open data",
+      "url": "https://en.wikipedia.org/wiki/Open_data"
+    },
+    {
+      "title": "Open education",
+      "url": "https://en.wikipedia.org/wiki/Open_education"
+    },
+    {
+      "title": "Open educational resources",
+      "url": "https://en.wikipedia.org/wiki/Open_educational_resources"
+    },
+    {
+      "title": "Open gaming",
+      "url": "https://en.wikipedia.org/wiki/Open_gaming"
+    },
+    {
+      "title": "Open government",
+      "url": "https://en.wikipedia.org/wiki/Open_government"
+    },
+    {
+      "title": "Open innovation",
+      "url": "https://en.wikipedia.org/wiki/Open_innovation"
+    },
+    {
+      "title": "Open knowledge",
+      "url": "https://en.wikipedia.org/wiki/Open_knowledge"
+    },
+    {
+      "title": "Open music model",
+      "url": "https://en.wikipedia.org/wiki/Open_music_model"
+    },
+    {
+      "title": "Open patent",
+      "url": "https://en.wikipedia.org/wiki/Open_patent"
+    },
+    {
+      "title": "Open publishing",
+      "url": "https://en.wikipedia.org/wiki/Open_publishing"
+    },
+    {
+      "title": "Open research",
+      "url": "https://en.wikipedia.org/wiki/Open_research"
+    },
+    {
+      "title": "Open science",
+      "url": "https://en.wikipedia.org/wiki/Open_science"
+    },
+    {
+      "title": "Open science data",
+      "url": "https://en.wikipedia.org/wiki/Open_science_data"
+    },
+    {
+      "title": "Open source",
+      "url": "https://en.wikipedia.org/wiki/Open_source"
+    },
+    {
+      "title": "Open standard",
+      "url": "https://en.wikipedia.org/wiki/Open_standard"
+    },
+    {
+      "title": "Openness",
+      "url": "https://en.wikipedia.org/wiki/Openness"
+    },
+    {
+      "title": "Outline of free software",
+      "url": "https://en.wikipedia.org/wiki/Outline_of_free_software"
+    },
+    {
+      "title": "PLOS",
+      "url": "https://en.wikipedia.org/wiki/PLOS"
+    },
+    {
+      "title": "PMID (identifier)",
+      "url": "https://en.wikipedia.org/wiki/PMID_%28identifier%29"
+    },
+    {
+      "title": "Participatory culture",
+      "url": "https://en.wikipedia.org/wiki/Participatory_culture"
+    },
+    {
+      "title": "Participatory media",
+      "url": "https://en.wikipedia.org/wiki/Participatory_media"
+    },
+    {
+      "title": "Peer review",
+      "url": "https://en.wikipedia.org/wiki/Peer_review"
+    },
+    {
+      "title": "Permissive license",
+      "url": "https://en.wikipedia.org/wiki/Permissive_license"
+    },
+    {
+      "title": "Permissive software license",
+      "url": "https://en.wikipedia.org/wiki/Permissive_software_license"
+    },
+    {
+      "title": "Peter Murray-Rust",
+      "url": "https://en.wikipedia.org/wiki/Peter_Murray-Rust"
+    },
+    {
+      "title": "Peter Suber",
+      "url": "https://en.wikipedia.org/wiki/Peter_Suber"
+    },
+    {
+      "title": "Peter Sunde",
+      "url": "https://en.wikipedia.org/wiki/Peter_Sunde"
+    },
+    {
+      "title": "Philosophical Transactions of the Royal Society A",
+      "url": "https://en.wikipedia.org/wiki/Philosophical_Transactions_of_the_Royal_Society_A"
+    },
+    {
+      "title": "Pirate Party",
+      "url": "https://en.wikipedia.org/wiki/Pirate_Party"
+    },
+    {
+      "title": "Plan S",
+      "url": "https://en.wikipedia.org/wiki/Plan_S"
+    },
+    {
+      "title": "Poul-Henning Kamp",
+      "url": "https://en.wikipedia.org/wiki/Poul-Henning_Kamp"
+    },
+    {
+      "title": "ProPublica",
+      "url": "https://en.wikipedia.org/wiki/ProPublica"
+    },
+    {
+      "title": "Proprietary firmware",
+      "url": "https://en.wikipedia.org/wiki/Proprietary_firmware"
+    },
+    {
+      "title": "Proprietary software",
+      "url": "https://en.wikipedia.org/wiki/Proprietary_software"
+    },
+    {
+      "title": "Public-benefit nonprofit corporation",
+      "url": "https://en.wikipedia.org/wiki/Public-benefit_nonprofit_corporation"
+    },
+    {
+      "title": "Public domain",
+      "url": "https://en.wikipedia.org/wiki/Public_domain"
+    },
+    {
+      "title": "Python License",
+      "url": "https://en.wikipedia.org/wiki/Python_License"
+    },
+    {
+      "title": "Python Software Foundation License",
+      "url": "https://en.wikipedia.org/wiki/Python_Software_Foundation_License"
+    },
+    {
+      "title": "Revolution OS",
+      "url": "https://en.wikipedia.org/wiki/Revolution_OS"
+    },
+    {
+      "title": "Richard Stallman",
+      "url": "https://en.wikipedia.org/wiki/Richard_Stallman"
+    },
+    {
+      "title": "SCO–Linux disputes",
+      "url": "https://en.wikipedia.org/wiki/SCO%E2%80%93Linux_disputes"
+    },
+    {
+      "title": "Scholarly Publishing and Academic Resources Coalition",
+      "url": "https://en.wikipedia.org/wiki/Scholarly_Publishing_and_Academic_Resources_Coalition"
+    },
+    {
+      "title": "Sci-Hub",
+      "url": "https://en.wikipedia.org/wiki/Sci-Hub"
+    },
+    {
+      "title": "Shared Source Initiative",
+      "url": "https://en.wikipedia.org/wiki/Shared_Source_Initiative"
+    },
+    {
+      "title": "Sharing economy",
+      "url": "https://en.wikipedia.org/wiki/Sharing_economy"
+    },
+    {
+      "title": "Sharism",
+      "url": "https://en.wikipedia.org/wiki/Sharism"
+    },
+    {
+      "title": "Simon Phipps (programmer)",
+      "url": "https://en.wikipedia.org/wiki/Simon_Phipps_%28programmer%29"
+    },
+    {
+      "title": "Sleepycat Software",
+      "url": "https://en.wikipedia.org/wiki/Sleepycat_Software"
+    },
+    {
+      "title": "Software license",
+      "url": "https://en.wikipedia.org/wiki/Software_license"
+    },
+    {
+      "title": "Software patents and free software",
+      "url": "https://en.wikipedia.org/wiki/Software_patents_and_free_software"
+    },
+    {
+      "title": "Source-available software",
+      "url": "https://en.wikipedia.org/wiki/Source-available_software"
+    },
+    {
+      "title": "Source code",
+      "url": "https://en.wikipedia.org/wiki/Source_code"
+    },
+    {
+      "title": "Standards organization",
+      "url": "https://en.wikipedia.org/wiki/Standards_organization"
+    },
+    {
+      "title": "Tax-exempt status",
+      "url": "https://en.wikipedia.org/wiki/Tax-exempt_status"
+    },
+    {
+      "title": "Techno-progressivism",
+      "url": "https://en.wikipedia.org/wiki/Techno-progressivism"
+    },
+    {
+      "title": "The Anarchist Library",
+      "url": "https://en.wikipedia.org/wiki/The_Anarchist_Library"
+    },
+    {
+      "title": "The Cathedral and the Bazaar",
+      "url": "https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar"
+    },
+    {
+      "title": "The Free Software Definition",
+      "url": "https://en.wikipedia.org/wiki/The_Free_Software_Definition"
+    },
+    {
+      "title": "The Open Definition",
+      "url": "https://en.wikipedia.org/wiki/The_Open_Definition"
+    },
+    {
+      "title": "The Register",
+      "url": "https://en.wikipedia.org/wiki/The_Register"
+    },
+    {
+      "title": "Tim Berners-Lee",
+      "url": "https://en.wikipedia.org/wiki/Tim_Berners-Lee"
+    },
+    {
+      "title": "Timeline of free and open-source software",
+      "url": "https://en.wikipedia.org/wiki/Timeline_of_free_and_open-source_software"
+    },
+    {
+      "title": "Tivoization",
+      "url": "https://en.wikipedia.org/wiki/Tivoization"
+    },
+    {
+      "title": "Trademark",
+      "url": "https://en.wikipedia.org/wiki/Trademark"
+    },
+    {
+      "title": "Trusted Computing",
+      "url": "https://en.wikipedia.org/wiki/Trusted_Computing"
+    },
+    {
+      "title": "Unlicense",
+      "url": "https://en.wikipedia.org/wiki/Unlicense"
+    },
+    {
+      "title": "WDQ (identifier)",
+      "url": "https://en.wikipedia.org/wiki/WDQ_%28identifier%29"
+    },
+    {
+      "title": "WTFPL",
+      "url": "https://en.wikipedia.org/wiki/WTFPL"
+    },
+    {
+      "title": "West Hollywood, California",
+      "url": "https://en.wikipedia.org/wiki/West_Hollywood%2C_California"
+    },
+    {
+      "title": "Wiki journalism",
+      "url": "https://en.wikipedia.org/wiki/Wiki_journalism"
+    },
+    {
+      "title": "Z-Library",
+      "url": "https://en.wikipedia.org/wiki/Z-Library"
+    },
+    {
+      "title": "ZDNET",
+      "url": "https://en.wikipedia.org/wiki/ZDNET"
+    },
+    {
+      "title": "Zlib License",
+      "url": "https://en.wikipedia.org/wiki/Zlib_License"
+    },
+    {
+      "title": "Cryptographic Autonomy License",
+      "url": "https://en.wikipedia.org/wiki/Cryptographic_Autonomy_License"
+    }
+  ]
+}

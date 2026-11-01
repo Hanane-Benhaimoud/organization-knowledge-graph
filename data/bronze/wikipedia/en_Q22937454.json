@@ -1,0 +1,196 @@
+{
+  "document_id": "wikipedia_en_Q22937454",
+  "wikidata_id": "Q22937454",
+  "entity_label": "International Data Spaces Association",
+  "entity_type": "organization",
+  "seed_categories": [],
+  "source": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/International_Data_Spaces_Association",
+  "revision_id": 1356902734,
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1356902734",
+  "pageid": 74327153,
+  "title": "International Data Spaces Association",
+  "language": "en",
+  "collected_at": "2026-10-28T22:00:18.825936+00:00",
+  "content": {
+    "sections": [
+      {
+        "heading": "Introduction",
+        "text": "The International Data Spaces Association (I DSA ) is a not-for-profit association of more than 140 organisations, incorporated under German law. It creates standards for sharing data in data spaces , that allow participants to have full control over their data.\nIDSA was founded in 2016 to create data sharing standards for automated negotiation, exchange, and compliance enforcement. It also defines security standards, control and enforcement mechanisms for data usage, and rules for data traceability. IDSA specifies the legal, operational, functional, and technical agreements between organisations that share data within a data space. It is one of the main initiatives defining the technical specifications for data spaces in the European Union. IDSA releases and maintains a reference architecture model for data spaces. It also certifies the essential software components used in data spaces."
+      },
+      {
+        "heading": "History",
+        "text": "In 2014 the Fraunhofer Society started a project called the Industrial Data Space, which was renamed to International Data Spaces (IDS) in 2015. IDSA was formed in 2016 to develop the IDS reference architecture model and certification procedures based on industry requirements."
+      },
+      {
+        "heading": "Reference architecture model",
+        "text": "The IDSA reference architecture model, defines the roles and information model for data spaces. The roles include core participants, intermediaries, software and services, and governance. The reference architecture model also defines software connectors that form the interfaces between the data space and its participants. These connectors are used to maintain participants' data sovereignty.\nVersion 3.0 of IDSA's reference architecture model was released in 2019, and version 4.0 in 2023."
+      },
+      {
+        "heading": "See also",
+        "text": "Gaia-X"
+      }
+    ],
+    "full_text": "Introduction\nThe International Data Spaces Association (I DSA ) is a not-for-profit association of more than 140 organisations, incorporated under German law. It creates standards for sharing data in data spaces , that allow participants to have full control over their data.\nIDSA was founded in 2016 to create data sharing standards for automated negotiation, exchange, and compliance enforcement. It also defines security standards, control and enforcement mechanisms for data usage, and rules for data traceability. IDSA specifies the legal, operational, functional, and technical agreements between organisations that share data within a data space. It is one of the main initiatives defining the technical specifications for data spaces in the European Union. IDSA releases and maintains a reference architecture model for data spaces. It also certifies the essential software components used in data spaces.\n\nHistory\nIn 2014 the Fraunhofer Society started a project called the Industrial Data Space, which was renamed to International Data Spaces (IDS) in 2015. IDSA was formed in 2016 to develop the IDS reference architecture model and certification procedures based on industry requirements.\n\nReference architecture model\nThe IDSA reference architecture model, defines the roles and information model for data spaces. The roles include core participants, intermediaries, software and services, and governance. The reference architecture model also defines software connectors that form the interfaces between the data space and its participants. These connectors are used to maintain participants' data sovereignty.\nVersion 3.0 of IDSA's reference architecture model was released in 2019, and version 4.0 in 2023.\n\nSee also\nGaia-X"
+  },
+  "references": [
+    {
+      "url": "https://link.springer.com/chapter/10.1007/978-3-030-98636-0_2",
+      "label": "\"An Organizational Maturity Model forData Spaces: A Data Sharing Wheel Approach\""
+    },
+    {
+      "url": "https://doi.org/10.1007%2F978-3-030-98636-0_2",
+      "label": "10.1007/978-3-030-98636-0_2"
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352340924009314",
+      "label": "\"What are data spaces? Systematic survey and future outlook\""
+    },
+    {
+      "url": "https://doi.org/10.1016%2Fj.dib.2024.110969",
+      "label": "10.1016/j.dib.2024.110969"
+    },
+    {
+      "url": "https://search.worldcat.org/issn/2352-3409",
+      "label": "2352-3409"
+    },
+    {
+      "url": "https://manufacturingdataspace-csa.eu/wp-content/uploads/2024/05/IDSA-International-Data-Spaces-Association.pdf",
+      "label": "\"IDSA\""
+    },
+    {
+      "url": "https://venturebeat.com/ai/how-data-spaces-could-scale-creating-digital-twins/",
+      "label": "\"How data spaces could scale creating digital twins\""
+    },
+    {
+      "url": "https://books.google.com/books?id=wki-EAAAQBAJ&pg=PA298",
+      "label": "Research Handbook on Digital Strategy"
+    },
+    {
+      "url": "https://ris.utwente.nl/ws/files/285489087/_Firdausy_2022_Towards_a_Reference_Enterprise_Architecture_to_enforce_Digital_Sovereignty_in_International_Data_Spaces.pdf",
+      "label": "\"Towards a Reference Enterprise Architecture to enforce Digital Sovereignty in International Data Spaces\""
+    },
+    {
+      "url": "https://research.utwente.nl/en/publications/00e8afef-6934-400e-8557-7078b57ba630",
+      "label": "2022 IEEE 24th Conference on Business Informatics (CBI)"
+    },
+    {
+      "url": "https://doi.org/10.1109%2FCBI54897.2022.00020",
+      "label": "10.1109/CBI54897.2022.00020"
+    },
+    {
+      "url": "https://api.semanticscholar.org/CorpusID:253556464",
+      "label": "253556464"
+    },
+    {
+      "url": "https://doi.org/10.3390%2Finfo12110465",
+      "label": "\"Data Ownership: A Survey\""
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9387709",
+      "label": "\"The road to European digital sovereignty with Gaia-X and IDSA\""
+    },
+    {
+      "url": "https://doi.org/10.1109%2FMNET.2021.9387709",
+      "label": "10.1109/MNET.2021.9387709"
+    },
+    {
+      "url": "https://api.semanticscholar.org/CorpusID:233195437",
+      "label": "233195437"
+    },
+    {
+      "url": "https://ceur-ws.org/Vol-3214/WS6Paper1.pdf",
+      "label": "\"Aligning Dutch logistics data spaces initiatives to the international data spaces: Discussing the state of development\""
+    },
+    {
+      "url": "https://link.springer.com/chapter/10.1007/978-3-030-93975-5_3",
+      "label": "\"International Data Spaces in a Nutshell\""
+    },
+    {
+      "url": "https://doi.org/10.1007%2F978-3-030-93975-5_3",
+      "label": "10.1007/978-3-030-93975-5_3"
+    },
+    {
+      "url": "https://books.google.com/books?id=yvuLEAAAQBAJ&pg=PA242",
+      "label": "\"A Data Connector Store for International Data Spaces\""
+    }
+  ],
+  "outgoing_links": [
+    {
+      "title": "Data space",
+      "url": "https://en.wikipedia.org/wiki/Data_space"
+    },
+    {
+      "title": "Dataspaces",
+      "url": "https://en.wikipedia.org/wiki/Dataspaces"
+    },
+    {
+      "title": "Doi (identifier)",
+      "url": "https://en.wikipedia.org/wiki/Doi_%28identifier%29"
+    },
+    {
+      "title": "Dortmund",
+      "url": "https://en.wikipedia.org/wiki/Dortmund"
+    },
+    {
+      "title": "Edward Elgar Publishing",
+      "url": "https://en.wikipedia.org/wiki/Edward_Elgar_Publishing"
+    },
+    {
+      "title": "Fraunhofer Society",
+      "url": "https://en.wikipedia.org/wiki/Fraunhofer_Society"
+    },
+    {
+      "title": "Gaia-X",
+      "url": "https://en.wikipedia.org/wiki/Gaia-X"
+    },
+    {
+      "title": "Germany",
+      "url": "https://en.wikipedia.org/wiki/Germany"
+    },
+    {
+      "title": "IEEE",
+      "url": "https://en.wikipedia.org/wiki/IEEE"
+    },
+    {
+      "title": "ISBN (identifier)",
+      "url": "https://en.wikipedia.org/wiki/ISBN_%28identifier%29"
+    },
+    {
+      "title": "ISSN (identifier)",
+      "url": "https://en.wikipedia.org/wiki/ISSN_%28identifier%29"
+    },
+    {
+      "title": "MDPI",
+      "url": "https://en.wikipedia.org/wiki/MDPI"
+    },
+    {
+      "title": "Nonprofit organisation",
+      "url": "https://en.wikipedia.org/wiki/Nonprofit_organisation"
+    },
+    {
+      "title": "RWTH Aachen University",
+      "url": "https://en.wikipedia.org/wiki/RWTH_Aachen_University"
+    },
+    {
+      "title": "Reference architecture",
+      "url": "https://en.wikipedia.org/wiki/Reference_architecture"
+    },
+    {
+      "title": "S2CID (identifier)",
+      "url": "https://en.wikipedia.org/wiki/S2CID_%28identifier%29"
+    },
+    {
+      "title": "Springer (publisher)",
+      "url": "https://en.wikipedia.org/wiki/Springer_%28publisher%29"
+    },
+    {
+      "title": "Springer International Publishing",
+      "url": "https://en.wikipedia.org/wiki/Springer_International_Publishing"
+    },
+    {
+      "title": "VentureBeat",
+      "url": "https://en.wikipedia.org/wiki/VentureBeat"
+    }
+  ]
+}

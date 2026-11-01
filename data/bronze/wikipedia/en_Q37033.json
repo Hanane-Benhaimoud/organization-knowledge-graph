@@ -1,0 +1,2288 @@
+{
+  "document_id": "wikipedia_en_Q37033",
+  "wikidata_id": "Q37033",
+  "entity_label": "World Wide Web Consortium",
+  "entity_type": "organization",
+  "seed_categories": [],
+  "source": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/World_Wide_Web_Consortium",
+  "revision_id": 1381048692,
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1381048692",
+  "pageid": 33149,
+  "title": "World Wide Web Consortium",
+  "language": "en",
+  "collected_at": "2026-10-28T22:01:11.034541+00:00",
+  "content": {
+    "sections": [
+      {
+        "heading": "Introduction",
+        "text": "The World Wide Web Consortium ( W3C ) is the main international standards organization for the World Wide Web . Founded in 1994 by Tim Berners-Lee , the consortium is made up of member organizations that maintain full-time staff working together in the development of technical standards for the World Wide Web. As of March 2026, [update] W3C has 331 members. The organization has been led by CEO Seth Dobbs since October 2023. W3C also engages in education and outreach, develops software and serves as an open forum for discussion about the Web."
+      },
+      {
+        "heading": "History",
+        "text": "The World Wide Web Consortium (W3C) was founded in 1994 by Tim Berners-Lee after he left the European Organization for Nuclear Research ( CERN ) in October 1994. It was founded at the Massachusetts Institute of Technology (MIT) Laboratory for Computer Science with support from the European Commission , and the Defense Advanced Research Projects Agency , which had pioneered the ARPANET , the most direct predecessor to the modern Internet . It was located in Technology Square until 2004, when it moved, with the MIT Computer Science and Artificial Intelligence Laboratory, to the Stata Center .\nThe organization tries to foster compatibility and agreement among industry members in the adoption of new standards defined by the W3C. Incompatible versions of HTML are offered by different vendors, causing inconsistency in how web pages are displayed. The consortium tries to get all those vendors to implement a set of core principles and components that are chosen by the consortium.\nIt was originally intended that CERN host the European branch of W3C; however, CERN wished to focus on particle physics , not information technology . In April 1995, the French Institute for Research in Computer Science and Automation became the European host of W3C, with Keio University Research Institute at SFC becoming the Asian host in September 1996. Starting in 1997, W3C created regional offices around the world. As of September 2009, it had eighteen World Offices covering Australia, the Benelux countries (Belgium, Netherlands and Luxembourg), Brazil, China, Finland, Germany, Austria, Greece, Hong Kong, Hungary, India, Israel, Italy, South Korea, Morocco, South Africa, Spain, Sweden, and, as of 2016, the United Kingdom and Ireland.\nIn 2010, Jeffrey M. Jaffe was named CEO of W3C. He continued in that position until 2022.\nIn October 2012, W3C convened a community of major web players and publishers to establish a MediaWiki wiki that seeks to document open web standards called the WebPlatform and WebPlatform Docs.\nIn January 2013, Beihang University became the Chinese host.\nIn 2022 the W3C WebFonts Working Group won an Emmy Award from the National Academy of Television Arts and Sciences for standardizing font technology for custom downloadable fonts and typography for web and TV devices.\nOn 1 January 2023, it reformed as a public-interest 501(c)(3) non-profit organization . In October 2023, Seth Dobbs was named as the organization's chief executive officer.\nIn October 2025, the W3C unveiled a new logo, signaling positive changes and updated its tagline to \"making the web work — for everyone\". This reflects its evolution into a nonprofit organization and continued focus on global accessibility, collaboration, innovation, privacy, security and the future of web standards."
+      },
+      {
+        "heading": "Standardization process",
+        "text": "W3C develops technical specifications for HTML5 , CSS , SVG , WOFF , the Semantic Web Stack , XML , and other technologies. Sometimes, when a specification becomes too large, it is split into independent modules that can progress through development stages at their own pace. Subsequent editions of a module or specification are known as levels and are denoted by the first integer in the title (e.g. CSS3 is Level 3). Subsequent revisions on each level are denoted by an integer following a decimal point (for example, CSS2.1 is Revision 1).\nThe W3C standard formation process is defined within the W3C process document, outlining four development stages through which each new standard or recommendation must progress."
+      },
+      {
+        "heading": "Working draft (WD)",
+        "text": "After enough content has been gathered from 'editor drafts' and discussion, it may be published as a working draft (WD) for review by the community. A WD document is the first form of a standard that is publicly available. Commentary by virtually anyone is accepted, though no promises are made with regard to action on any particular element commented upon.\nAt this stage, the standard document may have significant differences from its final form. As such, anyone who implements WD standards should be ready to significantly modify their implementations once the standard is finalized."
+      },
+      {
+        "heading": "Candidate recommendation (CR)",
+        "text": "A candidate recommendation is a version of a more advanced standard than the WD. At this point, the group responsible for the standard is satisfied that the standard meets its goal. The purpose of the CR is to elicit aid from the development community on how implementable the standard is.\nThe standard document may change further, but significant features are mostly decided at this point. The design of those features can still change due to feedback from implementers."
+      },
+      {
+        "heading": "Proposed recommendation (PR)",
+        "text": "A proposed recommendation is the version of a standard that has passed the prior two levels. The users of the standard provide input. At this stage, the document is submitted to the W3C Advisory Council for final approval.\nWhile this step is important, it rarely causes any significant changes to a standard as it passes to the next phase."
+      },
+      {
+        "heading": "W3C recommendation (REC)",
+        "text": "The standard has been finalized and is now official. At this point, the standard has undergone extensive review and testing, under both theoretical and practical conditions. The standard is now endorsed by the W3C, indicating its readiness for deployment to the public, and encouraging more widespread support among implementers and authors."
+      },
+      {
+        "heading": "Later revisions",
+        "text": "A recommendation may be updated or extended by separately-published, non-technical errata or editor drafts until sufficient substantial edits accumulate for producing a new edition or level of the recommendation. Additionally, the W3C publishes various kinds of informative notes which are to be used as references."
+      },
+      {
+        "heading": "Administration",
+        "text": "In January 2023, after 28 years of being jointly administered by the MIT Computer Science and Artificial Intelligence Laboratory (located in Stata Center ) in the United States, the European Research Consortium for Informatics and Mathematics [ fr ] (ERCIM; in Sophia Antipolis , France), Keio University (in Japan) and Beihang University (in China), the W3C incorporated as a legal entity, becoming a public-interest not-for-profit organization .\nThe W3C has a staff team of 70–80 worldwide as of 2015 [update] . W3C is run by a management team which allocates resources and designs strategy. It also includes an advisory board that supports strategy and legal matters and helps resolve conflicts. The majority of standardization work is done by external experts in the W3C's various working groups."
+      },
+      {
+        "heading": "Membership",
+        "text": "The Consortium is governed by its membership. The list of members is available to the public. Members include businesses, nonprofit organizations, universities, governmental entities, and individuals.\nMembership requirements are transparent except for one requirement: An application for membership must be reviewed and approved by the W3C. Many guidelines and requirements are stated in detail, but there is no final guideline about the process or standards by which membership might be finally approved or denied.\nThe cost of membership is given on a sliding scale, depending on the character of the organization applying and the country in which it is located. Countries are categorized by the World Bank 's most recent grouping by gross national income per capita."
+      },
+      {
+        "heading": "Criticism",
+        "text": "In a 2007 issue of the German C't computer magazine in an interview with Herbert Braun Opera CTO Håkon Wium Lie , who introduced the concept of style sheets to the W3C in 1994 and worked on the CSS specification, criticized the course of the W3C, its recommendation of XHTML , and the general standardization process in the W3C:\n— Håkon Wium Lie\nIn 2012 and 2013, the W3C started considering adding DRM -specific Encrypted Media Extensions (EME) to HTML5 , which was criticised as being against the openness, interoperability, and vendor neutrality that distinguished websites built using only W3C standards from those requiring proprietary plug-ins like Flash . On 18 September 2017, the W3C published the EME specification as a recommendation, leading to the Electronic Frontier Foundation 's resignation from W3C. As feared by the opponents of EME, as of 2020 [update] , none of the widely used Content Decryption Modules used with EME are available for licensing without a per-browser licensing fee.\nIn October 2017, the W3C received the Austrian \"Big Brother Award\", a negative award, in the \"Government and Administration\" category for introducing EME as a web standard."
+      },
+      {
+        "heading": "Recommendations",
+        "text": "W3C Recommendations:\nActivityPub , decentralized social networking protocol CSS CSS animations CSS box model CSS Flexible Box Layout CSS grid layout Data Catalog Vocabulary Document Object Model Efficient XML Interchange Emotion Markup Language Encrypted Media Extensions , DRM modules integration standard EPUB , an ebook file format GRDDL HTML , standard web markup language JSON-LD , linked data JSON extension MathML , mathematical notation markup language Micropub , client-server protocol to post & edit content on websites Message Transmission Optimization Mechanism (MTOM) Web Ontology Language PROV Resource Description Framework (RDF), family of metadata standards and associated serialization formats N-Triples and N-Quads RDF Schema RDF/XML TriG Turtle SAWSDL Semantic Interpretation for Speech Recognition Simple Knowledge Organization System Synchronized Multimedia Integration Language SOAP SPARQL Speech Recognition Grammar Specification Speech Synthesis Markup Language State Chart XML Scalable Vector Graphics , vector image format Timed Text Markup Language VoiceXML WAI-ARIA Web Content Accessibility Guidelines WebAssembly , portable binary format and assembly language Web Authentication WebDriver , a platform based on language-neutral wire protocol to remotely instruct the behavior of web browsers Webmention , protocol for websites to notify other websites Web of Things Web Open Font Format WebRTC , real-time communication standard Web Services Description Language Web Share API WebSub WebVTT WebXR Device API WS-Addressing XHTML XHTML+RDFa XHTML+Voice XML and related specifications XForms XML Encryption XML Events XML Information Set XML Namespaces XML Schema XPath XML Signature XQuery XSL Formatting Objects XSLT XTiger\nObsoleted:\nP3P"
+      },
+      {
+        "heading": "Java packages",
+        "text": "The org.w3c.dom standard library packages in the Java programming language provide interfaces for the Document Object Model (DOM).\nThe org.xml.sax standard library packages provide interfaces for the Simple API for XML (SAX)."
+      },
+      {
+        "heading": "See also",
+        "text": "Browser wars – Competition between web browsing applications for share of worldwide usage History of the Internet History of the World Wide Web History of web browsers LAMP (software bundle) List of web browsers Server (computing) Application server Comparison of web server software HTTP server (core part of a web server program that serves HTTP requests) HTTP compression Web application Open source web application Protocol Wars Variant object Virtual hosting Web server Web standards Web Standards Project Web hosting service Web container Web proxy Web service"
+      },
+      {
+        "heading": "External links",
+        "text": "About the World Wide Web Consortium W3C Technical Reports and Publications W3C Process Document W3C History How to read W3C specs"
+      }
+    ],
+    "full_text": "Introduction\nThe World Wide Web Consortium ( W3C ) is the main international standards organization for the World Wide Web . Founded in 1994 by Tim Berners-Lee , the consortium is made up of member organizations that maintain full-time staff working together in the development of technical standards for the World Wide Web. As of March 2026, [update] W3C has 331 members. The organization has been led by CEO Seth Dobbs since October 2023. W3C also engages in education and outreach, develops software and serves as an open forum for discussion about the Web.\n\nHistory\nThe World Wide Web Consortium (W3C) was founded in 1994 by Tim Berners-Lee after he left the European Organization for Nuclear Research ( CERN ) in October 1994. It was founded at the Massachusetts Institute of Technology (MIT) Laboratory for Computer Science with support from the European Commission , and the Defense Advanced Research Projects Agency , which had pioneered the ARPANET , the most direct predecessor to the modern Internet . It was located in Technology Square until 2004, when it moved, with the MIT Computer Science and Artificial Intelligence Laboratory, to the Stata Center .\nThe organization tries to foster compatibility and agreement among industry members in the adoption of new standards defined by the W3C. Incompatible versions of HTML are offered by different vendors, causing inconsistency in how web pages are displayed. The consortium tries to get all those vendors to implement a set of core principles and components that are chosen by the consortium.\nIt was originally intended that CERN host the European branch of W3C; however, CERN wished to focus on particle physics , not information technology . In April 1995, the French Institute for Research in Computer Science and Automation became the European host of W3C, with Keio University Research Institute at SFC becoming the Asian host in September 1996. Starting in 1997, W3C created regional offices around the world. As of September 2009, it had eighteen World Offices covering Australia, the Benelux countries (Belgium, Netherlands and Luxembourg), Brazil, China, Finland, Germany, Austria, Greece, Hong Kong, Hungary, India, Israel, Italy, South Korea, Morocco, South Africa, Spain, Sweden, and, as of 2016, the United Kingdom and Ireland.\nIn 2010, Jeffrey M. Jaffe was named CEO of W3C. He continued in that position until 2022.\nIn October 2012, W3C convened a community of major web players and publishers to establish a MediaWiki wiki that seeks to document open web standards called the WebPlatform and WebPlatform Docs.\nIn January 2013, Beihang University became the Chinese host.\nIn 2022 the W3C WebFonts Working Group won an Emmy Award from the National Academy of Television Arts and Sciences for standardizing font technology for custom downloadable fonts and typography for web and TV devices.\nOn 1 January 2023, it reformed as a public-interest 501(c)(3) non-profit organization . In October 2023, Seth Dobbs was named as the organization's chief executive officer.\nIn October 2025, the W3C unveiled a new logo, signaling positive changes and updated its tagline to \"making the web work — for everyone\". This reflects its evolution into a nonprofit organization and continued focus on global accessibility, collaboration, innovation, privacy, security and the future of web standards.\n\nStandardization process\nW3C develops technical specifications for HTML5 , CSS , SVG , WOFF , the Semantic Web Stack , XML , and other technologies. Sometimes, when a specification becomes too large, it is split into independent modules that can progress through development stages at their own pace. Subsequent editions of a module or specification are known as levels and are denoted by the first integer in the title (e.g. CSS3 is Level 3). Subsequent revisions on each level are denoted by an integer following a decimal point (for example, CSS2.1 is Revision 1).\nThe W3C standard formation process is defined within the W3C process document, outlining four development stages through which each new standard or recommendation must progress.\n\nWorking draft (WD)\nAfter enough content has been gathered from 'editor drafts' and discussion, it may be published as a working draft (WD) for review by the community. A WD document is the first form of a standard that is publicly available. Commentary by virtually anyone is accepted, though no promises are made with regard to action on any particular element commented upon.\nAt this stage, the standard document may have significant differences from its final form. As such, anyone who implements WD standards should be ready to significantly modify their implementations once the standard is finalized.\n\nCandidate recommendation (CR)\nA candidate recommendation is a version of a more advanced standard than the WD. At this point, the group responsible for the standard is satisfied that the standard meets its goal. The purpose of the CR is to elicit aid from the development community on how implementable the standard is.\nThe standard document may change further, but significant features are mostly decided at this point. The design of those features can still change due to feedback from implementers.\n\nProposed recommendation (PR)\nA proposed recommendation is the version of a standard that has passed the prior two levels. The users of the standard provide input. At this stage, the document is submitted to the W3C Advisory Council for final approval.\nWhile this step is important, it rarely causes any significant changes to a standard as it passes to the next phase.\n\nW3C recommendation (REC)\nThe standard has been finalized and is now official. At this point, the standard has undergone extensive review and testing, under both theoretical and practical conditions. The standard is now endorsed by the W3C, indicating its readiness for deployment to the public, and encouraging more widespread support among implementers and authors.\n\nLater revisions\nA recommendation may be updated or extended by separately-published, non-technical errata or editor drafts until sufficient substantial edits accumulate for producing a new edition or level of the recommendation. Additionally, the W3C publishes various kinds of informative notes which are to be used as references.\n\nAdministration\nIn January 2023, after 28 years of being jointly administered by the MIT Computer Science and Artificial Intelligence Laboratory (located in Stata Center ) in the United States, the European Research Consortium for Informatics and Mathematics [ fr ] (ERCIM; in Sophia Antipolis , France), Keio University (in Japan) and Beihang University (in China), the W3C incorporated as a legal entity, becoming a public-interest not-for-profit organization .\nThe W3C has a staff team of 70–80 worldwide as of 2015 [update] . W3C is run by a management team which allocates resources and designs strategy. It also includes an advisory board that supports strategy and legal matters and helps resolve conflicts. The majority of standardization work is done by external experts in the W3C's various working groups.\n\nMembership\nThe Consortium is governed by its membership. The list of members is available to the public. Members include businesses, nonprofit organizations, universities, governmental entities, and individuals.\nMembership requirements are transparent except for one requirement: An application for membership must be reviewed and approved by the W3C. Many guidelines and requirements are stated in detail, but there is no final guideline about the process or standards by which membership might be finally approved or denied.\nThe cost of membership is given on a sliding scale, depending on the character of the organization applying and the country in which it is located. Countries are categorized by the World Bank 's most recent grouping by gross national income per capita.\n\nCriticism\nIn a 2007 issue of the German C't computer magazine in an interview with Herbert Braun Opera CTO Håkon Wium Lie , who introduced the concept of style sheets to the W3C in 1994 and worked on the CSS specification, criticized the course of the W3C, its recommendation of XHTML , and the general standardization process in the W3C:\n— Håkon Wium Lie\nIn 2012 and 2013, the W3C started considering adding DRM -specific Encrypted Media Extensions (EME) to HTML5 , which was criticised as being against the openness, interoperability, and vendor neutrality that distinguished websites built using only W3C standards from those requiring proprietary plug-ins like Flash . On 18 September 2017, the W3C published the EME specification as a recommendation, leading to the Electronic Frontier Foundation 's resignation from W3C. As feared by the opponents of EME, as of 2020 [update] , none of the widely used Content Decryption Modules used with EME are available for licensing without a per-browser licensing fee.\nIn October 2017, the W3C received the Austrian \"Big Brother Award\", a negative award, in the \"Government and Administration\" category for introducing EME as a web standard.\n\nRecommendations\nW3C Recommendations:\nActivityPub , decentralized social networking protocol CSS CSS animations CSS box model CSS Flexible Box Layout CSS grid layout Data Catalog Vocabulary Document Object Model Efficient XML Interchange Emotion Markup Language Encrypted Media Extensions , DRM modules integration standard EPUB , an ebook file format GRDDL HTML , standard web markup language JSON-LD , linked data JSON extension MathML , mathematical notation markup language Micropub , client-server protocol to post & edit content on websites Message Transmission Optimization Mechanism (MTOM) Web Ontology Language PROV Resource Description Framework (RDF), family of metadata standards and associated serialization formats N-Triples and N-Quads RDF Schema RDF/XML TriG Turtle SAWSDL Semantic Interpretation for Speech Recognition Simple Knowledge Organization System Synchronized Multimedia Integration Language SOAP SPARQL Speech Recognition Grammar Specification Speech Synthesis Markup Language State Chart XML Scalable Vector Graphics , vector image format Timed Text Markup Language VoiceXML WAI-ARIA Web Content Accessibility Guidelines WebAssembly , portable binary format and assembly language Web Authentication WebDriver , a platform based on language-neutral wire protocol to remotely instruct the behavior of web browsers Webmention , protocol for websites to notify other websites Web of Things Web Open Font Format WebRTC , real-time communication standard Web Services Description Language Web Share API WebSub WebVTT WebXR Device API WS-Addressing XHTML XHTML+RDFa XHTML+Voice XML and related specifications XForms XML Encryption XML Events XML Information Set XML Namespaces XML Schema XPath XML Signature XQuery XSL Formatting Objects XSLT XTiger\nObsoleted:\nP3P\n\nJava packages\nThe org.w3c.dom standard library packages in the Java programming language provide interfaces for the Document Object Model (DOM).\nThe org.xml.sax standard library packages provide interfaces for the Simple API for XML (SAX).\n\nSee also\nBrowser wars – Competition between web browsing applications for share of worldwide usage History of the Internet History of the World Wide Web History of web browsers LAMP (software bundle) List of web browsers Server (computing) Application server Comparison of web server software HTTP server (core part of a web server program that serves HTTP requests) HTTP compression Web application Open source web application Protocol Wars Variant object Virtual hosting Web server Web standards Web Standards Project Web hosting service Web container Web proxy Web service\n\nExternal links\nAbout the World Wide Web Consortium W3C Technical Reports and Publications W3C Process Document W3C History How to read W3C specs"
+  },
+  "references": [
+    {
+      "url": "http://www.w3.org/2013/01/china-host.html.en",
+      "label": "\"W3C Invites Chinese Web Developers, Industry, Academia to Assume Greater Role in Global Web Innovation\""
+    },
+    {
+      "url": "https://web.archive.org/web/20230202180317/https://www.w3.org/2013/01/china-host.html.en",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.w3.org/membership/list/",
+      "label": "\"Current Members & Testimonials\""
+    },
+    {
+      "url": "https://web.archive.org/web/20260331034940/https://www.w3.org/membership/list/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.w3.org/staff/",
+      "label": "\"Staff\""
+    },
+    {
+      "url": "https://www.w3.org/press-releases/2023/w3c-welcomes-seth-dobbs-as-new-ceo/",
+      "label": "\"World Wide Web Consortium (W3C) welcomes Seth Dobbs as new Chief Executive Officer\""
+    },
+    {
+      "url": "https://www.deccanherald.com/specials/can-we-imagine-life-without-the-world-wide-web-1123051.html",
+      "label": "\"Can we imagine life without the World Wide Web?\""
+    },
+    {
+      "url": "https://www.w3.org/Consortium/",
+      "label": "\"About us\""
+    },
+    {
+      "url": "https://web.archive.org/web/20220321165722/https://www.w3.org/Consortium/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.technologyreview.com/s/540206/the-past-and-future-of-kendall-square/",
+      "label": "The Past and Future of Kendall Square"
+    },
+    {
+      "url": "https://web.archive.org/web/20191017214222/https://www.technologyreview.com/s/540206/the-past-and-future-of-kendall-square/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.w3.org/Press/Keio-PR.html",
+      "label": "\"Press release: Keio University joins the MIT Laboratory for Computer Science and INRIA in Hosting the International World Wide Web Consortium\""
+    },
+    {
+      "url": "https://web.archive.org/web/20160304121047/http://www.w3.org/Press/Keio-PR.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://web.archive.org/web/20090906065319/http://www.w3.org/Consortium/org#offices",
+      "label": "\"W3C Offices\""
+    },
+    {
+      "url": "http://www.w3.org/Consortium/org#offices",
+      "label": "the original"
+    },
+    {
+      "url": "https://www.w3.org/press-releases/2010/ceo/",
+      "label": "\"Dr. Jeffrey Jaffe Named W3C CEO\""
+    },
+    {
+      "url": "https://www.w3.org/People/Jeff/Overview.html",
+      "label": "\"Dr. Jeffrey Jaffe, W3C CEO\""
+    },
+    {
+      "url": "https://www.w3.org/2013/01/china-host.html.en",
+      "label": "\"Beihang University Becomes Newest Institution to Host W3C\""
+    },
+    {
+      "url": "https://deadline.com/2022/04/2021-technology-engineering-emmys-winners-list-1235009756/",
+      "label": "\"Technology & Engineering Emmys Winners Unveiled\""
+    },
+    {
+      "url": "https://www.w3.org/press-releases/2023/w3c-le-launched/",
+      "label": "\"W3C re-launched as a public-interest non-profit organization\""
+    },
+    {
+      "url": "https://news.mit.edu/2023/world-wide-web-consortium-is-now-public-interest-nonprofit-organization-0202",
+      "label": "\"World Wide Web Consortium is now a public-interest nonprofit organization\""
+    },
+    {
+      "url": "https://www.w3.org/press-releases/2025/new-logo/",
+      "label": "\"The World Wide Web Consortium (W3C) adopts a new logo to signal positive changes\""
+    },
+    {
+      "url": "https://www.w3.org/standards/",
+      "label": "\"Standards\""
+    },
+    {
+      "url": "https://web.archive.org/web/20180313154855/https://www.w3.org/standards/",
+      "label": "Archived"
+    },
+    {
+      "url": "http://www.w3.org/2005/10/Process-20051014/tr.html#rec-advance",
+      "label": "\"Development Process\""
+    },
+    {
+      "url": "https://web.archive.org/web/20220516093905/http://www.w3.org/2005/10/Process-20051014/tr.html#rec-advance",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.ercim.eu/about/ercim-and-w3c",
+      "label": "\"ERCIM and W3C\""
+    },
+    {
+      "url": "https://www.w3.org/Consortium/facts",
+      "label": "\"Facts about W3C\""
+    },
+    {
+      "url": "http://www.w3.org/People/all",
+      "label": "\"W3C people list\""
+    },
+    {
+      "url": "https://web.archive.org/web/20120121183418/http://www.w3.org/People/all",
+      "label": "Archived"
+    },
+    {
+      "url": "https://web.archive.org/web/20120306025801/http://www.itworld.com/business/99440/w3c-pulls-former-novell-cto-ceo-spot",
+      "label": "\"W3C pulls former Novell CTO for CEO spot\""
+    },
+    {
+      "url": "http://www.itworld.com/business/99440/w3c-pulls-former-novell-cto-ceo-spot",
+      "label": "the original"
+    },
+    {
+      "url": "https://web.archive.org/web/20160818123647/https://www.maysdigital.co.uk/w3c/",
+      "label": "\"The World Wide Web Consortium: Building a Better Internet\""
+    },
+    {
+      "url": "https://www.maysdigital.co.uk/w3c/",
+      "label": "the original"
+    },
+    {
+      "url": "https://www.w3.org/groups/wg/",
+      "label": "\"Working Groups\""
+    },
+    {
+      "url": "http://www.w3.org/Consortium/membership-faq",
+      "label": "\"Membership FAQ\""
+    },
+    {
+      "url": "http://www.w3.org/Consortium/join",
+      "label": "\"Join W3C\""
+    },
+    {
+      "url": "https://www.w3.org/Consortium/fees.php?showall=1",
+      "label": "W3C Membership Fee Calculator"
+    },
+    {
+      "url": "http://web.worldbank.org/WBSITE/EXTERNAL/DATASTATISTICS/0,,contentMDK:20420458~menuPK:64133156~pagePK:64133150~piPK:64133175~theSitePK:239419,00.html",
+      "label": "\"World Bank Country Classification\""
+    },
+    {
+      "url": "https://www.heise.de/ct/Redaktion/heb/w3c/lie_english.html",
+      "label": "\"c't: The Future of Web Standards - Interview with Håkon Wium Lie\""
+    },
+    {
+      "url": "https://web.archive.org/web/20130319103742/http://www.guardian.co.uk/technology/blog/2013/mar/12/tim-berners-lee-drm-cory-doctorow",
+      "label": "\"What I wish Tim Berners-Lee understood about DRM\""
+    },
+    {
+      "url": "https://www.theguardian.com/technology/blog/2013/mar/12/tim-berners-lee-drm-cory-doctorow",
+      "label": "the original"
+    },
+    {
+      "url": "https://web.archive.org/web/20130420064114/http://blogs.computerworlduk.com/open-enterprise/2013/02/bbc-attacks-the-open-web-gnulinux-in-danger/index.htm",
+      "label": "\"BBC Attacks the Open Web, GNU/Linux in Danger\""
+    },
+    {
+      "url": "http://blogs.computerworlduk.com/open-enterprise/2013/02/bbc-attacks-the-open-web-gnulinux-in-danger/index.htm",
+      "label": "the original"
+    },
+    {
+      "url": "https://web.archive.org/web/20130324134750/http://www.webmonkey.com/2013/02/drm-for-the-web-say-it-aint-so",
+      "label": "\"DRM for the Web? Say It Ain't So\""
+    },
+    {
+      "url": "http://www.webmonkey.com/2013/02/drm-for-the-web-say-it-aint-so/",
+      "label": "the original"
+    },
+    {
+      "url": "https://web.archive.org/web/20130403124524/http://www.defectivebydesign.org/no-drm-in-html5",
+      "label": "\"Tell W3C: We don't want the Hollyweb\""
+    },
+    {
+      "url": "https://www.defectivebydesign.org/no-drm-in-html5",
+      "label": "the original"
+    },
+    {
+      "url": "https://www.eff.org/deeplinks/2013/10/lowering-your-standards",
+      "label": "\"Lowering Your Standards: DRM and the Future of the W3C\""
+    },
+    {
+      "url": "https://web.archive.org/web/20170526162828/https://www.eff.org/deeplinks/2013/10/lowering-your-standards",
+      "label": "Archived"
+    },
+    {
+      "url": "https://arstechnica.com/gadgets/2017/09/drm-for-html5-published-as-a-w3c-recommendation-after-58-4-approval/",
+      "label": "\"HTML5 DRM finally makes it as an official W3C Recommendation\""
+    },
+    {
+      "url": "https://www.eff.org/deeplinks/2017/09/open-letter-w3c-director-ceo-team-and-membership",
+      "label": "\"An open letter to the W3C Director, CEO, team and membership\""
+    },
+    {
+      "url": "https://boingboing.net/2020/01/08/rip-open-web-platform.html",
+      "label": "\"Three years after the W3C approved a DRM standard, it's no longer possible to make a functional indie browser\""
+    },
+    {
+      "url": "https://boingboing.net/2019/04/03/i-hate-being-right-2.html",
+      "label": "\"After years of insisting that DRM in HTML wouldn't block open source implementations, Google says it won't support open source implementations\""
+    },
+    {
+      "url": "https://web.archive.org/web/20220904051554/https://boingboing.net/2019/04/03/i-hate-being-right-2.html",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.derstandard.at/consent/tcf/2000066709292/innenminister-wolfgang-sobotka-erhielt-big-brother-award",
+      "label": "\"Innenminister Wolfgang Sobotka erhielt Big Brother Award\""
+    },
+    {
+      "url": "https://docs.oasis-open.org/styles/w3c-recommendations-list/w3c-recommendations-list.html",
+      "label": "\"W3C Recommendation Citation List for OASIS Editors Version 1.0\""
+    },
+    {
+      "url": "https://www.w3.org/TR/2013/NOTE-prov-overview-20130430/",
+      "label": "\"PROV-Overview: An Overview of the PROV Family of Documents\""
+    },
+    {
+      "url": "https://web.archive.org/web/20181118101015/https://www.w3.org/TR/2013/NOTE-prov-overview-20130430/",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.w3.org/TR/webdriver2/",
+      "label": "\"WebDriver\""
+    },
+    {
+      "url": "https://immersive-web.github.io/webxr/",
+      "label": "\"WebXR Device API — W3C Candidate Recommendation Snapshot\""
+    },
+    {
+      "url": "https://web.archive.org/web/20230523102055/https://immersive-web.github.io/webxr/",
+      "label": "Archived"
+    },
+    {
+      "url": "http://wam.inrialpes.fr/publications/2010/XMLPrague10.pdf",
+      "label": "Authoring XML all the time, everywhere and by everyone"
+    },
+    {
+      "url": "https://archive.xmlprague.cz/2010/index.html",
+      "label": "XML Prague 2010"
+    },
+    {
+      "url": "https://web.archive.org/web/20220121015634/http://wam.inrialpes.fr/publications/2010/XMLPrague10.pdf",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.w3.org/Amaya/Templates/XTiger-spec.html",
+      "label": "\"XTiger language specification\""
+    }
+  ],
+  "outgoing_links": [
+    {
+      "title": "Geographic coordinate system",
+      "url": "https://en.wikipedia.org/wiki/Geographic_coordinate_system"
+    },
+    {
+      "title": "WWWC (AM)",
+      "url": "https://en.wikipedia.org/wiki/WWWC_%28AM%29"
+    },
+    {
+      "title": "History of the World Wide Web",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web"
+    },
+    {
+      "title": "Browser wars",
+      "url": "https://en.wikipedia.org/wiki/Browser_wars"
+    },
+    {
+      "title": ".au Domain Administration",
+      "url": "https://en.wikipedia.org/wiki/.au_Domain_Administration"
+    },
+    {
+      "title": "3GPP",
+      "url": "https://en.wikipedia.org/wiki/3GPP"
+    },
+    {
+      "title": "501(c)(3) organization",
+      "url": "https://en.wikipedia.org/wiki/501%28c%29%283%29_organization"
+    },
+    {
+      "title": "AFNIC",
+      "url": "https://en.wikipedia.org/wiki/AFNIC"
+    },
+    {
+      "title": "ARPANET",
+      "url": "https://en.wikipedia.org/wiki/ARPANET"
+    },
+    {
+      "title": "AUTOSAR",
+      "url": "https://en.wikipedia.org/wiki/AUTOSAR"
+    },
+    {
+      "title": "Academic Free License",
+      "url": "https://en.wikipedia.org/wiki/Academic_Free_License"
+    },
+    {
+      "title": "Accellera",
+      "url": "https://en.wikipedia.org/wiki/Accellera"
+    },
+    {
+      "title": "ActivityPub",
+      "url": "https://en.wikipedia.org/wiki/ActivityPub"
+    },
+    {
+      "title": "Activity Streams (format)",
+      "url": "https://en.wikipedia.org/wiki/Activity_Streams_%28format%29"
+    },
+    {
+      "title": "Adobe Flash Player",
+      "url": "https://en.wikipedia.org/wiki/Adobe_Flash_Player"
+    },
+    {
+      "title": "Agora (web browser)",
+      "url": "https://en.wikipedia.org/wiki/Agora_%28web_browser%29"
+    },
+    {
+      "title": "AlternC",
+      "url": "https://en.wikipedia.org/wiki/AlternC"
+    },
+    {
+      "title": "Alternative terms for free software",
+      "url": "https://en.wikipedia.org/wiki/Alternative_terms_for_free_software"
+    },
+    {
+      "title": "Amaya (web editor)",
+      "url": "https://en.wikipedia.org/wiki/Amaya_%28web_editor%29"
+    },
+    {
+      "title": "Apache License",
+      "url": "https://en.wikipedia.org/wiki/Apache_License"
+    },
+    {
+      "title": "Apple Public Source License",
+      "url": "https://en.wikipedia.org/wiki/Apple_Public_Source_License"
+    },
+    {
+      "title": "Application server",
+      "url": "https://en.wikipedia.org/wiki/Application_server"
+    },
+    {
+      "title": "Arena (web browser)",
+      "url": "https://en.wikipedia.org/wiki/Arena_%28web_browser%29"
+    },
+    {
+      "title": "Argo (web browser)",
+      "url": "https://en.wikipedia.org/wiki/Argo_%28web_browser%29"
+    },
+    {
+      "title": "Ars Technica",
+      "url": "https://en.wikipedia.org/wiki/Ars_Technica"
+    },
+    {
+      "title": "Artistic License",
+      "url": "https://en.wikipedia.org/wiki/Artistic_License"
+    },
+    {
+      "title": "Association for Standardisation of Automation and Measuring Systems",
+      "url": "https://en.wikipedia.org/wiki/Association_for_Standardisation_of_Automation_and_Measuring_Systems"
+    },
+    {
+      "title": "BSD licenses",
+      "url": "https://en.wikipedia.org/wiki/BSD_licenses"
+    },
+    {
+      "title": "Beihang University",
+      "url": "https://en.wikipedia.org/wiki/Beihang_University"
+    },
+    {
+      "title": "Benelux",
+      "url": "https://en.wikipedia.org/wiki/Benelux"
+    },
+    {
+      "title": "Binary blob",
+      "url": "https://en.wikipedia.org/wiki/Binary_blob"
+    },
+    {
+      "title": "Blog software",
+      "url": "https://en.wikipedia.org/wiki/Blog_software"
+    },
+    {
+      "title": "Bluehost",
+      "url": "https://en.wikipedia.org/wiki/Bluehost"
+    },
+    {
+      "title": "Bluetooth Special Interest Group",
+      "url": "https://en.wikipedia.org/wiki/Bluetooth_Special_Interest_Group"
+    },
+    {
+      "title": "Broadband Forum",
+      "url": "https://en.wikipedia.org/wiki/Broadband_Forum"
+    },
+    {
+      "title": "C't",
+      "url": "https://en.wikipedia.org/wiki/C%27t"
+    },
+    {
+      "title": "C-HTML",
+      "url": "https://en.wikipedia.org/wiki/C-HTML"
+    },
+    {
+      "title": "CERN",
+      "url": "https://en.wikipedia.org/wiki/CERN"
+    },
+    {
+      "title": "CERN httpd",
+      "url": "https://en.wikipedia.org/wiki/CERN_httpd"
+    },
+    {
+      "title": "CPanel",
+      "url": "https://en.wikipedia.org/wiki/CPanel"
+    },
+    {
+      "title": "CSAIL",
+      "url": "https://en.wikipedia.org/wiki/CSAIL"
+    },
+    {
+      "title": "CSS",
+      "url": "https://en.wikipedia.org/wiki/CSS"
+    },
+    {
+      "title": "CSS Flexible Box Layout",
+      "url": "https://en.wikipedia.org/wiki/CSS_Flexible_Box_Layout"
+    },
+    {
+      "title": "CSS Working Group",
+      "url": "https://en.wikipedia.org/wiki/CSS_Working_Group"
+    },
+    {
+      "title": "CSS animations",
+      "url": "https://en.wikipedia.org/wiki/CSS_animations"
+    },
+    {
+      "title": "CSS box model",
+      "url": "https://en.wikipedia.org/wiki/CSS_box_model"
+    },
+    {
+      "title": "CSS grid layout",
+      "url": "https://en.wikipedia.org/wiki/CSS_grid_layout"
+    },
+    {
+      "title": "CZ.NIC",
+      "url": "https://en.wikipedia.org/wiki/CZ.NIC"
+    },
+    {
+      "title": "Call Control eXtensible Markup Language",
+      "url": "https://en.wikipedia.org/wiki/Call_Control_eXtensible_Markup_Language"
+    },
+    {
+      "title": "Cambridge, Massachusetts",
+      "url": "https://en.wikipedia.org/wiki/Cambridge%2C_Massachusetts"
+    },
+    {
+      "title": "Canadian Internet Registration Authority",
+      "url": "https://en.wikipedia.org/wiki/Canadian_Internet_Registration_Authority"
+    },
+    {
+      "title": "Canonical XML",
+      "url": "https://en.wikipedia.org/wiki/Canonical_XML"
+    },
+    {
+      "title": "Cascading Style Sheets",
+      "url": "https://en.wikipedia.org/wiki/Cascading_Style_Sheets"
+    },
+    {
+      "title": "CentralNic",
+      "url": "https://en.wikipedia.org/wiki/CentralNic"
+    },
+    {
+      "title": "Chief technology officer",
+      "url": "https://en.wikipedia.org/wiki/Chief_technology_officer"
+    },
+    {
+      "title": "China Internet Network Information Center",
+      "url": "https://en.wikipedia.org/wiki/China_Internet_Network_Information_Center"
+    },
+    {
+      "title": "Click analytics",
+      "url": "https://en.wikipedia.org/wiki/Click_analytics"
+    },
+    {
+      "title": "Click tracking",
+      "url": "https://en.wikipedia.org/wiki/Click_tracking"
+    },
+    {
+      "title": "Clustered web hosting",
+      "url": "https://en.wikipedia.org/wiki/Clustered_web_hosting"
+    },
+    {
+      "title": "Commerce.com",
+      "url": "https://en.wikipedia.org/wiki/Commerce.com"
+    },
+    {
+      "title": "Common Development and Distribution License",
+      "url": "https://en.wikipedia.org/wiki/Common_Development_and_Distribution_License"
+    },
+    {
+      "title": "Community of practice",
+      "url": "https://en.wikipedia.org/wiki/Community_of_practice"
+    },
+    {
+      "title": "Comparison of free and open-source software licenses",
+      "url": "https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses"
+    },
+    {
+      "title": "Comparison of free software for audio",
+      "url": "https://en.wikipedia.org/wiki/Comparison_of_free_software_for_audio"
+    },
+    {
+      "title": "Comparison of open-source and closed-source software",
+      "url": "https://en.wikipedia.org/wiki/Comparison_of_open-source_and_closed-source_software"
+    },
+    {
+      "title": "Comparison of open-source configuration management software",
+      "url": "https://en.wikipedia.org/wiki/Comparison_of_open-source_configuration_management_software"
+    },
+    {
+      "title": "Comparison of open-source operating systems",
+      "url": "https://en.wikipedia.org/wiki/Comparison_of_open-source_operating_systems"
+    },
+    {
+      "title": "Comparison of open-source wireless drivers",
+      "url": "https://en.wikipedia.org/wiki/Comparison_of_open-source_wireless_drivers"
+    },
+    {
+      "title": "Comparison of shopping cart software",
+      "url": "https://en.wikipedia.org/wiki/Comparison_of_shopping_cart_software"
+    },
+    {
+      "title": "Comparison of source-code-hosting facilities",
+      "url": "https://en.wikipedia.org/wiki/Comparison_of_source-code-hosting_facilities"
+    },
+    {
+      "title": "Comparison of web hosting control panels",
+      "url": "https://en.wikipedia.org/wiki/Comparison_of_web_hosting_control_panels"
+    },
+    {
+      "title": "Comparison of web server software",
+      "url": "https://en.wikipedia.org/wiki/Comparison_of_web_server_software"
+    },
+    {
+      "title": "Compound Document Format",
+      "url": "https://en.wikipedia.org/wiki/Compound_Document_Format"
+    },
+    {
+      "title": "Computerworld",
+      "url": "https://en.wikipedia.org/wiki/Computerworld"
+    },
+    {
+      "title": "Connectivity Standards Alliance",
+      "url": "https://en.wikipedia.org/wiki/Connectivity_Standards_Alliance"
+    },
+    {
+      "title": "Consortium",
+      "url": "https://en.wikipedia.org/wiki/Consortium"
+    },
+    {
+      "title": "Content management system",
+      "url": "https://en.wikipedia.org/wiki/Content_management_system"
+    },
+    {
+      "title": "Contributor license agreement",
+      "url": "https://en.wikipedia.org/wiki/Contributor_license_agreement"
+    },
+    {
+      "title": "Copyleft",
+      "url": "https://en.wikipedia.org/wiki/Copyleft"
+    },
+    {
+      "title": "Cory Doctorow",
+      "url": "https://en.wikipedia.org/wiki/Cory_Doctorow"
+    },
+    {
+      "title": "Creative Commons license",
+      "url": "https://en.wikipedia.org/wiki/Creative_Commons_license"
+    },
+    {
+      "title": "DENIC",
+      "url": "https://en.wikipedia.org/wiki/DENIC"
+    },
+    {
+      "title": "DMTF",
+      "url": "https://en.wikipedia.org/wiki/DMTF"
+    },
+    {
+      "title": "DNS Belgium",
+      "url": "https://en.wikipedia.org/wiki/DNS_Belgium"
+    },
+    {
+      "title": "Data Catalog Vocabulary",
+      "url": "https://en.wikipedia.org/wiki/Data_Catalog_Vocabulary"
+    },
+    {
+      "title": "Defective by Design",
+      "url": "https://en.wikipedia.org/wiki/Defective_by_Design"
+    },
+    {
+      "title": "Defense Advanced Research Projects Agency",
+      "url": "https://en.wikipedia.org/wiki/Defense_Advanced_Research_Projects_Agency"
+    },
+    {
+      "title": "Definition of Free Cultural Works",
+      "url": "https://en.wikipedia.org/wiki/Definition_of_Free_Cultural_Works"
+    },
+    {
+      "title": "Digital rights management",
+      "url": "https://en.wikipedia.org/wiki/Digital_rights_management"
+    },
+    {
+      "title": "DirectAdmin",
+      "url": "https://en.wikipedia.org/wiki/DirectAdmin"
+    },
+    {
+      "title": "Document Object Model",
+      "url": "https://en.wikipedia.org/wiki/Document_Object_Model"
+    },
+    {
+      "title": "Document management system",
+      "url": "https://en.wikipedia.org/wiki/Document_management_system"
+    },
+    {
+      "title": "Domain Technologie Control",
+      "url": "https://en.wikipedia.org/wiki/Domain_Technologie_Control"
+    },
+    {
+      "title": "Domain name",
+      "url": "https://en.wikipedia.org/wiki/Domain_name"
+    },
+    {
+      "title": "Domain name registrar",
+      "url": "https://en.wikipedia.org/wiki/Domain_name_registrar"
+    },
+    {
+      "title": "Domainz",
+      "url": "https://en.wikipedia.org/wiki/Domainz"
+    },
+    {
+      "title": "DreamHost",
+      "url": "https://en.wikipedia.org/wiki/DreamHost"
+    },
+    {
+      "title": "Drupal",
+      "url": "https://en.wikipedia.org/wiki/Drupal"
+    },
+    {
+      "title": "Dynadot",
+      "url": "https://en.wikipedia.org/wiki/Dynadot"
+    },
+    {
+      "title": "EPUB",
+      "url": "https://en.wikipedia.org/wiki/EPUB"
+    },
+    {
+      "title": "EURid",
+      "url": "https://en.wikipedia.org/wiki/EURid"
+    },
+    {
+      "title": "Ebook",
+      "url": "https://en.wikipedia.org/wiki/Ebook"
+    },
+    {
+      "title": "Eclipse Public License",
+      "url": "https://en.wikipedia.org/wiki/Eclipse_Public_License"
+    },
+    {
+      "title": "Ecma International",
+      "url": "https://en.wikipedia.org/wiki/Ecma_International"
+    },
+    {
+      "title": "Efficient XML Interchange",
+      "url": "https://en.wikipedia.org/wiki/Efficient_XML_Interchange"
+    },
+    {
+      "title": "Electronic Frontier Foundation",
+      "url": "https://en.wikipedia.org/wiki/Electronic_Frontier_Foundation"
+    },
+    {
+      "title": "Encrypted Media Extensions",
+      "url": "https://en.wikipedia.org/wiki/Encrypted_Media_Extensions"
+    },
+    {
+      "title": "Enom",
+      "url": "https://en.wikipedia.org/wiki/Enom"
+    },
+    {
+      "title": "Epik",
+      "url": "https://en.wikipedia.org/wiki/Epik"
+    },
+    {
+      "title": "Erratum",
+      "url": "https://en.wikipedia.org/wiki/Erratum"
+    },
+    {
+      "title": "European Commission",
+      "url": "https://en.wikipedia.org/wiki/European_Commission"
+    },
+    {
+      "title": "European Telecommunications Standards Institute",
+      "url": "https://en.wikipedia.org/wiki/European_Telecommunications_Standards_Institute"
+    },
+    {
+      "title": "Extensible Forms Description Language",
+      "url": "https://en.wikipedia.org/wiki/Extensible_Forms_Description_Language"
+    },
+    {
+      "title": "Extensible User Interface Protocol",
+      "url": "https://en.wikipedia.org/wiki/Extensible_User_Interface_Protocol"
+    },
+    {
+      "title": "First International Conference on the World-Wide Web",
+      "url": "https://en.wikipedia.org/wiki/First_International_Conference_on_the_World-Wide_Web"
+    },
+    {
+      "title": "Flexbox",
+      "url": "https://en.wikipedia.org/wiki/Flexbox"
+    },
+    {
+      "title": "Fork (software development)",
+      "url": "https://en.wikipedia.org/wiki/Fork_%28software_development%29"
+    },
+    {
+      "title": "Free-software license",
+      "url": "https://en.wikipedia.org/wiki/Free-software_license"
+    },
+    {
+      "title": "Free Software Foundation",
+      "url": "https://en.wikipedia.org/wiki/Free_Software_Foundation"
+    },
+    {
+      "title": "Free Software Movement of India",
+      "url": "https://en.wikipedia.org/wiki/Free_Software_Movement_of_India"
+    },
+    {
+      "title": "Free and open-source graphics device driver",
+      "url": "https://en.wikipedia.org/wiki/Free_and_open-source_graphics_device_driver"
+    },
+    {
+      "title": "Free and open-source software",
+      "url": "https://en.wikipedia.org/wiki/Free_and_open-source_software"
+    },
+    {
+      "title": "Free license",
+      "url": "https://en.wikipedia.org/wiki/Free_license"
+    },
+    {
+      "title": "Free software",
+      "url": "https://en.wikipedia.org/wiki/Free_software"
+    },
+    {
+      "title": "Free software movement",
+      "url": "https://en.wikipedia.org/wiki/Free_software_movement"
+    },
+    {
+      "title": "Freenom",
+      "url": "https://en.wikipedia.org/wiki/Freenom"
+    },
+    {
+      "title": "French Institute for Research in Computer Science and Automation",
+      "url": "https://en.wikipedia.org/wiki/French_Institute_for_Research_in_Computer_Science_and_Automation"
+    },
+    {
+      "title": "Froxlor",
+      "url": "https://en.wikipedia.org/wiki/Froxlor"
+    },
+    {
+      "title": "GMO Internet",
+      "url": "https://en.wikipedia.org/wiki/GMO_Internet"
+    },
+    {
+      "title": "GNU Affero General Public License",
+      "url": "https://en.wikipedia.org/wiki/GNU_Affero_General_Public_License"
+    },
+    {
+      "title": "GNU General Public License",
+      "url": "https://en.wikipedia.org/wiki/GNU_General_Public_License"
+    },
+    {
+      "title": "GNU Lesser General Public License",
+      "url": "https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License"
+    },
+    {
+      "title": "GNU Manifesto",
+      "url": "https://en.wikipedia.org/wiki/GNU_Manifesto"
+    },
+    {
+      "title": "GRDDL",
+      "url": "https://en.wikipedia.org/wiki/GRDDL"
+    },
+    {
+      "title": "Gandi",
+      "url": "https://en.wikipedia.org/wiki/Gandi"
+    },
+    {
+      "title": "Ghost (blogging platform)",
+      "url": "https://en.wikipedia.org/wiki/Ghost_%28blogging_platform%29"
+    },
+    {
+      "title": "GlowHost",
+      "url": "https://en.wikipedia.org/wiki/GlowHost"
+    },
+    {
+      "title": "Glyn Moody",
+      "url": "https://en.wikipedia.org/wiki/Glyn_Moody"
+    },
+    {
+      "title": "GoDaddy",
+      "url": "https://en.wikipedia.org/wiki/GoDaddy"
+    },
+    {
+      "title": "Google Domains",
+      "url": "https://en.wikipedia.org/wiki/Google_Domains"
+    },
+    {
+      "title": "Google Sites",
+      "url": "https://en.wikipedia.org/wiki/Google_Sites"
+    },
+    {
+      "title": "Grav (CMS)",
+      "url": "https://en.wikipedia.org/wiki/Grav_%28CMS%29"
+    },
+    {
+      "title": "Gross national income",
+      "url": "https://en.wikipedia.org/wiki/Gross_national_income"
+    },
+    {
+      "title": "HTML",
+      "url": "https://en.wikipedia.org/wiki/HTML"
+    },
+    {
+      "title": "HTML5",
+      "url": "https://en.wikipedia.org/wiki/HTML5"
+    },
+    {
+      "title": "HTML Working Group",
+      "url": "https://en.wikipedia.org/wiki/HTML_Working_Group"
+    },
+    {
+      "title": "HTTP compression",
+      "url": "https://en.wikipedia.org/wiki/HTTP_compression"
+    },
+    {
+      "title": "HTTP server",
+      "url": "https://en.wikipedia.org/wiki/HTTP_server"
+    },
+    {
+      "title": "Handheld Device Markup Language",
+      "url": "https://en.wikipedia.org/wiki/Handheld_Device_Markup_Language"
+    },
+    {
+      "title": "History of free and open-source software",
+      "url": "https://en.wikipedia.org/wiki/History_of_free_and_open-source_software"
+    },
+    {
+      "title": "History of the Internet",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_Internet"
+    },
+    {
+      "title": "History of the web browser",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_web_browser"
+    },
+    {
+      "title": "Hostinger",
+      "url": "https://en.wikipedia.org/wiki/Hostinger"
+    },
+    {
+      "title": "Hover (domain registrar)",
+      "url": "https://en.wikipedia.org/wiki/Hover_%28domain_registrar%29"
+    },
+    {
+      "title": "Hugo (software)",
+      "url": "https://en.wikipedia.org/wiki/Hugo_%28software%29"
+    },
+    {
+      "title": "Håkon Wium Lie",
+      "url": "https://en.wikipedia.org/wiki/H%C3%A5kon_Wium_Lie"
+    },
+    {
+      "title": "I-MSCP",
+      "url": "https://en.wikipedia.org/wiki/I-MSCP"
+    },
+    {
+      "title": "IEEE Standards Association",
+      "url": "https://en.wikipedia.org/wiki/IEEE_Standards_Association"
+    },
+    {
+      "title": "ISC license",
+      "url": "https://en.wikipedia.org/wiki/ISC_license"
+    },
+    {
+      "title": "ISPConfig",
+      "url": "https://en.wikipedia.org/wiki/ISPConfig"
+    },
+    {
+      "title": "Identity Digital",
+      "url": "https://en.wikipedia.org/wiki/Identity_Digital"
+    },
+    {
+      "title": "Improving Web Advertising Business Group",
+      "url": "https://en.wikipedia.org/wiki/Improving_Web_Advertising_Business_Group"
+    },
+    {
+      "title": "IndexedDB",
+      "url": "https://en.wikipedia.org/wiki/IndexedDB"
+    },
+    {
+      "title": "IndieAuth",
+      "url": "https://en.wikipedia.org/wiki/IndieAuth"
+    },
+    {
+      "title": "Infomaniak",
+      "url": "https://en.wikipedia.org/wiki/Infomaniak"
+    },
+    {
+      "title": "Information technology",
+      "url": "https://en.wikipedia.org/wiki/Information_technology"
+    },
+    {
+      "title": "InkML",
+      "url": "https://en.wikipedia.org/wiki/InkML"
+    },
+    {
+      "title": "Institute for Research in Fundamental Sciences",
+      "url": "https://en.wikipedia.org/wiki/Institute_for_Research_in_Fundamental_Sciences"
+    },
+    {
+      "title": "International Electrotechnical Commission",
+      "url": "https://en.wikipedia.org/wiki/International_Electrotechnical_Commission"
+    },
+    {
+      "title": "International Organization for Standardization",
+      "url": "https://en.wikipedia.org/wiki/International_Organization_for_Standardization"
+    },
+    {
+      "title": "International Telecommunication Union",
+      "url": "https://en.wikipedia.org/wiki/International_Telecommunication_Union"
+    },
+    {
+      "title": "International World Wide Web Conference Committee",
+      "url": "https://en.wikipedia.org/wiki/International_World_Wide_Web_Conference_Committee"
+    },
+    {
+      "title": "Internationalization Tag Set",
+      "url": "https://en.wikipedia.org/wiki/Internationalization_Tag_Set"
+    },
+    {
+      "title": "Internet",
+      "url": "https://en.wikipedia.org/wiki/Internet"
+    },
+    {
+      "title": "Internet Engineering Task Force",
+      "url": "https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force"
+    },
+    {
+      "title": "JEDEC",
+      "url": "https://en.wikipedia.org/wiki/JEDEC"
+    },
+    {
+      "title": "JSON-LD",
+      "url": "https://en.wikipedia.org/wiki/JSON-LD"
+    },
+    {
+      "title": "Japan Registry Services",
+      "url": "https://en.wikipedia.org/wiki/Japan_Registry_Services"
+    },
+    {
+      "title": "JavaScript Style Sheets",
+      "url": "https://en.wikipedia.org/wiki/JavaScript_Style_Sheets"
+    },
+    {
+      "title": "Java (programming language)",
+      "url": "https://en.wikipedia.org/wiki/Java_%28programming_language%29"
+    },
+    {
+      "title": "Java Class Library",
+      "url": "https://en.wikipedia.org/wiki/Java_Class_Library"
+    },
+    {
+      "title": "Jeffrey M. Jaffe",
+      "url": "https://en.wikipedia.org/wiki/Jeffrey_M._Jaffe"
+    },
+    {
+      "title": "Jimdo",
+      "url": "https://en.wikipedia.org/wiki/Jimdo"
+    },
+    {
+      "title": "Joomla",
+      "url": "https://en.wikipedia.org/wiki/Joomla"
+    },
+    {
+      "title": "Keio University",
+      "url": "https://en.wikipedia.org/wiki/Keio_University"
+    },
+    {
+      "title": "Keio University Shonan Fujisawa Campus",
+      "url": "https://en.wikipedia.org/wiki/Keio_University_Shonan_Fujisawa_Campus"
+    },
+    {
+      "title": "Khronos Group",
+      "url": "https://en.wikipedia.org/wiki/Khronos_Group"
+    },
+    {
+      "title": "Kloxo",
+      "url": "https://en.wikipedia.org/wiki/Kloxo"
+    },
+    {
+      "title": "Korea Internet & Security Agency",
+      "url": "https://en.wikipedia.org/wiki/Korea_Internet_%26_Security_Agency"
+    },
+    {
+      "title": "LAMP (software bundle)",
+      "url": "https://en.wikipedia.org/wiki/LAMP_%28software_bundle%29"
+    },
+    {
+      "title": "Laboratory for Computer Science",
+      "url": "https://en.wikipedia.org/wiki/Laboratory_for_Computer_Science"
+    },
+    {
+      "title": "Landing page",
+      "url": "https://en.wikipedia.org/wiki/Landing_page"
+    },
+    {
+      "title": "Libwww",
+      "url": "https://en.wikipedia.org/wiki/Libwww"
+    },
+    {
+      "title": "License proliferation",
+      "url": "https://en.wikipedia.org/wiki/License_proliferation"
+    },
+    {
+      "title": "Line Mode Browser",
+      "url": "https://en.wikipedia.org/wiki/Line_Mode_Browser"
+    },
+    {
+      "title": "Linked Data Notifications",
+      "url": "https://en.wikipedia.org/wiki/Linked_Data_Notifications"
+    },
+    {
+      "title": "Linked data",
+      "url": "https://en.wikipedia.org/wiki/Linked_data"
+    },
+    {
+      "title": "List of commercial open-source applications and services",
+      "url": "https://en.wikipedia.org/wiki/List_of_commercial_open-source_applications_and_services"
+    },
+    {
+      "title": "List of formerly open-source or free software",
+      "url": "https://en.wikipedia.org/wiki/List_of_formerly_open-source_or_free_software"
+    },
+    {
+      "title": "List of formerly proprietary software",
+      "url": "https://en.wikipedia.org/wiki/List_of_formerly_proprietary_software"
+    },
+    {
+      "title": "List of free-software events",
+      "url": "https://en.wikipedia.org/wiki/List_of_free-software_events"
+    },
+    {
+      "title": "List of free and open-source Android applications",
+      "url": "https://en.wikipedia.org/wiki/List_of_free_and_open-source_Android_applications"
+    },
+    {
+      "title": "List of free and open-source iOS applications",
+      "url": "https://en.wikipedia.org/wiki/List_of_free_and_open-source_iOS_applications"
+    },
+    {
+      "title": "List of free and open-source software organizations",
+      "url": "https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_organizations"
+    },
+    {
+      "title": "List of free and open-source software packages",
+      "url": "https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_packages"
+    },
+    {
+      "title": "List of free and open-source web applications",
+      "url": "https://en.wikipedia.org/wiki/List_of_free_and_open-source_web_applications"
+    },
+    {
+      "title": "List of free software project directories",
+      "url": "https://en.wikipedia.org/wiki/List_of_free_software_project_directories"
+    },
+    {
+      "title": "List of free television software",
+      "url": "https://en.wikipedia.org/wiki/List_of_free_television_software"
+    },
+    {
+      "title": "List of office suites",
+      "url": "https://en.wikipedia.org/wiki/List_of_office_suites"
+    },
+    {
+      "title": "List of open-source bioinformatics software",
+      "url": "https://en.wikipedia.org/wiki/List_of_open-source_bioinformatics_software"
+    },
+    {
+      "title": "List of open-source codecs",
+      "url": "https://en.wikipedia.org/wiki/List_of_open-source_codecs"
+    },
+    {
+      "title": "List of open-source health software",
+      "url": "https://en.wikipedia.org/wiki/List_of_open-source_health_software"
+    },
+    {
+      "title": "List of open-source routing platforms",
+      "url": "https://en.wikipedia.org/wiki/List_of_open-source_routing_platforms"
+    },
+    {
+      "title": "List of open-source software for mathematics",
+      "url": "https://en.wikipedia.org/wiki/List_of_open-source_software_for_mathematics"
+    },
+    {
+      "title": "List of open-source video games",
+      "url": "https://en.wikipedia.org/wiki/List_of_open-source_video_games"
+    },
+    {
+      "title": "List of technical standard organizations",
+      "url": "https://en.wikipedia.org/wiki/List_of_technical_standard_organizations"
+    },
+    {
+      "title": "List of web browsers",
+      "url": "https://en.wikipedia.org/wiki/List_of_web_browsers"
+    },
+    {
+      "title": "Long-term support",
+      "url": "https://en.wikipedia.org/wiki/Long-term_support"
+    },
+    {
+      "title": "Low-code development platform",
+      "url": "https://en.wikipedia.org/wiki/Low-code_development_platform"
+    },
+    {
+      "title": "MIPI Alliance",
+      "url": "https://en.wikipedia.org/wiki/MIPI_Alliance"
+    },
+    {
+      "title": "MIT Computer Science and Artificial Intelligence Laboratory",
+      "url": "https://en.wikipedia.org/wiki/MIT_Computer_Science_and_Artificial_Intelligence_Laboratory"
+    },
+    {
+      "title": "MIT License",
+      "url": "https://en.wikipedia.org/wiki/MIT_License"
+    },
+    {
+      "title": "Magento",
+      "url": "https://en.wikipedia.org/wiki/Magento"
+    },
+    {
+      "title": "Massachusetts",
+      "url": "https://en.wikipedia.org/wiki/Massachusetts"
+    },
+    {
+      "title": "Massachusetts Institute of Technology",
+      "url": "https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology"
+    },
+    {
+      "title": "MathML",
+      "url": "https://en.wikipedia.org/wiki/MathML"
+    },
+    {
+      "title": "MediaWiki",
+      "url": "https://en.wikipedia.org/wiki/MediaWiki"
+    },
+    {
+      "title": "Media Source Extensions",
+      "url": "https://en.wikipedia.org/wiki/Media_Source_Extensions"
+    },
+    {
+      "title": "Message Transmission Optimization Mechanism",
+      "url": "https://en.wikipedia.org/wiki/Message_Transmission_Optimization_Mechanism"
+    },
+    {
+      "title": "Micropub (protocol)",
+      "url": "https://en.wikipedia.org/wiki/Micropub_%28protocol%29"
+    },
+    {
+      "title": "Microsoft Open Specification Promise",
+      "url": "https://en.wikipedia.org/wiki/Microsoft_Open_Specification_Promise"
+    },
+    {
+      "title": "Mobile web analytics",
+      "url": "https://en.wikipedia.org/wiki/Mobile_web_analytics"
+    },
+    {
+      "title": "Mozilla Public License",
+      "url": "https://en.wikipedia.org/wiki/Mozilla_Public_License"
+    },
+    {
+      "title": "N-Quads",
+      "url": "https://en.wikipedia.org/wiki/N-Quads"
+    },
+    {
+      "title": "N-Triples",
+      "url": "https://en.wikipedia.org/wiki/N-Triples"
+    },
+    {
+      "title": "NIC México",
+      "url": "https://en.wikipedia.org/wiki/NIC_M%C3%A9xico"
+    },
+    {
+      "title": "Name.com",
+      "url": "https://en.wikipedia.org/wiki/Name.com"
+    },
+    {
+      "title": "NameSilo",
+      "url": "https://en.wikipedia.org/wiki/NameSilo"
+    },
+    {
+      "title": "Namecheap",
+      "url": "https://en.wikipedia.org/wiki/Namecheap"
+    },
+    {
+      "title": "National Academy of Television Arts and Sciences",
+      "url": "https://en.wikipedia.org/wiki/National_Academy_of_Television_Arts_and_Sciences"
+    },
+    {
+      "title": "NearlyFreeSpeech",
+      "url": "https://en.wikipedia.org/wiki/NearlyFreeSpeech"
+    },
+    {
+      "title": "Network Solutions",
+      "url": "https://en.wikipedia.org/wiki/Network_Solutions"
+    },
+    {
+      "title": "Nominet",
+      "url": "https://en.wikipedia.org/wiki/Nominet"
+    },
+    {
+      "title": "Nonprofit organization",
+      "url": "https://en.wikipedia.org/wiki/Nonprofit_organization"
+    },
+    {
+      "title": "Not-for-profit organization",
+      "url": "https://en.wikipedia.org/wiki/Not-for-profit_organization"
+    },
+    {
+      "title": "OASIS Open",
+      "url": "https://en.wikipedia.org/wiki/OASIS_Open"
+    },
+    {
+      "title": "OPC Foundation",
+      "url": "https://en.wikipedia.org/wiki/OPC_Foundation"
+    },
+    {
+      "title": "OVHcloud",
+      "url": "https://en.wikipedia.org/wiki/OVHcloud"
+    },
+    {
+      "title": "Object Management Group",
+      "url": "https://en.wikipedia.org/wiki/Object_Management_Group"
+    },
+    {
+      "title": "Online presence management",
+      "url": "https://en.wikipedia.org/wiki/Online_presence_management"
+    },
+    {
+      "title": "Open-core model",
+      "url": "https://en.wikipedia.org/wiki/Open-core_model"
+    },
+    {
+      "title": "Open-source hardware",
+      "url": "https://en.wikipedia.org/wiki/Open-source_hardware"
+    },
+    {
+      "title": "Open-source license",
+      "url": "https://en.wikipedia.org/wiki/Open-source_license"
+    },
+    {
+      "title": "Open-source software",
+      "url": "https://en.wikipedia.org/wiki/Open-source_software"
+    },
+    {
+      "title": "Open-source software advocacy",
+      "url": "https://en.wikipedia.org/wiki/Open-source_software_advocacy"
+    },
+    {
+      "title": "Open-source software development",
+      "url": "https://en.wikipedia.org/wiki/Open-source_software_development"
+    },
+    {
+      "title": "Open-source software movement",
+      "url": "https://en.wikipedia.org/wiki/Open-source_software_movement"
+    },
+    {
+      "title": "Open-source software security",
+      "url": "https://en.wikipedia.org/wiki/Open-source_software_security"
+    },
+    {
+      "title": "OpenCart",
+      "url": "https://en.wikipedia.org/wiki/OpenCart"
+    },
+    {
+      "title": "Open Connectivity Foundation",
+      "url": "https://en.wikipedia.org/wiki/Open_Connectivity_Foundation"
+    },
+    {
+      "title": "Open Geospatial Consortium",
+      "url": "https://en.wikipedia.org/wiki/Open_Geospatial_Consortium"
+    },
+    {
+      "title": "Open Grid Forum",
+      "url": "https://en.wikipedia.org/wiki/Open_Grid_Forum"
+    },
+    {
+      "title": "Open Mobile Alliance",
+      "url": "https://en.wikipedia.org/wiki/Open_Mobile_Alliance"
+    },
+    {
+      "title": "Open source web application",
+      "url": "https://en.wikipedia.org/wiki/Open_source_web_application"
+    },
+    {
+      "title": "Opera (company)",
+      "url": "https://en.wikipedia.org/wiki/Opera_%28company%29"
+    },
+    {
+      "title": "Optical Internetworking Forum",
+      "url": "https://en.wikipedia.org/wiki/Optical_Internetworking_Forum"
+    },
+    {
+      "title": "Outline of free software",
+      "url": "https://en.wikipedia.org/wiki/Outline_of_free_software"
+    },
+    {
+      "title": "Overselling",
+      "url": "https://en.wikipedia.org/wiki/Overselling"
+    },
+    {
+      "title": "P3P",
+      "url": "https://en.wikipedia.org/wiki/P3P"
+    },
+    {
+      "title": "PCI-SIG",
+      "url": "https://en.wikipedia.org/wiki/PCI-SIG"
+    },
+    {
+      "title": "PICMG",
+      "url": "https://en.wikipedia.org/wiki/PICMG"
+    },
+    {
+      "title": "Particle physics",
+      "url": "https://en.wikipedia.org/wiki/Particle_physics"
+    },
+    {
+      "title": "Peer-to-peer web hosting",
+      "url": "https://en.wikipedia.org/wiki/Peer-to-peer_web_hosting"
+    },
+    {
+      "title": "Permissive software license",
+      "url": "https://en.wikipedia.org/wiki/Permissive_software_license"
+    },
+    {
+      "title": "Platform for Privacy Preferences Project",
+      "url": "https://en.wikipedia.org/wiki/Platform_for_Privacy_Preferences_Project"
+    },
+    {
+      "title": "Plesk",
+      "url": "https://en.wikipedia.org/wiki/Plesk"
+    },
+    {
+      "title": "Plug-in (computing)",
+      "url": "https://en.wikipedia.org/wiki/Plug-in_%28computing%29"
+    },
+    {
+      "title": "Poul-Henning Kamp",
+      "url": "https://en.wikipedia.org/wiki/Poul-Henning_Kamp"
+    },
+    {
+      "title": "Precision Graphics Markup Language",
+      "url": "https://en.wikipedia.org/wiki/Precision_Graphics_Markup_Language"
+    },
+    {
+      "title": "PrestaShop",
+      "url": "https://en.wikipedia.org/wiki/PrestaShop"
+    },
+    {
+      "title": "Pronunciation Lexicon Specification",
+      "url": "https://en.wikipedia.org/wiki/Pronunciation_Lexicon_Specification"
+    },
+    {
+      "title": "Proprietary firmware",
+      "url": "https://en.wikipedia.org/wiki/Proprietary_firmware"
+    },
+    {
+      "title": "Proprietary software",
+      "url": "https://en.wikipedia.org/wiki/Proprietary_software"
+    },
+    {
+      "title": "Protocol Wars",
+      "url": "https://en.wikipedia.org/wiki/Protocol_Wars"
+    },
+    {
+      "title": "Public Interest Registry",
+      "url": "https://en.wikipedia.org/wiki/Public_Interest_Registry"
+    },
+    {
+      "title": "Public domain",
+      "url": "https://en.wikipedia.org/wiki/Public_domain"
+    },
+    {
+      "title": "Public interest",
+      "url": "https://en.wikipedia.org/wiki/Public_interest"
+    },
+    {
+      "title": "Python License",
+      "url": "https://en.wikipedia.org/wiki/Python_License"
+    },
+    {
+      "title": "Python Software Foundation License",
+      "url": "https://en.wikipedia.org/wiki/Python_Software_Foundation_License"
+    },
+    {
+      "title": "RDF/XML",
+      "url": "https://en.wikipedia.org/wiki/RDF%2FXML"
+    },
+    {
+      "title": "RDF Schema",
+      "url": "https://en.wikipedia.org/wiki/RDF_Schema"
+    },
+    {
+      "title": "RDFa",
+      "url": "https://en.wikipedia.org/wiki/RDFa"
+    },
+    {
+      "title": "RISC-V",
+      "url": "https://en.wikipedia.org/wiki/RISC-V"
+    },
+    {
+      "title": "Real-time communication",
+      "url": "https://en.wikipedia.org/wiki/Real-time_communication"
+    },
+    {
+      "title": "Register.com",
+      "url": "https://en.wikipedia.org/wiki/Register.com"
+    },
+    {
+      "title": "Resource Description Framework",
+      "url": "https://en.wikipedia.org/wiki/Resource_Description_Framework"
+    },
+    {
+      "title": "Responsive web design",
+      "url": "https://en.wikipedia.org/wiki/Responsive_web_design"
+    },
+    {
+      "title": "Revolution OS",
+      "url": "https://en.wikipedia.org/wiki/Revolution_OS"
+    },
+    {
+      "title": "Rule Interchange Format",
+      "url": "https://en.wikipedia.org/wiki/Rule_Interchange_Format"
+    },
+    {
+      "title": "SAWSDL",
+      "url": "https://en.wikipedia.org/wiki/SAWSDL"
+    },
+    {
+      "title": "SCO–Linux disputes",
+      "url": "https://en.wikipedia.org/wiki/SCO%E2%80%93Linux_disputes"
+    },
+    {
+      "title": "SCXML",
+      "url": "https://en.wikipedia.org/wiki/SCXML"
+    },
+    {
+      "title": "SD Association",
+      "url": "https://en.wikipedia.org/wiki/SD_Association"
+    },
+    {
+      "title": "SHACL",
+      "url": "https://en.wikipedia.org/wiki/SHACL"
+    },
+    {
+      "title": "SOAP",
+      "url": "https://en.wikipedia.org/wiki/SOAP"
+    },
+    {
+      "title": "SPARQL",
+      "url": "https://en.wikipedia.org/wiki/SPARQL"
+    },
+    {
+      "title": "SVG",
+      "url": "https://en.wikipedia.org/wiki/SVG"
+    },
+    {
+      "title": "SVG Working Group",
+      "url": "https://en.wikipedia.org/wiki/SVG_Working_Group"
+    },
+    {
+      "title": "SVG animation",
+      "url": "https://en.wikipedia.org/wiki/SVG_animation"
+    },
+    {
+      "title": "SVG filter effects",
+      "url": "https://en.wikipedia.org/wiki/SVG_filter_effects"
+    },
+    {
+      "title": "SXBL",
+      "url": "https://en.wikipedia.org/wiki/SXBL"
+    },
+    {
+      "title": "Scalable Vector Graphics",
+      "url": "https://en.wikipedia.org/wiki/Scalable_Vector_Graphics"
+    },
+    {
+      "title": "Search engine optimization",
+      "url": "https://en.wikipedia.org/wiki/Search_engine_optimization"
+    },
+    {
+      "title": "Self-hosting (network)",
+      "url": "https://en.wikipedia.org/wiki/Self-hosting_%28network%29"
+    },
+    {
+      "title": "Semantic Interpretation for Speech Recognition",
+      "url": "https://en.wikipedia.org/wiki/Semantic_Interpretation_for_Speech_Recognition"
+    },
+    {
+      "title": "Semantic Web Stack",
+      "url": "https://en.wikipedia.org/wiki/Semantic_Web_Stack"
+    },
+    {
+      "title": "Server (computing)",
+      "url": "https://en.wikipedia.org/wiki/Server_%28computing%29"
+    },
+    {
+      "title": "Shared Source Initiative",
+      "url": "https://en.wikipedia.org/wiki/Shared_Source_Initiative"
+    },
+    {
+      "title": "Shopify",
+      "url": "https://en.wikipedia.org/wiki/Shopify"
+    },
+    {
+      "title": "Simple API for XML",
+      "url": "https://en.wikipedia.org/wiki/Simple_API_for_XML"
+    },
+    {
+      "title": "Simple Knowledge Organization System",
+      "url": "https://en.wikipedia.org/wiki/Simple_Knowledge_Organization_System"
+    },
+    {
+      "title": "Sleepycat Software",
+      "url": "https://en.wikipedia.org/wiki/Sleepycat_Software"
+    },
+    {
+      "title": "Software patents and free software",
+      "url": "https://en.wikipedia.org/wiki/Software_patents_and_free_software"
+    },
+    {
+      "title": "Sophia Antipolis",
+      "url": "https://en.wikipedia.org/wiki/Sophia_Antipolis"
+    },
+    {
+      "title": "Source-available software",
+      "url": "https://en.wikipedia.org/wiki/Source-available_software"
+    },
+    {
+      "title": "Speech Recognition Grammar Specification",
+      "url": "https://en.wikipedia.org/wiki/Speech_Recognition_Grammar_Specification"
+    },
+    {
+      "title": "Speech Synthesis Markup Language",
+      "url": "https://en.wikipedia.org/wiki/Speech_Synthesis_Markup_Language"
+    },
+    {
+      "title": "Squarespace",
+      "url": "https://en.wikipedia.org/wiki/Squarespace"
+    },
+    {
+      "title": "Standards organization",
+      "url": "https://en.wikipedia.org/wiki/Standards_organization"
+    },
+    {
+      "title": "Stata Center",
+      "url": "https://en.wikipedia.org/wiki/Stata_Center"
+    },
+    {
+      "title": "State Chart XML",
+      "url": "https://en.wikipedia.org/wiki/State_Chart_XML"
+    },
+    {
+      "title": "Subresource Integrity",
+      "url": "https://en.wikipedia.org/wiki/Subresource_Integrity"
+    },
+    {
+      "title": "Synchronized Multimedia Integration Language",
+      "url": "https://en.wikipedia.org/wiki/Synchronized_Multimedia_Integration_Language"
+    },
+    {
+      "title": "Technical Architecture Group",
+      "url": "https://en.wikipedia.org/wiki/Technical_Architecture_Group"
+    },
+    {
+      "title": "Technical specifications",
+      "url": "https://en.wikipedia.org/wiki/Technical_specifications"
+    },
+    {
+      "title": "Technical standard",
+      "url": "https://en.wikipedia.org/wiki/Technical_standard"
+    },
+    {
+      "title": "Technology Square (Cambridge, Massachusetts)",
+      "url": "https://en.wikipedia.org/wiki/Technology_Square_%28Cambridge%2C_Massachusetts%29"
+    },
+    {
+      "title": "The Cathedral and the Bazaar",
+      "url": "https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar"
+    },
+    {
+      "title": "The Free Software Definition",
+      "url": "https://en.wikipedia.org/wiki/The_Free_Software_Definition"
+    },
+    {
+      "title": "The Guardian",
+      "url": "https://en.wikipedia.org/wiki/The_Guardian"
+    },
+    {
+      "title": "The Open Group",
+      "url": "https://en.wikipedia.org/wiki/The_Open_Group"
+    },
+    {
+      "title": "The Open Source Definition",
+      "url": "https://en.wikipedia.org/wiki/The_Open_Source_Definition"
+    },
+    {
+      "title": "The Web Conference",
+      "url": "https://en.wikipedia.org/wiki/The_Web_Conference"
+    },
+    {
+      "title": "Thing Description",
+      "url": "https://en.wikipedia.org/wiki/Thing_Description"
+    },
+    {
+      "title": "Tim Berners-Lee",
+      "url": "https://en.wikipedia.org/wiki/Tim_Berners-Lee"
+    },
+    {
+      "title": "Timed Text Markup Language",
+      "url": "https://en.wikipedia.org/wiki/Timed_Text_Markup_Language"
+    },
+    {
+      "title": "Timed text",
+      "url": "https://en.wikipedia.org/wiki/Timed_text"
+    },
+    {
+      "title": "Timeline of free and open-source software",
+      "url": "https://en.wikipedia.org/wiki/Timeline_of_free_and_open-source_software"
+    },
+    {
+      "title": "Tivoization",
+      "url": "https://en.wikipedia.org/wiki/Tivoization"
+    },
+    {
+      "title": "Top-level domain",
+      "url": "https://en.wikipedia.org/wiki/Top-level_domain"
+    },
+    {
+      "title": "Top Level Design",
+      "url": "https://en.wikipedia.org/wiki/Top_Level_Design"
+    },
+    {
+      "title": "TriG (syntax)",
+      "url": "https://en.wikipedia.org/wiki/TriG_%28syntax%29"
+    },
+    {
+      "title": "Trusted Computing",
+      "url": "https://en.wikipedia.org/wiki/Trusted_Computing"
+    },
+    {
+      "title": "Trusted Computing Group",
+      "url": "https://en.wikipedia.org/wiki/Trusted_Computing_Group"
+    },
+    {
+      "title": "Tucows",
+      "url": "https://en.wikipedia.org/wiki/Tucows"
+    },
+    {
+      "title": "Turtle (syntax)",
+      "url": "https://en.wikipedia.org/wiki/Turtle_%28syntax%29"
+    },
+    {
+      "title": "UEFI Forum",
+      "url": "https://en.wikipedia.org/wiki/UEFI_Forum"
+    },
+    {
+      "title": "UK2 Group",
+      "url": "https://en.wikipedia.org/wiki/UK2_Group"
+    },
+    {
+      "title": "USB Implementers Forum",
+      "url": "https://en.wikipedia.org/wiki/USB_Implementers_Forum"
+    },
+    {
+      "title": "Unicode Consortium",
+      "url": "https://en.wikipedia.org/wiki/Unicode_Consortium"
+    },
+    {
+      "title": "Unlicense",
+      "url": "https://en.wikipedia.org/wiki/Unlicense"
+    },
+    {
+      "title": "User experience design",
+      "url": "https://en.wikipedia.org/wiki/User_experience_design"
+    },
+    {
+      "title": "Usermin",
+      "url": "https://en.wikipedia.org/wiki/Usermin"
+    },
+    {
+      "title": "Variant object",
+      "url": "https://en.wikipedia.org/wiki/Variant_object"
+    },
+    {
+      "title": "Vector Markup Language",
+      "url": "https://en.wikipedia.org/wiki/Vector_Markup_Language"
+    },
+    {
+      "title": "Verisign",
+      "url": "https://en.wikipedia.org/wiki/Verisign"
+    },
+    {
+      "title": "Video Electronics Standards Association",
+      "url": "https://en.wikipedia.org/wiki/Video_Electronics_Standards_Association"
+    },
+    {
+      "title": "Virtual hosting",
+      "url": "https://en.wikipedia.org/wiki/Virtual_hosting"
+    },
+    {
+      "title": "Virtual web hosting",
+      "url": "https://en.wikipedia.org/wiki/Virtual_web_hosting"
+    },
+    {
+      "title": "VoiceXML",
+      "url": "https://en.wikipedia.org/wiki/VoiceXML"
+    },
+    {
+      "title": "W3C Device Description Working Group",
+      "url": "https://en.wikipedia.org/wiki/W3C_Device_Description_Working_Group"
+    },
+    {
+      "title": "W3C Geolocation API",
+      "url": "https://en.wikipedia.org/wiki/W3C_Geolocation_API"
+    },
+    {
+      "title": "W3C MMI",
+      "url": "https://en.wikipedia.org/wiki/W3C_MMI"
+    },
+    {
+      "title": "W3C Markup Validation Service",
+      "url": "https://en.wikipedia.org/wiki/W3C_Markup_Validation_Service"
+    },
+    {
+      "title": "W3C PROV",
+      "url": "https://en.wikipedia.org/wiki/W3C_PROV"
+    },
+    {
+      "title": "W3C XML Schema",
+      "url": "https://en.wikipedia.org/wiki/W3C_XML_Schema"
+    },
+    {
+      "title": "WAI-ARIA",
+      "url": "https://en.wikipedia.org/wiki/WAI-ARIA"
+    },
+    {
+      "title": "WHATWG",
+      "url": "https://en.wikipedia.org/wiki/WHATWG"
+    },
+    {
+      "title": "WOFF",
+      "url": "https://en.wikipedia.org/wiki/WOFF"
+    },
+    {
+      "title": "WS-Addressing",
+      "url": "https://en.wikipedia.org/wiki/WS-Addressing"
+    },
+    {
+      "title": "WTFPL",
+      "url": "https://en.wikipedia.org/wiki/WTFPL"
+    },
+    {
+      "title": "Wayback Machine",
+      "url": "https://en.wikipedia.org/wiki/Wayback_Machine"
+    },
+    {
+      "title": "Web.com",
+      "url": "https://en.wikipedia.org/wiki/Web.com"
+    },
+    {
+      "title": "Web3D Consortium",
+      "url": "https://en.wikipedia.org/wiki/Web3D_Consortium"
+    },
+    {
+      "title": "WebAssembly",
+      "url": "https://en.wikipedia.org/wiki/WebAssembly"
+    },
+    {
+      "title": "WebDriver",
+      "url": "https://en.wikipedia.org/wiki/WebDriver"
+    },
+    {
+      "title": "WebGPU",
+      "url": "https://en.wikipedia.org/wiki/WebGPU"
+    },
+    {
+      "title": "WebPlatform",
+      "url": "https://en.wikipedia.org/wiki/WebPlatform"
+    },
+    {
+      "title": "WebPlatform.org",
+      "url": "https://en.wikipedia.org/wiki/WebPlatform.org"
+    },
+    {
+      "title": "WebRTC",
+      "url": "https://en.wikipedia.org/wiki/WebRTC"
+    },
+    {
+      "title": "WebSub",
+      "url": "https://en.wikipedia.org/wiki/WebSub"
+    },
+    {
+      "title": "WebVTT",
+      "url": "https://en.wikipedia.org/wiki/WebVTT"
+    },
+    {
+      "title": "WebXR",
+      "url": "https://en.wikipedia.org/wiki/WebXR"
+    },
+    {
+      "title": "Web Accessibility Initiative",
+      "url": "https://en.wikipedia.org/wiki/Web_Accessibility_Initiative"
+    },
+    {
+      "title": "Web Authentication",
+      "url": "https://en.wikipedia.org/wiki/Web_Authentication"
+    },
+    {
+      "title": "Web Authentication Working Group",
+      "url": "https://en.wikipedia.org/wiki/Web_Authentication_Working_Group"
+    },
+    {
+      "title": "Web Components",
+      "url": "https://en.wikipedia.org/wiki/Web_Components"
+    },
+    {
+      "title": "Web Content Accessibility Guidelines",
+      "url": "https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines"
+    },
+    {
+      "title": "Web Ontology Language",
+      "url": "https://en.wikipedia.org/wiki/Web_Ontology_Language"
+    },
+    {
+      "title": "Web Open Font Format",
+      "url": "https://en.wikipedia.org/wiki/Web_Open_Font_Format"
+    },
+    {
+      "title": "Web Services Description Language",
+      "url": "https://en.wikipedia.org/wiki/Web_Services_Description_Language"
+    },
+    {
+      "title": "Web Standards Project",
+      "url": "https://en.wikipedia.org/wiki/Web_Standards_Project"
+    },
+    {
+      "title": "Web analytics",
+      "url": "https://en.wikipedia.org/wiki/Web_analytics"
+    },
+    {
+      "title": "Web application",
+      "url": "https://en.wikipedia.org/wiki/Web_application"
+    },
+    {
+      "title": "Web browser",
+      "url": "https://en.wikipedia.org/wiki/Web_browser"
+    },
+    {
+      "title": "Web cache",
+      "url": "https://en.wikipedia.org/wiki/Web_cache"
+    },
+    {
+      "title": "Web container",
+      "url": "https://en.wikipedia.org/wiki/Web_container"
+    },
+    {
+      "title": "Web content",
+      "url": "https://en.wikipedia.org/wiki/Web_content"
+    },
+    {
+      "title": "Web content lifecycle",
+      "url": "https://en.wikipedia.org/wiki/Web_content_lifecycle"
+    },
+    {
+      "title": "Web content management system",
+      "url": "https://en.wikipedia.org/wiki/Web_content_management_system"
+    },
+    {
+      "title": "Web design",
+      "url": "https://en.wikipedia.org/wiki/Web_design"
+    },
+    {
+      "title": "Web document",
+      "url": "https://en.wikipedia.org/wiki/Web_document"
+    },
+    {
+      "title": "Web hosting control panel",
+      "url": "https://en.wikipedia.org/wiki/Web_hosting_control_panel"
+    },
+    {
+      "title": "Web hosting service",
+      "url": "https://en.wikipedia.org/wiki/Web_hosting_service"
+    },
+    {
+      "title": "Web of Things",
+      "url": "https://en.wikipedia.org/wiki/Web_of_Things"
+    },
+    {
+      "title": "Web proxy",
+      "url": "https://en.wikipedia.org/wiki/Web_proxy"
+    },
+    {
+      "title": "Web server",
+      "url": "https://en.wikipedia.org/wiki/Web_server"
+    },
+    {
+      "title": "Web service",
+      "url": "https://en.wikipedia.org/wiki/Web_service"
+    },
+    {
+      "title": "Web standards",
+      "url": "https://en.wikipedia.org/wiki/Web_standards"
+    },
+    {
+      "title": "Web storage",
+      "url": "https://en.wikipedia.org/wiki/Web_storage"
+    },
+    {
+      "title": "Web tracking",
+      "url": "https://en.wikipedia.org/wiki/Web_tracking"
+    },
+    {
+      "title": "Webcentral",
+      "url": "https://en.wikipedia.org/wiki/Webcentral"
+    },
+    {
+      "title": "Webflow",
+      "url": "https://en.wikipedia.org/wiki/Webflow"
+    },
+    {
+      "title": "Webmaster",
+      "url": "https://en.wikipedia.org/wiki/Webmaster"
+    },
+    {
+      "title": "Webmention",
+      "url": "https://en.wikipedia.org/wiki/Webmention"
+    },
+    {
+      "title": "Webmin",
+      "url": "https://en.wikipedia.org/wiki/Webmin"
+    },
+    {
+      "title": "Webmonkey",
+      "url": "https://en.wikipedia.org/wiki/Webmonkey"
+    },
+    {
+      "title": "Website builder",
+      "url": "https://en.wikipedia.org/wiki/Website_builder"
+    },
+    {
+      "title": "Website governance",
+      "url": "https://en.wikipedia.org/wiki/Website_governance"
+    },
+    {
+      "title": "Website wireframe",
+      "url": "https://en.wikipedia.org/wiki/Website_wireframe"
+    },
+    {
+      "title": "Weebly",
+      "url": "https://en.wikipedia.org/wiki/Weebly"
+    },
+    {
+      "title": "Wi-Fi Alliance",
+      "url": "https://en.wikipedia.org/wiki/Wi-Fi_Alliance"
+    },
+    {
+      "title": "Wiki software",
+      "url": "https://en.wikipedia.org/wiki/Wiki_software"
+    },
+    {
+      "title": "Wix.com",
+      "url": "https://en.wikipedia.org/wiki/Wix.com"
+    },
+    {
+      "title": "WooCommerce",
+      "url": "https://en.wikipedia.org/wiki/WooCommerce"
+    },
+    {
+      "title": "WordPress",
+      "url": "https://en.wikipedia.org/wiki/WordPress"
+    },
+    {
+      "title": "WordPress.com",
+      "url": "https://en.wikipedia.org/wiki/WordPress.com"
+    },
+    {
+      "title": "Working draft",
+      "url": "https://en.wikipedia.org/wiki/Working_draft"
+    },
+    {
+      "title": "World Bank",
+      "url": "https://en.wikipedia.org/wiki/World_Bank"
+    },
+    {
+      "title": "World Wide Web",
+      "url": "https://en.wikipedia.org/wiki/World_Wide_Web"
+    },
+    {
+      "title": "World Wide Web Foundation",
+      "url": "https://en.wikipedia.org/wiki/World_Wide_Web_Foundation"
+    },
+    {
+      "title": "XAdES",
+      "url": "https://en.wikipedia.org/wiki/XAdES"
+    },
+    {
+      "title": "XBL",
+      "url": "https://en.wikipedia.org/wiki/XBL"
+    },
+    {
+      "title": "XForms",
+      "url": "https://en.wikipedia.org/wiki/XForms"
+    },
+    {
+      "title": "XFrames",
+      "url": "https://en.wikipedia.org/wiki/XFrames"
+    },
+    {
+      "title": "XHTML",
+      "url": "https://en.wikipedia.org/wiki/XHTML"
+    },
+    {
+      "title": "XHTML+MathML+SVG",
+      "url": "https://en.wikipedia.org/wiki/XHTML%2BMathML%2BSVG"
+    },
+    {
+      "title": "XHTML+RDFa",
+      "url": "https://en.wikipedia.org/wiki/XHTML%2BRDFa"
+    },
+    {
+      "title": "XHTML+Voice",
+      "url": "https://en.wikipedia.org/wiki/XHTML%2BVoice"
+    },
+    {
+      "title": "XInclude",
+      "url": "https://en.wikipedia.org/wiki/XInclude"
+    },
+    {
+      "title": "XLink",
+      "url": "https://en.wikipedia.org/wiki/XLink"
+    },
+    {
+      "title": "XML",
+      "url": "https://en.wikipedia.org/wiki/XML"
+    },
+    {
+      "title": "XML-binary Optimized Packaging",
+      "url": "https://en.wikipedia.org/wiki/XML-binary_Optimized_Packaging"
+    },
+    {
+      "title": "XMLHttpRequest",
+      "url": "https://en.wikipedia.org/wiki/XMLHttpRequest"
+    },
+    {
+      "title": "XML Base",
+      "url": "https://en.wikipedia.org/wiki/XML_Base"
+    },
+    {
+      "title": "XML Encryption",
+      "url": "https://en.wikipedia.org/wiki/XML_Encryption"
+    },
+    {
+      "title": "XML Events",
+      "url": "https://en.wikipedia.org/wiki/XML_Events"
+    },
+    {
+      "title": "XML Information Set",
+      "url": "https://en.wikipedia.org/wiki/XML_Information_Set"
+    },
+    {
+      "title": "XML Namespaces",
+      "url": "https://en.wikipedia.org/wiki/XML_Namespaces"
+    },
+    {
+      "title": "XML Schema (W3C)",
+      "url": "https://en.wikipedia.org/wiki/XML_Schema_%28W3C%29"
+    },
+    {
+      "title": "XML Signature",
+      "url": "https://en.wikipedia.org/wiki/XML_Signature"
+    },
+    {
+      "title": "XML namespace",
+      "url": "https://en.wikipedia.org/wiki/XML_namespace"
+    },
+    {
+      "title": "XMPP Standards Foundation",
+      "url": "https://en.wikipedia.org/wiki/XMPP_Standards_Foundation"
+    },
+    {
+      "title": "XPath",
+      "url": "https://en.wikipedia.org/wiki/XPath"
+    },
+    {
+      "title": "XPath 2.0",
+      "url": "https://en.wikipedia.org/wiki/XPath_2.0"
+    },
+    {
+      "title": "XPath 3",
+      "url": "https://en.wikipedia.org/wiki/XPath_3"
+    },
+    {
+      "title": "XPointer",
+      "url": "https://en.wikipedia.org/wiki/XPointer"
+    },
+    {
+      "title": "XProc",
+      "url": "https://en.wikipedia.org/wiki/XProc"
+    },
+    {
+      "title": "XQuery",
+      "url": "https://en.wikipedia.org/wiki/XQuery"
+    },
+    {
+      "title": "XSL",
+      "url": "https://en.wikipedia.org/wiki/XSL"
+    },
+    {
+      "title": "XSLT",
+      "url": "https://en.wikipedia.org/wiki/XSLT"
+    },
+    {
+      "title": "XSLT elements",
+      "url": "https://en.wikipedia.org/wiki/XSLT_elements"
+    },
+    {
+      "title": "XSL Formatting Objects",
+      "url": "https://en.wikipedia.org/wiki/XSL_Formatting_Objects"
+    },
+    {
+      "title": "XSL Transformations",
+      "url": "https://en.wikipedia.org/wiki/XSL_Transformations"
+    },
+    {
+      "title": "Zlib License",
+      "url": "https://en.wikipedia.org/wiki/Zlib_License"
+    },
+    {
+      "title": "Peter Bright",
+      "url": "https://en.wikipedia.org/wiki/Peter_Bright"
+    },
+    {
+      "title": "European Research Consortium for Informatics and Mathematics",
+      "url": "https://en.wikipedia.org/wiki/European_Research_Consortium_for_Informatics_and_Mathematics"
+    },
+    {
+      "title": "Emotion Markup Language",
+      "url": "https://en.wikipedia.org/wiki/Emotion_Markup_Language"
+    },
+    {
+      "title": "Web Share API",
+      "url": "https://en.wikipedia.org/wiki/Web_Share_API"
+    },
+    {
+      "title": "XTiger",
+      "url": "https://en.wikipedia.org/wiki/XTiger"
+    },
+    {
+      "title": "XHTML+SMIL",
+      "url": "https://en.wikipedia.org/wiki/XHTML%2BSMIL"
+    },
+    {
+      "title": "CURIE",
+      "url": "https://en.wikipedia.org/wiki/CURIE"
+    },
+    {
+      "title": "SMIL Timesheets",
+      "url": "https://en.wikipedia.org/wiki/SMIL_Timesheets"
+    },
+    {
+      "title": "W3C Advisory Board",
+      "url": "https://en.wikipedia.org/wiki/W3C_Advisory_Board"
+    },
+    {
+      "title": "W3C Board",
+      "url": "https://en.wikipedia.org/wiki/W3C_Board"
+    }
+  ]
+}

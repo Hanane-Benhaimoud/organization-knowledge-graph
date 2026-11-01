@@ -1,0 +1,7173 @@
+{
+  "collected_at": "2026-10-28T21:53:47.957027+00:00",
+  "count": 377,
+  "entities": [
+    {
+      "qid": "Q100292504",
+      "label": "Waymo Holding",
+      "description": "US holding company",
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q100292504",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q100292691",
+      "label": "XXVI Holdings",
+      "description": "American holding company",
+      "instance_of": [
+        "Q219577",
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q100292691",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q1008861",
+      "label": "Bundesverband Deutscher Zeitungsverleger",
+      "description": "association representing the interests of the German daily, Sunday, and political weekly press",
+      "instance_of": [
+        "Q163740",
+        "Q1666019"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1008861",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q1008864",
+      "label": "German Association for the Digital Economy",
+      "description": "German business association",
+      "instance_of": [
+        "Q2178147",
+        "Q43229"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1008864",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q1008895",
+      "label": "bitkom",
+      "description": "German technology industry association",
+      "instance_of": [
+        "Q15911314",
+        "Q163740",
+        "Q627272"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1008895",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q1009120",
+      "label": "Bundesverband mittelständische Wirtschaft e.V.",
+      "description": "German association",
+      "instance_of": [
+        "Q15911314",
+        "Q2178147"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1009120",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q1009141",
+      "label": "Bundesvereinigung Logistik",
+      "description": "voluntary association",
+      "instance_of": [
+        "Q45400320",
+        "Q48204"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1009141",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q100989426",
+      "label": "Thomas Schäfer",
+      "description": "German manager, Chief executive officer of Volkswagen passenger cars",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Thomas Schäfer (manager)",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q100989426",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q1011981",
+      "label": "Google China",
+      "description": "Chinese subsidiary of Google LLC",
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Google China",
+          "url": null
+        },
+        "fr": {
+          "title": "Google China",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1011981",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q10402912",
+      "label": "ŠkoFIN",
+      "description": "company in the Czech Republic",
+      "instance_of": [
+        "Q109559246",
+        "Q4830453",
+        "Q6881511"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q10402912",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q104836785",
+      "label": "Volkswagen Group Components",
+      "description": null,
+      "instance_of": [
+        "Q43229"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q104836785",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q105529133",
+      "label": "MOIA",
+      "description": "German company",
+      "instance_of": [
+        "Q27973",
+        "Q658255"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q105529133",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q106204654",
+      "label": "Wikimedia, LLC",
+      "description": "subsidiary of the Wikimedia Foundation",
+      "instance_of": [
+        "Q4830453",
+        "Q783794"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q106204654",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q106623494",
+      "label": "Bild TV",
+      "description": "German television station",
+      "instance_of": [
+        "Q1616075"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Bild (TV channel)",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q106623494",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q107234",
+      "label": "Berthold Huber",
+      "description": "German trade unionist",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Berthold Huber",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q107234",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q107452212",
+      "label": "Tekedra Mawakana",
+      "description": "American Congolese businesswoman and lawyer",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Tekedra Mawakana",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q107452212",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q107525448",
+      "label": "Dmitri Dolgov",
+      "description": "Russian American businessman",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Dmitri Dolgov",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q107525448",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q107797",
+      "label": "Mathias Döpfner",
+      "description": "German manager and lobbyist",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Mathias Döpfner",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q107797",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q108294594",
+      "label": "Leibniz Universitätsgesellschaft Hannover e.V.",
+      "description": null,
+      "instance_of": [
+        "Q163740",
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q108294594",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q109562317",
+      "label": "Anthony Earley",
+      "description": "American businessperson, former Chairman and CEO of PG&E Corp.",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q109562317",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q109562405",
+      "label": "Alexandra Ford English",
+      "description": "American businessperson, director, global brand merchandising, Ford Motor Company",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q109562405",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q109562765",
+      "label": "Bill Helman",
+      "description": "American businessperson, Partner, Greylock Partners and member, board of directors, Ford Motor Company",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q109562765",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q109566909",
+      "label": "Lynn Vojvodich",
+      "description": "American businessperson, former CMO of Salesforce",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q109566909",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q109566926",
+      "label": "John Weinberg",
+      "description": "American businessperson, former vice chairman of Goldman Sachs Group Inc.",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q109566926",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q110014977",
+      "label": "ArduPilot Foundation",
+      "description": "Non-profit incorporated association for the development of the ArduPilot project",
+      "instance_of": [
+        "Q17084016"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q110014977",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q110016445",
+      "label": "DroneCode",
+      "description": "Dronecode is a vendor-neutral foundation for open source drone projects",
+      "instance_of": [
+        "Q163740"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q110016445",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q110646269",
+      "label": "Nippon Crown Co., Ltd.",
+      "description": "Japanese record company",
+      "instance_of": [
+        "Q2442401",
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q110646269",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q110736624",
+      "label": "Deutsches Institut für Compliance",
+      "description": "German association with the aim of setting and further developing standards for compliance practice",
+      "instance_of": [
+        "Q1666019"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q110736624",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q110962890",
+      "label": "Ralph Büchi",
+      "description": "Swiss publishing executive",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q110962890",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q111351974",
+      "label": "Google Open Source",
+      "description": "department at Google that promotes open-source software development",
+      "instance_of": [
+        "Q111351988"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q111351974",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q111362740",
+      "label": "Bundesverband der Personalmanager",
+      "description": null,
+      "instance_of": [
+        "Q829080"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q111362740",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q11148",
+      "label": "The Guardian",
+      "description": "British national daily newspaper",
+      "instance_of": [
+        "Q11032",
+        "Q1110794"
+      ],
+      "is_seed": true,
+      "seed_categories": [
+        "media"
+      ],
+      "wikipedia": {
+        "en": {
+          "title": "The Guardian",
+          "url": null
+        },
+        "fr": {
+          "title": "The Guardian",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q11148",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q111747378",
+      "label": "Luis Bitencourt-Emilio",
+      "description": null,
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q111747378",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q112136796",
+      "label": "MVFP Media Association of the Free Press",
+      "description": null,
+      "instance_of": [
+        "Q163740",
+        "Q1666019",
+        "Q43229",
+        "Q627272"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q112136796",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q112247183",
+      "label": "Q112247183",
+      "description": "American audiovisual communications company",
+      "instance_of": [
+        "Q1194970",
+        "Q4830453",
+        "Q783794"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q112247183",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q112281098",
+      "label": "Český plynárenský svaz",
+      "description": "Czech organization",
+      "instance_of": [
+        "Q163740"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q112281098",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q11301062",
+      "label": "KMEW",
+      "description": null,
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q11301062",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q11329114",
+      "label": "Panasonic Automotive Electronics",
+      "description": "business enterprise",
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q11329114",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q11329115",
+      "label": "Panasonic Marketing Japan",
+      "description": null,
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q11329115",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q11329116",
+      "label": "Panasonic System Solutions Japan",
+      "description": null,
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q11329116",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q11329118",
+      "label": "GS Yuasa Energy",
+      "description": "battery manufacturer previously known as Panasonic Storage Battery",
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q11329118",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q11329119",
+      "label": "Panasonic Technical Services",
+      "description": null,
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q11329119",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q11329122",
+      "label": "Panasonic Network Services",
+      "description": null,
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q11329122",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q11329123",
+      "label": "Panasonic Smart Factory Solutions",
+      "description": null,
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q11329123",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q11329124",
+      "label": "Panasonic Photo & Lighting",
+      "description": null,
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q11329124",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q11329125",
+      "label": "Panasonic Plasma Display",
+      "description": null,
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q11329125",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q11329129",
+      "label": "Panasonic Marketing School",
+      "description": null,
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q11329129",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q11329158",
+      "label": "Panasonic Insurance Services Japan",
+      "description": null,
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q11329158",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q11329162",
+      "label": "Panasonic Liquid Crystal Display",
+      "description": null,
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q11329162",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q11329163",
+      "label": "Panasonic Hearing Instruments",
+      "description": null,
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q11329163",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q11329167",
+      "label": "Panasonic Electric Works Analysis Center",
+      "description": null,
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q11329167",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q11329171",
+      "label": "PanaHome",
+      "description": null,
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q11329171",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q11334620",
+      "label": "Brad Patrick",
+      "description": "American lawyer, former Wikimedia Foundation Executive Director",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q11334620",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q114359175",
+      "label": "John May",
+      "description": "American businessperson and board member",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q114359175",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q11556379",
+      "label": "Kazuhiro Tsuga",
+      "description": "Japanese corporate executive",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Kazuhiro Tsuga",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q11556379",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q115616635",
+      "label": "Klaus Zellmer",
+      "description": "German manager, CEO at Škoda Auto",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q115616635",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q11607",
+      "label": "Jon Meade Huntsman Jr.",
+      "description": "American politician, businessman and diplomat (born 1960)",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Jon Huntsman Jr.",
+          "url": null
+        },
+        "fr": {
+          "title": "Jon Huntsman, Jr.",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q11607",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q116170621",
+      "label": "Volkswagen Autoversicherung AG",
+      "description": null,
+      "instance_of": [
+        "Q2143354",
+        "Q6881511"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q116170621",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q1196231",
+      "label": "Government Pension Fund Global",
+      "description": "Norwegian sovereign wealth fund",
+      "instance_of": [
+        "Q1061648"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Government Pension Fund of Norway",
+          "url": null
+        },
+        "fr": {
+          "title": "Government Pension Fund-Global",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1196231",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q1201790",
+      "label": "German-Israeli Society",
+      "description": "German association to promote relations with Israel",
+      "instance_of": [
+        "Q48204",
+        "Q64167531"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "German–Israeli Society",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1201790",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q1202926",
+      "label": "German Society for Sustainable Building",
+      "description": "voluntary association",
+      "instance_of": [
+        "Q43229",
+        "Q48204"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1202926",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q1202939",
+      "label": "Deutsche Gesellschaft für Personalführung",
+      "description": "German think tank",
+      "instance_of": [
+        "Q155271",
+        "Q163740"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1202939",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q12035733",
+      "label": "Martin Jahn",
+      "description": "Czech economist and politician",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Martin Jahn",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q12035733",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q1204360",
+      "label": "Deutsche Vereinigung für Wasserwirtschaft, Abwasser und Abfall",
+      "description": "German organisation",
+      "instance_of": [
+        "Q163740",
+        "Q43229",
+        "Q783794"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1204360",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q1204710",
+      "label": "Federal Association for Structured Securities",
+      "description": "voluntary association",
+      "instance_of": [
+        "Q43229",
+        "Q48204"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1204710",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q1204956",
+      "label": "DIRK e.V.",
+      "description": null,
+      "instance_of": [
+        "Q163740",
+        "Q783794"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1204956",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q1205091",
+      "label": "German Brand Association",
+      "description": "pressure group",
+      "instance_of": [
+        "Q163740",
+        "Q1666019"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1205091",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q1205460",
+      "label": "German Road Safety Council",
+      "description": "German advocacy group",
+      "instance_of": [
+        "Q134233333",
+        "Q1666019"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1205460",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q1205488",
+      "label": "Q1205488",
+      "description": null,
+      "instance_of": [
+        "Q15911314",
+        "Q1666019",
+        "Q43229"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1205488",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q1205529",
+      "label": "Deutsches Aktieninstitut",
+      "description": "voluntary association",
+      "instance_of": [
+        "Q163740",
+        "Q48204"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1205529",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q1205895",
+      "label": "Deutsches Rechnungslegungs Standards Committee",
+      "description": "eingetragener Verein",
+      "instance_of": [
+        "Q1666019"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1205895",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q1206091",
+      "label": "Deutsches Verkehrsforum",
+      "description": "German trade association representing the interests of logistics companies",
+      "instance_of": [
+        "Q2178147"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1206091",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q122938552",
+      "label": "JournalList",
+      "description": "journalism nonprofit promoting the trust.txt protocol",
+      "instance_of": [
+        "Q15836568",
+        "Q2178147",
+        "Q235557"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q122938552",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q123516962",
+      "label": "Holger Peters",
+      "description": "German manager",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q123516962",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q123570040",
+      "label": "Planetary Ventures",
+      "description": "subsidiary of Google",
+      "instance_of": [
+        "Q6881511"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q123570040",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q1238504",
+      "label": "VAUNET - Verband Privater Medien e. V.",
+      "description": null,
+      "instance_of": [
+        "Q1666019",
+        "Q43229"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1238504",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q123944536",
+      "label": "Data Center Coalition",
+      "description": "organization in the United States",
+      "instance_of": [
+        "Q163740",
+        "Q1666019",
+        "Q2178147"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q123944536",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q124060721",
+      "label": "Google Japan G.K.",
+      "description": null,
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q124060721",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q124439887",
+      "label": "medianet berlinbrandenburg",
+      "description": null,
+      "instance_of": [
+        "Q9299236"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q124439887",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q125339558",
+      "label": "Society for Geoinformatics, GeoIT and Navigation e.V.",
+      "description": "German geospatial society",
+      "instance_of": [
+        "Q124435500"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q125339558",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q12738367",
+      "label": "Credex Bank",
+      "description": "Romanian bank",
+      "instance_of": [
+        "Q131441953"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q12738367",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q128859859",
+      "label": "Q128859859",
+      "description": null,
+      "instance_of": [
+        "Q43229"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q128859859",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q12988436",
+      "label": "Ram Shriram",
+      "description": "American businessman",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Ram Shriram",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q12988436",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q1318441",
+      "label": "AdMob",
+      "description": "mobile advertising company",
+      "instance_of": [
+        "Q1058914",
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "AdMob",
+          "url": null
+        },
+        "fr": {
+          "title": "Google AdMob",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1318441",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q1318481",
+      "label": "German Business Aviation Association",
+      "description": null,
+      "instance_of": [
+        "Q163740"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1318481",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q131884317",
+      "label": "Interactive Advertising Bureau Europe",
+      "description": "trade organization for the online advertising industry",
+      "instance_of": [
+        "Q2178147",
+        "Q43229"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q131884317",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q131896527",
+      "label": "Customer Service & Call Center Verband Deutschland e. V. (CCV)",
+      "description": "Industry association of call and service centres in Germany",
+      "instance_of": [
+        "Q2178147",
+        "Q43229",
+        "Q829080"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q131896527",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q131898524",
+      "label": "Q131898524",
+      "description": "German organization",
+      "instance_of": [
+        "Q43229"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q131898524",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q1322183",
+      "label": "Ostausschuss der Deutschen Wirtschaft",
+      "description": "German association",
+      "instance_of": [
+        "Q431603"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "fr": {
+          "title": "Comité oriental de l'économie allemande",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1322183",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q133928",
+      "label": "X Development",
+      "description": "semi-secret research and development company by Alphabet Inc.",
+      "instance_of": [
+        "Q483242",
+        "Q658255"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "X Development",
+          "url": null
+        },
+        "fr": {
+          "title": "X (entreprise)",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q133928",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q13463146",
+      "label": "Loon",
+      "description": "company working on balloons that provide internet access",
+      "instance_of": [
+        "Q170584",
+        "Q43229"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Loon LLC",
+          "url": null
+        },
+        "fr": {
+          "title": "Projet Loon",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q13463146",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q1348741",
+      "label": "Václav Klement",
+      "description": "Czech entrepreneur (1868–1938)",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Václav Klement",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1348741",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q135242003",
+      "label": "Q135242003",
+      "description": null,
+      "instance_of": [
+        "Q6881511"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q135242003",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q135419551",
+      "label": "Alpha-Omega",
+      "description": "open source software security initiative",
+      "instance_of": [
+        "Q39998995",
+        "Q6815100"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q135419551",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q1361045",
+      "label": "Wi-Fi Alliance",
+      "description": "American non-profit organization that promotes Wi-Fi technology and certifies Wi-Fi products",
+      "instance_of": [
+        "Q1328899",
+        "Q163740",
+        "Q2178147",
+        "Q6944143"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Wi-Fi Alliance",
+          "url": null
+        },
+        "fr": {
+          "title": "Wi-Fi Alliance",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1361045",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q1376380",
+      "label": "European Business Aviation Association",
+      "description": "non-profit organisation in Europe, representing business aviation",
+      "instance_of": [
+        "Q163740",
+        "Q43229",
+        "Q783794"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "European Business Aviation Association",
+          "url": null
+        },
+        "fr": {
+          "title": "European Business Aviation Association",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1376380",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q1377855",
+      "label": "Google.org",
+      "description": "charitable arm of Google",
+      "instance_of": [
+        "Q163740"
+      ],
+      "is_seed": true,
+      "seed_categories": [
+        "nonprofit"
+      ],
+      "wikipedia": {
+        "en": {
+          "title": "Google.org",
+          "url": null
+        },
+        "fr": {
+          "title": "Google.org",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1377855",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q1380459",
+      "label": "John Doerr",
+      "description": "American businessman",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "John Doerr",
+          "url": null
+        },
+        "fr": {
+          "title": "John Doerr",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1380459",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q139200166",
+      "label": "Guardian News and Media Ltd.",
+      "description": "UK news publisher",
+      "instance_of": [
+        "Q3579160"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q139200166",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q139373191",
+      "label": "Open Heritage Coalition",
+      "description": "organization",
+      "instance_of": [
+        "Q124964",
+        "Q43229"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q139373191",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q1411292",
+      "label": "Fidelity Investments",
+      "description": "US American multinational financial services corporation",
+      "instance_of": [
+        "Q4830453",
+        "Q6881511"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Fidelity Investments",
+          "url": null
+        },
+        "fr": {
+          "title": "Fidelity Investments",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1411292",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q141881245",
+      "label": "Wissenschafts- und Forschungsförderung Niedersachsen gGmbH",
+      "description": "German state-owned nonprofit company funding science and research",
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q141881245",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q1436863",
+      "label": "Ford Motor Company of Japan",
+      "description": "automobile manufacturer",
+      "instance_of": [
+        "Q4830453",
+        "Q658255",
+        "Q786820"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Ford Motor Company of Japan",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1436863",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q1436915",
+      "label": "Ford Argentina",
+      "description": "Argentine subsidiary of Ford",
+      "instance_of": [
+        "Q4830453",
+        "Q658255",
+        "Q786820"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Ford Motor Argentina",
+          "url": null
+        },
+        "fr": {
+          "title": "Ford Motor Argentina",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1436915",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q1436920",
+      "label": "Ford of South Africa",
+      "description": "automotive company",
+      "instance_of": [
+        "Q658255",
+        "Q786820"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Ford Motor Company of Southern Africa",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1436920",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q1436921",
+      "label": "Ford Motor Company of Canada",
+      "description": "automotive company",
+      "instance_of": [
+        "Q4830453",
+        "Q786820"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Ford Motor Company of Canada",
+          "url": null
+        },
+        "fr": {
+          "title": "Ford du Canada Limitée",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1436921",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q1436934",
+      "label": "Ford Australia",
+      "description": "Australian subsidiary of Ford Motor Company",
+      "instance_of": [
+        "Q786820"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Ford Australia",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1436934",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q1437020",
+      "label": "Ford do Brasil",
+      "description": "subsidiary of American automaker Ford Motor Company",
+      "instance_of": [
+        "Q4830453",
+        "Q658255",
+        "Q786820"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Ford Brasil",
+          "url": null
+        },
+        "fr": {
+          "title": "Ford do Brasil",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1437020",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q1438155",
+      "label": "Research Association for Combustion Engines",
+      "description": "German association of companies for the promotion of science",
+      "instance_of": [
+        "Q136649572",
+        "Q163740"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1438155",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q145145",
+      "label": "Hamburg Chamber of Commerce",
+      "description": "organization",
+      "instance_of": [
+        "Q897399"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Hamburg Chamber of Commerce",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q145145",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q14932155",
+      "label": "Calico",
+      "description": "American biotech company founded by Alphabet Inc.",
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Calico (company)",
+          "url": null
+        },
+        "fr": {
+          "title": "Calico (entreprise)",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q14932155",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q14943340",
+      "label": "Jan-Bart de Vreede",
+      "description": "former chair of the Wikimedia Foundation Board of Trustees",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q14943340",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q15134140",
+      "label": "AGR Automotive Group",
+      "description": "Russian car company",
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Volkswagen Group Rus",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q15134140",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q1518431",
+      "label": "Gesellschaft für Datenschutz und Datensicherheit",
+      "description": "German association",
+      "instance_of": [
+        "Q43229",
+        "Q48204"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1518431",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q152746",
+      "label": "Deutsches Institut für Normung",
+      "description": "national standards organisation of Germany",
+      "instance_of": [
+        "Q1328899",
+        "Q163740"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Deutsches Institut für Normung",
+          "url": null
+        },
+        "fr": {
+          "title": "Institut allemand de normalisation",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q152746",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q1529289",
+      "label": "Hannoversche Beteiligungsgesellschaft",
+      "description": "company",
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1529289",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q15330",
+      "label": "Q15330",
+      "description": "autonomous car technology company",
+      "instance_of": [
+        "Q27973",
+        "Q4830453",
+        "Q786820"
+      ],
+      "is_seed": true,
+      "seed_categories": [
+        "technology"
+      ],
+      "wikipedia": {
+        "en": {
+          "title": "Waymo",
+          "url": null
+        },
+        "fr": {
+          "title": "Waymo",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q15330",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q15433923",
+      "label": "German Asia-Pacific Business Association",
+      "description": "German association",
+      "instance_of": [
+        "Q1666019"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q15433923",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q1548645",
+      "label": "Association of German Transport Companies",
+      "description": "German trade association",
+      "instance_of": [
+        "Q163740",
+        "Q2178147",
+        "Q7835148"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Association of German Transport Companies",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1548645",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q15614763",
+      "label": "Open Automotive Alliance",
+      "description": "alliance of automotive manufacturers and technology companies",
+      "instance_of": [
+        "Q43229"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Open Automotive Alliance",
+          "url": null
+        },
+        "fr": {
+          "title": "Open Automotive Alliance",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q15614763",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q156203",
+      "label": "Bild",
+      "description": "German tabloid newspaper",
+      "instance_of": [
+        "Q1110794",
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Bild",
+          "url": null
+        },
+        "fr": {
+          "title": "Bild",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q156203",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q156578",
+      "label": "Volkswagen Group",
+      "description": "German automotive manufacturing conglomerate",
+      "instance_of": [
+        "Q161726",
+        "Q4830453",
+        "Q778575",
+        "Q786820",
+        "Q891723"
+      ],
+      "is_seed": true,
+      "seed_categories": [
+        "industry"
+      ],
+      "wikipedia": {
+        "en": {
+          "title": "Volkswagen Group",
+          "url": null
+        },
+        "fr": {
+          "title": "Volkswagen Group",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q156578",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q1571175",
+      "label": "Qatar Investment Authority",
+      "description": "Qatar's sovereign wealth fund founded in 2005",
+      "instance_of": [
+        "Q1061648",
+        "Q4830453",
+        "Q6881511"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Qatar Investment Authority",
+          "url": null
+        },
+        "fr": {
+          "title": "Qatar Investment Authority",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1571175",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q15732990",
+      "label": "SlickLogin",
+      "description": "Israeli start-up company",
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "SlickLogin",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q15732990",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q15733006",
+      "label": "Google DeepMind",
+      "description": "artificial intelligence company owned by Google",
+      "instance_of": [
+        "Q4830453",
+        "Q658255"
+      ],
+      "is_seed": true,
+      "seed_categories": [
+        "technology"
+      ],
+      "wikipedia": {
+        "en": {
+          "title": "Google DeepMind",
+          "url": null
+        },
+        "fr": {
+          "title": "Google DeepMind",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q15733006",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q157332",
+      "label": "German Aerospace Center",
+      "description": "research center of the Federal Republic of Germany for aerospace and power engineering, transport and security",
+      "instance_of": [
+        "Q163740",
+        "Q31855",
+        "Q43229"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "German Aerospace Center",
+          "url": null
+        },
+        "fr": {
+          "title": "Deutsches Zentrum für Luft- und Raumfahrt",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q157332",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q15735639",
+      "label": "María Sefidari",
+      "description": "Spanish specialist in digital culture, former chair of the Wikimedia Foundation Board of Trustees",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "María Sefidari",
+          "url": null
+        },
+        "fr": {
+          "title": "María Sefidari",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q15735639",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q15735649",
+      "label": "Alice Wiegand",
+      "description": "Wikimedian, Chair of the Board of Wikimedia Deutschland and former Wikimedia Foundation Board of Trustees member",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q15735649",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q15735712",
+      "label": "Patricio Lorente",
+      "description": "former chair of the Wikimedia Foundation Board of Trustees",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Patricio Lorente",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q15735712",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q1574934",
+      "label": "Handelsverband Deutschland - Der Einzelhandel",
+      "description": "central Association of the German Retail Trade",
+      "instance_of": [
+        "Q163740",
+        "Q1666019"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "German Trade Association",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1574934",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q15805447",
+      "label": "Deutsche Gesellschaft für Qualität",
+      "description": "German quality management organization",
+      "instance_of": [
+        "Q48204"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Deutsche Gesellschaft für Qualität",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q15805447",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q158085",
+      "label": "Max Planck Society",
+      "description": "association of German research institutes",
+      "instance_of": [
+        "Q130368409",
+        "Q1497649",
+        "Q163740",
+        "Q5341295",
+        "Q5341296",
+        "Q536390",
+        "Q748019",
+        "Q9299236"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Max Planck Society",
+          "url": null
+        },
+        "fr": {
+          "title": "Société Max-Planck pour le développement des sciences",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q158085",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q15819363",
+      "label": "Hans Dieter Pötsch",
+      "description": "Austrian industrial engineer",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Hans Dieter Pötsch",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q15819363",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q15852606",
+      "label": "Verein Berliner Kaufleute und Industrieller",
+      "description": null,
+      "instance_of": [
+        "Q163740",
+        "Q1666019"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q15852606",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q16019523",
+      "label": "Harold Arthur Poling",
+      "description": "businessperson (1925-2012)",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Harold Arthur Poling",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q16019523",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q16054750",
+      "label": "Bundesverband E-Commerce und Versandhandel Deutschland",
+      "description": "German association",
+      "instance_of": [
+        "Q163740",
+        "Q2178147"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q16054750",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q161057",
+      "label": "Fraunhofer Society",
+      "description": "German research organization",
+      "instance_of": [
+        "Q163740",
+        "Q748019"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Fraunhofer-Gesellschaft",
+          "url": null
+        },
+        "fr": {
+          "title": "Fraunhofer-Gesellschaft",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q161057",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q1612209",
+      "label": "Hermann Münch",
+      "description": "Lawyer and VW CEO",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1612209",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q16218341",
+      "label": "Maz & More TV Produktion",
+      "description": "German film production company",
+      "instance_of": [
+        "Q1762059"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q16218341",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q16225640",
+      "label": "James Heilman",
+      "description": "emergency physician and advocate for the improvement of Wikipedia's health-related content",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "James Heilman",
+          "url": null
+        },
+        "fr": {
+          "title": "James Heilman",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q16225640",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q16231540",
+      "label": "Esra'a Al Shafei",
+      "description": "Bahraini activist",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Esra'a Al Shafei",
+          "url": null
+        },
+        "fr": {
+          "title": "Esra'a Al-Shafei",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q16231540",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q163560",
+      "label": "Axel Springer SE",
+      "description": "large multimedia company in Europe",
+      "instance_of": [
+        "Q1331793",
+        "Q2085381"
+      ],
+      "is_seed": true,
+      "seed_categories": [
+        "media"
+      ],
+      "wikipedia": {
+        "en": {
+          "title": "Axel Springer SE",
+          "url": null
+        },
+        "fr": {
+          "title": "Axel Springer (entreprise)",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q163560",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q1653661",
+      "label": "IHK Berlin",
+      "description": "Berlin Chamber of Commerce and Industry",
+      "instance_of": [
+        "Q897399"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1653661",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q166561",
+      "label": "Google Fiber",
+      "description": "Broadband network from Alphabet in the United States",
+      "instance_of": [
+        "Q7001190"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Google Fiber",
+          "url": null
+        },
+        "fr": {
+          "title": "Google Fiber",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q166561",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q16725802",
+      "label": "OpenPOWER Foundation",
+      "description": "organization",
+      "instance_of": [
+        "Q194166",
+        "Q43229"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "OpenPOWER Foundation",
+          "url": null
+        },
+        "fr": {
+          "title": "Fondation OpenPOWER",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q16725802",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q16741739",
+      "label": "Lila Tretikov",
+      "description": "Russian–American engineer, manager and former executive director of the Wikimedia Foundation",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Lila Tretikov",
+          "url": null
+        },
+        "fr": {
+          "title": "Lila Tretikov",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q16741739",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q1678053",
+      "label": "Jacques Nasser",
+      "description": "American-Australian business executive",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Jacques Nasser",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1678053",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q168383",
+      "label": "Universal Pictures",
+      "description": "American film and distribution company",
+      "instance_of": [
+        "Q1762059",
+        "Q375336"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Universal Pictures",
+          "url": null
+        },
+        "fr": {
+          "title": "Universal Pictures",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q168383",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q16847797",
+      "label": "Mustafa Suleyman",
+      "description": "British entrepreneur (born 1984)",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Mustafa Suleyman",
+          "url": null
+        },
+        "fr": {
+          "title": "Mustafa Suleyman",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q16847797",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q1699520",
+      "label": "VDMA",
+      "description": "organization of German machine building companies",
+      "instance_of": [
+        "Q163740",
+        "Q2178147"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Machinery and Equipment Manufacturers Association",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1699520",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q1705585",
+      "label": "Josef Rust",
+      "description": "German jurist (1907–1997)",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1705585",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q1706920",
+      "label": "Laser Zentrum Hannover",
+      "description": "institute in the city of Hannover",
+      "instance_of": [
+        "Q163740",
+        "Q31855"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1706920",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q171186",
+      "label": "Blogger",
+      "description": "social network and blogging platform by Google",
+      "instance_of": [
+        "Q1810858",
+        "Q3220391",
+        "Q35127",
+        "Q43229"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Blogger (service)",
+          "url": null
+        },
+        "fr": {
+          "title": "Blogger",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q171186",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q17135000",
+      "label": "Winfried Vahland",
+      "description": "German businessman",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Winfried Vahland",
+          "url": null
+        },
+        "fr": {
+          "title": "Winfried Vahland",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q17135000",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q17144030",
+      "label": "Institute of Business Ethics",
+      "description": "organization",
+      "instance_of": [
+        "Q43229",
+        "Q708676"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Institute of Business Ethics",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q17144030",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q17219647",
+      "label": "Panasonic Welding Systems",
+      "description": null,
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q17219647",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q17219652",
+      "label": "Panasonic FS Engineering",
+      "description": null,
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q17219652",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q17279176",
+      "label": "Neil Berkett",
+      "description": "New Zealand businessperson",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Neil Berkett",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q17279176",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q1745397",
+      "label": "Klaus Liesen",
+      "description": null,
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1745397",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q17627170",
+      "label": "Jim Zemlin",
+      "description": "Executive Director of the Linux Foundation",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Jim Zemlin",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q17627170",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q1764336",
+      "label": "Volkswagen Argentina",
+      "description": "Argentine subsidary of Volkswagen",
+      "instance_of": [
+        "Q658255",
+        "Q786820"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Volkswagen Argentina",
+          "url": null
+        },
+        "fr": {
+          "title": "Volkswagen Argentina",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1764336",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q1791773",
+      "label": "Kulturkreis der deutschen Wirtschaft",
+      "description": null,
+      "instance_of": [
+        "Q9299236"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1791773",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q180",
+      "label": "Fondation Wikimédia",
+      "description": "American charitable organization",
+      "instance_of": [
+        "Q157031",
+        "Q163740",
+        "Q708676"
+      ],
+      "is_seed": true,
+      "seed_categories": [
+        "nonprofit"
+      ],
+      "wikipedia": {
+        "en": {
+          "title": "Wikimedia Foundation",
+          "url": null
+        },
+        "fr": {
+          "title": "Fondation Wikimédia",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q180",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q181",
+      "label": "Jimmy Wales",
+      "description": "co-founder of Wikipedia (born 1966)",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Jimmy Wales",
+          "url": null
+        },
+        "fr": {
+          "title": "Jimmy Wales",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q181",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q18217465",
+      "label": "John B. Veihmeyer",
+      "description": "American businessperson, former global chairperson of KPMG",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "John B. Veihmeyer",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q18217465",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q18219536",
+      "label": "Christophe Henner",
+      "description": "French Wikimedian, former chair of the Wikimedia Foundation Board of Trustees",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q18219536",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q182380",
+      "label": "Ingo Orbit",
+      "description": "American organisation",
+      "instance_of": [
+        "Q163740"
+      ],
+      "is_seed": true,
+      "seed_categories": [
+        "nonprofit"
+      ],
+      "wikipedia": {
+        "en": {
+          "title": "Fair Labor Association",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q182380",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q183275",
+      "label": "Mitsubishi",
+      "description": "group of autonomous, Japanese multinational companies",
+      "instance_of": [
+        "Q1156739",
+        "Q1589009",
+        "Q197952",
+        "Q4830453",
+        "Q778575"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Mitsubishi",
+          "url": null
+        },
+        "fr": {
+          "title": "Mitsubishi",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q183275",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q18389376",
+      "label": "Q18389376",
+      "description": "German company",
+      "instance_of": [
+        "Q4830453",
+        "Q6881511"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Porsche Engineering",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q18389376",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q18628061",
+      "label": "Karl Gustaf Ratjen",
+      "description": "German manager (1919-2010)",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "fr": {
+          "title": "Karl Gustaf Ratjen",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q18628061",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q18630871",
+      "label": "Beth E. Mooney",
+      "description": "American banking executive",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Beth E. Mooney",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q18630871",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q18679052",
+      "label": "Q18679052",
+      "description": null,
+      "instance_of": [
+        "Q15911314",
+        "Q1666019"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q18679052",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q188217",
+      "label": "SEAT",
+      "description": "Spanish automotive company based in Martorell, subsidiary of Volkswagen Group",
+      "instance_of": [
+        "Q10429667",
+        "Q658255",
+        "Q786820",
+        "Q891723"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "SEAT",
+          "url": null
+        },
+        "fr": {
+          "title": "Seat",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q188217",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q18921712",
+      "label": "Jim Farley",
+      "description": "American business executive, president and chief executive officer, Ford Motor Company",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Jim Farley (businessman)",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q18921712",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q190844",
+      "label": "Zentralausschuss der Werbewirtschaft",
+      "description": "organization",
+      "instance_of": [
+        "Q1156831",
+        "Q163740"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q190844",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q1910173",
+      "label": "Matthias Müller",
+      "description": "German manager; CEO of Volkswagen AG",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Matthias Müller (businessman)",
+          "url": null
+        },
+        "fr": {
+          "title": "Matthias Müller (dirigeant)",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1910173",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q19285388",
+      "label": "Herbert Diess",
+      "description": "Austrian businessman",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Herbert Diess",
+          "url": null
+        },
+        "fr": {
+          "title": "Herbert Diess",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q19285388",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q19311465",
+      "label": "WeltN24",
+      "description": null,
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q19311465",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q19564219",
+      "label": "Bernadette Meehan",
+      "description": "Wikimedia CEO and American diplomat (born 1975)",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Bernadette Meehan",
+          "url": null
+        },
+        "fr": {
+          "title": "Bernadette Meehan",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q19564219",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q1959672",
+      "label": "Welt",
+      "description": "television station",
+      "instance_of": [
+        "Q1616075",
+        "Q561068"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Welt (TV channel)",
+          "url": null
+        },
+        "fr": {
+          "title": "Welt (chaîne de télévision)",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1959672",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q19758689",
+      "label": "Google Store",
+      "description": "online hardware retailer operated by Google",
+      "instance_of": [
+        "Q4382945"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Google Store",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q19758689",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q1979002",
+      "label": "Netzwerk Recherche",
+      "description": "German organization",
+      "instance_of": [
+        "Q113805953",
+        "Q163740"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1979002",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q20800404",
+      "label": "Alphabet Inc.",
+      "description": "American multinational technology conglomerate",
+      "instance_of": [
+        "Q219577",
+        "Q4830453",
+        "Q891723"
+      ],
+      "is_seed": true,
+      "seed_categories": [
+        "technology"
+      ],
+      "wikipedia": {
+        "en": {
+          "title": "Alphabet Inc.",
+          "url": null
+        },
+        "fr": {
+          "title": "Alphabet (entreprise)",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q20800404",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q21032599",
+      "label": "Oliver Blume",
+      "description": "German businessman",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Oliver Blume",
+          "url": null
+        },
+        "fr": {
+          "title": "Oliver Blume",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q21032599",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q2104551",
+      "label": "Porsche Automobil Holding SE",
+      "description": "German automotive holding company",
+      "instance_of": [
+        "Q219577",
+        "Q4830453",
+        "Q6881511",
+        "Q891723"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Porsche SE",
+          "url": null
+        },
+        "fr": {
+          "title": "Porsche SE",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q2104551",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q21167974",
+      "label": "Ford Global Technologies",
+      "description": "R&D subsidiary of Ford Motor",
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q21167974",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q2119882",
+      "label": "Google Nest",
+      "description": "home automation producer by Google",
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Google Nest",
+          "url": null
+        },
+        "fr": {
+          "title": "Google Nest",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q2119882",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q2126474",
+      "label": "Radiozentrale",
+      "description": null,
+      "instance_of": [
+        "Q1666019"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q2126474",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q216183",
+      "label": "Axel Springer",
+      "description": "German mass media owner",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Axel Springer",
+          "url": null
+        },
+        "fr": {
+          "title": "Axel Springer",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q216183",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q2175142",
+      "label": "Ruhrverband",
+      "description": "regional water board in Germany",
+      "instance_of": [
+        "Q13138621",
+        "Q43229"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q2175142",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q219635",
+      "label": "BlackRock",
+      "description": "American multinational investment management corporation",
+      "instance_of": [
+        "Q4830453",
+        "Q783794",
+        "Q891723"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "BlackRock",
+          "url": null
+        },
+        "fr": {
+          "title": "BlackRock",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q219635",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q21979716",
+      "label": "Kelly Battles",
+      "description": "former Wikimedia Foundation Board of Trustees member",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Kelly Battles",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q21979716",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q219960",
+      "label": "Scania",
+      "description": "Swedish truck and bus manufacturer",
+      "instance_of": [
+        "Q140934888",
+        "Q2005696",
+        "Q658255"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Scania AB",
+          "url": null
+        },
+        "fr": {
+          "title": "Scania",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q219960",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q22127504",
+      "label": "Panasonic Environmental Systems & Engineering",
+      "description": null,
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q22127504",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q22278829",
+      "label": "Shane Legg",
+      "description": "machine learning researcher",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Shane Legg",
+          "url": null
+        },
+        "fr": {
+          "title": "Shane Legg",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q22278829",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q22582937",
+      "label": "Q22582937",
+      "description": "Wikimedia Foundation Board of Trustees member",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q22582937",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q22937454",
+      "label": "International Data Spaces Association",
+      "description": "non‑profit, member‑driven association",
+      "instance_of": [
+        "Q163740",
+        "Q31855"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "International Data Spaces Association",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q22937454",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q2298325",
+      "label": "Boston Dynamics",
+      "description": "engineering and robotics design company",
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Boston Dynamics",
+          "url": null
+        },
+        "fr": {
+          "title": "Boston Dynamics",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q2298325",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q23034479",
+      "label": "Katherine Maher",
+      "description": "chief executive officer and president of National Public Radio",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Katherine Maher",
+          "url": null
+        },
+        "fr": {
+          "title": "Katherine Maher",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q23034479",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q233044",
+      "label": "Zweirad-Industrie-Verband",
+      "description": "German bicycle industry association",
+      "instance_of": [
+        "Q163740",
+        "Q2178147"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q233044",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q23317",
+      "label": "Audi AG",
+      "description": "German automotive manufacturing subsidiary of Volkswagen Group",
+      "instance_of": [
+        "Q4830453",
+        "Q786820",
+        "Q891723"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Audi",
+          "url": null
+        },
+        "fr": {
+          "title": "Audi",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q23317",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q2348701",
+      "label": "Stifterverband für die Deutsche Wissenschaft",
+      "description": "association promoting education, sciences, and innovation",
+      "instance_of": [
+        "Q163740"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Stifterverband für die Deutsche Wissenschaft",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q2348701",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q235069",
+      "label": "Mary Baker Eddy",
+      "description": "American founder of Christian Science (1821–1910)",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Mary Baker Eddy",
+          "url": null
+        },
+        "fr": {
+          "title": "Mary Baker Eddy",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q235069",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q24084562",
+      "label": "Ford Motor Ibérica",
+      "description": "ancien constructeur automobile filiale de Ford",
+      "instance_of": [
+        "Q112865922",
+        "Q4830453",
+        "Q658255"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q24084562",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q24505419",
+      "label": "N24 Doku",
+      "description": null,
+      "instance_of": [
+        "Q561068",
+        "Q7806598"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q24505419",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q246",
+      "label": "Volkswagen",
+      "description": "German automotive brand; manufacturing subsidiary of Volkswagen Group",
+      "instance_of": [
+        "Q10429667",
+        "Q658255",
+        "Q786820"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Volkswagen",
+          "url": null
+        },
+        "fr": {
+          "title": "Volkswagen",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q246",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q24841906",
+      "label": "Hans Birnbaum",
+      "description": null,
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q24841906",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q24896970",
+      "label": "Rosie Stephenson-Goodknight",
+      "description": "American Wikipedia editor, focused on closing its gender gap; Knight of Serbia",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Rosie Stephenson-Goodknight",
+          "url": null
+        },
+        "fr": {
+          "title": "Rosie Stephenson-Goodknight",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q24896970",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q2513582",
+      "label": "Association of German refrigeration and air conditioning specialist companies",
+      "description": null,
+      "instance_of": [
+        "Q1391517"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q2513582",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q2513649",
+      "label": "Verband Deutscher Zeitschriftenverleger",
+      "description": "German association",
+      "instance_of": [
+        "Q1666019",
+        "Q9299236"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q2513649",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q2513653",
+      "label": "German business travel association",
+      "description": "German pressure group for business travel",
+      "instance_of": [
+        "Q2178147",
+        "Q43229"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q2513653",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q2515091",
+      "label": "Association of German Business Archivists",
+      "description": "German association",
+      "instance_of": [
+        "Q1666019"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q2515091",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q252785",
+      "label": "Kōnosuke Matsushita",
+      "description": "founder of Panasonic (1894-1989)",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Kōnosuke Matsushita",
+          "url": null
+        },
+        "fr": {
+          "title": "Kōnosuke Matsushita",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q252785",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q2532301",
+      "label": "Volkswagen Slovakia",
+      "description": "automobile manufacturer",
+      "instance_of": [
+        "Q4830453",
+        "Q786820"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q2532301",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q2579585",
+      "label": "William Kennard",
+      "description": "former United States Ambassador to the European Union and former Chairman of the Federal Communications Commission",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "William Kennard",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q2579585",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q26207216",
+      "label": "Q26207216",
+      "description": "astronomer and Wikimedian",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q26207216",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q265618",
+      "label": "Audi Sport",
+      "description": "German high-performance automobile brand owned by Audi",
+      "instance_of": [
+        "Q4830453",
+        "Q786820"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Audi Sport GmbH",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q265618",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q2665980",
+      "label": "Guardian Media Group",
+      "description": "British multinational mass media company",
+      "instance_of": [
+        "Q1331793",
+        "Q5225895"
+      ],
+      "is_seed": true,
+      "seed_categories": [
+        "media"
+      ],
+      "wikipedia": {
+        "en": {
+          "title": "Guardian Media Group",
+          "url": null
+        },
+        "fr": {
+          "title": "Groupe Guardian Media",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q2665980",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q266722",
+      "label": "Florence Devouard",
+      "description": "French open knowledge advocate, Chair of the Wikimedia Foundation Board of Trustees, co-founder of Wikimedia France (born 1968)",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Florence Devouard",
+          "url": null
+        },
+        "fr": {
+          "title": "Florence Devouard",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q266722",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q26912024",
+      "label": "Google Ireland Holdings Unlimited Company",
+      "description": "holding company",
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q26912024",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q26924676",
+      "label": "Anthony Levandowski",
+      "description": "French-American automobile engineer (born 1980)",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Anthony Levandowski",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q26924676",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q2719386",
+      "label": "Michael",
+      "description": "attornfrom Germany",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q2719386",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q27224",
+      "label": "Bentley",
+      "description": "British automotive brand manufacturer",
+      "instance_of": [
+        "Q10429667",
+        "Q786820",
+        "Q891723"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Bentley",
+          "url": null
+        },
+        "fr": {
+          "title": "Bentley Motors",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q27224",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q27401",
+      "label": "Bugatti",
+      "description": "former German and French automaker",
+      "instance_of": [
+        "Q786820"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Bugatti",
+          "url": null
+        },
+        "fr": {
+          "title": "Automobiles Ettore Bugatti",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q27401",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q27987884",
+      "label": "Digiteq Automotive",
+      "description": "Czech company",
+      "instance_of": [
+        "Q4830453",
+        "Q6881511"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q27987884",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q28007222",
+      "label": "Porsche Česká republika",
+      "description": "Czech company",
+      "instance_of": [
+        "Q4830453",
+        "Q6881511"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q28007222",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q28021439",
+      "label": "John Krafcik",
+      "description": "CEO of Waymo (2015-2021)",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "John Krafcik",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q28021439",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q283754",
+      "label": "Italdesign Giugiaro",
+      "description": "Italian design and engineering company",
+      "instance_of": [
+        "Q15634581",
+        "Q6881511",
+        "Q786820"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Italdesign Giugiaro",
+          "url": null
+        },
+        "fr": {
+          "title": "Italdesign",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q283754",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q284183",
+      "label": "De Volkskrant",
+      "description": "Dutch newspaper",
+      "instance_of": [
+        "Q11032",
+        "Q1110794",
+        "Q1153191",
+        "Q1193236",
+        "Q18456364"
+      ],
+      "is_seed": true,
+      "seed_categories": [
+        "media"
+      ],
+      "wikipedia": {
+        "en": {
+          "title": "De Volkskrant",
+          "url": null
+        },
+        "fr": {
+          "title": "De Volkskrant",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q284183",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q284947",
+      "label": "The Christian Science Monitor",
+      "description": "American nonprofit newspaper (1908-)",
+      "instance_of": [
+        "Q11032"
+      ],
+      "is_seed": true,
+      "seed_categories": [
+        "media"
+      ],
+      "wikipedia": {
+        "en": {
+          "title": "The Christian Science Monitor",
+          "url": null
+        },
+        "fr": {
+          "title": "The Christian Science Monitor",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q284947",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q28819953",
+      "label": "Central Association of Body and Vehicle Technology",
+      "description": null,
+      "instance_of": [
+        "Q163740",
+        "Q783794"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q28819953",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q28946483",
+      "label": "Presse Club Hannover",
+      "description": null,
+      "instance_of": [
+        "Q7241637"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q28946483",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q28971307",
+      "label": "Panasonic Corporation of North America",
+      "description": null,
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q28971307",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q29000317",
+      "label": "Google (Switzerland)",
+      "description": null,
+      "instance_of": [
+        "Q658255"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q29000317",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q29110228",
+      "label": "Panasonic Europe Ltd",
+      "description": "business enterprise",
+      "instance_of": [
+        "Q4830453",
+        "Q6881511"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q29110228",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q29124061",
+      "label": "Mitsubishi Electric (Germany)",
+      "description": null,
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q29124061",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q29124065",
+      "label": "Mitsubishi Electric (Netherlands)",
+      "description": null,
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q29124065",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q2934750",
+      "label": "Camera & Imaging Products Association",
+      "description": "organization",
+      "instance_of": [
+        "Q2178147"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Camera & Imaging Products Association",
+          "url": null
+        },
+        "fr": {
+          "title": "Camera & Imaging Products Association",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q2934750",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q29514930",
+      "label": "R. Martin Chavez",
+      "description": "American investment banker and entrepreneur",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "R. Martin Chavez",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q29514930",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q29637",
+      "label": "Škoda Auto",
+      "description": "automotive manufacturing subsidiary of Volkswagen Group",
+      "instance_of": [
+        "Q4830453",
+        "Q6881511",
+        "Q786820"
+      ],
+      "is_seed": true,
+      "seed_categories": [
+        "industry"
+      ],
+      "wikipedia": {
+        "en": {
+          "title": "Škoda Auto",
+          "url": null
+        },
+        "fr": {
+          "title": "Škoda Auto",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q29637",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q29803",
+      "label": "Isuzu",
+      "description": "Japanese company manufacturing motor vehicles",
+      "instance_of": [
+        "Q431289",
+        "Q4830453",
+        "Q786820"
+      ],
+      "is_seed": true,
+      "seed_categories": [
+        "industry"
+      ],
+      "wikipedia": {
+        "en": {
+          "title": "Isuzu",
+          "url": null
+        },
+        "fr": {
+          "title": "Isuzu",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q29803",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q29872",
+      "label": "Die Welt",
+      "description": "German national daily newspaper",
+      "instance_of": [
+        "Q11032",
+        "Q1110794"
+      ],
+      "is_seed": true,
+      "seed_categories": [
+        "media"
+      ],
+      "wikipedia": {
+        "en": {
+          "title": "Die Welt",
+          "url": null
+        },
+        "fr": {
+          "title": "Die Welt",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q29872",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q30030987",
+      "label": "James Hackett",
+      "description": "American businessperson",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "James Hackett (businessman)",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q30030987",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q3022141",
+      "label": "Demis Hassabis",
+      "description": "British artificial intelligence researcher (born 1976)",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Demis Hassabis",
+          "url": null
+        },
+        "fr": {
+          "title": "Demis Hassabis",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3022141",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q30254491",
+      "label": "Carmeq",
+      "description": "company in Berlin, Germany",
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q30254491",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q30338080",
+      "label": "Google (Ireland)",
+      "description": null,
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q30338080",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q30338099",
+      "label": "Google Canada",
+      "description": null,
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q30338099",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q30338862",
+      "label": "Mitsubishi Electric (France)",
+      "description": null,
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q30338862",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q3054039",
+      "label": "Endoxon",
+      "description": "Mapping company by Google",
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Endoxon",
+          "url": null
+        },
+        "fr": {
+          "title": "Endoxon (entreprise)",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3054039",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q315955",
+      "label": "Automobilclub von Deutschland",
+      "description": "eingetragener Verein",
+      "instance_of": [
+        "Q163740",
+        "Q2516180"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Automobilclub von Deutschland",
+          "url": null
+        },
+        "fr": {
+          "title": "Automobile Club d'Allemagne",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q315955",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q321698",
+      "label": "William Clay Ford",
+      "description": "American businessman",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "William Clay Ford Jr.",
+          "url": null
+        },
+        "fr": {
+          "title": "William Clay Ford, Jr",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q321698",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q32631",
+      "label": "Gesellschaft zur Verfolgung von Urheberrechtsverletzungen e.V.",
+      "description": "German organization that protects intellectual property (1984–2020)",
+      "instance_of": [
+        "Q15911314",
+        "Q1666019",
+        "Q431603"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Gesellschaft zur Verfolgung von Urheberrechtsverletzungen e.V.",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q32631",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q328179",
+      "label": "Gegen Vergessen – Für Demokratie",
+      "description": "registered association in Germany",
+      "instance_of": [
+        "Q163740",
+        "Q64167531",
+        "Q79913"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Gegen Vergessen – Für Demokratie",
+          "url": null
+        },
+        "fr": {
+          "title": "Gegen Vergessen – Für Demokratie",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q328179",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q3297298",
+      "label": "GoogleLLC",
+      "description": "subsidiary company of Alphabet",
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Google Energy",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3297298",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q33026956",
+      "label": "German Startups Association",
+      "description": "German Lobby organization for startups",
+      "instance_of": [
+        "Q15911314",
+        "Q1666019"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Bundesverband Deutsche Startups",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q33026956",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q33092807",
+      "label": "Volkswagen Finance Luxemburg",
+      "description": "holding company",
+      "instance_of": [
+        "Q219577"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q33092807",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q33092966",
+      "label": "Volkswagen (China) Investment Company",
+      "description": "Chinese holding company",
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q33092966",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q348874",
+      "label": "Alan Mulally",
+      "description": "American businessman",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Alan Mulally",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q348874",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q3503829",
+      "label": "Sundar Pichai",
+      "description": "Indian-American business executive, CEO of Google LLC & Alphabet Inc.",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Sundar Pichai",
+          "url": null
+        },
+        "fr": {
+          "title": "Sundar Pichai",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3503829",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q3529173",
+      "label": "Ting Chen",
+      "description": "former chair of the Wikimedia Foundation Board of Trustees",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3529173",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q3552257",
+      "label": "Urchin Software Corporation",
+      "description": "US web analytics company owned by Google",
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Urchin Software Corporation",
+          "url": null
+        },
+        "fr": {
+          "title": "Urchin Software Corporation",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3552257",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q35886",
+      "label": "Lamborghini",
+      "description": "Italian car manufacturer",
+      "instance_of": [
+        "Q4830453",
+        "Q658255",
+        "Q786820"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Lamborghini",
+          "url": null
+        },
+        "fr": {
+          "title": "Lamborghini",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q35886",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q35953",
+      "label": "MAN SE",
+      "description": "former German engine, truck and bus holding company",
+      "instance_of": [
+        "Q108460239",
+        "Q2005696",
+        "Q4830453",
+        "Q6881511",
+        "Q891723"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "MAN SE",
+          "url": null
+        },
+        "fr": {
+          "title": "MAN SE",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q35953",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q3616482",
+      "label": "Wireless Power Consortium",
+      "description": "multinational technology consortium based in Washington, DC",
+      "instance_of": [
+        "Q194166"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Wireless Power Consortium",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3616482",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q3617636",
+      "label": "Ann Mather",
+      "description": "American businesswoman",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Ann Mather",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3617636",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q3685364",
+      "label": "Computer & Communications Industry Association",
+      "description": "nonprofit organization",
+      "instance_of": [
+        "Q163740"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Computer & Communications Industry Association",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3685364",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q37033",
+      "label": "World Wide Web Consortium",
+      "description": "main international standards organization for the World Wide Web",
+      "instance_of": [
+        "Q1328899",
+        "Q48204",
+        "Q96888669"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "World Wide Web Consortium",
+          "url": null
+        },
+        "fr": {
+          "title": "World Wide Web Consortium",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q37033",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q375126",
+      "label": "Emil Škoda",
+      "description": "Bohemian engineer and industrialist (1839-1900)",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Emil von Škoda",
+          "url": null
+        },
+        "fr": {
+          "title": "Emil Škoda",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q375126",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q385109",
+      "label": "Afrika-Verein",
+      "description": "voluntary association",
+      "instance_of": [
+        "Q15911314",
+        "Q1666019",
+        "Q43229"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Afrika-Verein der deutschen Wirtschaft",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q385109",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q391795",
+      "label": "Škoda Works",
+      "description": "former manufacturing conglomerate",
+      "instance_of": [
+        "Q4830453",
+        "Q6881511"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Škoda Works",
+          "url": null
+        },
+        "fr": {
+          "title": "Usines Škoda",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q391795",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q4007363",
+      "label": "ITU Telecommunication Standardization Sector",
+      "description": "Division of the International Telecommunication Union",
+      "instance_of": [
+        "Q1328899",
+        "Q43229"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "ITU-T",
+          "url": null
+        },
+        "fr": {
+          "title": "UIT-T",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q4007363",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q4049167",
+      "label": "Scott Trust Limited",
+      "description": "British multinational mass media company",
+      "instance_of": [
+        "Q43229"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Scott Trust Limited",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q4049167",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q40640648",
+      "label": "Nataliia Tymkiv",
+      "description": "Ukrainian Wikimedian, chair of the Wikimedia Foundation Board of Trustees",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q40640648",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q40993",
+      "label": "Porsche",
+      "description": "German automobile manufacturer specializing in high-performance sports cars, SUVs and sedans, owned by Volkswagen AG",
+      "instance_of": [
+        "Q15648574",
+        "Q786820",
+        "Q891723"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Porsche",
+          "url": null
+        },
+        "fr": {
+          "title": "Porsche",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q40993",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q41567544",
+      "label": "Panasonic Heating & Ventilation Air-Conditioning Czech",
+      "description": "Czech company",
+      "instance_of": [
+        "Q4830453",
+        "Q6881511"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q41567544",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q41567817",
+      "label": "Czech Automotive Industry Association",
+      "description": "Czech trade association for the automotive industry",
+      "instance_of": [
+        "Q2178147",
+        "Q43229"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q41567817",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q41568527",
+      "label": "Isuzu Motors (United States)",
+      "description": "company in Anaheim, United States",
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q41568527",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q41756462",
+      "label": "Reinhard Jung",
+      "description": "German manager",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q41756462",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q41795988",
+      "label": "Ford of Mexico",
+      "description": "American multinational automobile manufacturer with offices in Mexico City",
+      "instance_of": [
+        "Q20074337",
+        "Q786820"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q41795988",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q4273363",
+      "label": "Frances Arnold",
+      "description": "Nobel prize winning US scientist and engineer (born 1956)",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Frances Arnold",
+          "url": null
+        },
+        "fr": {
+          "title": "Frances Arnold",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q4273363",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q44294",
+      "label": "Ford Motor Company",
+      "description": "American multinational automotive company",
+      "instance_of": [
+        "Q219577",
+        "Q43229",
+        "Q4830453",
+        "Q786820",
+        "Q891723"
+      ],
+      "is_seed": true,
+      "seed_categories": [
+        "industry"
+      ],
+      "wikipedia": {
+        "en": {
+          "title": "Ford Motor Company",
+          "url": null
+        },
+        "fr": {
+          "title": "Ford",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q44294",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q463681",
+      "label": "American Chamber of Commerce in Germany",
+      "description": "German organization",
+      "instance_of": [
+        "Q163740"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q463681",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q4720254",
+      "label": "Alexander Trotman, Baron Trotman",
+      "description": "British businessman (1933-2005)",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Alexander Trotman, Baron Trotman",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q4720254",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q4742255",
+      "label": "Amelia Fawcett",
+      "description": "British banker",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Amelia Fawcett",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q4742255",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q485087",
+      "label": "C40 Cities Climate Leadership Group",
+      "description": "group of cities around the world",
+      "instance_of": [
+        "Q1145523",
+        "Q708676"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "C40 Cities Climate Leadership Group",
+          "url": null
+        },
+        "fr": {
+          "title": "C40 Cities Climate Leadership Group",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q485087",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q49203",
+      "label": "Sanyo",
+      "description": "Japanese electronics company",
+      "instance_of": [
+        "Q4830453",
+        "Q658255",
+        "Q6881511",
+        "Q897716"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Sanyo",
+          "url": null
+        },
+        "fr": {
+          "title": "Sanyo",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q49203",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q4933658",
+      "label": "Bob Phillis",
+      "description": "businessperson",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Bob Phillis",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q4933658",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q4934",
+      "label": "Larry Page",
+      "description": "American computer scientist and Internet entrepreneur (born 1973)",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Larry Page",
+          "url": null
+        },
+        "fr": {
+          "title": "Larry Page",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q4934",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q4985941",
+      "label": "BufferBox",
+      "description": "Canadian startup from the University of Waterloo",
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "BufferBox",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q4985941",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q5006750",
+      "label": "C. P. Scott",
+      "description": "British journalist, publisher and politician (1846-1932)",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "C. P. Scott",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q5006750",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q5045423",
+      "label": "Carolyn McCall",
+      "description": "British businesswoman",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Carolyn McCall",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q5045423",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q509284",
+      "label": "Google Workspace",
+      "description": "email, cloud storage, collaboration tools, hardware, administration, social media and other business apps",
+      "instance_of": [
+        "Q1254596",
+        "Q1668024",
+        "Q207170",
+        "Q218616",
+        "Q4830453",
+        "Q483639"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Google Workspace",
+          "url": null
+        },
+        "fr": {
+          "title": "Google Workspace",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q509284",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q50992391",
+      "label": "Panasonic Holding (Netherlands)",
+      "description": "Netherlandese holding company",
+      "instance_of": [
+        "Q4830453",
+        "Q6881511"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q50992391",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q5110119",
+      "label": "Christian Science Publishing Society",
+      "description": "publishing arm of The First Church of Christ, Scientist in Boston, Massachusetts",
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Christian Science Publishing Society",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q5110119",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q516858",
+      "label": "Henry Ford II",
+      "description": "American automotive industry executive (1917–1987)",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Henry Ford II",
+          "url": null
+        },
+        "fr": {
+          "title": "Henry Ford II",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q516858",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q51712",
+      "label": "Google Voice",
+      "description": "telecommunications service by Google",
+      "instance_of": [
+        "Q1266169",
+        "Q193424",
+        "Q7397",
+        "Q81945"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Google Voice",
+          "url": null
+        },
+        "fr": {
+          "title": "Google Voice",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q51712",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q52852506",
+      "label": "Panasonic Automotive Systems Czech",
+      "description": "company in the Czech Republic",
+      "instance_of": [
+        "Q4830453",
+        "Q6881511"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q52852506",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q5294993",
+      "label": "Donald Petersen",
+      "description": "American businessman (1926–2024)",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Donald Petersen",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q5294993",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q529564",
+      "label": "VDI – The Association of German Engineers",
+      "description": "voluntary association",
+      "instance_of": [
+        "Q1328899",
+        "Q1391517",
+        "Q163740",
+        "Q988108"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Verein Deutscher Ingenieure",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q529564",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q53247",
+      "label": "Panasonic Holdings Corporation",
+      "description": "Japanese multinational electronics corporation",
+      "instance_of": [
+        "Q11294827",
+        "Q161726",
+        "Q4830453",
+        "Q6881511",
+        "Q891723"
+      ],
+      "is_seed": true,
+      "seed_categories": [
+        "industry"
+      ],
+      "wikipedia": {
+        "en": {
+          "title": "Panasonic",
+          "url": null
+        },
+        "fr": {
+          "title": "Panasonic",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q53247",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q53257",
+      "label": "Mitsubishi Electric",
+      "description": "Japanese electronics and electrical equipments manufacturing company",
+      "instance_of": [
+        "Q4830453",
+        "Q6881511",
+        "Q891723"
+      ],
+      "is_seed": true,
+      "seed_categories": [
+        "industry"
+      ],
+      "wikipedia": {
+        "en": {
+          "title": "Mitsubishi Electric",
+          "url": null
+        },
+        "fr": {
+          "title": "Mitsubishi Electric",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q53257",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q5364758",
+      "label": "Panasonic Electric Works",
+      "description": "Japanese company",
+      "instance_of": [
+        "Q4830453",
+        "Q6881511"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Panasonic Electric Works",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q5364758",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q537395",
+      "label": "European Movement Germany",
+      "description": "voluntary organization",
+      "instance_of": [
+        "Q1940786",
+        "Q431603",
+        "Q48204"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "European Movement Germany",
+          "url": null
+        },
+        "fr": {
+          "title": "Mouvement européen Allemagne",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q537395",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q5455414",
+      "label": "Fitbit",
+      "description": "subsidiary of Google that manufactures and distributes fitness trackers",
+      "instance_of": [
+        "Q1589009",
+        "Q43229",
+        "Q4830453",
+        "Q6881511"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Fitbit",
+          "url": null
+        },
+        "fr": {
+          "title": "Fitbit",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q5455414",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q5467643",
+      "label": "Ford Air Transport Service",
+      "description": "1925-1932 cargo airline based in Detroit, Michigan, USA",
+      "instance_of": [
+        "Q1057026"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Ford Air Transport Service",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q5467643",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q5467861",
+      "label": "Ford Motor Company Philippines",
+      "description": "Motor company in the Philippines",
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Ford Motor Company Philippines",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q5467861",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q5467862",
+      "label": "Ford New Zealand",
+      "description": "subsidiary of Ford Motor Co.",
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Ford New Zealand",
+          "url": null
+        },
+        "fr": {
+          "title": "Ford Motor New Zealand",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q5467862",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q5467990",
+      "label": "Ford of Spain",
+      "description": "Automotive company in Spain",
+      "instance_of": [
+        "Q658255",
+        "Q786820"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Ford Valencia Body and Assembly",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q5467990",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q55396255",
+      "label": "Shani Evenstein Sigalov",
+      "description": "Israeli educator, researcher, open knowledge advocate and Wikimedia Foundation Board of Trustees vice chair",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q55396255",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q55513046",
+      "label": "Wing",
+      "description": "drone freight delivery company by alphabet inc.",
+      "instance_of": [
+        "Q43229",
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Wing Aviation",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q55513046",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q55655418",
+      "label": "Tanya Capuano",
+      "description": null,
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q55655418",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q557498",
+      "label": "Volkswagen do Brasil",
+      "description": "Subsidiary arm of Volkswagen Group",
+      "instance_of": [
+        "Q6881511",
+        "Q786820"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Volkswagen do Brasil",
+          "url": null
+        },
+        "fr": {
+          "title": "Volkswagen do Brasil",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q557498",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q56290343",
+      "label": "5G Automotive Association",
+      "description": "global, cross-industry organisation of companies from the automotive and telecommunications industries working together to develop end-to-end solutions for future mobility.",
+      "instance_of": [
+        "Q163740",
+        "Q2089936",
+        "Q43229"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "5G Automotive Association",
+          "url": null
+        },
+        "fr": {
+          "title": "5G Automotive Association",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q56290343",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q563359",
+      "label": "Verband der Automobilindustrie",
+      "description": "German voluntary association",
+      "instance_of": [
+        "Q163740",
+        "Q1666019",
+        "Q627272"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Verband der Automobilindustrie",
+          "url": null
+        },
+        "fr": {
+          "title": "Verband der Automobilindustrie",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q563359",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q56649486",
+      "label": "Data:Lab Munich",
+      "description": "advanced technology research center for Volkswagen Group in Munich, Germany",
+      "instance_of": [
+        "Q7315155"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q56649486",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q571934",
+      "label": "Ford of Europe",
+      "description": "automotive manufacturing subsidiary of Ford Motor Company",
+      "instance_of": [
+        "Q4830453",
+        "Q786820"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Ford of Europe",
+          "url": null
+        },
+        "fr": {
+          "title": "Ford Europe",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q571934",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q571943",
+      "label": "Ford Germany",
+      "description": "automotive manufacturing subsidiary of Ford Motor Company",
+      "instance_of": [
+        "Q4830453",
+        "Q658255",
+        "Q786820"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Ford Germany",
+          "url": null
+        },
+        "fr": {
+          "title": "Ford Allemagne",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q571943",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q59422284",
+      "label": "Stephanie Caspar",
+      "description": null,
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q59422284",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q5974704",
+      "label": "ITA Software",
+      "description": "travel industry software company acquired by Google in 2011",
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "ITA Software",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q5974704",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q6002082",
+      "label": "ImageAmerica",
+      "description": "aerial photography company by Google",
+      "instance_of": [
+        "Q4830453",
+        "Q783794"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "ImageAmerica",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q6002082",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q6231355",
+      "label": "John Edward Taylor",
+      "description": "British journalist and publisher (1791–1844)",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "John Edward Taylor",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q6231355",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q6243718",
+      "label": "John L. Thornton",
+      "description": "American businessperson, former co-president of Goldman Sachs International",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "John L. Thornton",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q6243718",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q6256275",
+      "label": "John S. Gray",
+      "description": "First president of Ford Motor Company",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "John S. Gray (businessman)",
+          "url": null
+        },
+        "fr": {
+          "title": "John S. Gray",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q6256275",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q627685",
+      "label": "Arbeitsgemeinschaft für wirtschaftliche Verwaltung",
+      "description": null,
+      "instance_of": [
+        "Q163740",
+        "Q783794"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q627685",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q62901",
+      "label": "Sebastian Thrun",
+      "description": "German-American entrepreneur (born 1967)",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Sebastian Thrun",
+          "url": null
+        },
+        "fr": {
+          "title": "Sebastian Thrun",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q62901",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q63020424",
+      "label": "DPG Media",
+      "description": "International media publisher based in Belgium",
+      "instance_of": [
+        "Q1331793",
+        "Q4830453",
+        "Q6881511"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "DPG Media",
+          "url": null
+        },
+        "fr": {
+          "title": "DPG Media",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q63020424",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q6409905",
+      "label": "Kimberly Casiano",
+      "description": "American businessperson, former president and chief operating officer of Casiano Communications",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Kimberly Casiano",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q6409905",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q6767603",
+      "label": "Mark Fields",
+      "description": "American business executive",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Mark Fields (businessman)",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q6767603",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q68355",
+      "label": "Martin Winterkorn",
+      "description": "former Chairman of Volkswagen AG",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Martin Winterkorn",
+          "url": null
+        },
+        "fr": {
+          "title": "Martin Winterkorn",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q68355",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q68625",
+      "label": "Heinrich Nordhoff",
+      "description": "German businessman (1899–1968)",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Heinrich Nordhoff",
+          "url": null
+        },
+        "fr": {
+          "title": "Heinrich Nordhoff",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q68625",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q68648",
+      "label": "Bernd Pischetsrieder",
+      "description": "German automobile engineer",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Bernd Pischetsrieder",
+          "url": null
+        },
+        "fr": {
+          "title": "Bernd Pischetsrieder",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q68648",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q6994244",
+      "label": "Neotonic Software",
+      "description": "Email software company",
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Neotonic Software",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q6994244",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q706093",
+      "label": "Václav Laurin",
+      "description": "Czech entrepreneur (1865–1930)",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Václav Laurin",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q706093",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q7114879",
+      "label": "Q7114879",
+      "description": "American video game developer",
+      "instance_of": [
+        "Q210167",
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Owlchemy Labs",
+          "url": null
+        },
+        "fr": {
+          "title": "Owlchemy Labs",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q7114879",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q7130064",
+      "label": "Panasonic Avionics Corporation",
+      "description": "subsidiary of Panasonic Corporation",
+      "instance_of": [
+        "Q21980538"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Panasonic Avionics Corporation",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q7130064",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q7183316",
+      "label": "Philip Caldwell",
+      "description": "American businessman (1920–2013)",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Philip Caldwell",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q7183316",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q7286469",
+      "label": "Raju Narisetti",
+      "description": "digital media content executive",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Raju Narisetti",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q7286469",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q729120",
+      "label": "Asien-Pazifik-Ausschuss der Deutschen Wirtschaft",
+      "description": "German organization",
+      "instance_of": [
+        "Q43229"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q729120",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q7359066",
+      "label": "Roger W. Ferguson, Jr.",
+      "description": "American politician and lawyer (born 1951)",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Roger W. Ferguson Jr.",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q7359066",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q73829379",
+      "label": "Guardian New Zealand",
+      "description": "Online newspaper",
+      "instance_of": [
+        "Q11032"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Guardian New Zealand",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q73829379",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q7389502",
+      "label": "SD Association",
+      "description": "American nonprofit organization that sets memory card standards",
+      "instance_of": [
+        "Q1328899",
+        "Q163740",
+        "Q4830453",
+        "Q783794"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "SD Association",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q7389502",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q743391",
+      "label": "European Automobile Manufacturers Association",
+      "description": "automobile association",
+      "instance_of": [
+        "Q2178147",
+        "Q43229"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "European Automobile Manufacturers Association",
+          "url": null
+        },
+        "fr": {
+          "title": "Association des constructeurs européens d'automobiles",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q743391",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q7524",
+      "label": "Sue Gardner",
+      "description": "Canadian journalist",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Sue Gardner",
+          "url": null
+        },
+        "fr": {
+          "title": "Sue Gardner",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q7524",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q7545",
+      "label": "Kat Walsh",
+      "description": "American lawyer; former chair of the Wikimedia Foundation Board of Trustees",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q7545",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q756504",
+      "label": "Atlantik-Brücke",
+      "description": "political and economic think tank based in Germany",
+      "instance_of": [
+        "Q155271",
+        "Q431603"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Atlantik-Brücke",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q756504",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q75787638",
+      "label": "Henry Ford III",
+      "description": "Peerage person ID=334062",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q75787638",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q76245",
+      "label": "Rudolf Leiding",
+      "description": "German businessman (1914–2003)",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Rudolf Leiding",
+          "url": null
+        },
+        "fr": {
+          "title": "Rudolf Leiding",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q76245",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q7696245",
+      "label": "Telegraph Media Group",
+      "description": "British newspaper company",
+      "instance_of": [
+        "Q1331793",
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Telegraph Media Group",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q7696245",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q78713",
+      "label": "Ferdinand Piëch",
+      "description": "Austrian manager (1937-2019)",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Ferdinand Piëch",
+          "url": null
+        },
+        "fr": {
+          "title": "Ferdinand Piëch",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q78713",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q7940322",
+      "label": "Skoda Auto Volkswagen India",
+      "description": "Indian company",
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Škoda Auto Volkswagen India",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q7940322",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q7940324",
+      "label": "Volkswagen Group of America",
+      "description": "US subsidiary of the Volkswagen Group",
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Volkswagen Group of America",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q7940324",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q80900668",
+      "label": "Ford Ireland",
+      "description": "Irish subsidiary of Ford Motor Company",
+      "instance_of": [
+        "Q658255",
+        "Q786820"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Henry Ford & Son Ltd.",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q80900668",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q81810283",
+      "label": "Q81810283",
+      "description": "American business executive",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q81810283",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q825590",
+      "label": "Bernhard Maier",
+      "description": null,
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q825590",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q829089",
+      "label": "Berufsverband Deutscher Markt- und Sozialforscher",
+      "description": "eingetragener Verein",
+      "instance_of": [
+        "Q829080"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q829089",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q83172177",
+      "label": "ICC Germany",
+      "description": "advocacy group",
+      "instance_of": [
+        "Q163740",
+        "Q431603"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q83172177",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q845918",
+      "label": "Open Source Initiative",
+      "description": "non-profit organization promoting open-source software",
+      "instance_of": [
+        "Q163740"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Open Source Initiative",
+          "url": null
+        },
+        "fr": {
+          "title": "Open Source Initiative",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q845918",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q849363",
+      "label": "The Vanguard Group",
+      "description": "American investment management company",
+      "instance_of": [
+        "Q4830453",
+        "Q6881511",
+        "Q783794"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "The Vanguard Group",
+          "url": null
+        },
+        "fr": {
+          "title": "The Vanguard Group",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q849363",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q858851",
+      "label": "Linux Foundation",
+      "description": "non-profit technology consortium for development of Linux and open source",
+      "instance_of": [
+        "Q157031",
+        "Q6944143"
+      ],
+      "is_seed": true,
+      "seed_categories": [
+        "nonprofit"
+      ],
+      "wikipedia": {
+        "en": {
+          "title": "Linux Foundation",
+          "url": null
+        },
+        "fr": {
+          "title": "Fondation Linux",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q858851",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q86589685",
+      "label": "Maryana Iskander",
+      "description": "American social entrepreneur and lawyer, CEO of Wikimedia Foundation (2022-2026)",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Maryana Iskander",
+          "url": null
+        },
+        "fr": {
+          "title": "Maryana Iskander",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q86589685",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q866809",
+      "label": "KDK",
+      "description": "Japanese company",
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "KDK",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q866809",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q87129",
+      "label": "Toni Schmücker",
+      "description": "German businessman (1921–1996)",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Toni Schmücker",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q87129",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q872455",
+      "label": "Porsche Holding",
+      "description": "Austrian company",
+      "instance_of": [
+        "Q4830453"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Porsche Holding",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q872455",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q8768",
+      "label": "Henry Ford",
+      "description": "American business magnate (1863–1947)",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Henry Ford",
+          "url": null
+        },
+        "fr": {
+          "title": "Henry Ford",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q8768",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q87731051",
+      "label": "Victoria A Doronina",
+      "description": "researcher",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q87731051",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q896265",
+      "label": "DECHEMA",
+      "description": "voluntary association",
+      "instance_of": [
+        "Q163740",
+        "Q48204"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "DECHEMA",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q896265",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q899383",
+      "label": "European Telecommunications Standards Institute",
+      "description": "European tech standards organization",
+      "instance_of": [
+        "Q1328899",
+        "Q163740",
+        "Q51885731"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "European Telecommunications Standards Institute",
+          "url": null
+        },
+        "fr": {
+          "title": "Institut européen des normes de télécommunications",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q899383",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q9202037",
+      "label": "Dariusz Jemielniak",
+      "description": "Polish professor of management, Wikimedia Foundation Board of Trustees member",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Dariusz Jemielniak",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q9202037",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q9274518",
+      "label": "Google Poland",
+      "description": "subsidiary",
+      "instance_of": [
+        "Q4830453",
+        "Q6881511"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q9274518",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q92747",
+      "label": "Eric Schmidt",
+      "description": "software engineer, businessman, former Google CEO",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Eric Schmidt",
+          "url": null
+        },
+        "fr": {
+          "title": "Eric Schmidt",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q92747",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q92764",
+      "label": "Sergey Brin",
+      "description": "American billionaire businessman (born 1973)",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Sergey Brin",
+          "url": null
+        },
+        "fr": {
+          "title": "Sergey Brin",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q92764",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q92854",
+      "label": "John L. Hennessy",
+      "description": "American computer scientist (born 1952)",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "John L. Hennessy",
+          "url": null
+        },
+        "fr": {
+          "title": "John L. Hennessy",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q92854",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q934853",
+      "label": "Q934853",
+      "description": "American consumer electronics and telecommunications company, subsidiary of Lenovo",
+      "instance_of": [
+        "Q161726",
+        "Q4830453",
+        "Q6881511"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Motorola Mobility",
+          "url": null
+        },
+        "fr": {
+          "title": "Motorola Mobility",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q934853",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q95",
+      "label": "Google",
+      "description": "American multinational technology company, a subsidiary of Alphabet Inc.",
+      "instance_of": [
+        "Q18388277",
+        "Q19967801",
+        "Q4830453",
+        "Q5988403",
+        "Q891723"
+      ],
+      "is_seed": true,
+      "seed_categories": [
+        "technology"
+      ],
+      "wikipedia": {
+        "en": {
+          "title": "Google",
+          "url": null
+        },
+        "fr": {
+          "title": "Google",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q95",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q97087",
+      "label": "Carl Hahn",
+      "description": "German businessman (1926–2023)",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Carl Hahn",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q97087",
+      "entity_type": "person"
+    },
+    {
+      "qid": "Q97326472",
+      "label": "Konsolidační banka Praha",
+      "description": "former Czech state-owned bank",
+      "instance_of": [
+        "Q4830453",
+        "Q6881511"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {},
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q97326472",
+      "entity_type": "organization"
+    },
+    {
+      "qid": "Q98000",
+      "label": "Kurt Lotz",
+      "description": "German businessman (1912-2005)",
+      "instance_of": [
+        "Q5"
+      ],
+      "is_seed": false,
+      "seed_categories": [],
+      "wikipedia": {
+        "en": {
+          "title": "Kurt Lotz",
+          "url": null
+        }
+      },
+      "source": "wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q98000",
+      "entity_type": "person"
+    }
+  ]
+}

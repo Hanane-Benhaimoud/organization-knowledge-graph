@@ -1,0 +1,15 @@
+{
+  "run_id": "ff7e5205b7ffa21f",
+  "model": "openai/gpt-oss-120b",
+  "chunks_total": 2315,
+  "new_calls": 50,
+  "new_responses": 50,
+  "cached_responses": 1313,
+  "chunks_validated": 1363,
+  "accepted_relations": 1605,
+  "rejected_relations": 236,
+  "error": null,
+  "aggregate_files_updated": true,
+  "chunks_not_validated": 952,
+  "finished_at": "2026-11-01T18:13:25.724012+00:00"
+}

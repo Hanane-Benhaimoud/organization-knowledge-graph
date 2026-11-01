@@ -1,0 +1,220 @@
+{
+  "document_id": "wikipedia_en_Q315955",
+  "wikidata_id": "Q315955",
+  "entity_label": "Automobilclub von Deutschland",
+  "entity_type": "organization",
+  "seed_categories": [],
+  "source": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/German_Motor_Sport_Federation",
+  "revision_id": 1353882987,
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1353882987",
+  "pageid": 4843167,
+  "title": "German Motor Sport Federation",
+  "language": "en",
+  "collected_at": "2026-10-28T22:00:48.215693+00:00",
+  "content": {
+    "sections": [
+      {
+        "heading": "Introduction",
+        "text": "The German Motor Sport Federation ( German : Deutscher Motor Sport Bund or DMSB , formerly known as Oberste Nationale Sportbehörde or ONS ) is Germany's motor racing governing body. It represents Germany at FIA and FIM .\nThe DMSB-Staffel , founded in 1972 by Herbert Linge as ONS-Staffel , is considered the first mobile track marshaling crew, equipped with fast cars like Porsche 914 or Porsche 911 , carrying fire extinguishers and doctors in order to arrive quickly at a crash site."
+      },
+      {
+        "heading": "Member clubs",
+        "text": "Allgemeiner Deutscher Automobil-Club ( ADAC ), founded 1903 Automobilclub von Deutschland (AvD), founded 1899 Deutscher Motorsport Verband (DMV), founded 1923"
+      },
+      {
+        "heading": "Racing series organized by DMSB",
+        "text": "F3 Euroseries FIA European Formula Three Championship ATS Formel 3 Cup Deutsche Motorrad-Straßenmeisterschaft"
+      },
+      {
+        "heading": "ITR e.V.",
+        "text": "Deutsche Tourenwagen Masters (until 2022)"
+      },
+      {
+        "heading": "Motorsport Team Germany",
+        "text": "The Motorsport Team Germany is a squad containing young up-and-coming German talents in car racing, rallying and motorcycling."
+      },
+      {
+        "heading": "External links",
+        "text": "Official website"
+      }
+    ],
+    "full_text": "Introduction\nThe German Motor Sport Federation ( German : Deutscher Motor Sport Bund or DMSB , formerly known as Oberste Nationale Sportbehörde or ONS ) is Germany's motor racing governing body. It represents Germany at FIA and FIM .\nThe DMSB-Staffel , founded in 1972 by Herbert Linge as ONS-Staffel , is considered the first mobile track marshaling crew, equipped with fast cars like Porsche 914 or Porsche 911 , carrying fire extinguishers and doctors in order to arrive quickly at a crash site.\n\nMember clubs\nAllgemeiner Deutscher Automobil-Club ( ADAC ), founded 1903 Automobilclub von Deutschland (AvD), founded 1899 Deutscher Motorsport Verband (DMV), founded 1923\n\nRacing series organized by DMSB\nF3 Euroseries FIA European Formula Three Championship ATS Formel 3 Cup Deutsche Motorrad-Straßenmeisterschaft\n\nITR e.V.\nDeutsche Tourenwagen Masters (until 2022)\n\nMotorsport Team Germany\nThe Motorsport Team Germany is a squad containing young up-and-coming German talents in car racing, rallying and motorcycling.\n\nExternal links\nOfficial website"
+  },
+  "references": [
+    {
+      "url": "https://rallye-sulingen.de/wp-content/uploads/MainPages/Archiv/rallye2015/0.2_Ausschreibung_Internet_ENG.pdf",
+      "label": "\"2015 Rally Supplementary Regulations\""
+    },
+    {
+      "url": "https://www.thueringen-rallye.com/app/download/5806436252/2016_ARM_DRM_Ausschreibung_ThuerRallye_EN%2BFinal.pdf",
+      "label": "\"2016 Rallye Supplementary Regulations\""
+    },
+    {
+      "url": "https://lennox-lehmann.com/2022-werden-24-fahrer-aus-zehn-disziplinen-unterstuetzt/",
+      "label": "\"2022 werden 24 Fahrer aus zehn Disziplinen unterstützt\""
+    },
+    {
+      "url": "https://www.dmsb.de/de/news/motorsport-team-germany-praesentiert-foerderkader",
+      "label": "\"Motorsport Team Germany präsentiert Förderkader\""
+    }
+  ],
+  "outgoing_links": [
+    {
+      "title": "Germany",
+      "url": "https://en.wikipedia.org/wiki/Germany"
+    },
+    {
+      "title": "European Union",
+      "url": "https://en.wikipedia.org/wiki/European_Union"
+    },
+    {
+      "title": "ADAC",
+      "url": "https://en.wikipedia.org/wiki/ADAC"
+    },
+    {
+      "title": "Automobilclub von Deutschland",
+      "url": "https://en.wikipedia.org/wiki/Automobilclub_von_Deutschland"
+    },
+    {
+      "title": "Deutsche Tourenwagen Masters",
+      "url": "https://en.wikipedia.org/wiki/Deutsche_Tourenwagen_Masters"
+    },
+    {
+      "title": "Elia Weiss",
+      "url": "https://en.wikipedia.org/wiki/Elia_Weiss"
+    },
+    {
+      "title": "Enduro",
+      "url": "https://en.wikipedia.org/wiki/Enduro"
+    },
+    {
+      "title": "Europe",
+      "url": "https://en.wikipedia.org/wiki/Europe"
+    },
+    {
+      "title": "F3 Euroseries",
+      "url": "https://en.wikipedia.org/wiki/F3_Euroseries"
+    },
+    {
+      "title": "FIA",
+      "url": "https://en.wikipedia.org/wiki/FIA"
+    },
+    {
+      "title": "FIA European Formula Three Championship",
+      "url": "https://en.wikipedia.org/wiki/FIA_European_Formula_Three_Championship"
+    },
+    {
+      "title": "Formula racing",
+      "url": "https://en.wikipedia.org/wiki/Formula_racing"
+    },
+    {
+      "title": "Frankfurt",
+      "url": "https://en.wikipedia.org/wiki/Frankfurt"
+    },
+    {
+      "title": "Fédération Internationale de Motocyclisme",
+      "url": "https://en.wikipedia.org/wiki/F%C3%A9d%C3%A9ration_Internationale_de_Motocyclisme"
+    },
+    {
+      "title": "Fédération Internationale de l'Automobile",
+      "url": "https://en.wikipedia.org/wiki/F%C3%A9d%C3%A9ration_Internationale_de_l%27Automobile"
+    },
+    {
+      "title": "GT racing",
+      "url": "https://en.wikipedia.org/wiki/GT_racing"
+    },
+    {
+      "title": "German Formula Three Championship",
+      "url": "https://en.wikipedia.org/wiki/German_Formula_Three_Championship"
+    },
+    {
+      "title": "German language",
+      "url": "https://en.wikipedia.org/wiki/German_language"
+    },
+    {
+      "title": "Hans-Joachim Stuck",
+      "url": "https://en.wikipedia.org/wiki/Hans-Joachim_Stuck"
+    },
+    {
+      "title": "Herbert Linge",
+      "url": "https://en.wikipedia.org/wiki/Herbert_Linge"
+    },
+    {
+      "title": "Karting",
+      "url": "https://en.wikipedia.org/wiki/Karting"
+    },
+    {
+      "title": "Laurin Heinrich",
+      "url": "https://en.wikipedia.org/wiki/Laurin_Heinrich"
+    },
+    {
+      "title": "Le Mans Prototype",
+      "url": "https://en.wikipedia.org/wiki/Le_Mans_Prototype"
+    },
+    {
+      "title": "Mathilda Paatz",
+      "url": "https://en.wikipedia.org/wiki/Mathilda_Paatz"
+    },
+    {
+      "title": "Max Hesse",
+      "url": "https://en.wikipedia.org/wiki/Max_Hesse"
+    },
+    {
+      "title": "Motocross",
+      "url": "https://en.wikipedia.org/wiki/Motocross"
+    },
+    {
+      "title": "Motor racing",
+      "url": "https://en.wikipedia.org/wiki/Motor_racing"
+    },
+    {
+      "title": "Motorcycle racing",
+      "url": "https://en.wikipedia.org/wiki/Motorcycle_racing"
+    },
+    {
+      "title": "Motorcycle speedway",
+      "url": "https://en.wikipedia.org/wiki/Motorcycle_speedway"
+    },
+    {
+      "title": "Motorcycle trials",
+      "url": "https://en.wikipedia.org/wiki/Motorcycle_trials"
+    },
+    {
+      "title": "Oliver Goethe",
+      "url": "https://en.wikipedia.org/wiki/Oliver_Goethe"
+    },
+    {
+      "title": "Porsche 911",
+      "url": "https://en.wikipedia.org/wiki/Porsche_911"
+    },
+    {
+      "title": "Porsche 914",
+      "url": "https://en.wikipedia.org/wiki/Porsche_914"
+    },
+    {
+      "title": "Rallying",
+      "url": "https://en.wikipedia.org/wiki/Rallying"
+    },
+    {
+      "title": "Theo Oeverhaus",
+      "url": "https://en.wikipedia.org/wiki/Theo_Oeverhaus"
+    },
+    {
+      "title": "Tim Tramnitz",
+      "url": "https://en.wikipedia.org/wiki/Tim_Tramnitz"
+    },
+    {
+      "title": "Tom Kalender",
+      "url": "https://en.wikipedia.org/wiki/Tom_Kalender"
+    },
+    {
+      "title": "Valentino Catalano",
+      "url": "https://en.wikipedia.org/wiki/Valentino_Catalano"
+    },
+    {
+      "title": "Deutsche Motorrad-Straßenmeisterschaft",
+      "url": "https://en.wikipedia.org/wiki/Deutsche_Motorrad-Stra%C3%9Fenmeisterschaft"
+    }
+  ]
+}

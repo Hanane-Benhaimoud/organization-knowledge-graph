@@ -1,0 +1,308 @@
+{
+  "document_id": "wikipedia_en_Q3616482",
+  "wikidata_id": "Q3616482",
+  "entity_label": "Wireless Power Consortium",
+  "entity_type": "organization",
+  "seed_categories": [],
+  "source": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Wireless_Power_Consortium",
+  "revision_id": 1379973114,
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1379973114",
+  "pageid": 24064254,
+  "title": "Wireless Power Consortium",
+  "language": "en",
+  "collected_at": "2026-10-28T22:01:06.300413+00:00",
+  "content": {
+    "sections": [
+      {
+        "heading": "Introduction",
+        "text": "The Wireless Power Consortium ( WPC ) is a multinational technology consortium formed on December 17, 2008, as an open standards development organization. WPC is a virtual corporation with administrative offices in Washington, DC. Its mission is to create and promote global adoption of its interface standards : Qi (pronounced “chee”) for wireless power transfer in small, mobile electronics such as phones and wearable devices like watches, and Ki (pronounced “kee”) for wireless power transfer in kitchen appliances like electric cooktops and kettles. It is an open membership organization comprising Asian, European, and American companies, advocating for and promoting a global standardization of wireless charging technology.\nThe founding of the Wireless Power Consortium can be traced to Fulton Innovation, a 100% subsidiary of Alticor , parent company of Amway . The original motivation was to power a portable water purifier, sold by Amway, called eSpring, for which the wireless power transfer technology called eCoupled was created. On November 26, 2008, Fulton Innovation released \"The Base Spec: Low Power Specification Guide for Partnered Product Development, Revision 0.9\". Buoyed by the acquired intellectual property of a bankrupt University of Cambridge spin-out called Splashpower , and in an attempt to replicate the success story of the 1999 Wi-Fi Alliance , Fulton Innovation and Philips led the establishment of the Wireless Power Consortium (WPC) in December 2008."
+      },
+      {
+        "heading": "Introduction of Wireless Standards",
+        "text": "The motivation behind a global wireless standard stems from electronics manufacturers' desire to enable interoperability across products, specifically between those that transmit power and those that receive it. A standard would provide interoperability, allowing all devices – from power transmitters to receivers – to work together seamlessly.  Furthermore, a standard would remove the need for power cords to charge devices, offering convenience and reducing the clutter from multiple power cords.\nThe WPC has two active interface standards:\nQi is the global standard for wireless power transfer for a wide range of devices and applications, including smartphones and other portable mobile devices, such as watches. The standard regulates the receiving devices (e.g., smartphones) as well as the power-transmitting devices that power and recharge them. The Qi standard is being applied to wearable devices and is being installed throughout the healthcare/medical field and the transportation market, including airplanes and automobiles.\nKi is a new standard designed to provide wireless power to kitchen appliances.  The Ki standard will enable safer, smarter, and more convenient cooking and food preparation in the kitchen while ensuring compatibility and safety for Ki-enabled cooktops and smart appliances. Ki-enabled appliances will operate without power cords or batteries yet will deliver up to 2200W of power. In so doing, appliances are no longer restricted to placement near wall outlets, enabling more space-efficient, sleek, modern-designed kitchens."
+      },
+      {
+        "heading": "2008 – 2011",
+        "text": "The Wireless Power Consortium officially published the Qi interface standard and the low-power specification in August 2010. This first specification limited the power level to 5W. In the first 18 months, there were three separate transmitter types contributed to WPC from Fulton Innovation, Convenient Power, and Sanyo. These devices were released with the first specification, including a version with magnetic attraction, a moving coil, and a third with a coil array. In September 2010, the WPC announced the release of Qi 1.0 and stated it would start work on a wireless power standard for medium power devices, including netbooks, laptops, tablet computers, and power tools. In 2011, the WPC renamed the low-power specification to the Baseline Power Profile to differentiate it from an Extended Power Profile capable of charging at up to 15W that was being developed."
+      },
+      {
+        "heading": "2012 – 2020",
+        "text": "2012 marked the introduction of multiple smartphones capable of Qi wireless charging.  In September 2012, the Nokia Lumia 920 was announced, making it the first widely available phone with built-in Qi wireless charging. Nokia was quickly followed by Samsung with the Galaxy S3 (though this phone required a separate back cover for wireless charging), the LG Google Nexus 4, and the HTC Droid.\nBy 2012, a rivalry had emerged between three competing wireless charging standards:     WPC, the Power Matters Alliance (PMA), and the Alliance for Wireless Power (A4WP). PMA and A4WP both started in 2012, two years after the WPC was founded.  PMA, founded by Proctor & Gamble and Powermat Technologies, offered technology similar to Qi that was adopted by several power transmitting designs.  A4WP was formed by major component suppliers, with Intel joining in 2013.  A4WP offered magnetic resonance 6.78 MHz for multi-device charging.\nQi's specifications were updated in April 2012, with the distance between transmitter and receiver upped to 40mm. In May 2014, the WPC announced that over 500 phones had Qi built in.\nIn 2015, PMA and A4WP merged and rebranded as AirFuel Alliance (AFA). The next iteration of the Qi standard, the Extended Power Profile (EPP), was also introduced in 2015.  EPP delivered 15W of power, setting up a discussion in the industry regarding the path wireless power would pursue to provide a ubiquitous power supply and standard.\nThough WPC had more members than the AFA and WPC’s Qi standard was realizing greater commercial success than the AFA, neither standard body had achieved the level of dominance necessary to achieve the ultimate goal of becoming the single global wireless charging standard.  The WPC-AFA duel for wireless charging standard supremacy continued until 2017, when Apple joined the WPC and announced its intention to incorporate the Qi standard into the iPhone. Apple’s commitment to WPC, followed shortly later by AFA member Powermat joining WPC, unified the industry behind one wireless charging standard and effectively ended the wireless standards war."
+      },
+      {
+        "heading": "2021 – 2025",
+        "text": "In January 2021, v1.3 of the Qi standard was introduced to substantially improve compliance testing of products seeking certification.\nA more significant upgrade to the Qi standard occurred in November 2023 with the launch of Qi v2.0.  This iteration, v2.0, and specifically the Magnetic Power Profile (MPP) version of Qi v2.0, branded as Qi2, brought significant improvement in consumer experience.  Leveraging technology created by Apple in its MagSafe charging capability, Qi2 delivered up to 15W of charging power and provided magnetic attachment between receiver and transmitter for a more energy-efficient connection. This produced a faster, more convenient, and more reliable charging experience.\nIn its first year after launch, more than 1,100 new Qi2 products were certified, which was a 6-fold faster adoption rate when compared with the previous version of Qi.\nIn January 2025, Qi v2.1 was announced, bringing two new extensions to the Qi standard.  For handset manufacturers who wanted to provide a Qi2 user experience but were unable to incorporate magnets built into their handsets, Qi v2.1 enabled the coupling of a handset with an approved case or sleeve to deliver a fully compliant Qi2 user experience.  This version of Qi v2.1 was branded Qi2 Ready.  The second version of Qi v2.1 adopted technology developed by Panasonic Automotive Systems. Qi v2.1, using the Active Alignment Power Profile (APP), utilizes a moving coil to align the charger and receiver for automotive applications. The moving coil continuously tracks and aligns the phone and charger, ensuring a consistent charge despite the shifting of the phone placement resulting from automotive movement.\nIn July 2025, the WPC announced the introduction of Qi v2.2, branded as Qi2 25W.  As the name implies, Qi2 25W delivers up to 25W of charging power, nearly 70% more power than the original Qi v2.0.  Qi2 25W not only provided the convenience of magnetic attachment, but for the first time, some certified wireless chargers rivaled the charging speed of wired charging.\nBy 2025, there were over 13,000 devices that were Qi or Qi2 Certified."
+      },
+      {
+        "heading": "Ki Standard",
+        "text": "In 2013, the WPC began developing Ki (pronounced “kee”) as the Cordless Kitchen standard to power kitchen appliances wirelessly. This standard was designed to deliver up to 2200W of power to virtually any kitchen appliance, without power cords or batteries.\nKi uses standard induction cooking technology but adds an NFC-powered communication channel between the transmitter (i.e., cooktop) and receiver (i.e., a kitchen appliance such as a kettle). Once an appliance is placed on the transmitter, the devices (transmitter and receiver) communicate with each other, and the transmitter is activated to send power to the appliance. The transmitter will only send power to a certified Ki-enabled appliance.  Any other type of appliance, not Ki-enabled or other objects such as a kitchen utensil, will be ignored by the transmitter.\nTransmitters can be embedded in a standard induction cooktop, enabling dual functionality of induction cooking and Ki, or built into a standalone induction unit.  Transmitters can also be concealed by attaching them to the underside of a kitchen countertop or island.  A concealed transmitter can work through any type of countertop material as long as there is no metal in the countertop.  In each type of transmitter format, the appliance is powered up once placed on the transmitter and turned on and will immediately shut off when moved off the transmitter.  Once the appliance is removed from the cooking surface, the surface will be cool to the touch.\nThe Ki v1.0 specification was approved by the WPC Board of Directors in 2025, and initial products began going through certification testing in the summer of 2025.  Ki v1.0 includes transmitters built into cooktops and standalone induction cooking units. Concealed transmitters will be added in Ki v2.0 at a later date."
+      },
+      {
+        "heading": "Members of the Wireless Power Consortium",
+        "text": "The Wireless Power Consortium was established on 17 December 2008 with eight founding members: Fulton Innovation,  ConvenientPower, Logitech , Philips , Sanyo , Shenzhen Sang Fei Communications, National Semiconductor , and Texas Instruments .  Olympus joined the next month to become the 9th original member.\nThe WPC experienced early growth in 2009, and the membership expanded with the addition of mobile phone heavyweight, Nokia. By November 2011, WPC membership  grew to 100 members with the addition of Huawei and Visteon as new members in November 2011.\nMembership continued to expand from 2011 through the remainder of the decade, peaking at over 600 members in 2018 following Apple’s joining WPC.\nAs of 2025, the WPC had over 300 companies as its members, with 9 of those companies represented on its board of directors ."
+      },
+      {
+        "heading": "Board of Directors member companies",
+        "text": "Apple BH EVS ConvenientPower Google Huawei Technologies Koninklijke Philips N.V. nok9 NuVolta Technologies Samsung"
+      },
+      {
+        "heading": "Membership",
+        "text": "Membership in the Wireless Power Consortium is open to any entity, with two different levels of membership - Regular and Adopter members - and corresponding fees and benefits. Both levels of membership have their representatives listed in the organization's directory , may list certified products in WPC's Certified Product Database, and are licensed to use WPC logos and trademarks for certified products. Regular members can also serve on and lead specification work groups for the ecosystems they belong to, have access to specification working drafts, have voting rights, participate in plugfests, and participate in WPC global quarterly meetings.  More information on membership and fees can be found on the WPC’s website."
+      },
+      {
+        "heading": "See also",
+        "text": "Open Dots Alliance WiPower Alliance for Wireless Power (A4WP) Power Matters Alliance (PMA)"
+      },
+      {
+        "heading": "External links",
+        "text": "Official website"
+      }
+    ],
+    "full_text": "Introduction\nThe Wireless Power Consortium ( WPC ) is a multinational technology consortium formed on December 17, 2008, as an open standards development organization. WPC is a virtual corporation with administrative offices in Washington, DC. Its mission is to create and promote global adoption of its interface standards : Qi (pronounced “chee”) for wireless power transfer in small, mobile electronics such as phones and wearable devices like watches, and Ki (pronounced “kee”) for wireless power transfer in kitchen appliances like electric cooktops and kettles. It is an open membership organization comprising Asian, European, and American companies, advocating for and promoting a global standardization of wireless charging technology.\nThe founding of the Wireless Power Consortium can be traced to Fulton Innovation, a 100% subsidiary of Alticor , parent company of Amway . The original motivation was to power a portable water purifier, sold by Amway, called eSpring, for which the wireless power transfer technology called eCoupled was created. On November 26, 2008, Fulton Innovation released \"The Base Spec: Low Power Specification Guide for Partnered Product Development, Revision 0.9\". Buoyed by the acquired intellectual property of a bankrupt University of Cambridge spin-out called Splashpower , and in an attempt to replicate the success story of the 1999 Wi-Fi Alliance , Fulton Innovation and Philips led the establishment of the Wireless Power Consortium (WPC) in December 2008.\n\nIntroduction of Wireless Standards\nThe motivation behind a global wireless standard stems from electronics manufacturers' desire to enable interoperability across products, specifically between those that transmit power and those that receive it. A standard would provide interoperability, allowing all devices – from power transmitters to receivers – to work together seamlessly.  Furthermore, a standard would remove the need for power cords to charge devices, offering convenience and reducing the clutter from multiple power cords.\nThe WPC has two active interface standards:\nQi is the global standard for wireless power transfer for a wide range of devices and applications, including smartphones and other portable mobile devices, such as watches. The standard regulates the receiving devices (e.g., smartphones) as well as the power-transmitting devices that power and recharge them. The Qi standard is being applied to wearable devices and is being installed throughout the healthcare/medical field and the transportation market, including airplanes and automobiles.\nKi is a new standard designed to provide wireless power to kitchen appliances.  The Ki standard will enable safer, smarter, and more convenient cooking and food preparation in the kitchen while ensuring compatibility and safety for Ki-enabled cooktops and smart appliances. Ki-enabled appliances will operate without power cords or batteries yet will deliver up to 2200W of power. In so doing, appliances are no longer restricted to placement near wall outlets, enabling more space-efficient, sleek, modern-designed kitchens.\n\n2008 – 2011\nThe Wireless Power Consortium officially published the Qi interface standard and the low-power specification in August 2010. This first specification limited the power level to 5W. In the first 18 months, there were three separate transmitter types contributed to WPC from Fulton Innovation, Convenient Power, and Sanyo. These devices were released with the first specification, including a version with magnetic attraction, a moving coil, and a third with a coil array. In September 2010, the WPC announced the release of Qi 1.0 and stated it would start work on a wireless power standard for medium power devices, including netbooks, laptops, tablet computers, and power tools. In 2011, the WPC renamed the low-power specification to the Baseline Power Profile to differentiate it from an Extended Power Profile capable of charging at up to 15W that was being developed.\n\n2012 – 2020\n2012 marked the introduction of multiple smartphones capable of Qi wireless charging.  In September 2012, the Nokia Lumia 920 was announced, making it the first widely available phone with built-in Qi wireless charging. Nokia was quickly followed by Samsung with the Galaxy S3 (though this phone required a separate back cover for wireless charging), the LG Google Nexus 4, and the HTC Droid.\nBy 2012, a rivalry had emerged between three competing wireless charging standards:     WPC, the Power Matters Alliance (PMA), and the Alliance for Wireless Power (A4WP). PMA and A4WP both started in 2012, two years after the WPC was founded.  PMA, founded by Proctor & Gamble and Powermat Technologies, offered technology similar to Qi that was adopted by several power transmitting designs.  A4WP was formed by major component suppliers, with Intel joining in 2013.  A4WP offered magnetic resonance 6.78 MHz for multi-device charging.\nQi's specifications were updated in April 2012, with the distance between transmitter and receiver upped to 40mm. In May 2014, the WPC announced that over 500 phones had Qi built in.\nIn 2015, PMA and A4WP merged and rebranded as AirFuel Alliance (AFA). The next iteration of the Qi standard, the Extended Power Profile (EPP), was also introduced in 2015.  EPP delivered 15W of power, setting up a discussion in the industry regarding the path wireless power would pursue to provide a ubiquitous power supply and standard.\nThough WPC had more members than the AFA and WPC’s Qi standard was realizing greater commercial success than the AFA, neither standard body had achieved the level of dominance necessary to achieve the ultimate goal of becoming the single global wireless charging standard.  The WPC-AFA duel for wireless charging standard supremacy continued until 2017, when Apple joined the WPC and announced its intention to incorporate the Qi standard into the iPhone. Apple’s commitment to WPC, followed shortly later by AFA member Powermat joining WPC, unified the industry behind one wireless charging standard and effectively ended the wireless standards war.\n\n2021 – 2025\nIn January 2021, v1.3 of the Qi standard was introduced to substantially improve compliance testing of products seeking certification.\nA more significant upgrade to the Qi standard occurred in November 2023 with the launch of Qi v2.0.  This iteration, v2.0, and specifically the Magnetic Power Profile (MPP) version of Qi v2.0, branded as Qi2, brought significant improvement in consumer experience.  Leveraging technology created by Apple in its MagSafe charging capability, Qi2 delivered up to 15W of charging power and provided magnetic attachment between receiver and transmitter for a more energy-efficient connection. This produced a faster, more convenient, and more reliable charging experience.\nIn its first year after launch, more than 1,100 new Qi2 products were certified, which was a 6-fold faster adoption rate when compared with the previous version of Qi.\nIn January 2025, Qi v2.1 was announced, bringing two new extensions to the Qi standard.  For handset manufacturers who wanted to provide a Qi2 user experience but were unable to incorporate magnets built into their handsets, Qi v2.1 enabled the coupling of a handset with an approved case or sleeve to deliver a fully compliant Qi2 user experience.  This version of Qi v2.1 was branded Qi2 Ready.  The second version of Qi v2.1 adopted technology developed by Panasonic Automotive Systems. Qi v2.1, using the Active Alignment Power Profile (APP), utilizes a moving coil to align the charger and receiver for automotive applications. The moving coil continuously tracks and aligns the phone and charger, ensuring a consistent charge despite the shifting of the phone placement resulting from automotive movement.\nIn July 2025, the WPC announced the introduction of Qi v2.2, branded as Qi2 25W.  As the name implies, Qi2 25W delivers up to 25W of charging power, nearly 70% more power than the original Qi v2.0.  Qi2 25W not only provided the convenience of magnetic attachment, but for the first time, some certified wireless chargers rivaled the charging speed of wired charging.\nBy 2025, there were over 13,000 devices that were Qi or Qi2 Certified.\n\nKi Standard\nIn 2013, the WPC began developing Ki (pronounced “kee”) as the Cordless Kitchen standard to power kitchen appliances wirelessly. This standard was designed to deliver up to 2200W of power to virtually any kitchen appliance, without power cords or batteries.\nKi uses standard induction cooking technology but adds an NFC-powered communication channel between the transmitter (i.e., cooktop) and receiver (i.e., a kitchen appliance such as a kettle). Once an appliance is placed on the transmitter, the devices (transmitter and receiver) communicate with each other, and the transmitter is activated to send power to the appliance. The transmitter will only send power to a certified Ki-enabled appliance.  Any other type of appliance, not Ki-enabled or other objects such as a kitchen utensil, will be ignored by the transmitter.\nTransmitters can be embedded in a standard induction cooktop, enabling dual functionality of induction cooking and Ki, or built into a standalone induction unit.  Transmitters can also be concealed by attaching them to the underside of a kitchen countertop or island.  A concealed transmitter can work through any type of countertop material as long as there is no metal in the countertop.  In each type of transmitter format, the appliance is powered up once placed on the transmitter and turned on and will immediately shut off when moved off the transmitter.  Once the appliance is removed from the cooking surface, the surface will be cool to the touch.\nThe Ki v1.0 specification was approved by the WPC Board of Directors in 2025, and initial products began going through certification testing in the summer of 2025.  Ki v1.0 includes transmitters built into cooktops and standalone induction cooking units. Concealed transmitters will be added in Ki v2.0 at a later date.\n\nMembers of the Wireless Power Consortium\nThe Wireless Power Consortium was established on 17 December 2008 with eight founding members: Fulton Innovation,  ConvenientPower, Logitech , Philips , Sanyo , Shenzhen Sang Fei Communications, National Semiconductor , and Texas Instruments .  Olympus joined the next month to become the 9th original member.\nThe WPC experienced early growth in 2009, and the membership expanded with the addition of mobile phone heavyweight, Nokia. By November 2011, WPC membership  grew to 100 members with the addition of Huawei and Visteon as new members in November 2011.\nMembership continued to expand from 2011 through the remainder of the decade, peaking at over 600 members in 2018 following Apple’s joining WPC.\nAs of 2025, the WPC had over 300 companies as its members, with 9 of those companies represented on its board of directors .\n\nBoard of Directors member companies\nApple BH EVS ConvenientPower Google Huawei Technologies Koninklijke Philips N.V. nok9 NuVolta Technologies Samsung\n\nMembership\nMembership in the Wireless Power Consortium is open to any entity, with two different levels of membership - Regular and Adopter members - and corresponding fees and benefits. Both levels of membership have their representatives listed in the organization's directory , may list certified products in WPC's Certified Product Database, and are licensed to use WPC logos and trademarks for certified products. Regular members can also serve on and lead specification work groups for the ecosystems they belong to, have access to specification working drafts, have voting rights, participate in plugfests, and participate in WPC global quarterly meetings.  More information on membership and fees can be found on the WPC’s website.\n\nSee also\nOpen Dots Alliance WiPower Alliance for Wireless Power (A4WP) Power Matters Alliance (PMA)\n\nExternal links\nOfficial website"
+  },
+  "references": [
+    {
+      "url": "https://www.qinside.biz/en/support/wireless-power-consortium",
+      "label": "\"Wireless Power Consortium - Infos QInside\""
+    },
+    {
+      "url": "https://www.qinside.biz/en/support/what-is-wireless-charging",
+      "label": "\"What is Wireless Charging?\""
+    },
+    {
+      "url": "https://www.wirelesspowerconsortium.com/media/swbi2x4r/wpc_ces_2026-_news_-release-v6-12-22-2026.pdf",
+      "label": "\"Wireless Consortium\""
+    },
+    {
+      "url": "https://isto.org/member_programs/wireless-power-consortium/",
+      "label": "\"Wireless Power Consortium\""
+    },
+    {
+      "url": "https://www.mlive.com/business/west-michigan/2012/10/amways_parent_company_to_get_o.html",
+      "label": "\"Amway's parent company getting out of wireless technology business\""
+    },
+    {
+      "url": "https://www.yankodesign.com/2024/09/05/wpc-unveils-ki-standard-a-new-era-for-cordless-kitchens/",
+      "label": "\"WPC Unveils Ki Standard: A New Era for Cordless Kitchens - Yanko Design\""
+    },
+    {
+      "url": "https://web.archive.org/web/20250725003721/https://www.lifewire.com/what-is-ki-wireless-power-11773441",
+      "label": "\"Real Talk: Ki Powers Your Blender Without a Cord\""
+    },
+    {
+      "url": "https://www.lifewire.com/what-is-ki-wireless-power-11773441",
+      "label": "the original"
+    },
+    {
+      "url": "https://www.phonearena.com/news/Upcoming-Qi-enabled-chargers-will-do-their-mojo-from-greater-distances_id58865",
+      "label": "\"Upcoming Qi-enabled chargers will do their mojo from greater distances\""
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/chargedge-reboots-wireless-power-transfer-300897002.html",
+      "label": "\"ChargEdge Reboots Wireless Power Transfer\""
+    },
+    {
+      "url": "https://www.wirelesspowerconsortium.com/media/retjulhv/wpc-increases-power-improves-user-experience-with-new-qi-wireless-power-standard-specification.pdf",
+      "label": "\"Wireless Power Consortium\""
+    },
+    {
+      "url": "https://www.chargespot.com/news/apple-joins-the-wireless-power-movement/",
+      "label": "\"Apple OFFICIALLY Joins the Wireless Power Movement\""
+    },
+    {
+      "url": "https://www.wirelesspowerconsortium.com/media/1cahznrc/wpc_ces_2025-_news_-release-final-01-06-2025.pdf",
+      "label": "\"Wireless Power Consortium\""
+    },
+    {
+      "url": "https://www.wirelesspowerconsortium.com/about-us/",
+      "label": "\"Our Mission\""
+    },
+    {
+      "url": "https://www.wirelesspowerconsortium.com/media/dmlfrgs2/kitchen-white-paper-081823.pdf",
+      "label": "\"Cordless Kitchen Appliances\""
+    },
+    {
+      "url": "https://www.scoop.co.nz/stories/BU1905/S00791/technology-business-innovator-fady-mishriki-to-be-celebrated.htm",
+      "label": "\"Technology business innovator Fady Mishriki to be celebrated | Scoop News\""
+    },
+    {
+      "url": "https://www.edn.com/whats-the-big-deal-about-resonant/",
+      "label": "\"What's the big deal about Resonant?\""
+    }
+  ],
+  "outgoing_links": [
+    {
+      "title": "Qi (standard)",
+      "url": "https://en.wikipedia.org/wiki/Qi_%28standard%29"
+    },
+    {
+      "title": "Alliance for Wireless Power",
+      "url": "https://en.wikipedia.org/wiki/Alliance_for_Wireless_Power"
+    },
+    {
+      "title": "Alticor",
+      "url": "https://en.wikipedia.org/wiki/Alticor"
+    },
+    {
+      "title": "Amway",
+      "url": "https://en.wikipedia.org/wiki/Amway"
+    },
+    {
+      "title": "Apple Inc.",
+      "url": "https://en.wikipedia.org/wiki/Apple_Inc."
+    },
+    {
+      "title": "Board of directors",
+      "url": "https://en.wikipedia.org/wiki/Board_of_directors"
+    },
+    {
+      "title": "Business directory",
+      "url": "https://en.wikipedia.org/wiki/Business_directory"
+    },
+    {
+      "title": "CFO",
+      "url": "https://en.wikipedia.org/wiki/CFO"
+    },
+    {
+      "title": "Chairman",
+      "url": "https://en.wikipedia.org/wiki/Chairman"
+    },
+    {
+      "title": "Communication channel",
+      "url": "https://en.wikipedia.org/wiki/Communication_channel"
+    },
+    {
+      "title": "Consortium",
+      "url": "https://en.wikipedia.org/wiki/Consortium"
+    },
+    {
+      "title": "ECoupled",
+      "url": "https://en.wikipedia.org/wiki/ECoupled"
+    },
+    {
+      "title": "Executive Director",
+      "url": "https://en.wikipedia.org/wiki/Executive_Director"
+    },
+    {
+      "title": "Google",
+      "url": "https://en.wikipedia.org/wiki/Google"
+    },
+    {
+      "title": "Google Nexus",
+      "url": "https://en.wikipedia.org/wiki/Google_Nexus"
+    },
+    {
+      "title": "HTC",
+      "url": "https://en.wikipedia.org/wiki/HTC"
+    },
+    {
+      "title": "Huawei",
+      "url": "https://en.wikipedia.org/wiki/Huawei"
+    },
+    {
+      "title": "Huawei Technologies",
+      "url": "https://en.wikipedia.org/wiki/Huawei_Technologies"
+    },
+    {
+      "title": "Interface standard",
+      "url": "https://en.wikipedia.org/wiki/Interface_standard"
+    },
+    {
+      "title": "Koninklijke Philips N.V.",
+      "url": "https://en.wikipedia.org/wiki/Koninklijke_Philips_N.V."
+    },
+    {
+      "title": "Logitech",
+      "url": "https://en.wikipedia.org/wiki/Logitech"
+    },
+    {
+      "title": "Low-power electronics",
+      "url": "https://en.wikipedia.org/wiki/Low-power_electronics"
+    },
+    {
+      "title": "Multinational corporation",
+      "url": "https://en.wikipedia.org/wiki/Multinational_corporation"
+    },
+    {
+      "title": "National Semiconductor",
+      "url": "https://en.wikipedia.org/wiki/National_Semiconductor"
+    },
+    {
+      "title": "Nokia Lumia 920",
+      "url": "https://en.wikipedia.org/wiki/Nokia_Lumia_920"
+    },
+    {
+      "title": "Open Dots Alliance",
+      "url": "https://en.wikipedia.org/wiki/Open_Dots_Alliance"
+    },
+    {
+      "title": "Philips",
+      "url": "https://en.wikipedia.org/wiki/Philips"
+    },
+    {
+      "title": "Power Matters Alliance",
+      "url": "https://en.wikipedia.org/wiki/Power_Matters_Alliance"
+    },
+    {
+      "title": "Samsung",
+      "url": "https://en.wikipedia.org/wiki/Samsung"
+    },
+    {
+      "title": "Sanyo",
+      "url": "https://en.wikipedia.org/wiki/Sanyo"
+    },
+    {
+      "title": "Splashpower",
+      "url": "https://en.wikipedia.org/wiki/Splashpower"
+    },
+    {
+      "title": "Technology",
+      "url": "https://en.wikipedia.org/wiki/Technology"
+    },
+    {
+      "title": "Texas Instruments",
+      "url": "https://en.wikipedia.org/wiki/Texas_Instruments"
+    },
+    {
+      "title": "University of Cambridge",
+      "url": "https://en.wikipedia.org/wiki/University_of_Cambridge"
+    },
+    {
+      "title": "Visteon",
+      "url": "https://en.wikipedia.org/wiki/Visteon"
+    },
+    {
+      "title": "Washington, DC",
+      "url": "https://en.wikipedia.org/wiki/Washington%2C_DC"
+    },
+    {
+      "title": "Wi-Fi Alliance",
+      "url": "https://en.wikipedia.org/wiki/Wi-Fi_Alliance"
+    },
+    {
+      "title": "WiPower",
+      "url": "https://en.wikipedia.org/wiki/WiPower"
+    },
+    {
+      "title": "Ki (standard)",
+      "url": "https://en.wikipedia.org/wiki/Ki_%28standard%29"
+    },
+    {
+      "title": "BH EVS",
+      "url": "https://en.wikipedia.org/wiki/BH_EVS"
+    },
+    {
+      "title": "ConvenientPower",
+      "url": "https://en.wikipedia.org/wiki/ConvenientPower"
+    },
+    {
+      "title": "Nok9",
+      "url": "https://en.wikipedia.org/wiki/Nok9"
+    },
+    {
+      "title": "NuVolta Technologies",
+      "url": "https://en.wikipedia.org/wiki/NuVolta_Technologies"
+    }
+  ]
+}

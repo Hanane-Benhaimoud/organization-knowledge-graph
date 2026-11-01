@@ -1,0 +1,1164 @@
+{
+  "document_id": "wikipedia_en_Q92854",
+  "wikidata_id": "Q92854",
+  "entity_label": "John L. Hennessy",
+  "entity_type": "person",
+  "seed_categories": [],
+  "source": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/John_L._Hennessy",
+  "revision_id": 1377757187,
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1377757187",
+  "pageid": 437550,
+  "title": "John L. Hennessy",
+  "language": "en",
+  "collected_at": "2026-10-28T22:06:23.691324+00:00",
+  "content": {
+    "sections": [
+      {
+        "heading": "Introduction",
+        "text": "John Leroy Hennessy (born September 22, 1952) is an American computer scientist and businessman who has served as the chairman of Alphabet Inc. since 2018. One of the founders of MIPS Technologies and Atheros , he was the 10th president of Stanford University from 2000 to 2016.\nAlong with David Patterson , Hennessy was a recipient of the 2017 Turing Award for their work in developing the reduced instruction set computer (RISC) architecture, which is now used in 99% of new computer chips. Marc Andreessen has called him \"the godfather of Silicon Valley .\""
+      },
+      {
+        "heading": "Early life and education",
+        "text": "Hennessy was raised in Huntington, New York , as one of six children. His father was an aerospace engineer, and his mother was a teacher before raising her children. He is of Irish-Catholic descent, with some of his ancestors arriving in America during the potato famine in the 19th century.\nHe earned his bachelor's degree in electrical engineering from Villanova University , and his master's degree and Doctor of Philosophy in computer science from Stony Brook University ."
+      },
+      {
+        "heading": "Career and research",
+        "text": "Hennessy became a Stanford faculty member in 1977. In 1981, he began the MIPS project to investigate RISC processors , following preliminary investigations at Berkeley by David A. Patterson . On 1984, he used his sabbatical year to found MIPS Computer Systems Inc. to commercialize the technology developed by his research. Returning to Stanford, he became the Willard and Inez Kerr Bell Endowed Professor of Electrical Engineering and Computer Science in 1987. In 1988, Hennessy and Patterson began a three-year effort to write the first edition Computer Architecture: A Quantitative Approach , which described RISC instruction sets and cost-performance tradeoffs.\nAs a full Stanford professor, Hennessy took administrative roles of growing breadth. He was director of Stanford's Computer System Laboratory (1989–93), a research center run by Stanford's Electrical Engineering and Computer Science departments. He was chair of the Department of Computer Science (1994–96) and Dean of the School of Engineering (1996–99). In 1999, Stanford President Gerhard Casper appointed Hennessy to succeed Condoleezza Rice as Provost of Stanford University. When Casper stepped down to focus on teaching in 2000, the Stanford Board of Trustees named Hennessy to succeed Casper as president. In 2008, Hennessy's compensation exceeded $1 million, the 23rd highest among all American university presidents.\nHennessy has been a board member of Google (later Alphabet Inc. ), Cisco Systems , Atheros Communications , and the Gordon and Betty Moore Foundation . He was elected to the American Philosophical Society in 2008.\nOn October 14, 2010, Hennessy was presented a khata by the 14th Dalai Lama before the latter addressed Maples Pavilion .\nIn December 2010, Hennessy coauthored an editorial with Harvard University President Drew Gilpin Faust urging the passage of the DREAM Act ; the legislation did not pass the 111th United States Congress .\nIn 2013, Hennessy became a judge for the inaugural Queen Elizabeth Prize for Engineering . He has remained on the judging panel for the subsequent awards in 2015 and 2017.\nIn June 2015, Hennessy announced that he would step down as Stanford president in summer 2016. He was succeeded as president by Marc Tessier-Lavigne .\nIn 2016, Hennessy co-founded the Knight-Hennessy Scholars program; he serves as its inaugural director. The program has a $750 million endowment to fully fund graduate students at Stanford for up to three years. The inaugural class of 51 scholars from 21 countries arrived at Stanford in the fall of 2018.\nIn February 2018, Hennessy was announced as the new Chairman of Alphabet Inc. , Google 's parent company. That same year, his book Leading Matters: Lessons from My Journey was published by Stanford University Press.\nHennessy has a history of strong interest and involvement in college-level computer education. He co-authored, with David Patterson , two well-known books on computer architecture , Computer Organization and Design: the Hardware/Software Interface and Computer Architecture: A Quantitative Approach , which introduced the DLX RISC architecture. They have been widely used as textbooks for graduate and undergraduate courses since 1990.\nHennessy also contributed to updating Donald Knuth 's MIX processor to the MMIX . Both are model computers used in Knuth's classic series, The Art of Computer Programming . MMIX is Knuth's DLX equivalent."
+      },
+      {
+        "heading": "Awards and honors",
+        "text": "Elected to the National Academy of Engineering : 1992 For innovations in computer architecture and software techniques for reduced instruction set computers (RISC), and for quantitative evaluation methods for modern computer architectures. IEEE Emanuel R. Piore Award – 1994 \"For contributions to quantitative evaluation of computer architectures and the successful implementation of Reduced Instruction-Set Computer (RISC) architecture.\" Fellow of the Association for Computing Machinery (ACM) 1997 Golden Plate Award of the American Academy of Achievement – 2001 Association for Computing Machinery SIGARCH ISCA Influential Paper Award – 2004 1989 co-authored paper on high performing cache hierarchies Fellow of the Computer History Museum – 2007 \"for fundamental contributions to engineering education, advances in computer architecture, and the integration of leading-edge research with education\"\nIEEE Medal of Honor – 2012 \"for pioneering the RISC processor architecture and for leadership in computer engineering and higher education\" Honorary Degree in Mathematics, University of Waterloo 2012 \"for profound contributions to modern computer architecture and to post-secondary education\" Fellow of the Royal Academy of Engineering , (FREng) UK – 2017 Turing Award – 2017 \"for pioneering a systematic, quantitative approach to the design and evaluation of computer architectures with enduring impact on the microprocessor industry\" BBVA Foundation Frontiers of Knowledge Award 2020 in Information and Communication Technologies. In 2020, he received from the UC Berkeley Academic Senate the Clark Kerr Award for distinguished leadership in higher education. In 2022, he was awarded the Charles Stark Draper Prize by the National Academy of Engineering alongside Steve Furber , David Patterson and Sophie Wilson for contributions to the invention, development, and implementation of reduced instruction set computer (RISC) chips. In 2023, he was awarded an honorary doctorate of science by the University of Hong Kong ."
+      },
+      {
+        "heading": "Selected publications",
+        "text": "Computer Architecture: A Quantitative Approach Patterson, David A.; Hennessy, John L. (1994). Computer Organization and Design: The Hardware/Software Interface . Morgan Kaufmann. ISBN 978-0-12-370606-5 . Gharachorloo, Kourosh; D. Lenoski; J. Laudon; P. Gibbons; A. Gupta; J. Hennessy (1990). \"Memory consistency and event ordering in scalable shared-memory multiprocessors\". Proceedings of the 17th annual international symposium on Computer Architecture . International Symposium on Computer Architecture. pp. 15– 26. Lenoski, Daniel; J. Laudon; K. Gharachorloo; A. Gupta; J. Hennessy (1990). \"The directory-based cache coherence protocol for the DASH multiprocessor\". Proceedings of the 17th annual international symposium on Computer Architecture . International Symposium on Computer Architecture. pp. 148– 159."
+      },
+      {
+        "heading": "Personal life",
+        "text": "Hennessy is married to Andrea Berti, whom he met in high school."
+      }
+    ],
+    "full_text": "Introduction\nJohn Leroy Hennessy (born September 22, 1952) is an American computer scientist and businessman who has served as the chairman of Alphabet Inc. since 2018. One of the founders of MIPS Technologies and Atheros , he was the 10th president of Stanford University from 2000 to 2016.\nAlong with David Patterson , Hennessy was a recipient of the 2017 Turing Award for their work in developing the reduced instruction set computer (RISC) architecture, which is now used in 99% of new computer chips. Marc Andreessen has called him \"the godfather of Silicon Valley .\"\n\nEarly life and education\nHennessy was raised in Huntington, New York , as one of six children. His father was an aerospace engineer, and his mother was a teacher before raising her children. He is of Irish-Catholic descent, with some of his ancestors arriving in America during the potato famine in the 19th century.\nHe earned his bachelor's degree in electrical engineering from Villanova University , and his master's degree and Doctor of Philosophy in computer science from Stony Brook University .\n\nCareer and research\nHennessy became a Stanford faculty member in 1977. In 1981, he began the MIPS project to investigate RISC processors , following preliminary investigations at Berkeley by David A. Patterson . On 1984, he used his sabbatical year to found MIPS Computer Systems Inc. to commercialize the technology developed by his research. Returning to Stanford, he became the Willard and Inez Kerr Bell Endowed Professor of Electrical Engineering and Computer Science in 1987. In 1988, Hennessy and Patterson began a three-year effort to write the first edition Computer Architecture: A Quantitative Approach , which described RISC instruction sets and cost-performance tradeoffs.\nAs a full Stanford professor, Hennessy took administrative roles of growing breadth. He was director of Stanford's Computer System Laboratory (1989–93), a research center run by Stanford's Electrical Engineering and Computer Science departments. He was chair of the Department of Computer Science (1994–96) and Dean of the School of Engineering (1996–99). In 1999, Stanford President Gerhard Casper appointed Hennessy to succeed Condoleezza Rice as Provost of Stanford University. When Casper stepped down to focus on teaching in 2000, the Stanford Board of Trustees named Hennessy to succeed Casper as president. In 2008, Hennessy's compensation exceeded $1 million, the 23rd highest among all American university presidents.\nHennessy has been a board member of Google (later Alphabet Inc. ), Cisco Systems , Atheros Communications , and the Gordon and Betty Moore Foundation . He was elected to the American Philosophical Society in 2008.\nOn October 14, 2010, Hennessy was presented a khata by the 14th Dalai Lama before the latter addressed Maples Pavilion .\nIn December 2010, Hennessy coauthored an editorial with Harvard University President Drew Gilpin Faust urging the passage of the DREAM Act ; the legislation did not pass the 111th United States Congress .\nIn 2013, Hennessy became a judge for the inaugural Queen Elizabeth Prize for Engineering . He has remained on the judging panel for the subsequent awards in 2015 and 2017.\nIn June 2015, Hennessy announced that he would step down as Stanford president in summer 2016. He was succeeded as president by Marc Tessier-Lavigne .\nIn 2016, Hennessy co-founded the Knight-Hennessy Scholars program; he serves as its inaugural director. The program has a $750 million endowment to fully fund graduate students at Stanford for up to three years. The inaugural class of 51 scholars from 21 countries arrived at Stanford in the fall of 2018.\nIn February 2018, Hennessy was announced as the new Chairman of Alphabet Inc. , Google 's parent company. That same year, his book Leading Matters: Lessons from My Journey was published by Stanford University Press.\nHennessy has a history of strong interest and involvement in college-level computer education. He co-authored, with David Patterson , two well-known books on computer architecture , Computer Organization and Design: the Hardware/Software Interface and Computer Architecture: A Quantitative Approach , which introduced the DLX RISC architecture. They have been widely used as textbooks for graduate and undergraduate courses since 1990.\nHennessy also contributed to updating Donald Knuth 's MIX processor to the MMIX . Both are model computers used in Knuth's classic series, The Art of Computer Programming . MMIX is Knuth's DLX equivalent.\n\nAwards and honors\nElected to the National Academy of Engineering : 1992 For innovations in computer architecture and software techniques for reduced instruction set computers (RISC), and for quantitative evaluation methods for modern computer architectures. IEEE Emanuel R. Piore Award – 1994 \"For contributions to quantitative evaluation of computer architectures and the successful implementation of Reduced Instruction-Set Computer (RISC) architecture.\" Fellow of the Association for Computing Machinery (ACM) 1997 Golden Plate Award of the American Academy of Achievement – 2001 Association for Computing Machinery SIGARCH ISCA Influential Paper Award – 2004 1989 co-authored paper on high performing cache hierarchies Fellow of the Computer History Museum – 2007 \"for fundamental contributions to engineering education, advances in computer architecture, and the integration of leading-edge research with education\"\nIEEE Medal of Honor – 2012 \"for pioneering the RISC processor architecture and for leadership in computer engineering and higher education\" Honorary Degree in Mathematics, University of Waterloo 2012 \"for profound contributions to modern computer architecture and to post-secondary education\" Fellow of the Royal Academy of Engineering , (FREng) UK – 2017 Turing Award – 2017 \"for pioneering a systematic, quantitative approach to the design and evaluation of computer architectures with enduring impact on the microprocessor industry\" BBVA Foundation Frontiers of Knowledge Award 2020 in Information and Communication Technologies. In 2020, he received from the UC Berkeley Academic Senate the Clark Kerr Award for distinguished leadership in higher education. In 2022, he was awarded the Charles Stark Draper Prize by the National Academy of Engineering alongside Steve Furber , David Patterson and Sophie Wilson for contributions to the invention, development, and implementation of reduced instruction set computer (RISC) chips. In 2023, he was awarded an honorary doctorate of science by the University of Hong Kong .\n\nSelected publications\nComputer Architecture: A Quantitative Approach Patterson, David A.; Hennessy, John L. (1994). Computer Organization and Design: The Hardware/Software Interface . Morgan Kaufmann. ISBN 978-0-12-370606-5 . Gharachorloo, Kourosh; D. Lenoski; J. Laudon; P. Gibbons; A. Gupta; J. Hennessy (1990). \"Memory consistency and event ordering in scalable shared-memory multiprocessors\". Proceedings of the 17th annual international symposium on Computer Architecture . International Symposium on Computer Architecture. pp. 15– 26. Lenoski, Daniel; J. Laudon; K. Gharachorloo; A. Gupta; J. Hennessy (1990). \"The directory-based cache coherence protocol for the DASH multiprocessor\". Proceedings of the 17th annual international symposium on Computer Architecture . International Symposium on Computer Architecture. pp. 148– 159.\n\nPersonal life\nHennessy is married to Andrea Berti, whom he met in high school."
+  },
+  "references": [
+    {
+      "url": "https://news.stanford.edu/2000/04/05/provost-john-l-hennessy-named-stanfords-10th-president/",
+      "label": "\"Provost John L. Hennessy named Stanford's 10th president\""
+    },
+    {
+      "url": "https://news.stanford.edu/2016/06/21/stanford-president-elect-marc-tessier-lavigne-preparing-take-office-sept-1/",
+      "label": "\"Stanford President-elect Marc Tessier-Lavigne is preparing to take office Sept. 1\""
+    },
+    {
+      "url": "https://www.nasonline.org/directory-entry/john-l-hennessy-jc9fj4/",
+      "label": "\"John L. Hennessy, Stanford University\""
+    },
+    {
+      "url": "https://awards.acm.org/award_winners/hennessy_1426931",
+      "label": "\"John Hennessy\""
+    },
+    {
+      "url": "https://mathgenealogy.org/id.php?id=40909",
+      "label": "John L. Hennessy"
+    },
+    {
+      "url": "https://search.worldcat.org/oclc/757240716",
+      "label": "757240716"
+    },
+    {
+      "url": "https://www.proquest.com/docview/303229537",
+      "label": "303229537"
+    },
+    {
+      "url": "https://www.cnbc.com/2018/02/01/john-hennessy-replacing-schmidt-as-alphabets-new-board-chairman.html",
+      "label": "\"John Hennessy named as Alphabet's new board chairman\""
+    },
+    {
+      "url": "https://www.nytimes.com/2018/03/21/technology/computer-chips-turing-award.html",
+      "label": "\"Computer Chip Visionaries Win Turing Award\""
+    },
+    {
+      "url": "https://hennessy.stanford.edu/",
+      "label": "John L. Hennessy, Stanford Website"
+    },
+    {
+      "url": "https://web.archive.org/web/20070609213813/http://edcorner.stanford.edu/authorMaterialInfo.html?mid=922",
+      "label": "The Secret of Silicon Valley"
+    },
+    {
+      "url": "http://www.app2us.com/interviews/hennessy_stanford_president.htm",
+      "label": "Interview with John Hennessy"
+    },
+    {
+      "url": "http://gamehacking.org/qna/37",
+      "label": "Interview with John Hennessy, concerning the video game industry (audio and text) - 2009-06-22"
+    },
+    {
+      "url": "http://www.oac.cdlib.org/findaid/ark:/13030/kt387033z0/",
+      "label": "John L. Hennessey Papers"
+    },
+    {
+      "url": "https://www.strategy-business.com/article/John-Hennessys-higher-learning?gko=1d2fd",
+      "label": "John Hennessy's higher learning"
+    },
+    {
+      "url": "http://www.newyorker.com/reporting/2012/04/30/120430fa_fact_auletta?currentPage=all",
+      "label": "\"Get Rich U.\""
+    },
+    {
+      "url": "https://web.archive.org/web/20130325125948/http://www.newyorker.com/reporting/2012/04/30/120430fa_fact_auletta?currentPage=all",
+      "label": "Archived"
+    },
+    {
+      "url": "https://purl.stanford.edu/ns127fp1400",
+      "label": "\"John Hennessy: An Oral History\""
+    },
+    {
+      "url": "https://search.worldcat.org/oclc/31799595",
+      "label": "31799595"
+    },
+    {
+      "url": "https://www.proquest.com/docview/302854127",
+      "label": "302854127"
+    },
+    {
+      "url": "https://web.archive.org/web/20121024084310/http://www.stanford.edu/~hennessy/cv.html",
+      "label": "\"Curriculum Vitae\""
+    },
+    {
+      "url": "http://www.stanford.edu/~hennessy/cv.html",
+      "label": "the original"
+    },
+    {
+      "url": "https://www.nytimes.com/1991/06/04/business/chip-technology-s-friendly-rivals.html",
+      "label": "\"Chip Technology's Friendly Rivals\""
+    },
+    {
+      "url": "http://www.thedailybeast.com/blogs-and-stories/2010-11-14/college-president-salaries-ranking-the-million-dollar-earners/",
+      "label": "\"Million-Dollar College Presidents\""
+    },
+    {
+      "url": "http://investor.google.com/corporate/board-of-directors.html",
+      "label": "\"Board of Directors\""
+    },
+    {
+      "url": "https://web.archive.org/web/20071015195757/http://investor.cisco.com/phoenix.zhtml?c=81192&p=irol-govboard",
+      "label": "\"Governing Board\""
+    },
+    {
+      "url": "http://investor.cisco.com/phoenix.zhtml?c=81192&p=irol-govboard",
+      "label": "the original"
+    },
+    {
+      "url": "https://web.archive.org/web/20061105172121/http://investors.atheros.com/phoenix.zhtml?c=149102&p=irol-govboard",
+      "label": "\"Governing Board\""
+    },
+    {
+      "url": "http://investors.atheros.com/phoenix.zhtml?c=149102&p=irol-govboard",
+      "label": "the original"
+    },
+    {
+      "url": "https://www.moore.org/people-detail?personUrl=hennessy-phd",
+      "label": "\"Board of Trustees\""
+    },
+    {
+      "url": "https://search.amphilsoc.org/memhist/search?creator=John+L.+Hennessy&title=&subject=&subdiv=&mem=&year=&year-max=&dead=&keyword=&smode=advanced",
+      "label": "\"APS Member History\""
+    },
+    {
+      "url": "http://news.stanford.edu/news/2010/october/videos/865.html/",
+      "label": "\"President Hennessy salutes the Dalai Lama, and is honored in return\""
+    },
+    {
+      "url": "https://www.politico.com/story/2010/12/deserving-of-the-dream-046124",
+      "label": "\"Deserving of the DREAM\""
+    },
+    {
+      "url": "http://news.stanford.edu/news/2015/june/stanford-anouncement-061115.html",
+      "label": "\"Stanford University President John L. Hennessy to step down in 2016\""
+    },
+    {
+      "url": "https://news.stanford.edu/2015/06/11/stanford-anouncement-061115/",
+      "label": "\"Stanford University President John L. Hennessy to step down in 2016\""
+    },
+    {
+      "url": "https://knight-hennessy.stanford.edu/faq",
+      "label": "Frequently Asked Questions | Knight-Hennessy Scholars"
+    },
+    {
+      "url": "https://web.archive.org/web/20160826175847/https://knight-hennessy.stanford.edu/faq",
+      "label": "Archived"
+    },
+    {
+      "url": "https://www.cnbc.com/2018/03/03/alphabets-john-hennessy-talks-about-helping-international-students-with-scholarships.html",
+      "label": "\"Alphabet's John Hennessy talks about helping international students with scholarships\""
+    },
+    {
+      "url": "https://www.stanforddaily.com/2018/02/15/inaugural-knight-hennessy-scholars-selected/",
+      "label": "\"Inaugural Knight-Hennessy Scholars selected\""
+    },
+    {
+      "url": "http://fortune.com/2018/02/01/alphabet-google-john-hennessy/",
+      "label": "\"Alphabet Names New Executive Chairman to Replace Eric Schmidt\""
+    },
+    {
+      "url": "https://www.sup.org/books/business/leading-matters",
+      "label": "Leading Matters | Stanford University Press"
+    },
+    {
+      "url": "https://www.eurekalert.org/news-releases/797811",
+      "label": "\"John Hennessy and David Patterson win the Frontiers of Knowledge Award in ICT\""
+    },
+    {
+      "url": "https://www.nae.edu/27775/Dr-John-L-Hennessy",
+      "label": "\"Dr. John L. Hennessy\""
+    },
+    {
+      "url": "https://web.archive.org/web/20101124232834/http://ieee.org/documents/piore_rl.pdf",
+      "label": "\"IEEE Emanuel R. Piore Award Recipients\""
+    },
+    {
+      "url": "http://www.ieee.org/documents/piore_rl.pdf",
+      "label": "the original"
+    },
+    {
+      "url": "https://achievement.org/our-history/golden-plate-awards/#public-service",
+      "label": "\"Golden Plate Awardees of the American Academy of Achievement\""
+    },
+    {
+      "url": "https://achievement.org/achiever/jeffrey-p-bezos/",
+      "label": "\"Jeffrey P. Bezos Biography Photo\""
+    },
+    {
+      "url": "https://doi.org/10.1145%2F74926.74939",
+      "label": "10.1145/74926.74939"
+    },
+    {
+      "url": "https://doi.org/10.1145%2F192007.192056",
+      "label": "10.1145/192007.192056"
+    },
+    {
+      "url": "https://web.archive.org/web/20121003054212/http://www.computerhistory.org/fellowawards/hall/bios/John,Hennessy/",
+      "label": "\"John Hennessy\""
+    },
+    {
+      "url": "http://www.computerhistory.org/fellowawards/hall/bios/John,Hennessy/",
+      "label": "the original"
+    },
+    {
+      "url": "http://news.stanford.edu/news/2011/december/hennessy-ieee-honor-120111.html",
+      "label": "\"Stanford President Hennessy wins IEEE's highest honor\""
+    },
+    {
+      "url": "https://web.archive.org/web/20150422004457/http://www.ieee.org/documents/moh_rl.pdf",
+      "label": "\"IEEE Medal of Honor Recipients\""
+    },
+    {
+      "url": "http://www.ieee.org/documents/moh_rl.pdf",
+      "label": "the original"
+    },
+    {
+      "url": "https://news.stanford.edu/2017/09/07/john-l-hennessy-elected-royal-academy-engineering/",
+      "label": "\"John L. Hennessy elected to Royal Academy of Engineering\""
+    },
+    {
+      "url": "https://www.acm.org/media-center/2018/march/turing-award-2017",
+      "label": "\"John Hennessy and David Patterson will receive the 2017 ACM A.M. Turing Award\""
+    },
+    {
+      "url": "https://www.fbbva.es/en/",
+      "label": "BBVA Foundation Frontiers of Knowledge Awards 2020"
+    },
+    {
+      "url": "https://academic-senate.berkeley.edu/senate-service/awards/clark-kerr-award/clark-kerr-award-history",
+      "label": "\"History of the Clark Kerr Award | Academic Senate\""
+    },
+    {
+      "url": "https://www.nae.edu/55291/DraperWinners",
+      "label": "\"Recipients of the Charles Stark Draper Prize for Engineering\""
+    },
+    {
+      "url": "https://www.nae.edu/20681/DraperPrize",
+      "label": "\"Charles Stark Draper Prize for Engineering\""
+    },
+    {
+      "url": "https://www4.hku.hk/hongrads/graduates/john-l-john-l-hennessy-hennessy-john-l-hennessy",
+      "label": "\"John L HENNESSY - Biography - The Honorary Graduates - HKU Honorary Graduates\""
+    }
+  ],
+  "outgoing_links": [
+    {
+      "title": "Richard Hamming",
+      "url": "https://en.wikipedia.org/wiki/Richard_Hamming"
+    },
+    {
+      "title": "Edsger W. Dijkstra",
+      "url": "https://en.wikipedia.org/wiki/Edsger_W._Dijkstra"
+    },
+    {
+      "title": "Robert W. Floyd",
+      "url": "https://en.wikipedia.org/wiki/Robert_W._Floyd"
+    },
+    {
+      "title": "Kenneth E. Iverson",
+      "url": "https://en.wikipedia.org/wiki/Kenneth_E._Iverson"
+    },
+    {
+      "title": "Tony Hoare",
+      "url": "https://en.wikipedia.org/wiki/Tony_Hoare"
+    },
+    {
+      "title": "John Hopcroft",
+      "url": "https://en.wikipedia.org/wiki/John_Hopcroft"
+    },
+    {
+      "title": "William Kahan",
+      "url": "https://en.wikipedia.org/wiki/William_Kahan"
+    },
+    {
+      "title": "Juris Hartmanis",
+      "url": "https://en.wikipedia.org/wiki/Juris_Hartmanis"
+    },
+    {
+      "title": "Edward Feigenbaum",
+      "url": "https://en.wikipedia.org/wiki/Edward_Feigenbaum"
+    },
+    {
+      "title": "Douglas Engelbart",
+      "url": "https://en.wikipedia.org/wiki/Douglas_Engelbart"
+    },
+    {
+      "title": "Jim Gray (computer scientist)",
+      "url": "https://en.wikipedia.org/wiki/Jim_Gray_%28computer_scientist%29"
+    },
+    {
+      "title": "Robert Kahn (computer scientist)",
+      "url": "https://en.wikipedia.org/wiki/Robert_Kahn_%28computer_scientist%29"
+    },
+    {
+      "title": "E. Allen Emerson",
+      "url": "https://en.wikipedia.org/wiki/E._Allen_Emerson"
+    },
+    {
+      "title": "Shafi Goldwasser",
+      "url": "https://en.wikipedia.org/wiki/Shafi_Goldwasser"
+    },
+    {
+      "title": "Whitfield Diffie",
+      "url": "https://en.wikipedia.org/wiki/Whitfield_Diffie"
+    },
+    {
+      "title": "Martin Hellman",
+      "url": "https://en.wikipedia.org/wiki/Martin_Hellman"
+    },
+    {
+      "title": "Geoffrey Hinton",
+      "url": "https://en.wikipedia.org/wiki/Geoffrey_Hinton"
+    },
+    {
+      "title": "Pat Hanrahan",
+      "url": "https://en.wikipedia.org/wiki/Pat_Hanrahan"
+    },
+    {
+      "title": "Jack Dongarra",
+      "url": "https://en.wikipedia.org/wiki/Jack_Dongarra"
+    },
+    {
+      "title": "111th United States Congress",
+      "url": "https://en.wikipedia.org/wiki/111th_United_States_Congress"
+    },
+    {
+      "title": "14th Dalai Lama",
+      "url": "https://en.wikipedia.org/wiki/14th_Dalai_Lama"
+    },
+    {
+      "title": "ACM Fellow",
+      "url": "https://en.wikipedia.org/wiki/ACM_Fellow"
+    },
+    {
+      "title": "Academy of Achievement",
+      "url": "https://en.wikipedia.org/wiki/Academy_of_Achievement"
+    },
+    {
+      "title": "Adi Shamir",
+      "url": "https://en.wikipedia.org/wiki/Adi_Shamir"
+    },
+    {
+      "title": "Alan Kay",
+      "url": "https://en.wikipedia.org/wiki/Alan_Kay"
+    },
+    {
+      "title": "Alan Perlis",
+      "url": "https://en.wikipedia.org/wiki/Alan_Perlis"
+    },
+    {
+      "title": "Alfred Aho",
+      "url": "https://en.wikipedia.org/wiki/Alfred_Aho"
+    },
+    {
+      "title": "Allen Newell",
+      "url": "https://en.wikipedia.org/wiki/Allen_Newell"
+    },
+    {
+      "title": "Alphabet Inc.",
+      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc."
+    },
+    {
+      "title": "Alvin C. Eurich",
+      "url": "https://en.wikipedia.org/wiki/Alvin_C._Eurich"
+    },
+    {
+      "title": "American Academy of Achievement",
+      "url": "https://en.wikipedia.org/wiki/American_Academy_of_Achievement"
+    },
+    {
+      "title": "American Philosophical Society",
+      "url": "https://en.wikipedia.org/wiki/American_Philosophical_Society"
+    },
+    {
+      "title": "Amir Pnueli",
+      "url": "https://en.wikipedia.org/wiki/Amir_Pnueli"
+    },
+    {
+      "title": "Anant Agarwal",
+      "url": "https://en.wikipedia.org/wiki/Anant_Agarwal"
+    },
+    {
+      "title": "Andrew Barto",
+      "url": "https://en.wikipedia.org/wiki/Andrew_Barto"
+    },
+    {
+      "title": "Andrew Viterbi",
+      "url": "https://en.wikipedia.org/wiki/Andrew_Viterbi"
+    },
+    {
+      "title": "Andrew Yao",
+      "url": "https://en.wikipedia.org/wiki/Andrew_Yao"
+    },
+    {
+      "title": "Asad M. Madni",
+      "url": "https://en.wikipedia.org/wiki/Asad_M._Madni"
+    },
+    {
+      "title": "Association for Computing Machinery",
+      "url": "https://en.wikipedia.org/wiki/Association_for_Computing_Machinery"
+    },
+    {
+      "title": "Atheros",
+      "url": "https://en.wikipedia.org/wiki/Atheros"
+    },
+    {
+      "title": "Atheros Communications",
+      "url": "https://en.wikipedia.org/wiki/Atheros_Communications"
+    },
+    {
+      "title": "Avi Wigderson",
+      "url": "https://en.wikipedia.org/wiki/Avi_Wigderson"
+    },
+    {
+      "title": "B. Jayant Baliga",
+      "url": "https://en.wikipedia.org/wiki/B._Jayant_Baliga"
+    },
+    {
+      "title": "BBVA Foundation Frontiers of Knowledge Award",
+      "url": "https://en.wikipedia.org/wiki/BBVA_Foundation_Frontiers_of_Knowledge_Award"
+    },
+    {
+      "title": "BBVA Foundation Frontiers of Knowledge Awards",
+      "url": "https://en.wikipedia.org/wiki/BBVA_Foundation_Frontiers_of_Knowledge_Awards"
+    },
+    {
+      "title": "Bachelor's degree",
+      "url": "https://en.wikipedia.org/wiki/Bachelor%27s_degree"
+    },
+    {
+      "title": "Bachelor of Science",
+      "url": "https://en.wikipedia.org/wiki/Bachelor_of_Science"
+    },
+    {
+      "title": "Barbara Liskov",
+      "url": "https://en.wikipedia.org/wiki/Barbara_Liskov"
+    },
+    {
+      "title": "Bob Kahn",
+      "url": "https://en.wikipedia.org/wiki/Bob_Kahn"
+    },
+    {
+      "title": "Bradford W. Parkinson",
+      "url": "https://en.wikipedia.org/wiki/Bradford_W._Parkinson"
+    },
+    {
+      "title": "Butler Lampson",
+      "url": "https://en.wikipedia.org/wiki/Butler_Lampson"
+    },
+    {
+      "title": "Cache (computing)",
+      "url": "https://en.wikipedia.org/wiki/Cache_%28computing%29"
+    },
+    {
+      "title": "Central processing unit",
+      "url": "https://en.wikipedia.org/wiki/Central_processing_unit"
+    },
+    {
+      "title": "Charles Bachman",
+      "url": "https://en.wikipedia.org/wiki/Charles_Bachman"
+    },
+    {
+      "title": "Charles H. Bennett (physicist)",
+      "url": "https://en.wikipedia.org/wiki/Charles_H._Bennett_%28physicist%29"
+    },
+    {
+      "title": "Charles P. Thacker",
+      "url": "https://en.wikipedia.org/wiki/Charles_P._Thacker"
+    },
+    {
+      "title": "Charles Stark Draper Prize",
+      "url": "https://en.wikipedia.org/wiki/Charles_Stark_Draper_Prize"
+    },
+    {
+      "title": "Chenming Hu",
+      "url": "https://en.wikipedia.org/wiki/Chenming_Hu"
+    },
+    {
+      "title": "Cisco Systems",
+      "url": "https://en.wikipedia.org/wiki/Cisco_Systems"
+    },
+    {
+      "title": "Clark Kerr Award",
+      "url": "https://en.wikipedia.org/wiki/Clark_Kerr_Award"
+    },
+    {
+      "title": "Computer History Museum",
+      "url": "https://en.wikipedia.org/wiki/Computer_History_Museum"
+    },
+    {
+      "title": "Computer architecture",
+      "url": "https://en.wikipedia.org/wiki/Computer_architecture"
+    },
+    {
+      "title": "Computer science",
+      "url": "https://en.wikipedia.org/wiki/Computer_science"
+    },
+    {
+      "title": "Condoleezza Rice",
+      "url": "https://en.wikipedia.org/wiki/Condoleezza_Rice"
+    },
+    {
+      "title": "DLX",
+      "url": "https://en.wikipedia.org/wiki/DLX"
+    },
+    {
+      "title": "DREAM Act",
+      "url": "https://en.wikipedia.org/wiki/DREAM_Act"
+    },
+    {
+      "title": "Dana Scott",
+      "url": "https://en.wikipedia.org/wiki/Dana_Scott"
+    },
+    {
+      "title": "Dave Forney",
+      "url": "https://en.wikipedia.org/wiki/Dave_Forney"
+    },
+    {
+      "title": "David A. Patterson (scientist)",
+      "url": "https://en.wikipedia.org/wiki/David_A._Patterson_%28scientist%29"
+    },
+    {
+      "title": "David Patterson (computer scientist)",
+      "url": "https://en.wikipedia.org/wiki/David_Patterson_%28computer_scientist%29"
+    },
+    {
+      "title": "David Starr Jordan",
+      "url": "https://en.wikipedia.org/wiki/David_Starr_Jordan"
+    },
+    {
+      "title": "Dennis Ritchie",
+      "url": "https://en.wikipedia.org/wiki/Dennis_Ritchie"
+    },
+    {
+      "title": "Doctor of Philosophy",
+      "url": "https://en.wikipedia.org/wiki/Doctor_of_Philosophy"
+    },
+    {
+      "title": "Doctoral advisor",
+      "url": "https://en.wikipedia.org/wiki/Doctoral_advisor"
+    },
+    {
+      "title": "Doi (identifier)",
+      "url": "https://en.wikipedia.org/wiki/Doi_%28identifier%29"
+    },
+    {
+      "title": "Donald Kennedy",
+      "url": "https://en.wikipedia.org/wiki/Donald_Kennedy"
+    },
+    {
+      "title": "Donald Knuth",
+      "url": "https://en.wikipedia.org/wiki/Donald_Knuth"
+    },
+    {
+      "title": "Donald Tresidder",
+      "url": "https://en.wikipedia.org/wiki/Donald_Tresidder"
+    },
+    {
+      "title": "Drew Gilpin Faust",
+      "url": "https://en.wikipedia.org/wiki/Drew_Gilpin_Faust"
+    },
+    {
+      "title": "Edgar F. Codd",
+      "url": "https://en.wikipedia.org/wiki/Edgar_F._Codd"
+    },
+    {
+      "title": "Edmund M. Clarke",
+      "url": "https://en.wikipedia.org/wiki/Edmund_M._Clarke"
+    },
+    {
+      "title": "Edwin Catmull",
+      "url": "https://en.wikipedia.org/wiki/Edwin_Catmull"
+    },
+    {
+      "title": "Electrical engineering",
+      "url": "https://en.wikipedia.org/wiki/Electrical_engineering"
+    },
+    {
+      "title": "Fellow",
+      "url": "https://en.wikipedia.org/wiki/Fellow"
+    },
+    {
+      "title": "Fellow of the American Academy of Arts and Sciences",
+      "url": "https://en.wikipedia.org/wiki/Fellow_of_the_American_Academy_of_Arts_and_Sciences"
+    },
+    {
+      "title": "Fellow of the Royal Academy of Engineering",
+      "url": "https://en.wikipedia.org/wiki/Fellow_of_the_Royal_Academy_of_Engineering"
+    },
+    {
+      "title": "Fernando J. Corbató",
+      "url": "https://en.wikipedia.org/wiki/Fernando_J._Corbat%C3%B3"
+    },
+    {
+      "title": "Frances Allen",
+      "url": "https://en.wikipedia.org/wiki/Frances_Allen"
+    },
+    {
+      "title": "Fred Brooks",
+      "url": "https://en.wikipedia.org/wiki/Fred_Brooks"
+    },
+    {
+      "title": "Frederick Terman",
+      "url": "https://en.wikipedia.org/wiki/Frederick_Terman"
+    },
+    {
+      "title": "Gerhard Casper",
+      "url": "https://en.wikipedia.org/wiki/Gerhard_Casper"
+    },
+    {
+      "title": "Gilles Brassard",
+      "url": "https://en.wikipedia.org/wiki/Gilles_Brassard"
+    },
+    {
+      "title": "Google",
+      "url": "https://en.wikipedia.org/wiki/Google"
+    },
+    {
+      "title": "Gordon Moore",
+      "url": "https://en.wikipedia.org/wiki/Gordon_Moore"
+    },
+    {
+      "title": "Gordon and Betty Moore Foundation",
+      "url": "https://en.wikipedia.org/wiki/Gordon_and_Betty_Moore_Foundation"
+    },
+    {
+      "title": "Harvard University",
+      "url": "https://en.wikipedia.org/wiki/Harvard_University"
+    },
+    {
+      "title": "Henry Samueli",
+      "url": "https://en.wikipedia.org/wiki/Henry_Samueli"
+    },
+    {
+      "title": "Herbert A. Simon",
+      "url": "https://en.wikipedia.org/wiki/Herbert_A._Simon"
+    },
+    {
+      "title": "Herbert Kroemer",
+      "url": "https://en.wikipedia.org/wiki/Herbert_Kroemer"
+    },
+    {
+      "title": "Herwig Kogelnik",
+      "url": "https://en.wikipedia.org/wiki/Herwig_Kogelnik"
+    },
+    {
+      "title": "Huntington, New York",
+      "url": "https://en.wikipedia.org/wiki/Huntington%2C_New_York"
+    },
+    {
+      "title": "IEEE",
+      "url": "https://en.wikipedia.org/wiki/IEEE"
+    },
+    {
+      "title": "IEEE Emanuel R. Piore Award",
+      "url": "https://en.wikipedia.org/wiki/IEEE_Emanuel_R._Piore_Award"
+    },
+    {
+      "title": "IEEE Medal of Honor",
+      "url": "https://en.wikipedia.org/wiki/IEEE_Medal_of_Honor"
+    },
+    {
+      "title": "ISBN (identifier)",
+      "url": "https://en.wikipedia.org/wiki/ISBN_%28identifier%29"
+    },
+    {
+      "title": "ISCA Influential Paper Award",
+      "url": "https://en.wikipedia.org/wiki/ISCA_Influential_Paper_Award"
+    },
+    {
+      "title": "Institute of Electrical and Electronics Engineers",
+      "url": "https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers"
+    },
+    {
+      "title": "Irwin M. Jacobs",
+      "url": "https://en.wikipedia.org/wiki/Irwin_M._Jacobs"
+    },
+    {
+      "title": "Ivan Sutherland",
+      "url": "https://en.wikipedia.org/wiki/Ivan_Sutherland"
+    },
+    {
+      "title": "James D. Meindl",
+      "url": "https://en.wikipedia.org/wiki/James_D._Meindl"
+    },
+    {
+      "title": "James H. Wilkinson",
+      "url": "https://en.wikipedia.org/wiki/James_H._Wilkinson"
+    },
+    {
+      "title": "James L. Flanagan",
+      "url": "https://en.wikipedia.org/wiki/James_L._Flanagan"
+    },
+    {
+      "title": "Jeffrey Ullman",
+      "url": "https://en.wikipedia.org/wiki/Jeffrey_Ullman"
+    },
+    {
+      "title": "Jensen Huang",
+      "url": "https://en.wikipedia.org/wiki/Jensen_Huang"
+    },
+    {
+      "title": "John Backus",
+      "url": "https://en.wikipedia.org/wiki/John_Backus"
+    },
+    {
+      "title": "John Casper Branner",
+      "url": "https://en.wikipedia.org/wiki/John_Casper_Branner"
+    },
+    {
+      "title": "John Cocke (computer scientist)",
+      "url": "https://en.wikipedia.org/wiki/John_Cocke_%28computer_scientist%29"
+    },
+    {
+      "title": "John Etchemendy",
+      "url": "https://en.wikipedia.org/wiki/John_Etchemendy"
+    },
+    {
+      "title": "John McCarthy (computer scientist)",
+      "url": "https://en.wikipedia.org/wiki/John_McCarthy_%28computer_scientist%29"
+    },
+    {
+      "title": "Jonathan Levin (economist)",
+      "url": "https://en.wikipedia.org/wiki/Jonathan_Levin_%28economist%29"
+    },
+    {
+      "title": "Josep Torrellas",
+      "url": "https://en.wikipedia.org/wiki/Josep_Torrellas"
+    },
+    {
+      "title": "Joseph Sifakis",
+      "url": "https://en.wikipedia.org/wiki/Joseph_Sifakis"
+    },
+    {
+      "title": "Judea Pearl",
+      "url": "https://en.wikipedia.org/wiki/Judea_Pearl"
+    },
+    {
+      "title": "Kees Schouhamer Immink",
+      "url": "https://en.wikipedia.org/wiki/Kees_Schouhamer_Immink"
+    },
+    {
+      "title": "Ken Thompson",
+      "url": "https://en.wikipedia.org/wiki/Ken_Thompson"
+    },
+    {
+      "title": "Kenneth Pitzer",
+      "url": "https://en.wikipedia.org/wiki/Kenneth_Pitzer"
+    },
+    {
+      "title": "Khata",
+      "url": "https://en.wikipedia.org/wiki/Khata"
+    },
+    {
+      "title": "Knight-Hennessy Scholars",
+      "url": "https://en.wikipedia.org/wiki/Knight-Hennessy_Scholars"
+    },
+    {
+      "title": "Kristen Nygaard",
+      "url": "https://en.wikipedia.org/wiki/Kristen_Nygaard"
+    },
+    {
+      "title": "Kurt Petersen (inventor)",
+      "url": "https://en.wikipedia.org/wiki/Kurt_Petersen_%28inventor%29"
+    },
+    {
+      "title": "Lawrence Paulson",
+      "url": "https://en.wikipedia.org/wiki/Lawrence_Paulson"
+    },
+    {
+      "title": "Leading Matters: Lessons from My Journey",
+      "url": "https://en.wikipedia.org/wiki/Leading_Matters%3A_Lessons_from_My_Journey"
+    },
+    {
+      "title": "Leonard Adleman",
+      "url": "https://en.wikipedia.org/wiki/Leonard_Adleman"
+    },
+    {
+      "title": "Leslie Lamport",
+      "url": "https://en.wikipedia.org/wiki/Leslie_Lamport"
+    },
+    {
+      "title": "Leslie Valiant",
+      "url": "https://en.wikipedia.org/wiki/Leslie_Valiant"
+    },
+    {
+      "title": "List of Stanford University people",
+      "url": "https://en.wikipedia.org/wiki/List_of_Stanford_University_people"
+    },
+    {
+      "title": "MIPS Computer Systems Inc.",
+      "url": "https://en.wikipedia.org/wiki/MIPS_Computer_Systems_Inc."
+    },
+    {
+      "title": "MIPS Technologies",
+      "url": "https://en.wikipedia.org/wiki/MIPS_Technologies"
+    },
+    {
+      "title": "MIX (abstract machine)",
+      "url": "https://en.wikipedia.org/wiki/MIX_%28abstract_machine%29"
+    },
+    {
+      "title": "MMIX",
+      "url": "https://en.wikipedia.org/wiki/MMIX"
+    },
+    {
+      "title": "Manuel Blum",
+      "url": "https://en.wikipedia.org/wiki/Manuel_Blum"
+    },
+    {
+      "title": "Maples Pavilion",
+      "url": "https://en.wikipedia.org/wiki/Maples_Pavilion"
+    },
+    {
+      "title": "Marc Andreessen",
+      "url": "https://en.wikipedia.org/wiki/Marc_Andreessen"
+    },
+    {
+      "title": "Marc Tessier-Lavigne",
+      "url": "https://en.wikipedia.org/wiki/Marc_Tessier-Lavigne"
+    },
+    {
+      "title": "Marvin Minsky",
+      "url": "https://en.wikipedia.org/wiki/Marvin_Minsky"
+    },
+    {
+      "title": "Master's degree",
+      "url": "https://en.wikipedia.org/wiki/Master%27s_degree"
+    },
+    {
+      "title": "Master of Science",
+      "url": "https://en.wikipedia.org/wiki/Master_of_Science"
+    },
+    {
+      "title": "Mathematics Genealogy Project",
+      "url": "https://en.wikipedia.org/wiki/Mathematics_Genealogy_Project"
+    },
+    {
+      "title": "Maurice Wilkes",
+      "url": "https://en.wikipedia.org/wiki/Maurice_Wilkes"
+    },
+    {
+      "title": "Member of the National Academy of Sciences",
+      "url": "https://en.wikipedia.org/wiki/Member_of_the_National_Academy_of_Sciences"
+    },
+    {
+      "title": "Michael O. Rabin",
+      "url": "https://en.wikipedia.org/wiki/Michael_O._Rabin"
+    },
+    {
+      "title": "Michael Stonebraker",
+      "url": "https://en.wikipedia.org/wiki/Michael_Stonebraker"
+    },
+    {
+      "title": "Mildred Dresselhaus",
+      "url": "https://en.wikipedia.org/wiki/Mildred_Dresselhaus"
+    },
+    {
+      "title": "Morris Chang",
+      "url": "https://en.wikipedia.org/wiki/Morris_Chang"
+    },
+    {
+      "title": "National Academy of Engineering",
+      "url": "https://en.wikipedia.org/wiki/National_Academy_of_Engineering"
+    },
+    {
+      "title": "Nick Holonyak",
+      "url": "https://en.wikipedia.org/wiki/Nick_Holonyak"
+    },
+    {
+      "title": "Niklaus Wirth",
+      "url": "https://en.wikipedia.org/wiki/Niklaus_Wirth"
+    },
+    {
+      "title": "Norman Jouppi",
+      "url": "https://en.wikipedia.org/wiki/Norman_Jouppi"
+    },
+    {
+      "title": "OCLC (identifier)",
+      "url": "https://en.wikipedia.org/wiki/OCLC_%28identifier%29"
+    },
+    {
+      "title": "Ole-Johan Dahl",
+      "url": "https://en.wikipedia.org/wiki/Ole-Johan_Dahl"
+    },
+    {
+      "title": "Persis Drell",
+      "url": "https://en.wikipedia.org/wiki/Persis_Drell"
+    },
+    {
+      "title": "Peter Naur",
+      "url": "https://en.wikipedia.org/wiki/Peter_Naur"
+    },
+    {
+      "title": "Politico",
+      "url": "https://en.wikipedia.org/wiki/Politico"
+    },
+    {
+      "title": "ProQuest",
+      "url": "https://en.wikipedia.org/wiki/ProQuest"
+    },
+    {
+      "title": "Provost (education)",
+      "url": "https://en.wikipedia.org/wiki/Provost_%28education%29"
+    },
+    {
+      "title": "Qualcomm Atheros",
+      "url": "https://en.wikipedia.org/wiki/Qualcomm_Atheros"
+    },
+    {
+      "title": "Queen Elizabeth Prize for Engineering",
+      "url": "https://en.wikipedia.org/wiki/Queen_Elizabeth_Prize_for_Engineering"
+    },
+    {
+      "title": "RISC",
+      "url": "https://en.wikipedia.org/wiki/RISC"
+    },
+    {
+      "title": "Raj Reddy",
+      "url": "https://en.wikipedia.org/wiki/Raj_Reddy"
+    },
+    {
+      "title": "Ray Lyman Wilbur",
+      "url": "https://en.wikipedia.org/wiki/Ray_Lyman_Wilbur"
+    },
+    {
+      "title": "Reduced instruction set computer",
+      "url": "https://en.wikipedia.org/wiki/Reduced_instruction_set_computer"
+    },
+    {
+      "title": "Richard E. Stearns",
+      "url": "https://en.wikipedia.org/wiki/Richard_E._Stearns"
+    },
+    {
+      "title": "Richard M. Karp",
+      "url": "https://en.wikipedia.org/wiki/Richard_M._Karp"
+    },
+    {
+      "title": "Richard S. Sutton",
+      "url": "https://en.wikipedia.org/wiki/Richard_S._Sutton"
+    },
+    {
+      "title": "Richard Saller",
+      "url": "https://en.wikipedia.org/wiki/Richard_Saller"
+    },
+    {
+      "title": "Richard Wall Lyman",
+      "url": "https://en.wikipedia.org/wiki/Richard_Wall_Lyman"
+    },
+    {
+      "title": "Robert Dennard",
+      "url": "https://en.wikipedia.org/wiki/Robert_Dennard"
+    },
+    {
+      "title": "Robert E. Swain",
+      "url": "https://en.wikipedia.org/wiki/Robert_E._Swain"
+    },
+    {
+      "title": "Robert Glaser",
+      "url": "https://en.wikipedia.org/wiki/Robert_Glaser"
+    },
+    {
+      "title": "Robert Metcalfe",
+      "url": "https://en.wikipedia.org/wiki/Robert_Metcalfe"
+    },
+    {
+      "title": "Robert Tarjan",
+      "url": "https://en.wikipedia.org/wiki/Robert_Tarjan"
+    },
+    {
+      "title": "Robin Milner",
+      "url": "https://en.wikipedia.org/wiki/Robin_Milner"
+    },
+    {
+      "title": "Ron Rivest",
+      "url": "https://en.wikipedia.org/wiki/Ron_Rivest"
+    },
+    {
+      "title": "SIGARCH",
+      "url": "https://en.wikipedia.org/wiki/SIGARCH"
+    },
+    {
+      "title": "Silicon Valley",
+      "url": "https://en.wikipedia.org/wiki/Silicon_Valley"
+    },
+    {
+      "title": "Silvio Micali",
+      "url": "https://en.wikipedia.org/wiki/Silvio_Micali"
+    },
+    {
+      "title": "Sophie Wilson",
+      "url": "https://en.wikipedia.org/wiki/Sophie_Wilson"
+    },
+    {
+      "title": "Stanford MIPS",
+      "url": "https://en.wikipedia.org/wiki/Stanford_MIPS"
+    },
+    {
+      "title": "Stanford University",
+      "url": "https://en.wikipedia.org/wiki/Stanford_University"
+    },
+    {
+      "title": "State University of New York at Stony Brook",
+      "url": "https://en.wikipedia.org/wiki/State_University_of_New_York_at_Stony_Brook"
+    },
+    {
+      "title": "Stephen Cook",
+      "url": "https://en.wikipedia.org/wiki/Stephen_Cook"
+    },
+    {
+      "title": "Steve Furber",
+      "url": "https://en.wikipedia.org/wiki/Steve_Furber"
+    },
+    {
+      "title": "Stony Brook University",
+      "url": "https://en.wikipedia.org/wiki/Stony_Brook_University"
+    },
+    {
+      "title": "Strategy+Business",
+      "url": "https://en.wikipedia.org/wiki/Strategy%2BBusiness"
+    },
+    {
+      "title": "Tadahiro Sekimoto",
+      "url": "https://en.wikipedia.org/wiki/Tadahiro_Sekimoto"
+    },
+    {
+      "title": "Textbook",
+      "url": "https://en.wikipedia.org/wiki/Textbook"
+    },
+    {
+      "title": "The Art of Computer Programming",
+      "url": "https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming"
+    },
+    {
+      "title": "The Daily Beast",
+      "url": "https://en.wikipedia.org/wiki/The_Daily_Beast"
+    },
+    {
+      "title": "The New York Times",
+      "url": "https://en.wikipedia.org/wiki/The_New_York_Times"
+    },
+    {
+      "title": "The New Yorker",
+      "url": "https://en.wikipedia.org/wiki/The_New_Yorker"
+    },
+    {
+      "title": "Thesis",
+      "url": "https://en.wikipedia.org/wiki/Thesis"
+    },
+    {
+      "title": "Thomas Kailath",
+      "url": "https://en.wikipedia.org/wiki/Thomas_Kailath"
+    },
+    {
+      "title": "Tim Berners-Lee",
+      "url": "https://en.wikipedia.org/wiki/Tim_Berners-Lee"
+    },
+    {
+      "title": "Turing Award",
+      "url": "https://en.wikipedia.org/wiki/Turing_Award"
+    },
+    {
+      "title": "University of Hong Kong",
+      "url": "https://en.wikipedia.org/wiki/University_of_Hong_Kong"
+    },
+    {
+      "title": "University of Waterloo",
+      "url": "https://en.wikipedia.org/wiki/University_of_Waterloo"
+    },
+    {
+      "title": "Villanova University",
+      "url": "https://en.wikipedia.org/wiki/Villanova_University"
+    },
+    {
+      "title": "Vint Cerf",
+      "url": "https://en.wikipedia.org/wiki/Vint_Cerf"
+    },
+    {
+      "title": "Wallace Sterling",
+      "url": "https://en.wikipedia.org/wiki/Wallace_Sterling"
+    },
+    {
+      "title": "Wayback Machine",
+      "url": "https://en.wikipedia.org/wiki/Wayback_Machine"
+    },
+    {
+      "title": "William F. Miller",
+      "url": "https://en.wikipedia.org/wiki/William_F._Miller"
+    },
+    {
+      "title": "Yaakov Ziv",
+      "url": "https://en.wikipedia.org/wiki/Yaakov_Ziv"
+    },
+    {
+      "title": "Yann LeCun",
+      "url": "https://en.wikipedia.org/wiki/Yann_LeCun"
+    },
+    {
+      "title": "Yoshua Bengio",
+      "url": "https://en.wikipedia.org/wiki/Yoshua_Bengio"
+    },
+    {
+      "title": "Douglas M. Whitaker",
+      "url": "https://en.wikipedia.org/wiki/Douglas_M._Whitaker"
+    },
+    {
+      "title": "Gerald J. Lieberman",
+      "url": "https://en.wikipedia.org/wiki/Gerald_J._Lieberman"
+    },
+    {
+      "title": "Albert M. Hastorf",
+      "url": "https://en.wikipedia.org/wiki/Albert_M._Hastorf"
+    },
+    {
+      "title": "James N. Rosse",
+      "url": "https://en.wikipedia.org/wiki/James_N._Rosse"
+    }
+  ]
+}

@@ -1,0 +1,520 @@
+{
+  "document_id": "wikipedia_en_Q7389502",
+  "wikidata_id": "Q7389502",
+  "entity_label": "SD Association",
+  "entity_type": "organization",
+  "seed_categories": [],
+  "source": "wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/SD_Association",
+  "revision_id": 1381989969,
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1381989969",
+  "pageid": 12952430,
+  "title": "SD Association",
+  "language": "en",
+  "collected_at": "2026-10-28T22:02:30.866752+00:00",
+  "content": {
+    "sections": [
+      {
+        "heading": "Introduction",
+        "text": "The SD Association ( SDA ) is an American nonprofit organization that sets standards for the SD memory card format. It was founded in January 2000 by SanDisk , Panasonic (then Matsushita), and Toshiba . By 2010, the SDA had about 1,000 member companies involved in designing and developing SD standards. Thousands of device models and products across many categories incorporate the small, removable memory cards.\nThe SD Association develops industry standards that define successive generations of SD cards and guide manufacturers in product development. This approach has made the SD memory card the most widely used removable memory card form factor in the industry."
+      },
+      {
+        "heading": "SD standards",
+        "text": "\"SD memory card\" and \"SD host device\" are the umbrella descriptions for any memory card or device built to SD standards. The SDA does not manufacture, market or sell any product. It exists solely to create industry standards and promote the adoption, advancement and use of SD standards. These standards are adopted by product manufacturers that make mechanical definitions and environmental requirements); File System Spec (definitions of the file system requirements in SD cards); SDIO and Intelligent SDIO card specifications ( wireless LAN and TransferJet interface SD memory cards); SD Host Controller Interface Spec; Advance Security SD specification, implementation and test guidelines.\nThe SD Association was founded January 28, 2000 by SanDisk , Panasonic (Matsushita) and Toshiba – named also as \"SD Group\". The founding individual members include:\nEli Harari, CEO and founder of SanDisk Corporation Youichi Morishita, President of Panasonic (Matsushita Electric Industrial Co., Ltd) Taizo Nishimuro , CEO and president of Toshiba Corporation\nThe SD Association held its first meeting on January 28, 2000, in San Francisco and elected the first SDA Board of Directors on April 13. The Board of Directors included 14 industry leaders from Alpine Electronics , Compaq , Eastman Kodak Company, Hewlett Packard, LG Electronics , Matsushita Electric, Mitsubishi Electronics, Motorola, NEC, Samsung, SanDisk Corporation, Sharp, Thomson and Toshiba Corporation. Shortly thereafter, SD v1.01 was released. The first SDIO specification was released in October 2001 and the miniSD released two years later in February 2003. Multiple SD specifications were announced in 2004 including the First Advanced Security SD (ASSD), First Controller Interface and SD v1.10 with high-speed mode (25 MB/s).\nMicroSD specifications were released in 2005 with SD v2.0 SD- High Capacity (SDHC), introducing memory cards with up to 32 GB of storage in 2006. SD v3.0 brought Extended Capacity (SDXC) specifications offering memory cards with up to 2 TB of storage and Ultra High Speed – bus transfer speeds of up to 104 megabytes per second ( MB/s ) in 2009. SD versions 4.0, v4.10 and v4.2 were introduced between 2011 and 2013. Version 4.0 included UHS-II interface specifications with bus transfer speeds of up to 312 MB/s and a new pin interface providing backwards compatibility. Function Extension specifications and UHS Speed Class U1 were included in v4.10 while v4.2 contained UHS Speed Class U3 specification, supporting 4K video. smartSD with NFC capabilities was introduced in 2013. September 2013 saw the first intelligent SDIO (iSDIO) specification along with a wireless LAN addendum.\nIn February 2016, the SD Association introduced the Video Speed Class, which supports multi-file recording and video resolutions. The Video Speed Class specifies minimum performance levels for 4K, 8K, 3D, and 360-degree video recording format .\nIn November 2016, SD Specification 5.1 established the new Application Performance Class to meet technical and market requirements to both run and store applications on SD memory cards while still providing storage of pictures, videos, music, documents, and other data. SD 5.1 introduced the first and most basic App Performance level, App Performance Class 1, or A1. In February 2017, the SD Association expanded its App Performance Class with Application Performance Class 2 (A2), more than doubling random read and write speeds guaranteed in the entry-level App Performance Class 1. .\nIn February 2017, the SD Association introduced UHS-III, doubling the fastest SD memory card transfer rate up to 624 MB/s. UHS-III faster speeds help move large amounts of data generated by data-intense Gbit/s wireless communication, 360-degree cameras, drones, 3D, 4K and 8K videos recorded on SDXC and SDHC memory cards.\nIn June 2018, the SD Association introduced SD Express which added the PCI Express and NVMe interfaces to the legacy SD interface. The PCIe interface will deliver a 985 MB/s maximum data transfer rate and the NVMe upper layer protocol enables advanced memory access mechanisms.\nIn tandem with the SD Express release, the SD Association also announced the SD Ultra Capacity (SDUC) card. The maximum storage capacity in SD memory cards grows from 2 TB with SDXC to 128 TB with the SDUC card. Both releases maintained backward compatibility and are part of the new SD 7.0 specification.\nIn February 2019, the SD Association announced the microSD Express. The microSD Express cards offer PCI Express and NVMe interfaces, as the June 2018 SD Express release did, alongside the legacy microSD interface for continued backwards compatibility. The SDA also released new visual marks to denote microSD Express memory cards to make matching the card and device easier for optimal device performance.\nIn May 2020, the SD Association introduced the SD 8.0 (SD8.0) specification for the SD Express memory card.\nIn May 2022, the SD Association announced the SD 9 Specification.\nIn October 2023, the SD Association announced the SD 9.1 Specification, which defines the access rules required to ensure the minimum defined performance of the PCI/NVMe interface in SD Express cards, including multi-stream access of up to eight streams."
+      },
+      {
+        "heading": "Organization and structure",
+        "text": "SDA is led by a board of directors, chairman of the board, president, secretary and treasurer. The SDA also has multiple board committees including finance, legal and licensing, plus ad hoc committees that address specific needs. SDA's organization operates three primary committees – technical, marketing, and compliance.\nThe association ensures global coverage by having key boards members in each region:\nATP Electronics Inc. ( Germany ) Kingston Corporation ( United States ) KIOXIA Corporation ( Japan ) Lexar International Micron Consumer Products Group, Inc. ( United States ) Panasonic Corporation ( Japan ) Phison Electronics Co. ( Taiwan ) Samsung Electronics Co, Ltd. SanDisk Corporation Silicon Motion, Inc. ( United States ) Tuxera Ltd. ( Finland )"
+      },
+      {
+        "heading": "Meeting structure",
+        "text": "The SDA meets quarterly to review spec developments and promotion planning. Meetings provide a venue for SDA members to receive updates on SDA activities and an opportunity to update SD specifications and standards.\nGeneral Assembly Meetings are held bi-annually (spring and fall). General assembly events include an open plenary session in which members receive updates about SDA activities followed by speakers from the industry or market analysts. The committees hold working sessions after the plenary sessions. The board meeting is held after all plenary and committee meetings.\nThe SDA also organizes interim face-to-face meetings twice a year (summer and winter) where the various committees and the board of directors meet. Additional meetings held by the SDA include interoperability events, global workshops. The SDA also participates in trade shows and industry events."
+      },
+      {
+        "heading": "Current leadership",
+        "text": "SD Card Association President: Yosi Pinto, SanDisk Corporation Board of Directors Chairman: Yosi Pinto, SanDisk Corporation Treasurer: Bo Li, Western Digital Secretary: Thom Denholm, Tuxera Technical Committee Chair: Rotem Sela, SanDisk Corporation Marketing Committee Chair: Kazunori Nakano, Toshiba Corporation Compliance Committee Chairs: Minoru Ohara, Allion Labs, Inc., Hiroshi Noda, Canon Inc ."
+      },
+      {
+        "heading": "See also",
+        "text": "Secure Digital slotMusic CompactFlash Association (CFA)"
+      },
+      {
+        "heading": "External links",
+        "text": "Official website SD Association on LinkedIn"
+      }
+    ],
+    "full_text": "Introduction\nThe SD Association ( SDA ) is an American nonprofit organization that sets standards for the SD memory card format. It was founded in January 2000 by SanDisk , Panasonic (then Matsushita), and Toshiba . By 2010, the SDA had about 1,000 member companies involved in designing and developing SD standards. Thousands of device models and products across many categories incorporate the small, removable memory cards.\nThe SD Association develops industry standards that define successive generations of SD cards and guide manufacturers in product development. This approach has made the SD memory card the most widely used removable memory card form factor in the industry.\n\nSD standards\n\"SD memory card\" and \"SD host device\" are the umbrella descriptions for any memory card or device built to SD standards. The SDA does not manufacture, market or sell any product. It exists solely to create industry standards and promote the adoption, advancement and use of SD standards. These standards are adopted by product manufacturers that make mechanical definitions and environmental requirements); File System Spec (definitions of the file system requirements in SD cards); SDIO and Intelligent SDIO card specifications ( wireless LAN and TransferJet interface SD memory cards); SD Host Controller Interface Spec; Advance Security SD specification, implementation and test guidelines.\nThe SD Association was founded January 28, 2000 by SanDisk , Panasonic (Matsushita) and Toshiba – named also as \"SD Group\". The founding individual members include:\nEli Harari, CEO and founder of SanDisk Corporation Youichi Morishita, President of Panasonic (Matsushita Electric Industrial Co., Ltd) Taizo Nishimuro , CEO and president of Toshiba Corporation\nThe SD Association held its first meeting on January 28, 2000, in San Francisco and elected the first SDA Board of Directors on April 13. The Board of Directors included 14 industry leaders from Alpine Electronics , Compaq , Eastman Kodak Company, Hewlett Packard, LG Electronics , Matsushita Electric, Mitsubishi Electronics, Motorola, NEC, Samsung, SanDisk Corporation, Sharp, Thomson and Toshiba Corporation. Shortly thereafter, SD v1.01 was released. The first SDIO specification was released in October 2001 and the miniSD released two years later in February 2003. Multiple SD specifications were announced in 2004 including the First Advanced Security SD (ASSD), First Controller Interface and SD v1.10 with high-speed mode (25 MB/s).\nMicroSD specifications were released in 2005 with SD v2.0 SD- High Capacity (SDHC), introducing memory cards with up to 32 GB of storage in 2006. SD v3.0 brought Extended Capacity (SDXC) specifications offering memory cards with up to 2 TB of storage and Ultra High Speed – bus transfer speeds of up to 104 megabytes per second ( MB/s ) in 2009. SD versions 4.0, v4.10 and v4.2 were introduced between 2011 and 2013. Version 4.0 included UHS-II interface specifications with bus transfer speeds of up to 312 MB/s and a new pin interface providing backwards compatibility. Function Extension specifications and UHS Speed Class U1 were included in v4.10 while v4.2 contained UHS Speed Class U3 specification, supporting 4K video. smartSD with NFC capabilities was introduced in 2013. September 2013 saw the first intelligent SDIO (iSDIO) specification along with a wireless LAN addendum.\nIn February 2016, the SD Association introduced the Video Speed Class, which supports multi-file recording and video resolutions. The Video Speed Class specifies minimum performance levels for 4K, 8K, 3D, and 360-degree video recording format .\nIn November 2016, SD Specification 5.1 established the new Application Performance Class to meet technical and market requirements to both run and store applications on SD memory cards while still providing storage of pictures, videos, music, documents, and other data. SD 5.1 introduced the first and most basic App Performance level, App Performance Class 1, or A1. In February 2017, the SD Association expanded its App Performance Class with Application Performance Class 2 (A2), more than doubling random read and write speeds guaranteed in the entry-level App Performance Class 1. .\nIn February 2017, the SD Association introduced UHS-III, doubling the fastest SD memory card transfer rate up to 624 MB/s. UHS-III faster speeds help move large amounts of data generated by data-intense Gbit/s wireless communication, 360-degree cameras, drones, 3D, 4K and 8K videos recorded on SDXC and SDHC memory cards.\nIn June 2018, the SD Association introduced SD Express which added the PCI Express and NVMe interfaces to the legacy SD interface. The PCIe interface will deliver a 985 MB/s maximum data transfer rate and the NVMe upper layer protocol enables advanced memory access mechanisms.\nIn tandem with the SD Express release, the SD Association also announced the SD Ultra Capacity (SDUC) card. The maximum storage capacity in SD memory cards grows from 2 TB with SDXC to 128 TB with the SDUC card. Both releases maintained backward compatibility and are part of the new SD 7.0 specification.\nIn February 2019, the SD Association announced the microSD Express. The microSD Express cards offer PCI Express and NVMe interfaces, as the June 2018 SD Express release did, alongside the legacy microSD interface for continued backwards compatibility. The SDA also released new visual marks to denote microSD Express memory cards to make matching the card and device easier for optimal device performance.\nIn May 2020, the SD Association introduced the SD 8.0 (SD8.0) specification for the SD Express memory card.\nIn May 2022, the SD Association announced the SD 9 Specification.\nIn October 2023, the SD Association announced the SD 9.1 Specification, which defines the access rules required to ensure the minimum defined performance of the PCI/NVMe interface in SD Express cards, including multi-stream access of up to eight streams.\n\nOrganization and structure\nSDA is led by a board of directors, chairman of the board, president, secretary and treasurer. The SDA also has multiple board committees including finance, legal and licensing, plus ad hoc committees that address specific needs. SDA's organization operates three primary committees – technical, marketing, and compliance.\nThe association ensures global coverage by having key boards members in each region:\nATP Electronics Inc. ( Germany ) Kingston Corporation ( United States ) KIOXIA Corporation ( Japan ) Lexar International Micron Consumer Products Group, Inc. ( United States ) Panasonic Corporation ( Japan ) Phison Electronics Co. ( Taiwan ) Samsung Electronics Co, Ltd. SanDisk Corporation Silicon Motion, Inc. ( United States ) Tuxera Ltd. ( Finland )\n\nMeeting structure\nThe SDA meets quarterly to review spec developments and promotion planning. Meetings provide a venue for SDA members to receive updates on SDA activities and an opportunity to update SD specifications and standards.\nGeneral Assembly Meetings are held bi-annually (spring and fall). General assembly events include an open plenary session in which members receive updates about SDA activities followed by speakers from the industry or market analysts. The committees hold working sessions after the plenary sessions. The board meeting is held after all plenary and committee meetings.\nThe SDA also organizes interim face-to-face meetings twice a year (summer and winter) where the various committees and the board of directors meet. Additional meetings held by the SDA include interoperability events, global workshops. The SDA also participates in trade shows and industry events.\n\nCurrent leadership\nSD Card Association President: Yosi Pinto, SanDisk Corporation Board of Directors Chairman: Yosi Pinto, SanDisk Corporation Treasurer: Bo Li, Western Digital Secretary: Thom Denholm, Tuxera Technical Committee Chair: Rotem Sela, SanDisk Corporation Marketing Committee Chair: Kazunori Nakano, Toshiba Corporation Compliance Committee Chairs: Minoru Ohara, Allion Labs, Inc., Hiroshi Noda, Canon Inc .\n\nSee also\nSecure Digital slotMusic CompactFlash Association (CFA)\n\nExternal links\nOfficial website SD Association on LinkedIn"
+  },
+  "references": [
+    {
+      "url": "http://www.sandisk.com/about-sandisk/press-room/press-releases/2000/2000-01-06-matsushita-electric,-sandisk-and-toshiba-to-form-sd-association-to-promote-next-generation-sd-memory-card/",
+      "label": "\"Matsushita Electric, SanDisk And Toshiba To Form SD Association To Promote Next Generation SD Memory Card\""
+    },
+    {
+      "url": "http://www.hughsnews.ca/sd-association-celebrates-10-years-00970",
+      "label": "\"SD Association Celebrates 10 Years\""
+    },
+    {
+      "url": "https://www.techradar.com/news/launch-of-new-sd-express-cards-kicks-off-memory-card-format-war",
+      "label": "\"Launch of new SD Express cards kicks off memory card format war\""
+    },
+    {
+      "url": "https://www.manilatimes.net/2021/06/05/opinion/columns/smartmatics-worm-sd-card-can-be-altered/1801958",
+      "label": "\"Smartmatic's WORM SD card can be altered\""
+    },
+    {
+      "url": "https://www.theverge.com/2019/5/24/18638539/huawei-microsd-card-sd-association-us-trump-ban",
+      "label": "\"Huawei can't officially use microSD cards in its phones going forward\""
+    },
+    {
+      "url": "http://www.prnewswire.com/news-releases/sd-leads-flash-memory-industry-into-2004-dominating-market-share-at-418-percent-58804567.html",
+      "label": "\"SD Leads Flash Memory Industry Into 2004 Dominating Market Share at 41.8 Percent\""
+    },
+    {
+      "url": "https://www.businesswire.com/news/home/20200121005090/en/SD-microSD-Memory-Cards---the-World%E2%80%99s-First-Choice-in-Memory-Cards---20-Years-of-Innovation",
+      "label": "\"SD & microSD Memory Cards - the World's First Choice in Memory Cards - 20 Years of Innovation\""
+    },
+    {
+      "url": "https://www.sdcard.org/downloads/pls/index.html",
+      "label": "\"Simplified Specifications\""
+    },
+    {
+      "url": "http://www.nfcworld.com/2014/09/23/331591/sd-association-adds-support-transferjet-communications/",
+      "label": "\"SD Association adds support for TransferJet communications\""
+    },
+    {
+      "url": "https://www.sdcard.org/developers/overview/index.html",
+      "label": "\"SD Standard Overview\""
+    },
+    {
+      "url": "http://www.sandisk.com/about-sandisk/press-room/press-releases/2000/2000-04-20-sd-association-gains-momentum,-86-firms-attend-sda-meeting-and-name-first-board-of-directors/",
+      "label": "\"SD Association Gains Momentum, 86 Firms Attend SDA Meeting And Name First Board Of Directors\""
+    },
+    {
+      "url": "http://www.prnewswire.com/news-releases/sd-memory-card---a-growing-presence-in-wireless-communications-72157317.html",
+      "label": "\"SD Memory Card - A Growing Presence in Wireless Communications\""
+    },
+    {
+      "url": "http://www.letsgodigital.org/en/news/articles/story_3718.html",
+      "label": "\"SD Card Association approves microSD specification\""
+    },
+    {
+      "url": "http://www.dpreview.com/articles/3126043346/sdxc",
+      "label": "\"SDXC expands SD into Terabyte territory\""
+    },
+    {
+      "url": "https://www.toshiba.com/taec/news/press_releases/2009/memy_09_572.jsp",
+      "label": "\"Toshiba Launches First 64GB SDXC CARD\""
+    },
+    {
+      "url": "https://www.cnet.com/news/triple-speed-sd-card-standard-finalized/",
+      "label": "\"SD Card Standard Finalized\""
+    },
+    {
+      "url": "https://www.tweaktown.com/news/33757/the-sd-association-announces-new-uhs-speed-class-3-for-sd-cards/index.html",
+      "label": "\"The SD Association announces new UHS Speed Class 3 for SD cards\""
+    },
+    {
+      "url": "http://www.imaging-resource.com/news/2016/03/02/sd-association-unveils-new-video-speed-class-ratings-even-faster-flash-card",
+      "label": "\"SD Association unveils new Video Speed Class ratings, even faster flash cards\""
+    },
+    {
+      "url": "https://gizmodo.com/new-sd-cards-will-support-360-3d-and-8k-video-at-up-to-1762840102",
+      "label": "\"New SD Cards Will Support 360, 3D, and 8K Video at up to 90MBps\""
+    },
+    {
+      "url": "https://www.androidcentral.com/latest-sd-spec-will-help-you-identify-if-your-card-can-store-apps",
+      "label": "\"SD 5.1 spec will help you identify if your card can handle apps with new 'A1' badge\""
+    },
+    {
+      "url": "http://bgr.com/2016/11/23/android-microsd-cards-a1/",
+      "label": "\"Buying microSD cards for your phone just got a lot easier\""
+    },
+    {
+      "url": "https://techaeris.com/2017/03/13/uhs-iii-and-a2-brings-ludicrous-speed-to-sd-cards/",
+      "label": "\"UHS-III and A2 brings ludicrous speed to SD cards\""
+    },
+    {
+      "url": "https://web.archive.org/web/20170311215831/http://www.anandtech.com/show/11171/sd-association-uhs-iii-a2-class-lv-signaling",
+      "label": "\"SD Association Announces UHS-III (up to 624 MB/s), A2 Class, LV Signaling\""
+    },
+    {
+      "url": "https://www.anandtech.com/show/11171/sd-association-uhs-iii-a2-class-lv-signaling",
+      "label": "the original"
+    },
+    {
+      "url": "https://petapixel.com/2017/02/25/uhs-iii-sd-card-standard-announced-maxes-insane-624mbs/",
+      "label": "\"UHS-III SD Card Standard Announced, Maxes Out at an Insane 624MB/s\""
+    },
+    {
+      "url": "https://www.theverge.com/2018/6/28/17514660/sd-card-128tb-storage",
+      "label": "\"SD cards could soon hold 128TB of storage\""
+    },
+    {
+      "url": "https://www.businesswire.com/news/home/20200519005027/en/SD-Express-Delivers-New-Gigabyte-Speeds-for-SD-Memory-Cards",
+      "label": "\"SD Express Delivers New Gigabyte Speeds for SD Memory Cards\""
+    },
+    {
+      "url": "https://www.forbes.com/sites/davealtavilla/2018/06/28/your-sd-memory-card-just-got-faster-and-bigger-thanks-to-new-sd-express-standard/#271207eb5567",
+      "label": "\"Your SD Memory Card Just Got Faster And Bigger Thanks To The New SD Express Standard\""
+    },
+    {
+      "url": "https://petapixel.com/2018/06/27/sduc-express-memory-cards-to-allow-128tb-storage-and-985mb-s-speed/",
+      "label": "\"SDUC Express Memory Cards to Allow 128TB Storage and 985MB/s Speed\""
+    },
+    {
+      "url": "https://web.archive.org/web/20180728221425/https://www.anandtech.com/show/13028/sd-association-announces-sd-70-spec-sd-express-interface-up-to-985-mbs",
+      "label": "\"SD Association Announces SD 7.0 Spec & SD Express Interface: PCIe + NVMe, Up to 985 MB/s\""
+    },
+    {
+      "url": "https://www.anandtech.com/show/13028/sd-association-announces-sd-70-spec-sd-express-interface-up-to-985-mbs",
+      "label": "the original"
+    },
+    {
+      "url": "https://www.theverge.com/circuitbreaker/2019/2/25/18239558/microsd-express-sd-association-new-format-speed-faster-mwc-2019-data-transfer",
+      "label": "\"Memory cards are about to get much faster with new microSD Express spec\""
+    },
+    {
+      "url": "https://www.pcworld.com/article/3343067/the-microsd-express-standard-combines-pci-express-speeds-microsd-convenience.html",
+      "label": "\"The microSD Express standard combines PCI Express speeds, microSD convenience\""
+    },
+    {
+      "url": "https://www.businesswire.com/news/home/20231019426797/en/microSD-Express-Doubles-Speeds-New-SD-Express-Speed-Classes-Introduced",
+      "label": "\"microSD Express Doubles Speeds, New SD Express Speed Classes Introduced\""
+    },
+    {
+      "url": "https://www.sdcard.org/about_sda/member_companies/exec/index.html",
+      "label": "\"Executive Board\""
+    },
+    {
+      "url": "https://www.sdcard.org/about_sda/member_companies/board/index.html",
+      "label": "\"Board\""
+    }
+  ],
+  "outgoing_links": [
+    {
+      "title": "360-degree video",
+      "url": "https://en.wikipedia.org/wiki/360-degree_video"
+    },
+    {
+      "title": "3GPP",
+      "url": "https://en.wikipedia.org/wiki/3GPP"
+    },
+    {
+      "title": "ATP Electronics",
+      "url": "https://en.wikipedia.org/wiki/ATP_Electronics"
+    },
+    {
+      "title": "AUTOSAR",
+      "url": "https://en.wikipedia.org/wiki/AUTOSAR"
+    },
+    {
+      "title": "Accellera",
+      "url": "https://en.wikipedia.org/wiki/Accellera"
+    },
+    {
+      "title": "Alpine Electronics",
+      "url": "https://en.wikipedia.org/wiki/Alpine_Electronics"
+    },
+    {
+      "title": "Association for Standardisation of Automation and Measuring Systems",
+      "url": "https://en.wikipedia.org/wiki/Association_for_Standardisation_of_Automation_and_Measuring_Systems"
+    },
+    {
+      "title": "Backward compatibility",
+      "url": "https://en.wikipedia.org/wiki/Backward_compatibility"
+    },
+    {
+      "title": "Bluetooth Special Interest Group",
+      "url": "https://en.wikipedia.org/wiki/Bluetooth_Special_Interest_Group"
+    },
+    {
+      "title": "Broadband Forum",
+      "url": "https://en.wikipedia.org/wiki/Broadband_Forum"
+    },
+    {
+      "title": "Canon Inc",
+      "url": "https://en.wikipedia.org/wiki/Canon_Inc"
+    },
+    {
+      "title": "CompactFlash Association",
+      "url": "https://en.wikipedia.org/wiki/CompactFlash_Association"
+    },
+    {
+      "title": "Compaq",
+      "url": "https://en.wikipedia.org/wiki/Compaq"
+    },
+    {
+      "title": "Connectivity Standards Alliance",
+      "url": "https://en.wikipedia.org/wiki/Connectivity_Standards_Alliance"
+    },
+    {
+      "title": "DMTF",
+      "url": "https://en.wikipedia.org/wiki/DMTF"
+    },
+    {
+      "title": "Ecma International",
+      "url": "https://en.wikipedia.org/wiki/Ecma_International"
+    },
+    {
+      "title": "European Telecommunications Standards Institute",
+      "url": "https://en.wikipedia.org/wiki/European_Telecommunications_Standards_Institute"
+    },
+    {
+      "title": "File system",
+      "url": "https://en.wikipedia.org/wiki/File_system"
+    },
+    {
+      "title": "Finland",
+      "url": "https://en.wikipedia.org/wiki/Finland"
+    },
+    {
+      "title": "Germany",
+      "url": "https://en.wikipedia.org/wiki/Germany"
+    },
+    {
+      "title": "IEEE Standards Association",
+      "url": "https://en.wikipedia.org/wiki/IEEE_Standards_Association"
+    },
+    {
+      "title": "International Electrotechnical Commission",
+      "url": "https://en.wikipedia.org/wiki/International_Electrotechnical_Commission"
+    },
+    {
+      "title": "International Organization for Standardization",
+      "url": "https://en.wikipedia.org/wiki/International_Organization_for_Standardization"
+    },
+    {
+      "title": "International Telecommunication Union",
+      "url": "https://en.wikipedia.org/wiki/International_Telecommunication_Union"
+    },
+    {
+      "title": "Internet Engineering Task Force",
+      "url": "https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force"
+    },
+    {
+      "title": "JEDEC",
+      "url": "https://en.wikipedia.org/wiki/JEDEC"
+    },
+    {
+      "title": "Japan",
+      "url": "https://en.wikipedia.org/wiki/Japan"
+    },
+    {
+      "title": "Khronos Group",
+      "url": "https://en.wikipedia.org/wiki/Khronos_Group"
+    },
+    {
+      "title": "Kingston Technology",
+      "url": "https://en.wikipedia.org/wiki/Kingston_Technology"
+    },
+    {
+      "title": "Kioxia",
+      "url": "https://en.wikipedia.org/wiki/Kioxia"
+    },
+    {
+      "title": "LG Electronics",
+      "url": "https://en.wikipedia.org/wiki/LG_Electronics"
+    },
+    {
+      "title": "Lexar",
+      "url": "https://en.wikipedia.org/wiki/Lexar"
+    },
+    {
+      "title": "LinkedIn",
+      "url": "https://en.wikipedia.org/wiki/LinkedIn"
+    },
+    {
+      "title": "List of technical standard organizations",
+      "url": "https://en.wikipedia.org/wiki/List_of_technical_standard_organizations"
+    },
+    {
+      "title": "MB/s",
+      "url": "https://en.wikipedia.org/wiki/MB%2Fs"
+    },
+    {
+      "title": "MIPI Alliance",
+      "url": "https://en.wikipedia.org/wiki/MIPI_Alliance"
+    },
+    {
+      "title": "Megabyte",
+      "url": "https://en.wikipedia.org/wiki/Megabyte"
+    },
+    {
+      "title": "Micron Technology",
+      "url": "https://en.wikipedia.org/wiki/Micron_Technology"
+    },
+    {
+      "title": "Nonprofit organization",
+      "url": "https://en.wikipedia.org/wiki/Nonprofit_organization"
+    },
+    {
+      "title": "OASIS Open",
+      "url": "https://en.wikipedia.org/wiki/OASIS_Open"
+    },
+    {
+      "title": "OPC Foundation",
+      "url": "https://en.wikipedia.org/wiki/OPC_Foundation"
+    },
+    {
+      "title": "Object Management Group",
+      "url": "https://en.wikipedia.org/wiki/Object_Management_Group"
+    },
+    {
+      "title": "Open Connectivity Foundation",
+      "url": "https://en.wikipedia.org/wiki/Open_Connectivity_Foundation"
+    },
+    {
+      "title": "Open Geospatial Consortium",
+      "url": "https://en.wikipedia.org/wiki/Open_Geospatial_Consortium"
+    },
+    {
+      "title": "Open Grid Forum",
+      "url": "https://en.wikipedia.org/wiki/Open_Grid_Forum"
+    },
+    {
+      "title": "Open Mobile Alliance",
+      "url": "https://en.wikipedia.org/wiki/Open_Mobile_Alliance"
+    },
+    {
+      "title": "Optical Internetworking Forum",
+      "url": "https://en.wikipedia.org/wiki/Optical_Internetworking_Forum"
+    },
+    {
+      "title": "PCI-SIG",
+      "url": "https://en.wikipedia.org/wiki/PCI-SIG"
+    },
+    {
+      "title": "PCI Express",
+      "url": "https://en.wikipedia.org/wiki/PCI_Express"
+    },
+    {
+      "title": "PICMG",
+      "url": "https://en.wikipedia.org/wiki/PICMG"
+    },
+    {
+      "title": "Panasonic",
+      "url": "https://en.wikipedia.org/wiki/Panasonic"
+    },
+    {
+      "title": "Phison",
+      "url": "https://en.wikipedia.org/wiki/Phison"
+    },
+    {
+      "title": "RISC-V",
+      "url": "https://en.wikipedia.org/wiki/RISC-V"
+    },
+    {
+      "title": "Recording format",
+      "url": "https://en.wikipedia.org/wiki/Recording_format"
+    },
+    {
+      "title": "SD card",
+      "url": "https://en.wikipedia.org/wiki/SD_card"
+    },
+    {
+      "title": "Samsung Electronics Co., Ltd.",
+      "url": "https://en.wikipedia.org/wiki/Samsung_Electronics_Co.%2C_Ltd."
+    },
+    {
+      "title": "SanDisk",
+      "url": "https://en.wikipedia.org/wiki/SanDisk"
+    },
+    {
+      "title": "San Francisco",
+      "url": "https://en.wikipedia.org/wiki/San_Francisco"
+    },
+    {
+      "title": "San Ramon, California",
+      "url": "https://en.wikipedia.org/wiki/San_Ramon%2C_California"
+    },
+    {
+      "title": "Sandisk",
+      "url": "https://en.wikipedia.org/wiki/Sandisk"
+    },
+    {
+      "title": "Secure Digital",
+      "url": "https://en.wikipedia.org/wiki/Secure_Digital"
+    },
+    {
+      "title": "Silicon Motion",
+      "url": "https://en.wikipedia.org/wiki/Silicon_Motion"
+    },
+    {
+      "title": "SlotMusic",
+      "url": "https://en.wikipedia.org/wiki/SlotMusic"
+    },
+    {
+      "title": "Standards organization",
+      "url": "https://en.wikipedia.org/wiki/Standards_organization"
+    },
+    {
+      "title": "Taiwan",
+      "url": "https://en.wikipedia.org/wiki/Taiwan"
+    },
+    {
+      "title": "Taizo Nishimuro",
+      "url": "https://en.wikipedia.org/wiki/Taizo_Nishimuro"
+    },
+    {
+      "title": "The Open Group",
+      "url": "https://en.wikipedia.org/wiki/The_Open_Group"
+    },
+    {
+      "title": "Toshiba",
+      "url": "https://en.wikipedia.org/wiki/Toshiba"
+    },
+    {
+      "title": "Trusted Computing Group",
+      "url": "https://en.wikipedia.org/wiki/Trusted_Computing_Group"
+    },
+    {
+      "title": "Tuxera",
+      "url": "https://en.wikipedia.org/wiki/Tuxera"
+    },
+    {
+      "title": "UEFI Forum",
+      "url": "https://en.wikipedia.org/wiki/UEFI_Forum"
+    },
+    {
+      "title": "USB Implementers Forum",
+      "url": "https://en.wikipedia.org/wiki/USB_Implementers_Forum"
+    },
+    {
+      "title": "Unicode Consortium",
+      "url": "https://en.wikipedia.org/wiki/Unicode_Consortium"
+    },
+    {
+      "title": "United States",
+      "url": "https://en.wikipedia.org/wiki/United_States"
+    },
+    {
+      "title": "Video Electronics Standards Association",
+      "url": "https://en.wikipedia.org/wiki/Video_Electronics_Standards_Association"
+    },
+    {
+      "title": "Web3D Consortium",
+      "url": "https://en.wikipedia.org/wiki/Web3D_Consortium"
+    },
+    {
+      "title": "Western Digital",
+      "url": "https://en.wikipedia.org/wiki/Western_Digital"
+    },
+    {
+      "title": "Wi-Fi Alliance",
+      "url": "https://en.wikipedia.org/wiki/Wi-Fi_Alliance"
+    },
+    {
+      "title": "Wireless LAN",
+      "url": "https://en.wikipedia.org/wiki/Wireless_LAN"
+    },
+    {
+      "title": "World Wide Web Consortium",
+      "url": "https://en.wikipedia.org/wiki/World_Wide_Web_Consortium"
+    },
+    {
+      "title": "XMPP Standards Foundation",
+      "url": "https://en.wikipedia.org/wiki/XMPP_Standards_Foundation"
+    }
+  ]
+}
