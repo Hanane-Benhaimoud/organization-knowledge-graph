@@ -19,3 +19,5 @@ logs/
 *.log
 *.tmp
 
+data/embeddings/
+data/enriched_rag/
