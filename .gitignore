@@ -18,3 +18,5 @@ data/pipeline/
 logs/
 *.log
 *.tmp
+
+app.py
