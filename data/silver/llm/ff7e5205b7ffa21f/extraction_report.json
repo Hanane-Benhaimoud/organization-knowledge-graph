@@ -4,12 +4,12 @@
   "chunks_total": 2315,
   "new_calls": 50,
   "new_responses": 50,
-  "cached_responses": 1313,
-  "chunks_validated": 1363,
-  "accepted_relations": 1605,
-  "rejected_relations": 236,
+  "cached_responses": 1935,
+  "chunks_validated": 1985,
+  "accepted_relations": 2356,
+  "rejected_relations": 334,
   "error": null,
   "aggregate_files_updated": true,
-  "chunks_not_validated": 952,
-  "finished_at": "2026-11-01T18:13:25.724012+00:00"
+  "chunks_not_validated": 330,
+  "finished_at": "2026-11-02T01:32:24.655083+00:00"
 }
